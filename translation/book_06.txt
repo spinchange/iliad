@@ -1,0 +1,794 @@
+BOOK 6
+
+Hector in Troy: Glaucus and Diomedes trade armor on the field; Hector and
+Andromache at the Scaean Gates.
+
+TRANSLATOR'S COMMENTARY
+
+Book 6 is the poem's great turn inward: the battle continues offstage while
+Hector walks through his city — mother, brother, sister-in-law, wife, son —
+and every meeting is a farewell taken in advance. The book's engineering is
+visible and unbearable at once: Athena refuses Troy's prayer in a single
+line ("But Pallas Athena turned her head away," 311 — athetized by
+Aristarchus, kept here as the bleakest line in the poem), Hector answers
+Andromache's plea with the same verbatim prophecy Agamemnon spoke as a
+threat in Book 4 ("the day will come when holy Ilion shall perish," 448-449
+— an echo the translation reproduces word for word), and the household
+mourns Hector alive before he has died (500-502). Against all this the
+poem sets its one scene of family comedy — the baby screaming at his
+father's helmet crest, and both parents laughing (466-474).
+
+The Glaucus-Diomedes encounter (119-236) — which some ancient critics
+wanted to transpose elsewhere in the poem (note [6]) — carries the book's
+other cargo: the generation-of-leaves simile, the Bellerophon story with
+the poem's only reference to writing (the "baneful signs... in a folded
+tablet," note [10]), and the guest-friendship that stops a duel and ends
+in the proverbial exchange of gold armor for bronze.
+
+Two register events. First, the δμώς policy adopted from the Odyssey
+project goes live: δμῳαί is rendered "slave-women" at its first
+occurrences (6.323, 375-376, note [21]), with ἀμφίπολος "handmaid" and
+ταμίη "housekeeper" kept distinct — the vocabulary of the household the
+book itself is about, in the book where Hector imagines Andromache's "day
+of slavery" (463). Second, Agamemnon's atrocity-counsel at 55-60 (kill
+even the unborn) is followed by the narrator's much-disputed half-line
+"for his urging was of things due" (αἴσιμα παρειπών) — translated at face
+value and flagged in note [3], where the interpretive dispute belongs.
+
+------------------------------------------------------------
+
+   1  So the dread din of Trojans and Achaeans was left to itself;
+   2  and this way and that the battle swayed across the plain
+   3  as they aimed their bronze-pointed spears at one another,
+   4  midway between the streams of Simois and Xanthus.
+
+   5  Ajax first, Telamon's son, wall of the Achaeans,
+   6  broke a Trojan company and made light for his companions,
+   7  striking the man who was best among the Thracians,
+   8  Acamas, Eussorus' son, tall and brave.
+   9  He struck him first on the ridge of his horsehair helmet,
+  10  and the bronze point fixed in his forehead and drove
+  11  inside the bone; and darkness covered his eyes.
+  12  And Diomedes, good at the war-cry, killed Axylus,
+  13  Teuthras' son, who lived in well-built Arisbe,
+  14  a man rich in substance, and a friend to all mankind:[1]
+  15  living in his house by the road, he welcomed all comers.
+  16  But not one of them stood before him then to beat off wretched destruction,
+  17  meeting the enemy for him; Diomedes took the life of both,
+  18  the man himself and his aide Calesius, who was then
+  19  his charioteer; and the two of them went under the earth.
+  20  And Euryalus killed Dresus and Opheltius,
+  21  and went after Aesepus and Pedasus, whom once the water-nymph
+  22  Abarbarea bore to blameless Bucolion.
+  23  Bucolion was proud Laomedon's son,[2]
+  24  eldest born, though his mother bore him in darkness:
+  25  shepherding his flocks he lay with the nymph in love,
+  26  and she conceived, and bore him twin sons —
+  27  and Mecisteus' son unstrung the strength and the shining limbs
+  28  of both, and stripped the armor from their shoulders.
+  29  And Polypoetes steadfast in battle killed Astyalus;
+  30  and Odysseus cut down Pidytes of Percote
+  31  with his bronze spear, and Teucer brilliant Aretaon.
+  32  Antilochus, Nestor's son, took Ablerus with his shining spear,
+  33  and the lord of men Agamemnon took Elatus,
+  34  who lived by the banks of fair-flowing Satnioeis
+  35  in steep Pedasus. And the hero Leïtus caught Phylacus
+  36  as he ran; and Eurypylus cut down Melanthius.
+
+  37  Then Menelaus, good at the war-cry, took Adrestus
+  38  alive: for his two horses, bolting across the plain,
+  39  fouled in a tamarisk branch, snapped the curved chariot
+  40  at the pole's tip, and themselves ran on
+  41  toward the city, where the rest were bolting in panic,
+  42  while he rolled from the car beside the wheel,
+  43  face-down in the dust on his mouth. And beside him stood
+  44  Atreus' son Menelaus, holding his long-shadowed spear.
+  45  Then Adrestus clasped his knees and begged him:
+  46  "Take me alive, son of Atreus — and take a worthy ransom.
+  47  Many treasures lie stored in my rich father's house,
+  48  bronze, and gold, and iron worked with much labor:
+  49  out of these my father would gladden you with ransom past counting
+  50  if he learned I was alive by the ships of the Achaeans."
+  51  So he spoke, and was moving the heart in his chest;
+  52  and soon he would have given him to his aide to lead down
+  53  to the Achaeans' swift ships. But Agamemnon
+  54  came running to meet him, and cried out his word:
+  55  "Soft-hearted Menelaus! Why do you care so tenderly
+  56  for men? Were such fine things done in your house
+  57  by Trojans? Let not one of them escape sheer destruction
+  58  and our hands — not even the boy his mother carries
+  59  in her womb, not even he: let all of them together
+  60  perish out of Ilion, unmourned, and leave no trace."
+  61  So speaking the hero turned his brother's mind,
+  62  for his urging was of things due; and Menelaus pushed[3]
+  63  the hero Adrestus back with his hand, and the lord Agamemnon
+  64  stabbed him in the flank; he doubled over, and Atreus' son
+  65  set a heel on his chest and pulled out the ash spear.
+  66  Then Nestor called to the Argives with a far-carrying shout:
+  67  "Friends, Danaan heroes, squires of Ares —
+  68  let no man now hang back for spoils,
+  69  to reach the ships carrying the biggest load:
+  70  let us kill men. Afterward, at your ease,
+  71  you will strip the corpses dead across the plain."
+  72  So speaking he stirred the fury and heart of every man.
+
+  73  Then once more the Trojans, under the Achaeans dear to Ares,
+  74  would have climbed back into Ilion, broken by their own cowardice,
+  75  had not Helenus, Priam's son, far the best of bird-readers,[4]
+  76  come and stood by Aeneas and Hector:
+  77  "Aeneas and Hector — since on you two above all rests
+  78  the labor of the Trojans and Lycians, because for every venture
+  79  you are the best men, for fighting and for counsel:
+  80  make your stand here; go everywhere and hold the army
+  81  before the gates, before they run and fall
+  82  into their women's arms, and become a joy to our enemies.
+  83  Then, when you have set all the companies moving,
+  84  we will hold here and fight the Danaans,
+  85  hard-pressed though we are: necessity drives.
+  86  But you, Hector — go to the city, and speak there
+  87  to your mother and mine: let her gather the older women
+  88  at grey-eyed Athena's temple on the city's height,
+  89  and open with her key the doors of the holy house,
+  90  and the robe that seems to her the loveliest and amplest
+  91  in the hall, and far the dearest to herself,
+  92  let her lay it on the knees of lovely-haired Athena,[5]
+  93  and vow to sacrifice to her in the temple twelve heifers,
+  94  yearlings, never goaded, if she will pity
+  95  the town, and the Trojans' wives, and their little children —
+  96  if she will hold back Tydeus' son from holy Ilion,
+  97  that wild spearman, that strong deviser of rout,
+  98  who I say has proved the strongest of the Achaeans.
+  99  Not even Achilles, that leader of men, ever made us fear so,
+ 100  who they say was born of a goddess; but this man
+ 101  rages beyond measure, and no one can match his fury."
+ 102  So he spoke, and Hector did not disobey his brother.
+ 103  At once he leapt in his armor from the chariot to the ground,
+ 104  and shaking his two sharp spears went everywhere through the army,
+ 105  driving men to fight, and woke the dread din of battle.
+ 106  And they wheeled about and stood to face the Achaeans;
+ 107  and the Argives gave ground and left off their killing:
+ 108  they thought some immortal had come down from the starry sky
+ 109  to stand by the Trojans, so suddenly they wheeled.
+ 110  And Hector called to the Trojans with a far-carrying shout:
+ 111  "High-hearted Trojans, and you far-famed allies —
+ 112  be men, my friends; remember your rushing courage,
+ 113  while I go up to Ilion and tell
+ 114  the elders of the council and our wives
+ 115  to pray to the divine ones, and vow them hecatombs."
+ 116  So speaking Hector of the flashing helmet went;
+ 117  and against his ankles and his neck the black oxhide beat,
+ 118  the rim that ran outermost on his bossed shield.
+
+ 119  Now Glaucus, Hippolochus' son, and Tydeus' son[6]
+ 120  came together in the space between, raging to fight.
+ 121  And when they were close, advancing on one another,
+ 122  Diomedes, good at the war-cry, spoke to him first:
+ 123  "Who are you, brave friend, of mortal men?
+ 124  I have never seen you in the battle where men win glory
+ 125  before this; yet now you have come out far in front of all
+ 126  in your daring, to stand my long-shadowed spear.
+ 127  Unhappy are the fathers whose sons face my fury!
+ 128  But if you are some immortal come down from the sky —
+ 129  I will not fight with heavenly gods.
+ 130  No — even Dryas' son, strong Lycurgus,[7]
+ 131  did not live long, who strove with heavenly gods:
+ 132  he once chased the nurses of raving Dionysus
+ 133  down the holy mountain of Nysa; and all together
+ 134  they flung their sacred wands to the ground, as man-slaughtering
+ 135  Lycurgus beat them with an ox-goad; and Dionysus in terror
+ 136  dived under the salt sea's wave, and Thetis took him,
+ 137  frightened, to her bosom: for a strong trembling held him
+ 138  at the man's shouting. But the gods who live at ease were angered
+ 139  at Lycurgus, and Cronos' son struck him blind; nor did he
+ 140  live long after, hated by all the immortal gods.
+ 141  I would not choose to fight the blessed gods.
+ 142  But if you are a mortal, one of those who eat the fruit of the field,
+ 143  come closer — and come the sooner to the borders of destruction."
+ 144  Then Hippolochus' shining son addressed him:
+ 145  "Great-hearted son of Tydeus — why ask my lineage?
+ 146  As the generation of leaves, so is the generation of men.[8]
+ 147  The wind pours some leaves to the ground, and others the forest
+ 148  grows in their fullness when the season of spring comes on:
+ 149  so with the generations of men — one grows, one dies away.
+ 150  But if you wish to hear even this, and to know
+ 151  my lineage — many men know it already:
+ 152  there is a city, Ephyra, in a fold of horse-pasturing Argos,
+ 153  and there lived Sisyphus, craftiest of men —[9]
+ 154  Sisyphus, Aeolus' son; and he fathered a son, Glaucus,
+ 155  and Glaucus fathered blameless Bellerophon.
+ 156  To him the gods gave beauty and lovely manhood;
+ 157  but Proetus plotted evil against him in his heart,
+ 158  and drove him out of the land of the Argives — being far
+ 159  the stronger: for Zeus had bowed them under his scepter.
+ 160  For Proetus' wife, brilliant Anteia, was mad
+ 161  to lie with him in secret love; but she could not
+ 162  move right-minded, war-minded Bellerophon.
+ 163  So she lied to King Proetus:
+ 164  'Die yourself, Proetus — or kill Bellerophon,
+ 165  who wanted to lie with me in love, and I unwilling.'
+ 166  So she spoke, and anger took hold of the king at what he heard.
+ 167  He shrank from killing him — his heart stood in awe of that —
+ 168  but he sent him to Lycia, and gave him baneful signs,
+ 169  scratching in a folded tablet many life-destroying marks,[10]
+ 170  and told him to show it to his wife's father: that he might perish.
+ 171  So he went to Lycia, under the gods' blameless escort.
+ 172  And when he came to Lycia and the flowing Xanthus,
+ 173  the lord of wide Lycia honored him with a ready heart:
+ 174  nine days he feasted him, and slaughtered nine oxen.
+ 175  But when the tenth rosy-fingered Dawn appeared,
+ 176  then he questioned him, and asked to see the token,
+ 177  whatever it was he brought from his son-in-law Proetus.
+ 178  And when he had received his son-in-law's evil token,
+ 179  first he ordered him to kill the raging Chimaera —
+ 180  a thing of divine stock, not of men:
+ 181  in front a lion, behind a serpent, in the middle a she-goat,
+ 182  breathing out the terrible fury of blazing fire.[11]
+ 183  And he killed her, trusting the portents of the gods.
+ 184  Second, he fought the far-famed Solymi:
+ 185  the hardest battle of men, he said, he ever entered.
+ 186  Third, he cut down the Amazons, the match of men.
+ 187  And as he came back the king wove him another close-set trap:
+ 188  choosing the best men out of wide Lycia
+ 189  he set an ambush; and they never came home again —
+ 190  blameless Bellerophon killed them all.
+ 191  But when the king came to know he was the brave son of a god,
+ 192  he kept him there, and gave him his daughter,
+ 193  and gave him half of all his kingly honor;
+ 194  and the Lycians cut him a precinct beyond all others,
+ 195  fine land for orchard and plowland, to enjoy.
+ 196  And she bore three children to war-minded Bellerophon:
+ 197  Isander, and Hippolochus, and Laodameia.
+ 198  By Laodameia Zeus the counselor lay,
+ 199  and she bore godlike Sarpedon of the bronze helmet.
+ 200  But when even Bellerophon came to be hated by all the gods,
+ 201  he wandered alone across the Aleian plain,
+ 202  eating out his heart, shunning the trodden paths of men;[12]
+ 203  and his son Isander was killed by Ares insatiate of war
+ 204  as he fought the far-famed Solymi;
+ 205  and his daughter — Artemis of the golden reins killed her in anger.
+ 206  But Hippolochus fathered me: from him I claim my birth.
+ 207  He sent me to Troy, and he charged me strictly
+ 208  always to be the best, and to hold my head above all others,
+ 209  and not to shame the stock of my fathers, who were far the best
+ 210  in Ephyra, and in wide Lycia.
+ 211  Of this lineage and this blood I claim to be."
+ 212  So he spoke; and Diomedes, good at the war-cry, rejoiced.
+ 213  He planted his spear in the earth that feeds so many
+ 214  and spoke with honeyed words to the shepherd of the people:
+ 215  "Why — then you are my guest-friend from our fathers' time![13]
+ 216  For brilliant Oeneus once entertained blameless
+ 217  Bellerophon in his halls, and kept him twenty days;
+ 218  and they gave one another fine gifts of friendship:
+ 219  Oeneus gave a war-belt bright with crimson,
+ 220  and Bellerophon a golden two-handled cup —
+ 221  I left it in my house when I came away.
+ 222  Tydeus I do not remember: I was still small
+ 223  when he left me, that time the Achaean host perished at Thebes.
+ 224  So now I am your dear guest-friend in the heart of Argos,
+ 225  and you are mine in Lycia, whenever I come to that country.
+ 226  Let us keep clear of each other's spears, even in the crush:
+ 227  there are Trojans enough for me, and famed allies,
+ 228  to kill whomever a god delivers and my feet overtake,
+ 229  and Achaeans enough for you, to cut down whom you can.
+ 230  And let us exchange armor with each other, so that these men too
+ 231  may know we claim to be guest-friends from our fathers' time."
+ 232  So the two spoke, and leapt down from their chariots
+ 233  and took each other's hands and pledged their faith.
+ 234  And then Zeus, Cronos' son, took Glaucus's wits away:
+ 235  he exchanged with Tydeus' son Diomedes armor
+ 236  of gold for bronze — a hundred oxen's worth for nine.[14]
+
+ 237  Now when Hector came to the Scaean Gates and the oak,[15]
+ 238  the Trojans' wives and daughters came running around him,
+ 239  asking after sons and brothers and kinsmen
+ 240  and husbands. And he told them to pray to the gods,
+ 241  all of them, one after another: griefs hung over many.
+ 242  But when he came to Priam's beautiful palace,
+ 243  built with polished colonnades — and in it
+ 244  were fifty chambers of polished stone,[16]
+ 245  built close by one another, where the sons
+ 246  of Priam slept beside their wedded wives,
+ 247  and for the daughters, opposite, within the court,
+ 248  were twelve roofed chambers of polished stone,
+ 249  built close by one another, where the sons-in-law
+ 250  of Priam slept beside their honored wives —
+ 251  there his gentle-giving mother came to meet him,
+ 252  leading in Laodice, loveliest of her daughters;
+ 253  and she clung to his hand, and spoke a word, and named him:
+ 254  "Child, why have you left the bold fighting and come here?
+ 255  Surely they are wearing you down — those cursed sons
+ 256  of the Achaeans, fighting around the town — and your heart sent you
+ 257  here, to lift your hands to Zeus from the city's height.
+ 258  But wait while I bring you honey-sweet wine,
+ 259  to pour first to father Zeus and the other immortals,
+ 260  and then to do yourself good, if you will drink.
+ 261  Wine greatly swells the strength of a wearied man —
+ 262  and you are wearied with defending your kinsmen."
+ 263  Then great Hector of the flashing helmet answered her:
+ 264  "Bring me no wine, honey-hearted lady mother,
+ 265  or you may unstring my limbs and I forget my courage.
+ 266  And I shrink from pouring gleaming wine to Zeus[17]
+ 267  with unwashed hands: a man spattered with blood and filth
+ 268  cannot pray to the son of Cronos, lord of the dark cloud.
+ 269  No — you go to the temple of Athena, driver of the spoil,
+ 270  with burnt offerings, when you have gathered the older women,
+ 271  and the robe that is loveliest and amplest
+ 272  in the hall, and far the dearest to yourself,
+ 273  lay it on the knees of lovely-haired Athena,
+ 274  and vow to sacrifice to her in the temple twelve heifers,
+ 275  yearlings, never goaded, if she will pity
+ 276  the town, and the Trojans' wives, and their little children —
+ 277  if she will hold back Tydeus' son from holy Ilion,
+ 278  that wild spearman, that strong deviser of rout.
+ 279  So go to the temple of Athena, driver of the spoil;
+ 280  and I will go after Paris, to summon him,
+ 281  if he is willing to hear me speak. May the earth gape for him
+ 282  where he stands! The Olympian reared him as a great affliction
+ 283  to the Trojans, and to great-hearted Priam, and Priam's sons.
+ 284  If I could see that man gone down into Hades' house,
+ 285  I could say my heart had forgotten its joyless misery."
+ 286  So he spoke; and she went to the hall and called
+ 287  her handmaids, and they gathered the older women through the city.
+ 288  She herself went down to the fragrant storeroom
+ 289  where her robes were kept, the richly patterned work of women
+ 290  of Sidon, whom godlike Alexandros himself[18]
+ 291  brought from Sidon, sailing the wide sea,
+ 292  on that voyage on which he carried home high-born Helen.
+ 293  Of these Hecuba took one to carry as gift to Athena,
+ 294  the one that was loveliest in its patterning, and amplest,
+ 295  and it shone like a star; it lay beneath all the others.
+ 296  Then she set out, and the many older women hurried after.
+ 297  And when they came to Athena's temple on the city's height,
+ 298  fair-cheeked Theano opened the doors for them,
+ 299  Cisseus' daughter, wife of Antenor, breaker of horses,
+ 300  whom the Trojans had made priestess of Athena.[19]
+ 301  With a wailing cry they all lifted their hands to Athena;
+ 302  and fair-cheeked Theano took the robe
+ 303  and laid it on the knees of lovely-haired Athena,
+ 304  and vowing she prayed to the daughter of great Zeus:
+ 305  "Lady Athena, guardian of the city, brilliant among goddesses:
+ 306  break now the spear of Diomedes, and grant
+ 307  that the man himself fall on his face before the Scaean Gates,
+ 308  and we will sacrifice to you at once, here in the temple,
+ 309  twelve heifers, yearlings, never goaded, if you will pity
+ 310  the town, and the Trojans' wives, and their little children."
+ 311  So she spoke, vowing. But Pallas Athena turned her head away.[20]
+
+ 312  So they were praying to the daughter of great Zeus;
+ 313  and Hector had gone to the house of Alexandros,
+ 314  the beautiful house he had built himself with the men
+ 315  who were then the best builders in deep-soiled Troy:
+ 316  they had made him a chamber and a hall and a courtyard
+ 317  close by Priam and Hector, on the city's height.
+ 318  There Hector entered, dear to Zeus, and in his hand
+ 319  he held a spear eleven cubits long; and before him the bronze
+ 320  point of the shaft shone, and a ring of gold ran round it.
+ 321  He found Paris in the chamber busy with his beautiful armor,
+ 322  the shield and the corslet, and handling his curved bow;
+ 323  and Argive Helen sat among her slave-women,[21]
+ 324  directing her handmaids in their famous work.
+ 325  And seeing him Hector raked him with shaming words:
+ 326  "Strange man — it is not decent to nurse this anger in your heart.
+ 327  The people are dying around the city and the steep wall
+ 328  as they fight; and it is for your sake that the war-cry and the war
+ 329  burn around this town. You would quarrel yourself
+ 330  with any man you saw hanging back from hateful war.
+ 331  Up — before the town is warmed by the enemy's fire!"
+ 332  And godlike Alexandros answered him:
+ 333  "Hector, you rake me justly, not more than justly;
+ 334  so I will tell you — and you mark me, and hear me out.
+ 335  It was not so much anger at the Trojans, or resentment,
+ 336  that kept me sitting in my chamber: I wanted to give in to grief.
+ 337  But just now my wife, coaxing me with soft words,
+ 338  urged me back to the war; and it seems even to me
+ 339  that it will be better so. Victory shifts from man to man.
+ 340  Come then, wait while I put on the gear of Ares —
+ 341  or go, and I will follow: I think I shall overtake you."
+ 342  So he spoke; and Hector of the flashing helmet answered him nothing.
+ 343  But Helen spoke to Hector with honeyed words:
+ 344  "Brother — brother of me, the dog, the evil-scheming horror:[22]
+ 345  how I wish that on the day my mother first bore me
+ 346  some foul storm of wind had carried me off
+ 347  to a mountain, or into the wave of the loud-roaring sea,
+ 348  where the wave would have swept me away before all this was done.
+ 349  But since the gods ordained these evils so,
+ 350  then I wish I had been wife to a better man,
+ 351  one who felt the world's anger and the long reproaches of men.
+ 352  But this one — his wits are not steady now, and never
+ 353  will be; and I think he will reap the harvest of it.
+ 354  But come in now, brother, and sit on this chair,
+ 355  since the labor rings your heart above all others' —
+ 356  for the sake of me, the dog, and for Alexandros's blindness:
+ 357  on whom Zeus has set an evil doom, so that hereafter
+ 358  we may be subjects of song for men still to come."[23]
+ 359  Then great Hector of the flashing helmet answered her:
+ 360  "Do not seat me, Helen, though you love me. You will not persuade me.
+ 361  Already my heart is driving me to stand by
+ 362  the Trojans, who feel their great longing for me gone.
+ 363  No — you rouse this man, and let him hurry himself,
+ 364  so he may catch me still inside the city.
+ 365  For I am going home first, to see
+ 366  my household, and my dear wife, and my little son:
+ 367  I do not know if I shall come back to them again,
+ 368  or whether the gods will break me now under Achaean hands."
+ 369  So speaking Hector of the flashing helmet went.
+ 370  And quickly he came to his well-settled house —
+ 371  but he did not find white-armed Andromache in the hall:
+ 372  she had gone with the child and one fair-robed handmaid
+ 373  and stood on the tower, weeping and mourning.
+ 374  When Hector did not find his blameless wife within,
+ 375  he stopped on the threshold and spoke among the slave-women:
+ 376  "Come, slave-women, tell me the truth of it:
+ 377  where has white-armed Andromache gone from the hall?
+ 378  To one of my sisters, or my brothers' fair-robed wives?
+ 379  Or out to Athena's temple, where the other
+ 380  lovely-braided women of Troy are appeasing the dread goddess?"
+ 381  And the busy housekeeper answered him:
+ 382  "Hector — since you order me strictly to tell the truth:
+ 383  not to one of your sisters, nor your brothers' fair-robed wives,
+ 384  nor out to Athena's temple, where the other
+ 385  lovely-braided women of Troy are appeasing the dread goddess —
+ 386  she went up on the great tower of Ilion, because she heard
+ 387  the Trojans were worn down, and the Achaeans' power was great.
+ 388  She has gone hurrying to the wall
+ 389  like a woman gone mad; and the nurse carries the child beside her."
+ 390  So the housekeeper spoke; and Hector sped from the house
+ 391  back the same way, down the well-built streets.
+ 392  When, crossing the great city, he reached the gates —
+ 393  the Scaean Gates, by which he meant to go out on the plain —
+ 394  there his richly dowered wife came running to meet him,
+ 395  Andromache, daughter of great-hearted Eëtion —
+ 396  Eëtion, who lived under wooded Placus,
+ 397  in Thebe-under-Placus, lord over the Cilician men:
+ 398  his daughter was wife to Hector of the bronze helmet.
+ 399  She met him there, and with her came the handmaid
+ 400  holding the child at her breast, all baby-thoughts still, a little one,
+ 401  the beloved son of Hector, like a beautiful star:
+ 402  Hector called him Scamandrius, but the others
+ 403  Astyanax — for Hector alone was the saving of Ilion.[24]
+ 404  He looked at his boy and smiled in silence;
+ 405  but Andromache came and stood close beside him, weeping,
+ 406  and she clung to his hand, and spoke a word, and named him:
+ 407  "Strange man — your own fury will destroy you. And you have no pity
+ 408  for your son, a little child, or for doomed me, who soon
+ 409  shall be your widow: for soon the Achaeans will kill you,
+ 410  falling on you all together. And for me it would be better,
+ 411  losing you, to go under the earth: there will be no other
+ 412  comfort ever again, once you have met your doom —
+ 413  only griefs. And I have no father, no lady mother.
+ 414  My father — brilliant Achilles killed him,
+ 415  the day he sacked the well-settled city of the Cilicians,
+ 416  Thebe of the high gates. He killed Eëtion —
+ 417  but he did not strip him: his heart stood in awe of that.[25]
+ 418  He burned his body in the wrought armor
+ 419  and heaped a grave-mound over him; and around it the mountain nymphs,
+ 420  daughters of aegis-bearing Zeus, planted elm trees.
+ 421  And my seven brothers in our halls —
+ 422  all of them went to Hades' house in a single day:
+ 423  swift-footed brilliant Achilles killed them all
+ 424  among their rolling-gaited cattle and their white sheep.
+ 425  And my mother, who was queen under wooded Placus —
+ 426  he brought her here with the rest of the plunder,
+ 427  but set her free again, taking ransom past counting,
+ 428  and in her father's halls Artemis who showers arrows struck her down.
+ 429  Hector — so you are my father, and my lady mother,
+ 430  and my brother; and you are my strong young husband.[26]
+ 431  Come, take pity now, and stay here on the tower:
+ 432  do not make your child an orphan and your wife a widow.
+ 433  And station the army by the wild fig tree, where the city
+ 434  is easiest to scale, and the wall lies open to assault.[27]
+ 435  Three times their best men have come there and tried it,
+ 436  the two Ajaxes and famous Idomeneus together,
+ 437  and the sons of Atreus, and Tydeus' powerful son —
+ 438  whether someone skilled in god-signs told them of it,
+ 439  or their own hearts drive and command them to it."
+ 440  Then great Hector of the flashing helmet answered her:
+ 441  "All this is my care too, wife. But I would stand
+ 442  in terrible shame before the Trojans, and the Trojan women
+ 443  with their trailing gowns, if like a coward I skulked apart from the war;
+ 444  and my own heart will not let me. I have learned to be brave
+ 445  always, and to fight among the foremost Trojans,
+ 446  winning great fame for my father, and for myself.
+ 447  For this I know well in my mind and heart:
+ 448  the day will come when holy Ilion shall perish,[28]
+ 449  and Priam, and the people of Priam of the good ash spear.
+ 450  But it is not the Trojans' coming grief that so much moves me —
+ 451  not Hecuba's own, not lord Priam's,
+ 452  not my brothers', who many and brave
+ 453  may fall in the dust under enemy hands —
+ 454  as yours: when some bronze-shirted Achaean
+ 455  leads you away in tears, and takes your day of freedom;
+ 456  and in Argos you would weave at another woman's loom,
+ 457  and carry water from the spring Messeïs or Hypereia,
+ 458  hating it, every step — and hard necessity on you;
+ 459  and someone will say, seeing you letting fall your tears:
+ 460  'This is the wife of Hector, who was best in battle
+ 461  of all the horse-taming Trojans, when they fought around Ilion.'
+ 462  So someone will say; and for you it will be fresh grief,
+ 463  for want of such a man to beat off the day of slavery.[29]
+ 464  But may the heaped earth cover me, dead,
+ 465  before I hear your cry and see you dragged away."
+ 466  So speaking, glorious Hector reached out for his boy —
+ 467  and the child shrank back, crying, against the breast
+ 468  of his fair-belted nurse, terrified at the sight of his own father,
+ 469  frightened by the bronze and the horsehair crest,
+ 470  seeing it nod terribly from the helmet's top.
+ 471  And his dear father laughed aloud, and his lady mother;[30]
+ 472  at once glorious Hector took the helmet from his head
+ 473  and laid it, all shining, on the ground.
+ 474  Then he kissed his dear son, and swung him in his arms,
+ 475  and spoke in prayer to Zeus and the other gods:
+ 476  "Zeus, and you other gods: grant that this boy,
+ 477  my son, may become, as I am, preeminent among the Trojans,
+ 478  as strong and brave as I; and rule Ilion in strength;
+ 479  and may men someday say he is far better than his father
+ 480  as he comes home from war. May he carry back the bloody spoils
+ 481  of the enemy he has killed, and his mother's heart be glad."[31]
+ 482  So speaking he laid his son in the arms
+ 483  of his dear wife; and she took him to her fragrant breast,
+ 484  laughing through her tears. And her husband saw, and pitied her,
+ 485  and stroked her with his hand, and spoke a word, and named her:
+ 486  "Strange woman — do not grieve too much for me in your heart.
+ 487  No man will hurl me to Hades beyond my portion;
+ 488  but his fate, I say, no man has ever escaped,
+ 489  coward or brave man, once he has been born.[32]
+ 490  Go home now, and set your own work in order —
+ 491  the loom and the distaff — and tell your handmaids
+ 492  to go about their work. War shall be men's concern —
+ 493  all men's, and mine above all, of all who were born in Ilion."[33]
+ 494  So speaking, glorious Hector took up the helmet
+ 495  with its horsehair crest; and his dear wife went home,
+ 496  turning back again and again, letting the full tears fall.
+ 497  And quickly she came to the well-settled house
+ 498  of man-slaughtering Hector, and found inside her many
+ 499  handmaids; and in all of them she stirred lament.
+ 500  So they mourned Hector, still alive, in his own house:
+ 501  for they said he would never again come back
+ 502  out of the war, escaping the fury and the hands of the Achaeans.[34]
+
+ 503  Nor did Paris linger long in his high house:
+ 504  when he had put on his famed armor, patterned with bronze,
+ 505  he ran through the city, sure of his quick feet.
+ 506  As when a stalled horse, corn-fed at the manger,
+ 507  breaks his tether and gallops drumming across the plain,
+ 508  used to bathing in the fair-flowing river,
+ 509  glorying: he holds his head high, and the mane
+ 510  streams along his shoulders; sure of his own splendor,
+ 511  his knees carry him lightly to the haunts and pastures of horses:[35]
+ 512  so Paris, Priam's son, came striding down from the height
+ 513  of Pergamos, blazing in his armor like the beaming sun,
+ 514  laughing aloud, and his quick feet carried him. And at once
+ 515  he came on brilliant Hector, his brother, just turning away
+ 516  from the place where he had talked with his wife.
+ 517  Godlike Alexandros spoke to him first:
+ 518  "Elder brother — surely I have held you back in your hurry,
+ 519  lingering so long; I did not come promptly, as you asked."
+ 520  Answering him spoke Hector of the flashing helmet:
+ 521  "Strange man — no fair-minded man could disparage
+ 522  your work in battle: you have your courage.
+ 523  But you hang back by choice; you will not try. And my heart
+ 524  aches in me when I hear your shame on Trojan lips —
+ 525  the men who bear this long labor for your sake.
+ 526  But let us go. We will make all this good later, if ever Zeus
+ 527  grants us to set out for the heavenly gods who are forever
+ 528  the mixing-bowl of freedom in our halls,
+ 529  when we have driven the strong-greaved Achaeans out of Troy."
+
+------------------------------------------------------------
+
+Notes
+
+[1] (6.12-19) Axylus of Arisbe, "a friend to all mankind," who kept open
+    house by the road — and not one guest stood by him at his death. The
+    hospitality-vignette inverted: xenia builds a network of obligation,
+    and the poem records the one moment it cannot pay out.
+
+[2] (6.21-28) Bucolion, Laomedon's eldest son "borne in darkness"
+    (σκότιον — illegitimate), and the water-nymph Abarbarea: a shepherd's
+    love-story compressed into five lines so that its twin sons can die
+    in two. Nymph-brides on Mount Ida are a recurring Trojan genealogy
+    (cf. Aeneas's own conception, 2.820-821).
+
+[3] (6.45-65) The Adrestus scene: a ransom-supplication (the standard
+    battlefield transaction, cf. 1.12-13) refused in the war's most
+    chilling terms — "not even the boy his mother carries in her womb."
+    The narrator's comment, αἴσιμα παρειπών, is rendered at face value
+    ("for his urging was of things due") and has been disputed since
+    antiquity: does the poet endorse the atrocity as just payment for
+    Paris's crime, or does αἴσιμα mean only "words of destiny"? The
+    translation does not soften it; the dispute lives here.
+
+[4] (6.76) Helenus, Priam's son, "far the best of bird-readers" — the
+    Trojan counterpart of Calchas (1.69, same formula); distinct from
+    the Helenus killed at 5.707.
+
+[5] (6.90-97) The peplos-offering: a woven robe laid on the knees of the
+    seated cult-statue, with a vow of twelve unworked heifers — the
+    fullest description of civic ritual supplication in the poem. The
+    instruction is relayed verbatim three times (Helenus 90-97, Hector
+    269-278, performed 293-310), per messenger convention; the English
+    repeats identically.
+
+[6] (6.119-236) The Glaucus-Diomedes encounter. Aristonicus reports that
+    some ancient critics transposed the whole episode elsewhere in the
+    poem (apparatus, Line 119-236) — it sits oddly in mid-battle, two
+    enemies talking genealogy at leisure. Kept, of course, where the
+    tradition kept it: its meditation on lineage, mortality, and
+    obligation is the hinge between the battlefield and Troy's interiors.
+
+[7] (6.130-140) Lycurgus who chased Dionysus's nurses with an ox-goad —
+    the Iliad's only Dionysus narrative (the god is strikingly marginal
+    in Homer), told as a cautionary paradigm against god-fighting.
+    Thetis's sea-rescue of the terrified child is her third such rescue
+    in the poem's memory (Zeus at 1.396-406, Hephaestus at 18.398).
+
+[8] (6.146-149) "As the generation of leaves, so is the generation of
+    men" — the most famous simile in the poem, and the classic statement
+    of its view of mortality; quoted, imitated, and answered from
+    Mimnermus to the present. Glaucus's point is scornful — why ask
+    lineage? — and he then gives sixty lines of it: the tension is the
+    speech.
+
+[9] (6.152-155) Sisyphus "craftiest of men" — here simply a clever
+    Corinthian ancestor; the Iliad knows nothing (or says nothing) of
+    the underworld stone, which appears first in Odyssey 11.
+
+[10] (6.160-170) Proetus's wife Anteia and the lethal letter: the
+     oldest Greek instance of the "Potiphar's wife" motif — and the
+     "baneful signs... scratched in a folded tablet" are the only
+     reference to writing in all of Homer. Whether the poet imagined
+     true script or ominous symbols was already debated in antiquity;
+     the translation keeps the vagueness ("marks").
+
+[11] (6.179-186) Bellerophon's labors: the Chimaera (lion-serpent-goat,
+     fire-breathing — the poem's canonical description), the Solymi,
+     the Amazons "the match of men" (cf. 3.189). Pegasus is
+     conspicuously absent: Homer's Bellerophon does his killing without
+     the winged horse of later art.
+
+[12] (6.200-205) Bellerophon's end: "hated by all the gods," wandering
+     the Aleian plain ("the Plain of Wandering" — the name puns on his
+     roaming), "eating out his heart" — the poem's image of a man
+     dropped by fortune, cause unstated. His son falls to Ares, his
+     daughter to Artemis: in Homeric idiom, sudden death of a man is
+     Ares' or Apollo's arrow, of a woman Artemis's (cf. 6.428).
+
+[13] (6.215-231) The discovery: Diomedes' grandfather hosted Glaucus's
+     grandfather for twenty days, therefore the grandsons may not fight
+     — guest-friendship binds across generations and across the war
+     itself. They will kill other men's guest-friends all afternoon;
+     the institution is particular, not humanitarian. The gift-list
+     (war-belt for cup) is a miniature of the economy.
+
+[14] (6.234-236) "Zeus took Glaucus's wits away": gold armor for bronze,
+     "a hundred oxen's worth for nine" — proverbial by Plato's time for
+     a bad bargain. The narrator's only intrusion into the scene, and a
+     famously debated one: divine folly, or the reckless magnificence
+     that is exactly what Glaucus's speech about glory demanded?
+
+[15] (6.237) "the Scaean Gates and the oak" — the oak of Zeus (cf.
+     5.693), a fixed landmark of the battlefield's edge; some
+     manuscripts read "tower" for "oak" (apparatus, Line 237).
+
+[16] (6.242-250) Priam's palace: fifty chambers for sons, twelve for
+     daughters and sons-in-law — dynastic architecture, the physical
+     form of Priam's abundance that the war is grinding away (cf. his
+     own count of lost sons at 24.493-498).
+
+[17] (6.264-268) Hector's double scruple — wine would slacken him;
+     blood-spattered hands cannot pour to Zeus: battlefield piety in
+     its exact ritual grammar (cf. the hand-washing at 1.449, 3.270).
+
+[18] (6.289-295) The Sidonian robes: Phoenician luxury goods brought
+     home by Paris "on that voyage on which he carried home high-born
+     Helen" — the abduction had a shopping itinerary. The offering to
+     Athena is thus chosen from the very cargo of the crime.
+
+[19] (6.298-300) Theano (cf. 5.70) as priestess of Athena "whom the
+     Trojans had made" so — a civic appointment, the only such notice
+     in Homer, and evidence that Athena has an established cult inside
+     the city she is destroying.
+
+[20] (6.311) "But Pallas Athena turned her head away." Aristarchus
+     athetized the line (apparatus); it is the bleakest single verse in
+     the poem — the exact ritual performed exactly, and refused in
+     four words. Kept, emphatically: without it the whole peplos
+     sequence loses its point.
+
+[21] (6.323-324, 375-376) First occurrences of δμῳαί, rendered
+     "slave-women" per the project's adopted policy (never "servants"
+     or "maids"); ἀμφίπολος remains "handmaid," ταμίη "housekeeper,"
+     τιθήνη "nurse." The household vocabulary matters in this book
+     above all: its climax turns on Andromache's foreseen "day of
+     slavery" (463).
+
+[22] (6.344-356) Helen to Hector: "me, the dog, the evil-scheming
+     horror" — her third self-directed dog-insult (3.180, 3.404's
+     "hateful me"); no one in the poem abuses Helen except Helen. At
+     356 the printed text has "Alexandros's blindness" (ἄτης) —
+     Zenodotus read ἀρχῆς, "Alexandros who began it" (apparatus; cf.
+     3.100). The ἄτη-reading ties Paris to the poem's key word for
+     ruinous delusion.
+
+[23] (6.357-358) "so that hereafter we may be subjects of song for men
+     still to come" — the poem explaining its own existence through
+     Helen's mouth: their suffering is Zeus's device for making poetry.
+     Cf. Alcinous's version of the same thought at Odyssey 8.579.
+
+[24] (6.402-403) The child's two names: Hector calls him Scamandrius
+     (after the river), the city calls him Astyanax — "lord of the
+     city" — "for Hector alone was the saving of Ilion." The people's
+     name for the son is their thanks to the father; its bitter payoff
+     comes at 22.506-507. Third instance of the double-naming motif
+     (cf. 1.403-404, 2.813-814), here mortal/civic rather than
+     divine/human.
+
+[25] (6.414-428) Andromache's family history is Achilles' work in its
+     entirety: father killed (but honored — burned in his armor, mound
+     heaped, elms planted by nymphs: even his enemies' awe, σεβάσσατο),
+     seven brothers in one day, mother ransomed then dead. The raid on
+     Thebe is the poem's economic backstory (Chryseis was taken there,
+     1.366-369; Briseis's city Lyrnessus fell in the same campaign,
+     2.690-691). When Achilles and Andromache's griefs finally meet, in
+     Book 24, they will already share every dead person in them.
+
+[26] (6.429-430) "you are my father, and my lady mother, and my
+     brother; and you are my strong young husband" — arithmetic of
+     the preceding catalogue: everything the war has taken, refigured
+     in the one person it is about to take.
+
+[27] (6.433-439) Andromache's tactical advice — mass the army at the
+     wild fig tree where the wall is scalable and thrice-probed.
+     Aristarchus athetized the lines (apparatus, Line 433-439), on the
+     ancient view that military counsel was unfitting in her mouth.
+     Kept: the poem's women know exactly how Troy falls; the fig tree
+     recurs as a tactical landmark at 11.167 and 22.145.
+
+[28] (6.447-449) "the day will come when holy Ilion shall perish, and
+     Priam, and the people of Priam of the good ash spear" — verbatim
+     the lines Agamemnon spoke at 4.163-165. There they were a threat
+     sworn in anger; here Hector speaks them as settled knowledge, and
+     fights on anyway. The reuse is the measure of the man. (Echo
+     note; English repeated word for word.)
+
+[29] (6.454-465) The enslaved future, imagined by the husband: the
+     loom of another woman, the water of Messeïs or Hypereia, the
+     stranger's comment on her tears. "Day of freedom" / "day of
+     slavery" (ἐλεύθερον ἦμαρ / δούλιον ἦμαρ) — the Homeric idiom that
+     makes a condition a date. Hector's wish to be dead first will be
+     granted exactly.
+
+[30] (6.466-474) The helmet scene: the baby screaming at the nodding
+     crest, and both parents laughing — the poem's only moment of
+     family comedy, set precisely between prophecy and farewell. The
+     flashing-helmet epithet the poem has attached to Hector some
+     forty times becomes, for four lines, a thing his son cannot
+     recognize him through.
+
+[31] (6.476-481) Hector's prayer: "may men someday say he is far
+     better than his father... and his mother's heart be glad." The
+     tradition beyond the poem answers with the child thrown from the
+     walls; the Iliad says nothing of it, and the silence is part of
+     the effect. Even within the prayer, joy is measured in "bloody
+     spoils."
+
+[32] (6.486-489) "his fate, I say, no man has ever escaped, coward or
+     brave man, once he has been born" — the consolation of shared
+     mortality, Hector's plainest theology; the same thought Achilles
+     will offer Priam in Book 24 at far greater length.
+
+[33] (6.490-493) "the loom and the distaff... War shall be men's
+     concern" — the fixed formula dividing the spheres (Hector will be
+     echoed nearly verbatim by Telemachus, with "speech" for "war," at
+     Odyssey 1.356-359). Coming directly after note [27]'s athetized
+     tactics, the line enacts the boundary the critics wanted enforced.
+
+[34] (6.500-502) "So they mourned Hector, still alive, in his own
+     house" — the lament raised before the death; the poem lets the
+     funeral of Book 24 begin here, eighteen books early.
+
+[35] (6.506-511) The stalled horse: Paris released, glorying, mane
+     streaming — repeated verbatim at 15.263-268, where it describes
+     Hector returning to battle; the same simile serving vanity there
+     and heroism here is a masterclass in how formulas mean by
+     placement. English fixed for the recurrence.

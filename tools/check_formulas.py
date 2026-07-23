@@ -70,6 +70,7 @@ CHECKS = [
     (["θοῦρον Ἄρηα", "θοῦρος Ἄρης"], ["rushing Ares"], "Ares: rushing"),
     (["πορφύρεος θάνατος"], ["purple death"], "purple death"),
     (["οἷοι νῦν βροτοί"], ["such as mortals are now"], "diminished present"),
+    (["δμῳ"], ["slave-wom"], "dmōs policy: slave-women"),
 ]
 
 LINE_RE = re.compile(r"^\s{0,5}(\d+)\s\s(.*)$")

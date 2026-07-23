@@ -49,9 +49,11 @@ the Odyssey project's FORMULAS.md.
 ## Terms for the enslaved and the household (adopted from the Odyssey register)
 
 - δμώς / δμῳή → **"slave" / "slave-woman"** — never "servant" or "maid."
-  (Not yet encountered in Books 1-4; binding from first occurrence.)
+  First use 6.323 (Helen's household), 6.375-376 (Hector's); checked
+  mechanically by tools/check_formulas.py.
 - ἀμφίπολος → "handmaid" (3.143 "two handmaids"); plural attendance
   phrases → "attendant women" as needed.
+- ταμίη → "housekeeper" (6.381); τιθήνη → "nurse" (6.389).
 - θεράπων → "aide" (4.227) or "henchman" (1.321, of heralds); in the
   formula θεράποντες Ἄρηος → "squires of Ares" (2.110).
 
@@ -190,6 +192,14 @@ the Odyssey project's FORMULAS.md.
 | Ἄϊδος κυνέη | the helmet of Hades | 5.845 |
 | ἰχώρ | ichor | 5.340 |
 | εἴδωλον | phantom | 5.449 |
+| ἑλκεσίπεπλος (Trojan women) | with (their) trailing gowns | 6.442 |
+| ἐϋπλόκαμος | lovely-braided | 6.380 |
+| χρυσήνιος (Artemis) | of the golden reins | 6.205 |
+| ἐρυσίπτολις (Athena) | guardian of the city | 6.305 |
+| ἠπιόδωρος (Hecuba) | gentle-giving | 6.251 |
+| πολύδωρος (wife) | richly dowered | 6.394 |
+| χαλκοκορυστής | of the bronze helmet | 6.199 |
+| ἠθεῖος (address to elder brother) | Elder brother | 6.518 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -297,6 +307,9 @@ the Odyssey project's FORMULAS.md.
 | And when they were close, advancing on one another, | 3.15 | engagement line; 5.14, 5.630, 5.850 |
 | like more than man (δαίμονι ἶσος) | 5.438 | the three-then-fourth pattern; recurs 16.705, 16.786 |
 | and the two flew, nothing loath | 5.366 | divine horses; 5.768 |
+| the day of freedom / the day of slavery | 6.455 / 6.463 | condition-as-date idiom |
+| the stalled-horse simile (6.506-511) | 6.506 | = 15.263-268 verbatim; English fixed |
+| the day will come when holy Ilion shall perish, / and Priam, and the people of Priam of the good ash spear | 4.164-165 | = 6.448-449; threat in Agamemnon's mouth, knowledge in Hector's |
 
 ## Ritual and formal language (set in Book 3)
 
@@ -378,6 +391,20 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 6: Axylus, Calesius, Dresus, Opheltius, Aesepus and
+Pedasus (twins — same names as the river 2.825 and the town 6.35),
+Abarbarea, Bucolion, Astyalus, Pidytes, Aretaon, Ablerus, Elatus,
+Phylacus, Melanthius, Adrestus the suppliant (6.37 — fourth bearer),
+Teucer (first appearance), Helenus the seer, Glaucus the Lycian (his
+great-grandfather Glaucus son of Sisyphus shares the name), Hippolochus,
+Bellerophon, Proetus, Anteia, Sisyphus, Aeolus, Isander, Laodameia,
+Chimaera, Solymi, Lycurgus, Dryas (his father — same name as the Lapith
+1.263), Dionysus, Nysa, Hecuba (first named), Cisseus, Andromache,
+Astyanax/Scamandrius (see note 6.[24]), Messeïs, Hypereia (spring — same
+name as the spring 2.734), Sidon/Sidonian, Satnioeis (river), Arisbe,
+Percote, Placus, Cilicians (Eëtion's people — Anatolian, not the later
+Cilicia).
 
 Added in Book 5: Dares, Phegeus, Idaeus (Dares' son — distinct from
 Priam's herald, 3.248), Phaestus, Borus, Scamandrius the hunter (distinct
