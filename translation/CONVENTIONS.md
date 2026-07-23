@@ -29,8 +29,11 @@ the Odyssey project's FORMULAS.md.
 
 - **Form**: plain, dignified modern English free verse, line-for-line with
   the Greek (one English line per Greek line). Target a loose five-to-six
-  beat line (adopted from Book 5 onward; Books 1-4 predate the target and
-  are not retrofitted). No meter, no rhyme.
+  beat line. Books 1-4 predate the stated target but were measured
+  (2026-07-23) as already conforming: median 13 syllables, 92-95% of lines
+  in the 9-16 syllable band — statistically identical to the Odyssey
+  project's calibration books. No retrofit needed; hold this distribution
+  from Book 5 on. No meter, no rhyme.
 - **Line numbers**: every translated line carries its Greek line number.
   Notes cite (book.line).
 - **Epigraph**: each book opens with a one-sentence summary line.

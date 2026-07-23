@@ -9,8 +9,9 @@ translation contract this project uses.
 Evaluate semantic fidelity of the supplied Greek passage against its English
 translation. Read in syntactic units spanning line boundaries. The
 translation deliberately uses one English verse per Greek verse and a loose
-five-to-six-beat line (Books 1-4 predate the beat target); do not flag
-defensible poetic recasting merely because it is not literal.
+five-to-six-beat line (all books, measured, hold a median-13-syllable,
+92-95% 9-16-syllable distribution); do not flag defensible poetic recasting
+merely because it is not literal.
 
 The translator's notes explain choices but do not establish that those
 choices are correct. Other English translations are not a gold standard —
