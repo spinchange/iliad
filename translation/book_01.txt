@@ -1,0 +1,929 @@
+BOOK 1
+
+The wrath: the quarrel over Briseis, the plague, and Thetis's bargain
+with Zeus.
+
+TRANSLATOR'S COMMENTARY
+
+This translation aims at plain, dignified modern English free verse, kept
+line-for-line with the Greek of the Monro-Allen text (books/book_01.txt) so
+that any English line can be checked against its original. It follows the
+printed text throughout, including passages that ancient critics athetized
+(marked as spurious but retained); atheteses are recorded in the notes, not
+acted on. Where the printed text itself embodies an editorial choice against
+the manuscript majority — most strikingly at 1.350, where it reads "boundless
+sea" where nearly all manuscripts have the famous "wine-dark sea" — the note
+says so.
+
+The poem's first word, mēnis, is rendered "wrath" rather than "rage" or
+"anger": mēnis in Homer is not a mood but a durable, quasi-divine cosmic
+grudge, and English "wrath" carries the required archaic, more-than-human
+weight. The other load-bearing terms of the quarrel are kept consistent so
+their economy stays visible: timē is always "honor," geras always "prize"
+(the concrete, publicly awarded object in which honor is embodied — Chryseis,
+Briseis), and atē "blindness" (the god-sent ruin-bringing delusion Agamemnon
+will later plead). The quarrel of Book 1 is unintelligible unless the reader
+can see that Achilles' complaint is not about a woman but about the public
+arithmetic of honor; the vocabulary is kept rigid for that reason.
+
+Recurring epithets are translated by fixed English equivalents ("swift-footed
+Achilles," "white-armed Hera," "the lord of men Agamemnon"), footnoted at
+first occurrence only, and logged in translation/CONVENTIONS.md as binding
+for later books. Fixity is deliberate: the epithets are load-bearing oral
+formulas, and varying them for elegance would erase exactly the texture that
+makes them Homeric. Proper names use familiar Latinized spellings (Achilles,
+Ajax, Clytemnestra), also logged there.
+
+On the one Book 1 entry in disputed_lines.md (1.4-5): Zenodotus athetized
+both lines, and his text is reported to have read daita, making the corpses a
+"feast" for the birds. The translation follows the vulgate ("prey for dogs /
+and every bird"), keeping the grim literal image rather than the sardonic
+"banquet"; the opening sentence is already as harsh as English can decently
+make it, and the "feast" reading, though grotesquely apt, rests on a single
+reported reading of doubtful standing. See note [3].
+
+One grammatical crux was settled by the project's morphology files: at 1.291
+the treebank parses protheousin as a form of protithēmi ("set forth, grant"),
+and the translation follows it ("do they therefore give him leave to hurl
+insults?"); the rival parse is recorded in note [25].
+
+------------------------------------------------------------
+
+   1  Sing, goddess, the wrath[1] of Peleus' son Achilles,
+   2  ruinous wrath, that laid griefs beyond counting on the Achaeans
+   3  and hurled down to Hades many strong souls[2]
+   4  of heroes, and made the men themselves prey for dogs
+   5  and every bird — and the will of Zeus moved toward fulfillment —[3]
+   6  from the moment those two first stood apart in strife,
+   7  Atreus' son, lord of men[4], and brilliant Achilles.
+
+   8  Which of the gods, then, set the two of them fighting?
+   9  The son of Leto and Zeus. Angered at the king,
+  10  he sent an evil plague up through the army, and the people were perishing,
+  11  because Atreus' son had dishonored Chryses, his priest.
+  12  For Chryses had come to the Achaeans' swift ships
+  13  to free his daughter, bearing ransom past counting,
+  14  holding in his hands, on a golden staff, the wreaths[5]
+  15  of Apollo who strikes from afar[6], and he begged all the Achaeans,
+  16  but the two sons of Atreus most of all, marshals of the people:
+
+  17  "Sons of Atreus, and you other strong-greaved Achaeans[7],
+  18  may the gods who keep their homes on Olympus grant you
+  19  to sack Priam's city and come home safe;
+  20  only set my dear child free, and accept this ransom,
+  21  in awe of Zeus's son, Apollo who strikes from afar."
+
+  22  Then all the other Achaeans shouted assent:
+  23  respect the priest, take the shining ransom.
+  24  But it did not please the heart of Atreus' son Agamemnon;
+  25  he sent him off harshly, and laid a hard command on him:
+  26  "Old man, let me not find you by the hollow ships,
+  27  either lingering now or coming back again later,
+  28  or the god's staff and wreath may be no help to you.
+  29  The girl I will not release. Sooner shall old age come upon her
+  30  in our house, in Argos, far from her fatherland,
+  31  walking to and fro at the loom and sharing my bed.[8]
+  32  Now go — do not provoke me — so you may get home the safer."
+
+  33  So he spoke, and the old man was afraid and obeyed his word.
+  34  He went in silence along the shore of the loud-roaring sea[9],
+  35  and then, walking far apart, the old man prayed long
+  36  to lord Apollo, whom lovely-haired Leto bore:
+  37  "Hear me, god of the silver bow, who stand guard over Chryse
+  38  and holy Cilla, who rule Tenedos in strength —
+  39  Smintheus![10] If ever I roofed a temple that pleased you,
+  40  if ever I burned for you the fat-rich thighs
+  41  of bulls and goats, grant me this wish:
+  42  may the Danaans pay for my tears by your arrows."
+
+  43  So he spoke in prayer, and Phoebus Apollo heard him.
+  44  Down from the peaks of Olympus he came, angry at heart,
+  45  with the bow on his shoulders and the covered quiver;
+  46  the arrows clashed on the shoulders of the angry god
+  47  as he moved, and he came on like nightfall.[11]
+  48  Then he settled apart from the ships and let fly a shaft,
+  49  and terrible was the clang of the silver bow.
+  50  The mules he attacked first, and the quick-running dogs,
+  51  but then he loosed his piercing arrows on the men themselves
+  52  and struck; and the crowded pyres of the dead burned without ceasing.
+
+  53  Nine days the god's shafts ranged through the army,
+  54  and on the tenth Achilles called the people to assembly —
+  55  the goddess white-armed Hera[12] had put it in his mind,
+  56  for she cared for the Danaans, seeing them die.
+  57  So when they were gathered and assembled together,
+  58  swift-footed Achilles[13] rose and spoke among them:
+  59  "Son of Atreus, now I think we shall be beaten back off our course
+  60  and go home again — if we escape death at all —
+  61  if war and plague together are to break the Achaeans.
+  62  Come, let us ask some seer or priest,
+  63  or even a reader of dreams — for a dream too is from Zeus —[14]
+  64  who might tell us why Phoebus Apollo is so angry:
+  65  whether he faults a vow unpaid or a hecatomb[15],
+  66  in hope he may accept the savor of lambs and unblemished goats
+  67  and choose to drive this ruin from us."
+
+  68  So he spoke and sat down; and among them rose
+  69  Calchas, Thestor's son, far the best of bird-readers,
+  70  who knew what is, what will be, and what was before,
+  71  and who had guided the Achaeans' ships to Ilion
+  72  by the seercraft Phoebus Apollo gave him.
+  73  With good will toward them he spoke and addressed them:
+  74  "Achilles, dear to Zeus, you command me to explain
+  75  the wrath of Apollo, the lord who strikes from afar.
+  76  Then I will speak. But you consider, and swear to me
+  77  that you will readily defend me with word and hand;
+  78  for I think I shall anger a man who rules
+  79  all the Argives in his great power, a man the Achaeans obey.
+  80  A king is the stronger when he rages at a lesser man;
+  81  even if he swallows his anger for that one day,
+  82  still he keeps resentment afterward in his chest
+  83  until he brings it to completion. Say, then, if you will keep me safe."
+
+  84  Answering him spoke swift-footed Achilles:
+  85  "Take heart, and speak whatever god-sign you know.
+  86  For by Apollo, dear to Zeus — the god to whom you pray, Calchas,
+  87  when you reveal god-signs to the Danaans —
+  88  no man, while I live and see light on this earth,
+  89  shall lay heavy hands on you beside the hollow ships,
+  90  no man of all the Danaans — not if you name Agamemnon,
+  91  who now claims to be far the best of the Achaeans."
+
+  92  Then the blameless seer took heart and spoke:
+  93  "He faults no vow unpaid, no hecatomb,
+  94  but for the sake of his priest, whom Agamemnon dishonored —
+  95  he did not release his daughter, would not accept the ransom —
+  96  for that the far-striker has given griefs, and will give more.
+  97  He will not lift this shameful ruin from the Danaans[16]
+  98  until we give back to her dear father the bright-eyed girl,
+  99  unbought, unransomed, and lead a holy hecatomb
+ 100  to Chryse. Then we might appease him and win him over."
+
+ 101  So he spoke and sat down; and among them rose
+ 102  the hero, Atreus' son, wide-ruling Agamemnon,
+ 103  in anguish: his darkened heart was brimming full
+ 104  of fury, and his eyes were like blazing fire.
+ 105  Glaring evil first at Calchas, he spoke:
+ 106  "Seer of evils! Never yet have you spoken a word to my good;
+ 107  always it is dear to your heart to prophesy evils,
+ 108  and no good word have you ever spoken or brought to pass.
+ 109  And now you stand prophesying before the Danaans
+ 110  that this is why the far-striker makes their griefs —
+ 111  because I would not take the shining ransom
+ 112  for the girl Chryseis, since I greatly wish
+ 113  to keep her at home. Indeed I prefer her to Clytemnestra,
+ 114  my wedded wife, since she is not her inferior
+ 115  in build or bearing, in mind or in any work of her hands.
+ 116  Even so I am willing to give her back, if that is better;
+ 117  I want the people safe, not perishing.
+ 118  But make ready a prize[17] for me at once, so that I alone
+ 119  of the Argives not go unprized — that would not be fitting;
+ 120  for you all see it: my prize goes elsewhere."
+
+ 121  Then swift-footed brilliant Achilles answered him:
+ 122  "Most glorious son of Atreus, greediest of all men,
+ 123  how shall the great-hearted Achaeans give you a prize?
+ 124  We know of no common store laid up anywhere;
+ 125  what we took when we sacked the cities has been shared out,
+ 126  and it is wrong to make the people gather it back again.
+ 127  No — give the girl up now, to the god; and we Achaeans
+ 128  will pay you back three and four times over, if ever Zeus
+ 129  grants us to sack the well-walled city of Troy."
+
+ 130  Answering him spoke the lord Agamemnon:
+ 131  "Do not, brave as you are, godlike Achilles,
+ 132  try to cheat me with cleverness; you will not slip past me or persuade me.
+ 133  Is this your wish — that you keep your own prize, while I
+ 134  sit here without one, just because you tell me to give her back?
+ 135  If the great-hearted Achaeans will give me a prize,
+ 136  suiting it to my heart, so it be worth as much — well and good;
+ 137  but if they will not give it, then I myself will come and take
+ 138  your prize, or Ajax's, or Odysseus's —
+ 139  seize it and carry it off. And the man I visit will be angry.
+ 140  But all that we can think through later.
+ 141  For now, come, let us drag a black ship down to the bright sea,
+ 142  gather rowers enough, set a hecatomb aboard,
+ 143  and put fair-cheeked[18] Chryseis herself
+ 144  on deck. And one man of counsel shall be commander —
+ 145  Ajax, or Idomeneus, or brilliant Odysseus,
+ 146  or you, son of Peleus, most terrifying of all men,
+ 147  to make sacrifice and appease for us the worker-from-afar."
+
+ 148  Glaring at him darkly, swift-footed Achilles spoke:
+ 149  "You — wrapped in shamelessness, mind set on profit!
+ 150  How shall any Achaean gladly obey your orders,
+ 151  to go on a mission or to fight men in strength?
+ 152  It was not for the sake of Trojan spearmen that I came
+ 153  to fight here: they have done nothing to me.
+ 154  They never drove off my cattle or my horses,
+ 155  never in deep-soiled Phthia, feeder of men,
+ 156  did they ruin my harvest — since much lies between us,
+ 157  shadowing mountains and the echoing sea.
+ 158  No: you, colossal in shamelessness, you we followed,
+ 159  to please you — winning honor for Menelaus and for you, dog-face[19],
+ 160  from the Trojans. None of that do you look at or care for.
+ 161  And now you threaten to take my prize from me yourself,
+ 162  the prize I labored hard for, which the sons of the Achaeans gave me.
+ 163  I never have a prize equal to yours, whenever the Achaeans
+ 164  sack some well-settled Trojan town;
+ 165  my hands carry the greater part of furious war,
+ 166  yet when the division comes,
+ 167  your prize is far the larger, and I go back to my ships
+ 168  with something small and dear, when I have worn myself out fighting.
+ 169  Now I am going to Phthia. It is far better
+ 170  to go home with my beaked ships. I do not intend,
+ 171  dishonored here, to go on piling up wealth and riches for you."
+
+ 172  Then answered him the lord of men Agamemnon:
+ 173  "Run, then, if your heart is set on it. I am not begging you
+ 174  to stay for my sake. Beside me are others
+ 175  who will honor me — above all Zeus the counselor.
+ 176  Of all the kings whom Zeus sustains, you are the most hateful to me:
+ 177  strife is always dear to you, and wars, and battles.
+ 178  If you are very strong, some god gave you that.
+ 179  Go home with your ships and your companions,
+ 180  be king over your Myrmidons. I take no account of you;
+ 181  your rage does not move me. But here is my threat:
+ 182  since Phoebus Apollo takes Chryseis from me,
+ 183  her I will send off with my ship and my companions —
+ 184  but I will come myself to your hut and take fair-cheeked
+ 185  Briseis, your own prize, so you may learn well
+ 186  how much greater I am than you, and the next man too may shrink
+ 187  from calling himself my equal and matching himself against me."
+
+ 188  So he spoke. And grief came over Peleus' son; the heart
+ 189  in his shaggy chest was split two ways:
+ 190  whether to draw the sharp sword from beside his thigh,
+ 191  scatter the men between, and kill the son of Atreus,
+ 192  or to check his anger and rein in his spirit.
+ 193  While he was turning this over in mind and heart
+ 194  and drawing the great sword from its sheath, Athena came
+ 195  from the sky. White-armed Hera had sent her,
+ 196  loving both men alike in her heart, and caring for both.
+ 197  She stood behind him and caught Peleus' son by his tawny hair,
+ 198  showing herself to him alone; of the others, no one saw her.
+ 199  Achilles was startled. He turned, and at once he knew
+ 200  Pallas Athena — the eyes shining terribly —
+ 201  and speaking winged words[20] he addressed her:
+ 202  "Why have you come this time, child of aegis-bearing Zeus?[21]
+ 203  To see the outrage of Agamemnon, Atreus' son?
+ 204  I will tell you this, and I think it will be accomplished:
+ 205  by his own arrogance he may soon lose his life."
+
+ 206  Then the goddess grey-eyed Athena[22] answered him:
+ 207  "I came from the sky to stop your fury — if you will listen —
+ 208  and white-armed Hera sent me,
+ 209  loving you both alike in her heart, and caring for both.
+ 210  Come, leave off this strife; do not draw the sword.
+ 211  With words, though — taunt him with what is coming, and it will come.
+ 212  I tell you this outright, and it will be accomplished:
+ 213  one day gifts three times as splendid will be laid before you
+ 214  because of this outrage. Hold back, and obey us."
+
+ 215  Answering her spoke swift-footed Achilles:
+ 216  "Goddess, a man must keep the word of you two,
+ 217  however angry his heart. That way is better.
+ 218  Whoever obeys the gods, him they hear indeed."
+
+ 219  He spoke, and checked his heavy hand on the silver hilt,
+ 220  and back into the sheath he drove the great sword; he did not disobey
+ 221  the word of Athena. And she was gone to Olympus,
+ 222  to the house of aegis-bearing Zeus, among the other gods.
+
+ 223  But Peleus' son once more with cutting words
+ 224  went at Atreus' son, and did not yet let go his anger:
+ 225  "Wine-sack! Dog's eyes and a deer's heart![23]
+ 226  Never once to arm yourself for battle with the people,
+ 227  never to go out in ambush with the best of the Achaeans —
+ 228  you have not the courage; that looks like death to you.
+ 229  Far better, no doubt, through the wide Achaean camp
+ 230  to strip his gifts from any man who speaks against you —
+ 231  a king who devours his own people! Because you rule nobodies;
+ 232  otherwise, son of Atreus, this outrage would be your last.
+ 233  But I will say this to you, and swear a great oath on it:
+ 234  by this staff — which will never again put out leaves and branches
+ 235  once it has left its stump in the mountains,
+ 236  nor bloom again, since the bronze stripped it
+ 237  of leaf and bark; and now the sons of the Achaeans
+ 238  carry it in their palms when they give judgment, those who guard
+ 239  the ordinances that come from Zeus — this will be a great oath:
+ 240  some day a longing for Achilles will come upon the sons of the Achaeans,
+ 241  all of them together. And then, grieved as you are, you will have no power
+ 242  to help, when many at the hands of man-slaughtering Hector
+ 243  fall dying. And you will tear the heart inside you,
+ 244  raging that you paid no honor to the best of the Achaeans."
+
+ 245  So spoke Peleus' son, and he dashed to the ground the staff
+ 246  studded with golden nails, and sat down himself,
+ 247  while Atreus' son raged on the other side. Then Nestor
+ 248  sprang up, the sweet-speaking, the clear-voiced speaker of Pylos,
+ 249  from whose tongue the voice ran sweeter than honey.
+ 250  In his time two generations of mortal men
+ 251  had already passed away, who once were born and raised with him
+ 252  in sacred Pylos, and he was king among the third.
+ 253  With good will toward them he spoke and addressed them:
+ 254  "Shame! Great grief comes upon the Achaean land.
+ 255  Priam would rejoice indeed, and Priam's sons,
+ 256  and the rest of the Trojans would be glad at heart,
+ 257  if they learned all this about the two of you quarreling —
+ 258  you who surpass the Danaans in counsel, surpass them in fighting.
+ 259  But listen to me: you are both younger than I am.
+ 260  Once, long ago, I kept company with better men
+ 261  even than you, and they never made light of me.
+ 262  Such men I have not seen since, nor shall I see —
+ 263  Peirithous, and Dryas shepherd of the people,
+ 264  Caeneus, Exadius, godlike Polyphemus,
+ 265  and Theseus, Aegeus' son, image of the immortals.[24]
+ 266  Strongest they grew of all men reared on earth;
+ 267  strongest they were, and with the strongest they fought,
+ 268  the beasts that lair in the mountains, and destroyed them terribly.
+ 269  With these men I kept company, come from Pylos,
+ 270  far away, from a distant land; for they themselves called me.
+ 271  And I fought as my own man, by myself. Against them no one
+ 272  of mortals now upon the earth could fight.
+ 273  And they listened to my counsels and obeyed my word.
+ 274  So you two listen also, since listening is better.
+ 275  You — do not, great man though you are, take the girl from him;
+ 276  let her be, as the sons of the Achaeans first gave her to him, a prize.
+ 277  And you, son of Peleus — do not choose to strive with a king,
+ 278  force against force. A scepter-holding king, to whom Zeus has given
+ 279  glory, has no common share of honor.
+ 280  If you are the stronger, and a goddess mother bore you,
+ 281  still he is the greater, because he rules over more.
+ 282  Son of Atreus, check your fury. It is I who beg you:
+ 283  let go your anger against Achilles, who stands, for all the Achaeans,
+ 284  a great wall against the evil of war."
+
+ 285  Answering him spoke the lord Agamemnon:
+ 286  "Yes, old man — all this you have said rightly and in due measure.
+ 287  But this man wants to be above all others:
+ 288  to hold power over all, to be king over all,
+ 289  to give orders to all — and there is one, I think, who will not obey.
+ 290  If the gods who live forever made him a spearman,
+ 291  do they therefore give him leave to hurl insults?"[25]
+
+ 292  Breaking in on him, brilliant Achilles answered:
+ 293  "Yes — for I would be called coward and nobody
+ 294  if I give way to you in every matter, whatever you say.
+ 295  Lay these commands on others; do not give orders
+ 296  to me. I do not think I shall obey you any longer.
+ 297  And I will tell you another thing — put it away in your heart:
+ 298  with my hands I will not fight over the girl,
+ 299  not with you, not with any man; you gave her, and you have taken her away.
+ 300  But of all else that is mine by my swift black ship,
+ 301  you shall carry off nothing, taking it against my will.
+ 302  Go on — try it, so these men too may know:
+ 303  in a moment your dark blood will spurt around my spear."
+
+ 304  So the two of them, fighting it out with head-on words,
+ 305  rose, and dissolved the assembly by the Achaean ships.
+ 306  Peleus' son went off to his huts and balanced ships
+ 307  with Menoetius' son[26] and his companions.
+ 308  And Atreus' son had a swift ship dragged to the sea,
+ 309  chose twenty rowers for her, drove aboard a hecatomb
+ 310  for the god, and brought fair-cheeked Chryseis
+ 311  and set her aboard; and resourceful Odysseus[27] went as commander.
+
+ 312  So they embarked and sailed the watery ways.
+ 313  And Atreus' son commanded the people to purify themselves:
+ 314  they washed themselves clean, and cast the washings into the sea,
+ 315  and offered to Apollo perfect hecatombs
+ 316  of bulls and goats along the shore of the barren sea[28],
+ 317  and the savor rose to the sky, curling in the smoke.
+
+ 318  So the camp busied itself with this. But Agamemnon
+ 319  did not let go the quarrel with which he had first threatened Achilles:
+ 320  he spoke to Talthybius and Eurybates,
+ 321  his two heralds and ready henchmen:
+ 322  "Go to the hut of Peleus' son Achilles.
+ 323  Take fair-cheeked Briseis by the hand and bring her.
+ 324  And if he will not give her up, I will come with more men
+ 325  and take her myself — which will be the worse for him."
+
+ 326  So he sent them off, and laid a hard command on them.
+ 327  Unwilling, the two went along the shore of the barren sea
+ 328  and came to the huts and ships of the Myrmidons.
+ 329  They found him beside his hut and his black ship,
+ 330  sitting; and Achilles took no joy in seeing them.
+ 331  The two, in fear and awe of the king,
+ 332  stood, and did not speak to him or question him.
+ 333  But he understood in his heart, and spoke:
+ 334  "Welcome, heralds, messengers of Zeus and of men.
+ 335  Come near. You are not to blame in my eyes, but Agamemnon,
+ 336  who sends you two for the girl Briseis.
+ 337  Come, Patroclus, sprung from Zeus — bring out the girl
+ 338  and give her to them to take. And let these two themselves be witnesses
+ 339  before the blessed gods and mortal men
+ 340  and before that hard king, if ever again
+ 341  there is need of me to beat back shameful ruin
+ 342  from the rest. Truly, he rages in a ruinous mind;
+ 343  he has no thought of seeing before and behind at once,
+ 344  how his Achaeans might fight safe beside the ships."
+
+ 345  So he spoke, and Patroclus obeyed his dear companion:
+ 346  he led fair-cheeked Briseis out of the hut
+ 347  and gave her to be taken. And the two went back along the Achaean ships,
+ 348  and the woman went with them, unwilling. Then Achilles,
+ 349  weeping, drew apart from his companions and sat down
+ 350  on the shore of the grey sea, looking out over the boundless deep[29],
+ 351  and stretched out his hands and prayed hard to his dear mother:
+ 352  "Mother, since you bore me to a short life,
+ 353  honor at least the Olympian owed me,
+ 354  Zeus who thunders on high. Now he has honored me not even a little.
+ 355  The son of Atreus, wide-ruling Agamemnon,
+ 356  has dishonored me: he has taken and keeps my prize; he seized it himself."
+
+ 357  So he spoke, shedding tears, and his lady mother heard him,
+ 358  sitting in the depths of the sea beside her old father.
+ 359  Quickly she rose from the grey salt water like mist,
+ 360  and sat down before him as he wept,
+ 361  stroked him with her hand, and spoke a word, and named him:
+ 362  "Child, why do you weep? What grief has come to your heart?
+ 363  Speak out; hide nothing; let us both know."
+
+ 364  Groaning heavily, swift-footed Achilles said:
+ 365  "You know. Why tell it all to one who knows?
+ 366  We went to Thebe, Eëtion's holy city[30],
+ 367  and sacked it, and brought everything here;
+ 368  the sons of the Achaeans divided it fairly among themselves,
+ 369  and for Atreus' son they picked out fair-cheeked Chryseis.
+ 370  Then Chryses, priest of Apollo who strikes from afar,
+ 371  came to the swift ships of the bronze-shirted Achaeans
+ 372  to free his daughter, bearing ransom past counting,[31]
+ 373  holding in his hands, on a golden staff, the wreaths
+ 374  of Apollo who strikes from afar, and he begged all the Achaeans,
+ 375  but the two sons of Atreus most of all, marshals of the people.
+ 376  Then all the other Achaeans shouted assent:
+ 377  respect the priest, take the shining ransom.
+ 378  But it did not please the heart of Atreus' son Agamemnon;
+ 379  he sent him off harshly, and laid a hard command on him.
+ 380  And the old man went back angry; and Apollo
+ 381  heard his prayer, since he was very dear to him,
+ 382  and loosed an evil shaft on the Argives. And now the people
+ 383  were dying thick and fast, and the god's arrows ranged
+ 384  everywhere through the wide Achaean camp. But a seer,
+ 385  knowing well, declared to us the god-word of the far-striker.
+ 386  At once I, first, urged appeasing the god;
+ 387  but rage took hold of Atreus' son, and standing up
+ 388  he made a threat — which now stands accomplished.
+ 389  The girl the bright-eyed Achaeans are sending on a swift ship
+ 390  to Chryse, with gifts for the lord;
+ 391  and the other — heralds have just now gone from my hut leading her,
+ 392  the daughter of Briseus, whom the sons of the Achaeans gave me.
+ 393  But you — if you have the power, defend your son.
+ 394  Go to Olympus and entreat Zeus, if ever
+ 395  you gladdened the heart of Zeus by word or deed.
+ 396  For often in my father's halls I heard you[32]
+ 397  declare it proudly: that you alone among the immortals
+ 398  warded off shameful ruin from the son of Cronos, lord of the dark cloud,
+ 399  that time the other Olympians wanted to bind him —
+ 400  Hera and Poseidon and Pallas Athena.
+ 401  But you came, goddess, and set him free of his bonds,
+ 402  quickly calling to high Olympus the hundred-handed one
+ 403  whom the gods call Briareus, but all men
+ 404  Aegaeon[33] — for he in turn is stronger than his father —
+ 405  and he sat down beside the son of Cronos, glorying in his splendor,
+ 406  and the blessed gods shrank in fear of him, and bound Zeus no more.
+ 407  Sit beside him and remind him of this; take his knees;
+ 408  see if he may be willing to help the Trojans
+ 409  and pen the Achaeans back among the ships' sterns and the sea,
+ 410  dying — so they may all have joy of their king,
+ 411  and even Atreus' son, wide-ruling Agamemnon, may know
+ 412  his blindness, that he paid no honor to the best of the Achaeans."
+
+ 413  Then Thetis answered him, letting fall her tears:
+ 414  "Ah my child, why did I raise you, born to sorrow?
+ 415  If only you could sit by the ships without tears, without pain,
+ 416  since your portion is short — not long at all.
+ 417  Now you are both quick-fated and wretched beyond all men;
+ 418  so it was for an evil fate I bore you in our halls.
+ 419  To tell your word to Zeus who delights in thunder
+ 420  I myself will go to snow-capped Olympus; he may listen.
+ 421  And you — sit now by your swift-faring ships,
+ 422  keep your wrath against the Achaeans, and let war go entirely.
+ 423  For Zeus went yesterday to Ocean, to the blameless Ethiopians[34],
+ 424  for a feast, and all the gods went with him.
+ 425  On the twelfth day he will come back to Olympus,
+ 426  and then I will go to Zeus's house with its bronze floor,
+ 427  and clasp his knees, and I think I will persuade him."
+
+ 428  So she spoke and went away, and left him there,
+ 429  the heart in him angry for the fair-belted woman
+ 430  they had taken from him by force, against his will. Meanwhile Odysseus
+ 431  came to Chryse leading the holy hecatomb.
+
+ 432  When they had come inside the deep harbor,
+ 433  they furled the sails and stowed them in the black ship,
+ 434  dropped the mast by the forestays into its crutch,
+ 435  smartly, and rowed her to her mooring with the oars.
+ 436  They threw out the anchor-stones and made fast the stern lines,
+ 437  and stepped out themselves onto the surf-line of the sea,
+ 438  and out came the hecatomb for Apollo who strikes from afar,
+ 439  and out of the seagoing ship stepped Chryseis.
+ 440  Then resourceful Odysseus led her to the altar
+ 441  and put her in her dear father's arms, and said:
+ 442  "Chryses, the lord of men Agamemnon sent me
+ 443  to bring you your child, and to offer a holy hecatomb
+ 444  to Phoebus for the Danaans, that we may appease the lord
+ 445  who has now sent the Argives griefs and groaning."
+
+ 446  So he spoke and put her in his arms, and the old man received
+ 447  his dear child, rejoicing. Then quickly they set up
+ 448  the holy hecatomb for the god in order around the well-built altar,
+ 449  washed their hands, and took up the barley-grains.
+ 450  And Chryses lifted his hands and prayed aloud for them:
+ 451  "Hear me, god of the silver bow, who stand guard over Chryse
+ 452  and holy Cilla, who rule Tenedos in strength.
+ 453  Once before you heard me when I prayed:
+ 454  you honored me, and struck the Achaean army hard.
+ 455  So now again fulfill this wish of mine:
+ 456  now beat the shameful ruin back from the Danaans."
+
+ 457  So he spoke in prayer, and Phoebus Apollo heard him.
+ 458  And when they had prayed and thrown the barley-grains,[35]
+ 459  they first drew back the victims' heads, cut their throats, and flayed them,
+ 460  carved out the thigh-pieces and wrapped them in fat,
+ 461  making a double fold, and laid raw flesh upon them.
+ 462  The old man burned them on split wood, and over them poured
+ 463  gleaming wine; beside him young men held five-pronged forks.
+ 464  When the thighs were burned and they had tasted the inner parts,
+ 465  they cut up the rest and threaded it on spits,
+ 466  roasted it with care, and drew it all off.
+ 467  Then when they had finished the work and made the meal ready,
+ 468  they feasted, and no heart lacked a fair share of the feast.
+ 469  And when they had put away desire for eating and drinking,
+ 470  the young men filled the mixing-bowls brim-high with drink
+ 471  and served all, pouring first drops in each cup for the god.
+ 472  So all day long they sought the god's grace with song,
+ 473  the young men of the Achaeans singing the beautiful paean,
+ 474  hymning the worker-from-afar; and he listened, and his heart was glad.
+
+ 475  And when the sun went down and darkness came on,
+ 476  they lay down to sleep by the ship's stern-cables;
+ 477  and when early-born rosy-fingered Dawn[36] appeared,
+ 478  then they put to sea for the wide Achaean camp,
+ 479  and Apollo the worker-from-afar sent them a following wind.
+ 480  They stepped the mast and spread the white sails,
+ 481  and the wind filled the belly of the sail, and around the cutwater
+ 482  the surging wave sang loud as the ship went on,
+ 483  and she ran down the waves, making her way.
+ 484  And when they came to the wide Achaean camp,
+ 485  they hauled the black ship up on the mainland,
+ 486  high on the sand, and set the long props under her,
+ 487  and scattered among the huts and ships.
+
+ 488  But he raged on, sitting by his swift-faring ships,[37]
+ 489  the Zeus-sprung son of Peleus, swift-footed Achilles.
+ 490  He never went now to the assembly where men win glory,
+ 491  never to war, but wasted his own heart away
+ 492  staying there, longing for the war-cry and for battle.
+
+ 493  But when the twelfth dawn from that day came,
+ 494  then the gods who live forever went to Olympus
+ 495  all together, Zeus leading. And Thetis did not forget the charge
+ 496  of her son: she rose from the swell of the sea
+ 497  and in the early mist went up to the great sky and Olympus.
+ 498  She found the wide-seeing son of Cronos sitting apart from the others
+ 499  on the topmost peak of many-ridged Olympus.
+ 500  She sat down before him, and took his knees[38]
+ 501  with her left hand, and with her right taking him under the chin,
+ 502  she spoke in supplication to lord Zeus, son of Cronos:
+ 503  "Father Zeus, if ever among the immortals I helped you
+ 504  by word or deed, grant me this wish:
+ 505  honor my son, who is doomed to the swiftest death of all —
+ 506  and now the lord of men Agamemnon
+ 507  has dishonored him: he has taken and keeps his prize; he seized it himself.
+ 508  But honor him, Olympian Zeus of the counsels:
+ 509  give power to the Trojans until the Achaeans
+ 510  pay my son his due and magnify him with honor."
+
+ 511  So she spoke. And Zeus the cloud-gatherer[39] said nothing;
+ 512  he sat silent a long time. And Thetis, as she had clasped his knees,
+ 513  so she held on, clinging close, and asked a second time:
+ 514  "Promise me truly now, and bow your head,
+ 515  or refuse — you have nothing to fear — so I may know well
+ 516  how far I am the most dishonored goddess of all."
+
+ 517  Greatly troubled, Zeus the cloud-gatherer answered her:
+ 518  "A sorry business — you will set me at feud
+ 519  with Hera, when she provokes me with her taunting words.
+ 520  Even as it is she is forever at me among the immortal gods,
+ 521  saying I help the Trojans in battle.
+ 522  Go now, go back, before Hera sees anything;
+ 523  these things will be my care, until I accomplish them.
+ 524  Look — I will bow my head to you, so you may believe:
+ 525  that, from me, is the greatest pledge among the immortals;
+ 526  for nothing of mine can be taken back, nothing proves false,
+ 527  nothing goes unfulfilled, once I bow my head to it."
+
+ 528  The son of Cronos spoke, and nodded with his dark brows,
+ 529  and the ambrosial hair rolled forward from the lord's
+ 530  immortal head; and he shook great Olympus.
+
+ 531  So the two took counsel and parted. She
+ 532  leapt into the deep sea from shining Olympus,
+ 533  and Zeus went to his own house. And the gods all rose
+ 534  from their seats before their father; not one dared
+ 535  stay seated as he came, but all stood up to meet him.
+ 536  So he sat down there on his throne. But Hera
+ 537  had seen, and was not fooled: silver-footed Thetis[40],
+ 538  daughter of the old man of the sea, had counseled with him.
+ 539  At once she spoke to Zeus, son of Cronos, with cutting words:
+ 540  "Which of the gods this time, schemer, has been counseling with you?
+ 541  It is always dear to you to be apart from me,
+ 542  deciding things in secret. Never yet have you brought yourself
+ 543  to tell me openly a word of what you intend."
+
+ 544  Then the father of men and gods answered her:
+ 545  "Hera, do not hope to know all my words:
+ 546  they would be hard for you, wife though you are.
+ 547  Whatever is fitting to hear, no one, god or man,
+ 548  shall know before you;
+ 549  but what I choose to think apart from the gods,
+ 550  do not pry into all that, or question me."
+
+ 551  Then the ox-eyed lady Hera[41] answered him:
+ 552  "Most dread son of Cronos, what a word you have spoken!
+ 553  Before now I have hardly asked or pried;
+ 554  quite at your ease you decide whatever you wish.
+ 555  But now I am terribly afraid at heart that she has won you over —
+ 556  silver-footed Thetis, daughter of the old man of the sea.
+ 557  In the early mist she sat beside you and took your knees,
+ 558  and I think you bowed your head to her, a firm pledge to honor
+ 559  Achilles, and to destroy many beside the Achaean ships."
+
+ 560  Answering her spoke Zeus the cloud-gatherer:
+ 561  "Strange one — always suspecting; I can never escape you.
+ 562  Yet you will have no power to do anything about it, only sit
+ 563  further from my heart — and that will be the colder for you.
+ 564  If this is as you say, then it must be my pleasure.
+ 565  Sit down and be silent, and obey my word,
+ 566  or all the gods on Olympus may be no help to you
+ 567  when I come nearer and lay my irresistible hands on you."
+
+ 568  So he spoke, and the ox-eyed lady Hera was afraid,
+ 569  and sat down in silence, bending her own heart.
+ 570  And through the house of Zeus the heavenly gods were troubled.
+ 571  Then Hephaestus, famed for craft, began to speak among them,
+ 572  bringing comfort to his dear mother, white-armed Hera:
+ 573  "A sorry business this will be, not to be borne,
+ 574  if you two quarrel this way over mortals
+ 575  and drive brawling through the gods. There will be no pleasure
+ 576  in the good feast, when the worse side wins.
+ 577  I advise my mother — though she understands it herself —
+ 578  to bring comfort to our dear father Zeus, so that the father
+ 579  not scold again and throw our feast into confusion.
+ 580  For if the Olympian, lord of lightning, chooses
+ 581  to blast us from our seats — well, he is far the strongest.
+ 582  No — touch him with soft words,
+ 583  and at once the Olympian will be gracious to us."
+
+ 584  So he spoke, and springing up he set the two-handled cup
+ 585  in his dear mother's hand, and said to her:
+ 586  "Bear up, my mother, and endure it, grieved though you are,
+ 587  or I may see you beaten before my eyes,
+ 588  dear as you are — and then, for all my grief, I will have no power
+ 589  to help. The Olympian is a hard one to stand against.
+ 590  Once before, when I was straining to defend you,[42]
+ 591  he caught me by the foot and flung me from the threshold of heaven:
+ 592  all day I fell, and with the setting sun
+ 593  I dropped on Lemnos, and there was little breath left in me;
+ 594  there the Sintian men took me up, quickly, where I had fallen."
+
+ 595  So he spoke, and the goddess white-armed Hera smiled,
+ 596  and smiling took the cup from her son's hand.
+ 597  Then, moving to the right, he poured for all the other gods,
+ 598  drawing sweet nectar from the mixing bowl,
+ 599  and unquenchable laughter rose among the blessed gods
+ 600  as they watched Hephaestus bustling through the halls.
+
+ 601  So all day long until the sun went down
+ 602  they feasted, and no heart lacked a fair share of the feast,
+ 603  nor of the beautiful lyre that Apollo held,
+ 604  nor of the Muses, who sang in answer with lovely voice.
+
+ 605  But when the bright light of the sun had set,
+ 606  they went each to his own house to lie down,
+ 607  where for each of them the famed crook-footed god,
+ 608  Hephaestus, had built a house with cunning skill.
+ 609  And Zeus the Olympian, lord of lightning, went to his own bed,
+ 610  where he always lay when sweet sleep came upon him;
+ 611  there he climbed and slept, with Hera of the golden throne beside him.
+
+------------------------------------------------------------
+
+Notes
+
+[1] (1.1) "wrath" (μῆνιν) — the poem's first word and announced theme.
+    Rendered "wrath" rather than "rage" or "anger": mēnis is a sustained,
+    quasi-divine grudge (elsewhere used almost solely of gods), not a flash
+    of temper, and "wrath" carries that weight. See the commentary above.
+
+[2] (1.3) "souls" (ψυχάς) — Apollonius Rhodius is reported to have read
+    κεφαλάς, "heads" (apparatus/book_01.txt, Line 3). The vulgate "souls"
+    is kept; "hurled heads to Hades" would make the bodies-for-dogs of the
+    next lines redundant.
+
+[3] (1.4-5) Zenodotus athetized both lines (apparatus, Line 4-5: ath. Zen);
+    separately his text is reported (via Athenaeus) to have read δαῖτα,
+    making the corpses "a feast" for the birds (disputed_lines.md #1).
+    Translated from the vulgate (πᾶσι, "every bird"), keeping the grim
+    literal image over the sardonic "banquet"; see commentary.
+
+[4] (1.7) "lord of men" (ἄναξ ἀνδρῶν) — Agamemnon's fixed title epithet,
+    always so rendered. Likewise δῖος ("heavenly, radiant") is always
+    "brilliant" — of Achilles and Odysseus here, of many heroes later.
+    Epithet conventions are noted at first occurrence only; the full list
+    lives in translation/CONVENTIONS.md.
+
+[5] (1.14-15) The wreaths (στέμματα) are the god's woolen fillets, carried
+    on the priest's golden staff: portable proof of sacred office. Chryses
+    arrives simultaneously as suppliant and as Apollo's representative,
+    so Agamemnon's threat in 26-32 is sacrilege, not mere rudeness.
+
+[6] (1.14) "who strikes from afar" (ἑκηβόλος) — first of Apollo's archer
+    epithets, a family rendered consistently: ἑκηβόλος/ἑκατηβόλος and
+    ἑκατηβελέτης "who strikes from afar," ἕκατος "the far-striker,"
+    ἑκάεργος "the worker-from-afar."
+
+[7] (1.17) "strong-greaved Achaeans" (ἐϋκνήμιδες Ἀχαιοί) — stock epithet
+    of the army (greaves: bronze shin-guards). Note also that "Achaeans,"
+    "Danaans," and "Argives" all name the same Greek host interchangeably,
+    as meter requires; the translation keeps whichever the Greek uses.
+
+[8] (1.29-31) Aristarchus athetized these three lines (apparatus, Line
+    29-31: ath. Ar.) — ancient critics found Agamemnon's leering detail
+    unbecoming. Kept, following the printed text; the coarseness is
+    dramatically apt at this first display of his character.
+
+[9] (1.34) "loud-roaring sea" (πολυφλοίσβοιο θαλάσσης) — famous
+    onomatopoeic formula for the surf-line, rendered thus wherever it
+    recurs.
+
+[10] (1.39) "Smintheus" — obscure cult title of Apollo, in antiquity
+     connected with σμίνθος "mouse"; a mouse-god (whether as sender or
+     averter of vermin and pestilence) suits the plague-god invoked here.
+     Left untranslated, as a cult name.
+
+[11] (1.46-47) Zenodotus athetized these two lines (apparatus, Line 46-47:
+     ath. Zen) — the clashing arrows and "he came on like nightfall."
+     Kept; the simile is among the most admired in the poem.
+
+[12] (1.55) "white-armed Hera" (λευκώλενος Ἥρη) — her fixed epithet;
+     white forearms as a mark of female beauty (elite women stayed
+     unsunburned).
+
+[13] (1.58) "swift-footed Achilles" — his defining epithet. The Greek
+     alternates πόδας ὠκύς ("swift as to his feet") and ποδάρκης
+     ("foot-strong") by metrical convenience; both are rendered
+     "swift-footed" rather than inventing a distinction English cannot
+     hear.
+
+[14] (1.63) "for a dream too is from Zeus" — athetized by Zenodotus
+     (apparatus, Line 63: ath. Zen). Kept; the parenthetical
+     justification is characteristic of Achilles' earnest style here.
+
+[15] (1.65) "hecatomb" (ἑκατόμβη) — literally "a hundred oxen," in
+     practice any large-scale public sacrifice (the one at 458 ff. is of
+     bulls and goats, far fewer than a hundred). Kept as the standard
+     English term.
+
+[16] (1.97) For this line Zenodotus' text read instead "until he holds
+     back the plague's heavy hands from the Danaans" (apparatus, Line 97).
+     The vulgate, printed here, makes Apollo the subject throughout;
+     the sense is not materially changed.
+
+[17] (1.118-120) "prize" (γέρας) — the concrete share of spoils publicly
+     awarded as the embodiment of a warrior's honor (τιμή). Chryseis and
+     Briseis are both gera. The entire quarrel runs on this institution:
+     to lose one's geras by force is to be publicly declared worthless,
+     which is why Achilles calls the seizure "dishonoring" (ἀτιμάζειν).
+     "Prize" is kept rigidly for γέρας throughout the translation.
+
+[18] (1.143) "fair-cheeked" (καλλιπάρῃος) — stock beauty epithet, used in
+     this book of both Chryseis and Briseis; always so rendered.
+
+[19] (1.159) "dog-face" (κυνῶπα) — in Homeric invective the dog is the
+     type of shamelessness (scavenging, fawning, no sense of decency),
+     not of loyalty; hence also "dog's eyes" in Achilles' next speech
+     (225). The insults are translated literally to keep their animal
+     force.
+
+[20] (1.201) "winged words" (ἔπεα πτερόεντα) — formula for direct speech
+     launched at an addressee, probably from the image of a feathered
+     arrow flying straight to its mark; always so rendered.
+
+[21] (1.202) "aegis-bearing Zeus" (αἰγίοχος) — the aegis is Zeus's
+     terror-inducing goat-skin storm-shield, wielded also by Athena;
+     his commonest fixed epithet.
+
+[22] (1.206) "grey-eyed Athena" (γλαυκῶπις Ἀθήνη) — γλαυκῶπις may mean
+     "gleaming-eyed" or "grey/silvery-eyed," and was anciently connected
+     with γλαύξ "owl," her bird. "Grey-eyed" is adopted as the
+     conventional English; the gleam, not the hue, is what the scenes
+     exploit (cf. 200, "the eyes shining terribly").
+
+[23] (1.225-233) Zenodotus athetized this entire opening of Achilles'
+     tirade through the beginning of the oath (apparatus, Line 225-233:
+     ath. Zen) — presumably as unworthy abuse. Kept: the escalation from
+     insult to formal oath-on-the-staff is the dramatic hinge of the
+     assembly.
+
+[24] (1.265) The Theseus line is absent from most manuscripts and is
+     identical to Hesiod, Shield 182; it is almost certainly a later
+     insertion here (apparatus, Line 265: om. vulg.). Retained, bracketed
+     by no marks, since the printed text keeps it — but it is the weakest
+     line of the catalogue. The "beasts that lair in the mountains" (268,
+     φῆρες) are the centaurs: Nestor is recalling the Lapith-centaur war.
+
+[25] (1.291) "give him leave to hurl insults" — the verb προθέουσιν is an
+     old crux: taken here (with the project treebank) as from προτίθημι,
+     "do they set it before him / license him?"; others derive it from
+     προθέω, "do his insults run out ahead?" The sarcastic sense —
+     prowess is god-given, abuse is not — is the same either way.
+
+[26] (1.307) "Menoetius' son" — Patroclus, here making his first,
+     silent appearance in the poem; he is named at 337.
+
+[27] (1.311) "resourceful Odysseus" (πολύμητις) — "of much cunning
+     intelligence (mētis)"; his fixed epithet, always so rendered.
+
+[28] (1.316) "barren sea" (ἀτρυγέτοιο) — formulaic sea-epithet of
+     uncertain sense, traditionally "unharvested/yielding no crop";
+     "barren" is adopted as the convention.
+
+[29] (1.350) "the boundless deep" — the printed text follows Aristarchus'
+     reading ἀπείρονα ("boundless"); nearly all manuscripts have οἴνοπα,
+     the famous "wine-dark sea" (apparatus, Line 350). Readers expecting
+     "wine-dark" here are remembering the manuscript vulgate. Translated
+     as printed, with real regret.
+
+[30] (1.366) Thebe — a town of the Troad ruled by Eëtion, father of
+     Hector's wife Andromache. Achilles sacked it; Chryseis was captured
+     there (visiting, evidently, since her home is Chryse). The raid
+     resurfaces in Book 6 as the source of Andromache's griefs.
+
+[31] (1.372-379) These eight lines repeat 12-16 and 22-25 verbatim —
+     normal epic technique when a character retells events — and
+     Aristarchus athetized the repetition here (apparatus, Line 372-379:
+     ath. hic Ar.). Kept, and translated in identical words, since
+     verbatim recurrence is a deliberate feature of the style.
+
+[32] (1.396-406) Zenodotus athetized the whole Briareus digression
+     (apparatus, Line 396-406: ath. Zen) — the only surviving mention of
+     this failed divine coup against Zeus. At 400 his text also named
+     "Phoebus Apollo" among the conspirators instead of "Pallas Athena"
+     (apparatus, Line 400). Kept as printed: the story is doing real
+     work, reminding Zeus (through Thetis) of a concrete debt.
+
+[33] (1.403-404) A rare glimpse of double naming: gods say "Briareus,"
+     men say "Aegaeon." The hundred-handed giant is elsewhere a son of
+     Uranus; "stronger than his father" here more likely points to a
+     tradition making him Poseidon's son. Zenodotus' text expanded the
+     line with a verse on his strength (apparatus, Line 404).
+
+[34] (1.423-425) The gods' twelve-day absence feasting with the
+     "blameless Ethiopians" at the world-encircling stream of Ocean is a
+     standard epic device for clearing the divine stage. "For a feast"
+     follows Aristarchus' reading κατὰ δαῖτα (apparatus, Line 424).
+
+[35] (1.458-466) The standard Homeric sacrifice, described with ritual
+     precision: barley thrown, head drawn back, throat cut; thigh-bones
+     wrapped in a double fold of fat with raw strips laid on top are the
+     god's portion, burned with wine poured over; the innards (σπλάγχνα)
+     are tasted first by the participants, then the rest is spitted and
+     roasted for the shared feast. The gods receive smoke and savor; the
+     people, dinner.
+
+[36] (1.477) "early-born rosy-fingered Dawn" (ῥοδοδάκτυλος Ἠώς) — the
+     most famous of all Homeric formulas, marking daybreak; always so
+     rendered.
+
+[37] (1.488-492) Zenodotus athetized these five lines on Achilles wasting
+     his heart in idleness (apparatus, Line 488-492: ath. Zen.). Kept:
+     they are the essential bridge from quarrel to consequence, holding
+     Achilles motionless while the plot moves to Olympus.
+
+[38] (1.500-501) Thetis performs the full ritual of supplication: crouch
+     before the person, clasp the knees with one hand, reach for the chin
+     with the other. A completed supplication put the supplicated under
+     strong obligation — hence Zeus's trapped silence at 511-512.
+
+[39] (1.511) "Zeus the cloud-gatherer" (νεφεληγερέτα Ζεύς) — his fixed
+     weather-god epithet, always so rendered.
+
+[40] (1.538) "silver-footed Thetis" (ἀργυρόπεζα) — her fixed epithet.
+     The "old man of the sea" is Nereus, her father, never named in the
+     Iliad but always so designated.
+
+[41] (1.551) "ox-eyed lady Hera" (βοῶπις πότνια Ἥρη) — her second fixed
+     epithet: large, dark, liquid eyes as an archaic mark of majesty and
+     beauty, possibly a fossil of older theriomorphic cult. Rendered
+     literally.
+
+[42] (1.590-594) Hephaestus' fall: Zeus once hurled him from Olympus for
+     siding with Hera; he fell a whole day, landed on Lemnos, and was
+     tended by the Sintians, the island's non-Greek early inhabitants.
+     Lemnos was the chief historical center of Hephaestus' cult. (Book 18
+     has a different, incompatible fall-story — thrown by Hera at birth;
+     the poem tolerates both.)

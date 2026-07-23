@@ -1,0 +1,78 @@
+BOOK 20 — Apparatus Criticus (Monro-Allen, OCT 3rd ed., 1920)
+============================================================
+
+See README.md in this directory for a legend of the critical abbreviations
+(ath., Zen., Ar., Aristoph., vulg., om., codd., cf., Hdn., etc.).
+
+This file is a mechanical extraction from OCR'd scans of the Oxford Classical Text. The Greek text OCR is frequently garbled (diacritics and some letterforms are unreliable); critical sigla and Latin abbreviations are generally more reliable. Entries marked with no line number below could not be confidently tied to a specific Iliad line and are listed at the end as unplaced fragments.
+
+Note: a couple of short OCR gaps in this book's source pages were too heavily corrupted to reliably extract and were omitted rather than guessed at.
+
+------------------------------------------------------------
+
+Line 40: Διὸς θυγάτηρ τ᾽ v.l T
+Line 42: τόφρα δ᾽ VIV?î v.1. A: τέως μὲν 17: τέως ἂρ Mo: τείως P° MS: τέως cet
+Line 51: ade) ὦρτο Strab. 597
+Line 53: θεῶν Ar. bh1pADV!6: θέῶν Β Μ8 ΜΙΞ V20WS
+Line 57: νέρθε Ar. Pi U!0 v.l. in U4: ἔνερθε vulg
+Line 59: πολυπίδακος Ar. bhA BC NI : πολυπιδάκου vulg. (cf. 218)
+Line 60: νῆες} τεῖχος g 62 ἄλτο] ὦρτο Mass., v.l. in A 77 é Ar. BCLSLS8N! V!0 V20: ye vulg. if iaia are rie ten pini 84 ὑπίσχεο Ar. bchr ABCDNITVIVI®V2: ὑπέσχεο vulg.. 99 ἰθὺς p°1pr ABC Ge Vs v!2 al
+Line 100: διελθεῖν cpABC N! roI οὔ κε μάλα ΑΒΟΊΤ ΝΙΝ: οὔ μέ κε μάλα h: pe cet. dela bh VI 114 ἡ Ar. codd. Zen. στήσασα Ar. (καὶ αἱ πλεῖσται : καλέσασα Zen. codd. μετὰ μῦθον ἔειπε) ῥεῖα ζώοντας Zen
+Line 125-128: ath. Ar
+Line 135: om. vulg.: hab. p°bdipgA 138 ἄρχωσι Ar. P°ceop BCN!TVI6V29, ss.: ἄρχῳσι A: ἄρχησι Zen. vulg. ἢ] ἰδὲ ge: καὶ M° εἰ δέ κεν ὼς ἄρχωσιν Αρης καὶ Φοῖβυς ᾿Απόλλων ν.] T 143 ἀναγκαίηφι i L!9 ΜΆ MI? VII, v in A: ἀνάγκῃ ἴφι vulg. : ἀναλ- κίῃσι x V9 VI4 155 ὄκνεον v.l. ant., 1.18 T: ὥκν. cet. 158 ἄμυδις δὲ καὶ PI! U4
+Line 163: τινάσσων ΡἸ U4
+Line 166: κρειῶν ἐρατίζων h p ὕ0 V4 ἃ ss. (A
+Line 551: Ρ 660)
+Line 170: πλευρά & ἀμφοτέρωσε v.l. ant., DU? V12 20. ἸΛΙΆΔΟΣ Ὺ 171 ἐὲ} αἰὲν g: αἰεὶ 131,17 Μ1δ VS; ἐν ἃ : ἠδ᾽ VI μαχέσασθαι Ὁ ἃ gmal.: καχέεσθαι vulg
+Line 178: τί νυ ΚΙ
+Line 180-186: ath. Ar
+Line 185: καλὸν] ἐσθλὸν ο ξᾳ ABC al
+Line 187: φόβησα Ὁ ΕΡ ABCV!V16 188 ἄπο] ἔπι Aristoph. Rhianus Chia
+Line 190: τότε] πρὶν Et. M. 345. 36
+Line 191: κεῖθεν Dem. Sceps. ap. Strab. 607
+Line 195-198: ath, Ar
+Line 195: νῦν ἐρύεσθαι Ar. g ΜΙ δ; νῦν σε ῥύεσθαι vulg
+Line 200: μ᾽ ἐπέεσσί γε codd.: μ᾽ om. Ca! 5
+Line 205-209: ath. Ar
+Line 215: αὖ) ἂρ 5ᾺΡΑ
+Line 55: N4V! V16
+Line 218: πολυπιδάκου Fil mA marg. B Dit. Plat. Legg
+Line 681: e, Strab. 592 (cf. 59) 222 ἅπαλοῖσι Me (-for U!, VI m.r.) versum ἐν μαλακῷ λειμῶνι καὶ ἄνθεσιν elapivoîaw post
+Line 223: add post
+Line 224: g.M* M!0 V10 224 ἐμίγη φιλότητι καὶ εὐνῇ v.l. ant
+Line 228: δὴ] δὲ Ar. N4V10 231 ἀμύμονος bd hip
+Line 234: καὶ] μὲν ν.]. ant. (κατ᾽ ἔνια)
+Line 243: kdpriotos] κ᾽ dx ἄριστος e p ABC ΜῸ Νιν V15
+Line 251-255: ath. Ar
+Line 251: νείκεα] ὀνείδεα v.l. in A
+Line 255: πόλλ᾽ èred τε vulg. : moMAà td te cpABCN!: πόλλ᾽ ἔτ᾽ ἐόντα τὰ δ΄ οὐκί U2, U4 mg. : πόλλ᾽ ἐόντα τε καὶ οὐκί L!* Mo ΝΈ : πολλά τ᾽ ἐόντα Ar. uv
+Line 256: μεταστρέψεις cpABCN! HOM. IL. 13-24 12
+Line 259: σάκεϊ ἔλασ᾽ Ar. χάλκεον θᾶ ΒοΤ'
+Line 260: σμερδαλέον g i ἀκωκῇ ed ABCD L!9N! al.: ἀκωκή vulg. 261 ἕο] οὗ Zen. 263 ῥέα Ar. h: ῥεῖα vulg. διελεύσεσθαι ghlal.: δ᾽ ἐλεύσεσθαι vulg
+Line 265: δῶρα] ἔργα v.l. ant
+Line 269-272: ath. Ar. al., om. quidam ant. (προηθετοῦντο παρ᾽ ἐνίοις τῶν σοφιστῶν, ἐν ἐνίοις δὲ οὐδὲ ἐφέ- povro $ T) 269 ἔλασσε] θλάσσε qu B Autochthon ap. Porph. ap. Eust., PI ss. : ἔθλασε Ca' corr
+Line 272: μείλινον cegmpABC al.: χάλκεον vulg. pro
+Line 273-274: δεύτερον αὖτ᾽ ᾿Αχιλεὺς μελίην ἰθυπτίωνα ἀσπίδα vit εὔχαλκον ἀμύμονος Αἰνείαο Zen. (μελίῃ ἰθυπτίωνι coni. Heyne) 288 ἐπεσσύμενος e f g N! V16
+Line 296: τί] τίς g ss. 303 ἄφαντος γενεὴ δμηθέντος ὄμηται Ar PI! U4 ἄσπερμος.. .. μετόπισθεν Max. Tyr. 26. 9 306 ἤχθαιρε Aristoph. : -εἰρε V!4
+Line 307: γένος πάν- τεσσιν ἀνάξει Strab. 608 : Αἰνείω γενεὴ π. è SAT
+Line 808: γένωνται] λίπωνται v. ]. ant. (αἱ διὰ τῶν πόλεων), D° om. P°bghipr ABCDV3? > P ia 12*
+Line 317: καιομένη καίωσι fA ss. Lî M° M® M!8 γι; δαιομένη δαίωσι vulg
+Line 322-324: ath. Ar. 325 ἐπέσευεν bh V82
+Line 331: τὸν καὶ Rbhi. νεικείων Rhi. Zen. 332 àréovra Ar. (ἐν πάσαις), vulg. : xaréovra hlq L!8: ἀέκοντα eg: ἀκέοντα US V!4: ἀέκητι N'm. rec. Vi? 333 ἀντία Πηλείωνος ὑπερθύμοιο e1 mp ABCV!?: ἀντί ᾿Αχιλλῆος πολεμίζειν ἠδὲ ν.]. in A, vulg
+Line 338: τρώεσσι Pa ΒΤ 363 ὅς κεν eh A ss. UN VI ἔγχεος ἀντίος ἃ h VS? 365 ἵμενας codd, : -μμ- E. Μ 467. 20
+Line 369: μύθοισι τέλος πάντεσσ᾽ h U!O
+Line 371: τοῦ] τῷ cABCN!V!?
+Line 414: παραΐσσοντα acfiT al
+Line 421: τῶ fd r κέχυτο xAods P° h U!0 V16: χόλος 2: χρόος, yp. VI? 422 ᾿Αχιλῆ P9efp ABCV!®: ᾿Αχιλῆος vulg. 424 ὡς ἴδεν v in Eust. 425 ἐπεμάσσατο L19 N4 V4 VviI0 426 ἂν Ar. eh1V!: ἄρ᾽ vulg. 445 ἐπόρουσε κατακτάμεναι μενεαίνων M?9, ν in U*
+Line 447: om. vulg.: hab. bcpg ABCN! (ἐν ἄλλοις ὁ στίχος οὗτος οὐ κεῖται A marg.) 453 ἐστι] εἴη n {0}9 : ἔλθοι e VI! VI8 V82: ἔσται V!5
+Line 454: νῦν αὖ τοὺς ἄλλους 11.21.5 γῈλρν1η} V16 V18 V32, ν in A: νῦν δ᾽ ἄλλους Τρῶας gh: νῦν δ᾽ ἄλλους Τρώων vulg. ἔτι vv. ll. in A 471 ἐνέπρησεν Ar. Fhiloxenus ir M4T A ss
+Line 473: κατ᾽] rap cp ABCN!
+Line 479: μέσης διὰ χειρὸς ἔλασσεν p'
+Line 480: αἰχμὴ χαλκείῃ cfgil1 ABCGe: αἰχμὴ χαλκείη cet
+Line 481: πρόσσ᾽ (χωρὶς τοῦ θ᾽ Zen. 484 ῥ᾽ om. h V!1 Πείρεως Zen. [1.1 ΝῚ m. r. P2! Pal! : -peos 1.5 P?
+Line 486: rvebuovi p celpq ABCNI! 496 ἐϊτροχάλῳ P° cela V!* γρ. Α N', cf. Hes. Qpp. 599 502 ὀπισσώτρων PP U? (cf. 394) I πόρον] ῥόον Aristoph. 2 ἀθάνατον Zen. (cf. Β 741) 4 ᾽Αχαιοὶ p° A U® VI VI2 γρ. h L4Eust. : οὗ ἄλλοι vulg. II èvveov] νήχοντ᾽ v ant. (ἔνιαι τῶν κατὰ πόλεις) περὶ cp ABCNI: κατὰ vulg οπισθε È αὐτὸς δ᾽ aly’ ἐπόρουσεν v.i. ant. ἔνθορε Ὁ N* U* U!3 VI VI18 (uv.), v. Lim ATEust.: ἔκθορε H! P3 PS VS V14 Vi? yp, T
+
+------------------------------------------------------------
+Unplaced fragments (line number not confidently recovered):
+
+[?]: ἐνὶ νὰ]. κέκασται Ar. bhi N! V82: κέκαστο vulg

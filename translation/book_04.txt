@@ -1,0 +1,752 @@
+BOOK 4
+
+The truce broken: Pandarus's arrow, the review of the troops, and the
+first battle of the poem.
+
+TRANSLATOR'S COMMENTARY
+
+Book 4 contains the poem's moral pivot — the gods deliberately engineer the
+breaking of a sworn truce — and its first battle. The divine council that
+opens the book is the darkest divine politics in the Iliad: Zeus proposes
+peace (perhaps in earnest, perhaps as bait), Hera offers him her own three
+dearest cities, Argos, Sparta, and Mycenae, to destroy at will in exchange
+for Troy's ruin, and Zeus concedes with the unforgettable "willingly — with
+unwilling heart." Aristarchus athetized the sharpest couplet of Hera's
+speech (55-56; note [3]), but the transaction stands in the text: the war
+resumes because two gods trade cities like counters. I have translated the
+scene coldly, without softening the horse-trading tone, because the
+Pandarus scene that follows — Athena talking a fool into perjury his whole
+people will pay for — is its direct execution.
+
+This is also the book where the poem's combat idiom begins, and the
+conventions set here bind the remaining twenty books (all logged in
+translation/CONVENTIONS.md): death formulas rendered fixed and unvarying
+("darkness covered his eyes"; "he fell with a thud, and his armor clattered
+upon him"; "unstrung his limbs"), wound anatomy kept clinically precise as
+the Greek keeps it, and the armor vocabulary settled (ζωστήρ "war-belt,"
+ζῶμα "loin-guard," μίτρη "waist-guard"). The first man to die in the Iliad
+is Echepolus at 457 (note [22]); the first extended pathos-vignette is
+Simoeisios at 473-489 (note [23]), the young man felled like a poplar cut
+for a chariot-wheel, who "never paid back the cost of his rearing" — the
+template for a hundred deaths to come.
+
+Agamemnon's inspection tour (the epipōlēsis, 223-421) is the book's long
+character study: honeyed words for Idomeneus and the Ajaxes, wistful
+respect for Nestor, and gratuitous insults for Odysseus and Diomedes —
+both unearned, both answered in ways that define each man (Odysseus with
+hot dignity, Diomedes with a silence that will pay out in Book 9). The
+rebuke of Diomedes drags in the Theban saga (notes [18], [19]) — the
+Iliad's fullest glance at the war of the previous generation, and
+Sthenelus's retort ("we took seven-gated Thebes; our fathers died of
+their own recklessness") was athetized by Aristarchus, perhaps for its
+flat contradiction of Agamemnon's point.
+
+------------------------------------------------------------
+
+   1  Now the gods, seated beside Zeus, were holding assembly
+   2  on the golden floor, and among them the lady Hebe
+   3  poured nectar; and they with golden cups
+   4  pledged one another, looking out at the city of the Trojans.
+   5  And at once the son of Cronos set about provoking Hera
+   6  with needling words, speaking sidelong:
+   7  "Two of the goddesses are helpers of Menelaus —
+   8  Hera of Argos and Athena of Alalcomenae —[1]
+   9  and yet the two of them sit apart, looking on,
+  10  taking their pleasure; while laughter-loving Aphrodite
+  11  is forever at that other's side, and keeps the fates of death from him:
+  12  just now she saved him when he thought to die.
+  13  Still — victory belongs to Menelaus dear to Ares.
+  14  So let us consider how these things shall be:
+  15  whether we shall stir up evil war again and the dread din
+  16  of battle, or cast friendship between the two sides.
+  17  If somehow this should be welcome and sweet to all,
+  18  then let the city of lord Priam stay a place men live in,
+  19  and let Menelaus take Argive Helen home again."
+  20  So he spoke, and they murmured at it, Athena and Hera,
+  21  who sat side by side plotting evils for the Trojans.
+  22  Athena, to be sure, stayed silent and said nothing,
+  23  sulking at father Zeus, wild anger gripping her;
+  24  but Hera's breast could not contain her anger, and she spoke:
+  25  "Most dread son of Cronos, what a word you have spoken!
+  26  How can you wish to make my labor vain and unaccomplished —
+  27  the sweat I sweated in my toil, my horses worn out
+  28  gathering the host, to bring evils on Priam and his sons?
+  29  Do it. But we other gods do not all approve it."
+  30  Greatly troubled, Zeus the cloud-gatherer answered her:
+  31  "Possessed one — what great evils do Priam and Priam's sons
+  32  do you, that you rage without respite
+  33  to sack the well-built citadel of Ilion?
+  34  If you could go in through the gates and the long walls
+  35  and eat Priam raw, and Priam's sons,[2]
+  36  and the other Trojans too — then you might cure your anger.
+  37  Do as you please. Only let not this quarrel
+  38  become in time a great strife between you and me.
+  39  And I will tell you another thing — put it away in your heart:
+  40  whenever I in my turn am bent on sacking a city,
+  41  and choose one where men dear to you were born,
+  42  do not try to delay my anger, but let me be:
+  43  for I too have given you this willingly — with unwilling heart.
+  44  Of all the cities under the sun and the starry sky
+  45  that men who dwell on the earth inhabit,
+  46  holy Ilion was most honored in my heart,
+  47  and Priam, and the people of Priam of the good ash spear.
+  48  Never did my altar there lack its fair share of the feast,
+  49  the libation and the savor: for that is the honor-portion we gods have."
+  50  Then the ox-eyed lady Hera answered him:
+  51  "Three cities there are far dearest of all to me:
+  52  Argos, and Sparta, and wide-wayed Mycenae.
+  53  Sack these, whenever they grow hateful to your heart;
+  54  I do not stand in front of them; I do not grudge them to you.
+  55  For even if I did begrudge them, and refused you their sacking,
+  56  my grudging would accomplish nothing: you are far the stronger.[3]
+  57  But my labor too must not be made unaccomplished.
+  58  I also am a god; my birth is from the same stock as yours;
+  59  crooked-counseled Cronos begot me, eldest of his daughters —
+  60  eldest doubly: by birth, and because I am called
+  61  your wife, and you are king among all the immortals.
+  62  Come — in this let us yield to one another,
+  63  I to you and you to me, and the other immortal gods
+  64  will follow. Quickly now: order Athena
+  65  to go down into the dread din of Trojans and Achaeans
+  66  and contrive that the Trojans be the first to do harm,
+  67  against the oaths, to the Achaeans now in their glory."
+  68  So she spoke, and the father of men and gods did not disobey:
+  69  at once he addressed Athena with winged words:
+  70  "Go with all speed to the armies, to the Trojans and Achaeans,
+  71  and contrive that the Trojans be the first to do harm,
+  72  against the oaths, to the Achaeans now in their glory."
+  73  So speaking, he stirred Athena, already eager;
+  74  and down from the peaks of Olympus she went darting.
+  75  As the son of crooked-counseled Cronos sends a star,
+  76  a portent to sailors or to the wide host of an army,
+  77  blazing, and sparks stream from it in multitudes —
+  78  in such a likeness Pallas Athena darted to earth
+  79  and leapt down into the middle; and amazement held the watchers,
+  80  the horse-taming Trojans and the strong-greaved Achaeans;
+  81  and thus one would say, with a glance at his neighbor:
+  82  "Either evil war and the dread din of battle
+  83  are coming again — or Zeus is setting friendship
+  84  between the two sides, Zeus, the dispenser of war to men."
+  85  So one of the Achaeans and Trojans would say.
+  86  And she, in the likeness of a man, went down into the Trojan throng —
+  87  of Laodocus, Antenor's son, a strong spearman —
+  88  searching for godlike Pandarus, if she might find him.
+  89  She found Lycaon's son, blameless and strong,
+  90  standing; and around him the strong ranks of shield-bearing
+  91  men who had followed him from the streams of Aesepus.
+  92  Standing close, she spoke winged words to him:
+  93  "Would you let me persuade you, war-minded son of Lycaon?
+  94  Would you dare send a swift arrow at Menelaus,
+  95  and win favor and glory in the eyes of all the Trojans —
+  96  of prince Alexandros most of all?
+  97  From him first of anyone you would carry off shining gifts,
+  98  if he should see Menelaus, Atreus' warlike son,
+  99  brought down by your shaft and set on the grievous pyre.
+ 100  Come then — shoot an arrow at glorious Menelaus,
+ 101  and vow to Apollo the Lycian-born, famed for the bow,[4]
+ 102  to offer a splendid hecatomb of firstborn lambs
+ 103  when you come home to the town of holy Zeleia."
+ 104  So spoke Athena, and persuaded the fool's heart.
+ 105  At once he uncased his polished bow, made from the horn[5]
+ 106  of a leaping wild ibex which he himself had once shot
+ 107  under the chest as it stepped out from a rock — lying
+ 108  in wait in a blind, he struck it in the chest,
+ 109  and it fell back flat on the rock. From its head the horns
+ 110  had grown sixteen palms; and the craftsman, the horn-polisher,
+ 111  fitted them together, smoothed all smooth, and set on a tip of gold.
+ 112  This bow he strung, bending it well, and laid it down
+ 113  propped against the ground; and his good companions held their shields before him,
+ 114  so the warlike sons of the Achaeans should not spring up
+ 115  before Menelaus, Atreus' warlike son, was hit.
+ 116  Then he stripped the lid from his quiver and took out an arrow,
+ 117  never yet shot, winged, a base of black pains;[6]
+ 118  and quickly he set the bitter shaft in order on the string,
+ 119  and vowed to Apollo the Lycian-born, famed for the bow,
+ 120  to offer a splendid hecatomb of firstborn lambs
+ 121  when he came home to the town of holy Zeleia.
+ 122  Gripping together the notched butt and the string of ox-sinew, he drew:
+ 123  the string he brought to his breast, and to the bow the iron head.[7]
+ 124  And when he had strained the great bow into a circle,
+ 125  the horn sang, the string cried aloud, and the arrow leapt,
+ 126  sharp-pointed, raging to fly on into the crowd.
+ 127  But the blessed immortal gods did not forget you,
+ 128  Menelaus — first among them Zeus's daughter, the driver of the spoil,
+ 129  who stood before you and warded off the piercing shaft.
+ 130  She brushed it back from the skin just so far as a mother
+ 131  brushes a fly from her child when he lies in sweet sleep,
+ 132  and steered it herself to where the golden buckles[8]
+ 133  of the war-belt met and the corslet lay doubled.
+ 134  Into the fastened war-belt fell the bitter arrow:
+ 135  through the wrought belt it was driven,
+ 136  through the richly worked corslet it pressed on,
+ 137  and through the waist-guard he wore to shield his flesh, a fence against javelins —
+ 138  that guarded him best, yet it passed through even this;
+ 139  and the arrow grazed the outermost skin of the man,
+ 140  and at once dark-clouded blood ran down from the wound.
+ 141  As when some woman of Maeonia or Caria stains[9]
+ 142  ivory with crimson, to be a cheek-piece for horses;
+ 143  it lies in a treasure-room, and many horsemen
+ 144  have prayed to carry it; but it lies there, a king's treasure,
+ 145  both ornament for the horse and glory for the driver:
+ 146  so, Menelaus, your shapely thighs were stained
+ 147  with blood, your shins, and your fine ankles beneath.
+ 148  Then the lord of men Agamemnon shuddered
+ 149  as he saw the black blood running down from the wound,
+ 150  and Menelaus dear to Ares shuddered himself;
+ 151  but when he saw the binding-cord and the barbs still outside the flesh,
+ 152  the spirit was gathered back into his breast.
+ 153  But groaning heavily, the lord Agamemnon spoke among them,
+ 154  holding Menelaus by the hand, and the companions groaned with him:
+ 155  "Dear brother, it was your death I was cutting in those oaths,[10]
+ 156  setting you out alone before the Achaeans to fight the Trojans —
+ 157  now the Trojans have shot you down and trampled the sworn oaths.
+ 158  Yet not in vain are the oath, the blood of lambs,
+ 159  the unmixed libations, the right hands we trusted.
+ 160  For if the Olympian has not fulfilled it at once,
+ 161  he fulfills it late — and men pay greatly for it,
+ 162  with their own heads, and their wives, and their children.
+ 163  For this I know well in my mind and heart:
+ 164  the day will come when holy Ilion shall perish,
+ 165  and Priam, and the people of Priam of the good ash spear,
+ 166  and Zeus the son of Cronos, high-throned, dwelling in the sky,
+ 167  will himself shake his dark aegis over them all
+ 168  in anger at this deceit. These things will not go unaccomplished.
+ 169  But my grief for you will be terrible, O Menelaus,
+ 170  if you die and fill up your portion of life.
+ 171  I would go back to thirsty Argos in utter disgrace,
+ 172  for the Achaeans would think at once of their fatherland,
+ 173  and we would leave to Priam and the Trojans their boast —
+ 174  Argive Helen; and the field would rot your bones
+ 175  as you lay in Troy, the work unaccomplished.
+ 176  And thus some overweening Trojan will say,
+ 177  leaping on the tomb of glorious Menelaus:
+ 178  'May Agamemnon bring his anger to this end in every case —
+ 179  as now he led an Achaean army here for nothing,
+ 180  and has gone off home to his dear fatherland
+ 181  with empty ships, and left good Menelaus behind.'
+ 182  So some day one of them will say. Then let the wide earth gape for me."
+ 183  But tawny-haired Menelaus spoke to reassure him:
+ 184  "Take heart; do not frighten the Achaean host at all.
+ 185  The sharp shaft is not fixed in a mortal place: before that
+ 186  my glittering war-belt saved me, and beneath it
+ 187  the loin-guard, and the waist-guard bronze-smiths labored on."
+ 188  Answering him spoke the lord Agamemnon:
+ 189  "May it be so indeed, dear Menelaus.
+ 190  But a healer will probe the wound and lay on it
+ 191  drugs to stop the black pains."
+ 192  He spoke, and addressed Talthybius the godlike herald:
+ 193  "Talthybius — as quick as you can, call Machaon here,
+ 194  the man who is son of Asclepius the blameless healer,[11]
+ 195  to see Menelaus, Atreus' warlike son,[12]
+ 196  whom someone skilled in the bow has shot with an arrow,
+ 197  some Trojan or Lycian: glory for him, grief for us."
+ 198  So he spoke, and the herald heard and did not disobey.
+ 199  He went through the host of the bronze-shirted Achaeans
+ 200  peering for the hero Machaon; and he saw him
+ 201  standing, with the strong ranks of shield-bearing men
+ 202  around him, who had followed him from horse-pasturing Tricca.
+ 203  Standing close, he spoke winged words:
+ 204  "Rise, son of Asclepius. The lord Agamemnon calls,
+ 205  to see Menelaus, the warlike captain of the Achaeans,
+ 206  whom someone skilled in the bow has shot with an arrow,
+ 207  some Trojan or Lycian: glory for him, grief for us."
+ 208  So he spoke, and stirred the heart in his breast,
+ 209  and they went through the crowd, through the wide Achaean camp.
+ 210  And when they came where tawny-haired Menelaus
+ 211  was wounded — and around him all the best men were gathered
+ 212  in a circle, and he, a man like a god, stood among them —
+ 213  at once Machaon drew the arrow from the fastened belt;
+ 214  and as it was drawn out, the sharp barbs broke backward.
+ 215  Then he loosed the glittering war-belt, and beneath it
+ 216  the loin-guard, and the waist-guard bronze-smiths labored on.
+ 217  And when he saw the wound where the bitter arrow had struck,
+ 218  he sucked out the blood, and skillfully sprinkled on it
+ 219  soothing drugs, which Chiron once gave his father out of friendship.
+ 220  While they were busy about Menelaus, good at the war-cry,
+ 221  the ranks of the shield-bearing Trojans came on;
+ 222  and the Achaeans put on their armor again, and remembered their fighting.
+
+ 223  Then you would not have seen brilliant Agamemnon drowsing,[13]
+ 224  or cowering, or unwilling to fight,
+ 225  but hurrying hard toward the battle where men win glory.
+ 226  He left his horses and his chariot patterned with bronze —
+ 227  his aide kept them snorting off to the side,
+ 228  Eurymedon, son of Ptolemaeus, Peiraeus' son,
+ 229  with strict orders to keep them close at hand for the moment
+ 230  weariness should take his limbs, commanding through so many —
+ 231  and on foot he ranged the ranks of men.
+ 232  Whomever of the Danaans of swift colts he saw pressing on,
+ 233  he would stand beside them and hearten them with his words:
+ 234  "Argives, do not let go your rushing courage now!
+ 235  Father Zeus will be no helper to liars:
+ 236  those who were first to do harm against the oaths —
+ 237  vultures will eat their tender flesh,
+ 238  and we will carry off their dear wives and little children
+ 239  in our ships, when we take their citadel."
+ 240  But whomever he saw hanging back from hateful war,
+ 241  those he would rake with angry words:
+ 242  "Argives — loud boasters — disgraces! Have you no shame?[14]
+ 243  Why do you stand stunned like this, like fawns
+ 244  that have run themselves tired over a wide plain
+ 245  and stand still, with no courage left in their hearts —
+ 246  so you stand stunned, and do not fight.
+ 247  Are you waiting for the Trojans to come right up to where the ships
+ 248  with their fine sterns are drawn up on the shore of the grey sea,
+ 249  to find out whether the son of Cronos will hold his hand over you?"
+ 250  So, commanding, he ranged through the ranks of men,
+ 251  and came to the Cretans, moving through the crowd of fighters.
+ 252  They were arming around war-minded Idomeneus:
+ 253  Idomeneus among the front-fighters, like a wild boar in courage,
+ 254  while Meriones hurried on the rearmost companies.
+ 255  Seeing them the lord of men Agamemnon rejoiced,
+ 256  and at once he spoke to Idomeneus with honeyed words:
+ 257  "Idomeneus, I honor you beyond all the Danaans of swift colts,
+ 258  in war and in every other work,
+ 259  and at the feast, when the chief men of the Argives
+ 260  mix the elders' gleaming wine in the bowl.
+ 261  For even if the other long-haired Achaeans
+ 262  drink their allotted share, your cup stands always
+ 263  full, as mine does, to drink whenever the heart bids.
+ 264  Rouse yourself for battle, and be the man you claim of old to be."
+ 265  And Idomeneus, captain of the Cretans, answered him:
+ 266  "Son of Atreus, I will be a trusty companion to you
+ 267  indeed, as I first promised and bowed my head;
+ 268  go and rouse the other long-haired Achaeans,
+ 269  so we may fight at once — since the Trojans have poured away
+ 270  the oaths. Death and sorrows hereafter will be theirs,
+ 271  since they were first to do harm against the oaths."
+ 272  So he spoke, and Atreus' son passed on, glad at heart,
+ 273  and came to the two Ajaxes, moving through the crowd of fighters;
+ 274  they were arming for war, and a cloud of foot-soldiers followed them.
+ 275  As when from a lookout a goatherd sees a cloud
+ 276  coming over the deep before the drive of the West Wind:
+ 277  from far off, blacker than pitch it shows,
+ 278  moving over the deep, and it brings a great storm with it;
+ 279  he shivers at the sight, and drives his flocks into a cave:
+ 280  such, beside the two Ajaxes, moved the close-packed companies
+ 281  of Zeus-nurtured fighting men, dark masses,
+ 282  into destroying war, bristling with shields and spears.
+ 283  Seeing them too the lord Agamemnon rejoiced,
+ 284  and speaking winged words he addressed them:
+ 285  "Ajaxes, leaders of the bronze-shirted Argives —
+ 286  to you two I give no orders: it would not be right to push you;
+ 287  you yourselves drive your people hard to fight in strength.
+ 288  O father Zeus, Athena, Apollo —
+ 289  if such a spirit were in every breast,
+ 290  then the city of lord Priam would soon bow its head,
+ 291  taken and sacked beneath our hands."
+ 292  So speaking he left them there and went to the others.
+ 293  There he came on Nestor, the clear-voiced speaker of Pylos,
+ 294  arraying his companions and driving them to fight,
+ 295  around tall Pelagon, and Alastor, and Chromius,
+ 296  and the lord Haemon, and Bias, shepherd of the people.
+ 297  The charioteers he arrayed in front with horses and cars,[15]
+ 298  the foot-soldiers behind, many and brave,
+ 299  to be a wall of war; the shirkers he drove into the middle,
+ 300  so that even the unwilling man would have to fight.
+ 301  To the charioteers he gave his orders first: he bade them
+ 302  hold their horses in hand and not tangle in the crowd:
+ 303  "Let no man, trusting his horsemanship and his manhood,
+ 304  burn to fight the Trojans alone out in front of the rest,
+ 305  and let no man fall back — you will be the weaker for it.
+ 306  But the man who from his own car can reach an enemy's,
+ 307  let him thrust with the spear: it is far better so.
+ 308  This was the mind the men before us had when they sacked
+ 309  cities and walls, keeping this thought and spirit in their breasts."
+ 310  So the old man drove them on, wise in war long since.
+ 311  Seeing him too the lord Agamemnon rejoiced,
+ 312  and speaking winged words he addressed him:
+ 313  "Old man — would that, as the spirit is in your own breast,
+ 314  so your knees kept pace, and your strength stood firm.
+ 315  But age wears you, age that comes to all. If only
+ 316  some other man had your years, and you were among the young."
+ 317  Then answered him the Gerenian horseman Nestor:
+ 318  "Son of Atreus, I too could dearly wish to be
+ 319  the man I was when I cut down brilliant Ereuthalion.
+ 320  But the gods never give men everything at once:[16]
+ 321  if I was young then, now old age comes with me.
+ 322  Even so I will be among the charioteers, and command them
+ 323  with counsel and with words: that is the honor-portion of the old.
+ 324  The spears the younger men will wield, who were born
+ 325  after me and trust in their strength."
+ 326  So he spoke, and Atreus' son passed on, glad at heart.
+ 327  He found Menestheus, driver of horses, son of Peteos,
+ 328  standing; and around him the Athenians, masters of the war-cry;
+ 329  and close by stood resourceful Odysseus,
+ 330  and beside him the ranks of Cephallenians, no weaklings,
+ 331  stood; for their people had not yet heard the war-cry,
+ 332  since the companies of horse-taming Trojans and Achaeans
+ 333  had only just begun to move; and they stood waiting
+ 334  for another Achaean column to come on,
+ 335  charge the Trojans, and begin the war.
+ 336  Seeing them, the lord of men Agamemnon raked them,
+ 337  and speaking winged words he addressed them:
+ 338  "You — son of Peteos, that Zeus-nurtured king;
+ 339  and you, master of evil tricks, greedy-hearted:
+ 340  why do you stand apart cowering, and wait for others?
+ 341  It is for you two to stand among the first
+ 342  and take your share of scorching battle face on;
+ 343  for you are first to hear of my feast
+ 344  whenever we Achaeans set out a feast for the elders.
+ 345  There it pleases you to eat the roasted meat and drink
+ 346  the cups of honey-sweet wine as long as you wish;
+ 347  but now you would gladly watch even if ten columns of Achaeans
+ 348  fought with the pitiless bronze out in front of you."
+ 349  Glaring at him darkly, resourceful Odysseus answered:
+ 350  "Son of Atreus — what a word has escaped the fence of your teeth![17]
+ 351  How can you say I hang back from fighting, whenever we Achaeans
+ 352  wake sharp war on the horse-taming Trojans?
+ 353  You will see — if you wish to, and if it matters to you —
+ 354  the dear father of Telemachus mixing with the front-fighters
+ 355  of the horse-taming Trojans. What you say is empty wind."
+ 356  And the lord Agamemnon answered him, smiling,
+ 357  when he saw his anger, and took back his word:
+ 358  "Zeus-sprung son of Laertes, Odysseus of many devices,
+ 359  I neither scold you beyond measure nor give you orders.
+ 360  I know the heart in your breast
+ 361  knows gentle counsels: you think what I think.
+ 362  Come — we will make this good later, if any harsh thing
+ 363  has been said now; may the gods make it all come to nothing."
+ 364  So speaking he left them there and went to the others.
+ 365  He found Tydeus' son, high-hearted Diomedes,
+ 366  standing among the horses and the bolted chariots,
+ 367  and beside him stood Sthenelus, Capaneus' son.
+ 368  Seeing him too the lord Agamemnon raked him,
+ 369  and speaking winged words he addressed him:
+ 370  "Ah me — son of war-minded Tydeus, breaker of horses:[18]
+ 371  why do you cower? Why do you eye the causeways of battle?
+ 372  It was not Tydeus' way to cower like this,
+ 373  but to fight the enemy far ahead of his own companions —
+ 374  so said those who watched him at his work; I myself
+ 375  never met him, never saw him; but they say he was beyond all others.
+ 376  Once, indeed, he came to Mycenae — no war in it —
+ 377  a guest, with godlike Polyneices, raising troops:
+ 378  they were then marching on the holy walls of Thebes,
+ 379  and they begged us hard to give them famed allies;
+ 380  and our people were willing, and approved what they asked,
+ 381  but Zeus turned them back with unfavorable signs.
+ 382  So they went on their way, and when they were well along the road
+ 383  and came to the Asopus, deep in rushes, bedded in grass,
+ 384  the Achaeans sent Tydeus forward with a message.
+ 385  He went, and found the Cadmeans in their numbers
+ 386  feasting through the house of the might of Eteocles.
+ 387  There, stranger though he was, the horseman Tydeus
+ 388  was not afraid, alone among so many Cadmeans:
+ 389  he challenged them to contests, and won every one
+ 390  with ease — such a helper to him was Athena.
+ 391  But the Cadmeans, goaders of horses, were angered,
+ 392  and as he rode back they set a close-packed ambush,
+ 393  fifty young men, with two leaders:
+ 394  Maeon, Haemon's son, a match for the immortals,
+ 395  and Autophonus' son, Polyphontes steadfast in battle.
+ 396  On these too Tydeus let loose an unseemly fate:
+ 397  he killed them all, and sent one man alone home —
+ 398  Maeon he sent off, obeying the gods' portents.
+ 399  Such a man was Tydeus the Aetolian. But the son
+ 400  he fathered is worse than he in battle — better in the assembly."
+ 401  So he spoke, and strong Diomedes said nothing at all,
+ 402  humbled by the reverend king's rebuke.
+ 403  But the son of glorious Capaneus answered him:
+ 404  "Son of Atreus, do not lie when you know how to speak the truth.[19]
+ 405  We claim to be far better men than our fathers:
+ 406  we took the seat of seven-gated Thebes,
+ 407  though we led a smaller host beneath a stronger wall,
+ 408  because we trusted the gods' portents and the help of Zeus;
+ 409  they perished by their own recklessness.
+ 410  So never set our fathers in honor equal to ours."
+ 411  Glaring at him darkly, strong Diomedes answered:
+ 412  "Old friend — sit quiet, and listen to my word.[20]
+ 413  I hold nothing against Agamemnon, shepherd of the people,
+ 414  for driving the strong-greaved Achaeans to fight:
+ 415  the glory will follow him if the Achaeans
+ 416  cut down the Trojans and take holy Ilion —
+ 417  and his the great grief if the Achaeans are cut down.
+ 418  Come — let the two of us also remember our rushing courage."
+ 419  He spoke, and leapt from the chariot to the ground in his armor,
+ 420  and the bronze rang terribly on the chest of the lord
+ 421  as he sprang: fear would have seized even a stone-hearted man.
+
+ 422  As when on a booming beach the swell of the sea
+ 423  rises, wave on wave, under the West Wind's driving:
+ 424  out on the deep it first rears its crest, and then
+ 425  breaking on the land it thunders aloud, and around the headlands
+ 426  it arches and comes to a peak and spits out the salt foam:
+ 427  so wave on wave the companies of the Danaans moved
+ 428  without pause into war; and each captain called commands
+ 429  to his own; and the rest went silently — you would not think
+ 430  so great a host was following with voices in their chests —
+ 431  in silence, fearing their commanders; and on all of them
+ 432  the patterned armor shone as they marched in order.
+ 433  But the Trojans — as ewes past counting stand in the fold
+ 434  of a man of much substance while their white milk is drawn,
+ 435  bleating without cease because they hear the voices of their lambs:
+ 436  so the clamor of the Trojans rose through the wide army;
+ 437  for their speech was not one, their cry not a single tongue,
+ 438  but language mixed with language, men called from many lands.
+ 439  These Ares drove on, and those grey-eyed Athena,
+ 440  and Terror, and Panic, and Strife insatiably raging,[21]
+ 441  sister and companion of man-slaughtering Ares —
+ 442  she who rears her crest small at first, but soon
+ 443  props her head against heaven while she walks the earth.
+ 444  She then cast common hatred into their midst,
+ 445  moving through the crowd, swelling the groaning of men.
+
+ 446  And when they had come together into one place,
+ 447  they dashed together shields, and spears, and the fury of men
+ 448  armored in bronze; the bossed shields
+ 449  pressed hard on one another, and a great din arose.
+ 450  There rose together the groaning and the boasting of men
+ 451  killing and killed, and the earth ran with blood.
+ 452  As when winter torrents pouring down the mountains
+ 453  hurl together their weight of water at a meeting of glens
+ 454  out of great springs, deep in a hollow ravine,
+ 455  and far off in the mountains a shepherd hears the thunder of it:
+ 456  such was the roar and the toil of them as they came together.
+ 457  First Antilochus took a Trojan armored fighter,[22]
+ 458  a brave man among the front-fighters, Echepolus, Thalysias' son:
+ 459  he struck him first on the ridge of his horsehair helmet,
+ 460  and the bronze point fixed in his forehead and drove
+ 461  inside the bone; and darkness covered his eyes,
+ 462  and he crashed like a tower in the strong encounter.
+ 463  As he fell, the lord Elephenor took him by the feet —
+ 464  Chalcodon's son, chief of the great-hearted Abantes —
+ 465  and dragged him out from under the missiles, straining to strip
+ 466  his armor with all speed. But his effort was short-lived:
+ 467  great-hearted Agenor saw him dragging the corpse,
+ 468  and where his side showed from under the shield as he bent,
+ 469  he stabbed him with the bronze-pointed spear, and unstrung his limbs.
+ 470  So the spirit left him; and over his body the work
+ 471  of Trojans and Achaeans grew grim: like wolves
+ 472  they leapt at one another, and man tore at man.
+ 473  Then Telamonian Ajax struck Anthemion's son,[23]
+ 474  the young man Simoeisios in his bloom, whom once his mother
+ 475  bore beside the banks of Simois, coming down
+ 476  from Ida, where she had followed her parents to see the flocks:
+ 477  for that they called him Simoeisios. But to his dear parents
+ 478  he never paid back the cost of his rearing; his life was short,
+ 479  broken under the spear of great-hearted Ajax.
+ 480  For as he came on in the front, Ajax struck him in the chest
+ 481  by the right nipple, and straight through his shoulder
+ 482  the bronze spear came; and he fell to the ground in the dust
+ 483  like a poplar that has grown up in the wet meadow
+ 484  of a great marsh — smooth, with the branches growing
+ 485  at its very top — and a chariot-maker with the bright iron
+ 486  fells it, to bend a wheel-rim for a beautiful car,
+ 487  and it lies there seasoning along the river bank:
+ 488  such was Anthemion's son Simoeisios, whom Ajax
+ 489  the Zeus-sprung killed. And at him Antiphos of the glancing corslet,
+ 490  Priam's son, cast his sharp spear through the crowd:
+ 491  he missed him, but struck Leucus, Odysseus' brave companion,
+ 492  in the groin as he dragged the corpse to the other side,
+ 493  and he collapsed over it, and the body fell from his hand.
+ 494  For his killing Odysseus was enraged to the heart,
+ 495  and he strode through the front-fighters helmed in flashing bronze,
+ 496  and came up very close and cast his shining spear,
+ 497  glancing all around him; and the Trojans shrank back
+ 498  from the man as he cast. He did not send the shaft in vain,
+ 499  but struck Democoon, Priam's bastard son,
+ 500  who had come from Abydos, from the fast mares:
+ 501  him Odysseus, enraged for his companion, struck with the spear
+ 502  in the temple, and out through the other temple passed
+ 503  the bronze point; and darkness covered his eyes,
+ 504  and he fell with a thud, and his armor clattered upon him.
+ 505  Then the front-fighters gave ground, and glorious Hector too;
+ 506  and the Argives shouted aloud and dragged away the corpses
+ 507  and pressed far forward. But Apollo took offense,
+ 508  looking down from Pergamos, and called aloud to the Trojans:
+ 509  "Rouse yourselves, horse-taming Trojans! Do not yield the fight
+ 510  to the Argives: their flesh is not stone, not iron,
+ 511  to hold off the flesh-cutting bronze when they are hit.
+ 512  And Achilles, son of lovely-haired Thetis, is not
+ 513  fighting: by the ships he digests his heart-paining anger."
+ 514  So spoke the dread god from the city. And the Achaeans
+ 515  were urged on by Zeus's daughter, most glorious Tritogeneia,[24]
+ 516  moving through the crowd wherever she saw them slacken.
+ 517  Then fate shackled Diores, Amarynceus' son:
+ 518  he was struck by a jagged stone beside the ankle,
+ 519  in his right shin, and the thrower was the captain of the Thracians,
+ 520  Peiroos, Imbrasus' son, who had come from Aenus.
+ 521  Both tendons and the bones the shameless stone
+ 522  crushed utterly; and he fell back in the dust,
+ 523  stretching out both hands to his dear companions,
+ 524  gasping out his life; and the man who hit him ran up,
+ 525  Peiroos, and stabbed him with the spear beside the navel; and all
+ 526  his bowels poured out on the ground, and darkness covered his eyes.
+ 527  But as Peiroos sprang back, Thoas the Aetolian struck him
+ 528  with a spear in the chest above the nipple, and the bronze fixed in his lung;
+ 529  and Thoas came up close, wrenched the heavy spear
+ 530  out of his chest, and drew his sharp sword,
+ 531  and struck him full in the belly, and took his life.
+ 532  But he did not strip his armor: his companions stood round him,
+ 533  the Thracians with their hair in topknots, long spears in their hands,
+ 534  who, big and strong and proud as he was,
+ 535  thrust him back from them; and he gave ground, staggering.
+ 536  So the two lay stretched in the dust beside each other,
+ 537  captains, one of the Thracians, one of the bronze-shirted
+ 538  Epeians; and around them many others were killed.
+
+ 539  Then no man could have come and made light of the work —[25]
+ 540  no man still unhit, unstabbed by the sharp bronze,
+ 541  who whirled through the middle of it, with Pallas Athena leading him
+ 542  by the hand and turning aside the rush of missiles:
+ 543  for many Trojans and Achaeans on that day
+ 544  were stretched face-down in the dust beside one another.
+
+------------------------------------------------------------
+
+Notes
+
+[1] (4.8) "Hera of Argos and Athena of Alalcomenae" — cult titles tying
+    each goddess to a major sanctuary (the Argive Heraion; Alalcomenae
+    in Boeotia). Zeus needles them by their official addresses, like
+    reading their titles off a temple inscription.
+
+[2] (4.34-36) "eat Priam raw" — the extremity of hatred in the poem's
+    idiom; the image recurs at its darkest moments (Achilles to Hector,
+    22.346-347; Hecuba on Achilles, 24.212). Here it is Zeus's sardonic
+    measure of Hera's appetite.
+
+[3] (4.51-56) Hera offers Zeus her own three dearest cities — Argos,
+    Sparta, Mycenae, the great centers of her cult — to destroy at his
+    pleasure, as the price of Troy. Aristarchus athetized 55-56
+    (apparatus, Line 55-56: ath. Ar), where she concedes that resistance
+    would be futile anyway. The bargain frames the war's resumption as a
+    cold divine transaction; note Zeus's matching concession at 43,
+    "willingly — with unwilling heart" (ἑκὼν ἀέκοντί γε θυμῷ), the
+    poem's most compressed oxymoron.
+
+[4] (4.101) "Apollo the Lycian-born" (Λυκηγενής) — disputed already in
+    antiquity: "born in Lycia" (Pandarus's men are Lycians of the Troad)
+    or "wolf-born" (λύκος). The traditional rendering is kept. This is
+    the same Pandarus whose bow "Apollo himself gave" (2.827) — the god
+    of archery presides, with grim irony, over the poem's most disastrous
+    bowshot.
+
+[5] (4.105-111) The bow: horns of a wild ibex Pandarus shot himself,
+    sixteen palms (about four feet) of horn, joined and gold-tipped by a
+    craftsman. The loving technical excursus at the moment of treachery
+    is a signature Homeric effect — the made thing described while its
+    use damns its user.
+
+[6] (4.117) Aristarchus athetized this line ("never yet shot, winged, a
+    base of black pains"), as he did 140 and 149 in the same scene
+    (apparatus) — ornamental lines the tradition found dispensable.
+    All are kept as printed.
+
+[7] (4.123) "to the bow the iron head" — one of the poem's rare iron
+    weapons: arms in the Iliad are bronze, and iron appears mainly as
+    raw wealth or for tools (the chariot-maker's axe at 485). The
+    arrowhead here and the mace of Areithous (7.141) are the notable
+    exceptions — often taken as glimpses of the poet's own later age.
+
+[8] (4.132-138) The arrow passes through three layers: the ζωστήρ
+    ("war-belt," the outer clasped belt), the doubled corslet, and the
+    μίτρη ("waist-guard," a bronze-faced apron beneath). These renderings
+    are fixed for the rest of the translation; the ζῶμα ("loin-guard")
+    appears at 187.
+
+[9] (4.141-147) The ivory simile: a Maeonian or Carian craftswoman
+    staining ivory crimson for a horse's cheek-piece — a treasure "many
+    horsemen prayed to carry." Blood on Menelaus's thighs becomes
+    luxury inlay: the poem's first great aestheticizing of a wound, and
+    a deliberate shock after the fly-brushing tenderness of 130-131.
+
+[10] (4.155) "it was your death I was cutting in those oaths" — the
+     oath-cutting idiom (see Book 3 commentary) turned bitter:
+     Agamemnon hears the ritual he performed as a throat-cutting of
+     his own brother.
+
+[11] (4.194, 219) Asclepius is in Homer a mortal hero-physician, taught
+     by Chiron the centaur (the wise counter-image of the beast-men of
+     1.268) — not yet the god of healing of later cult. His sons Machaon
+     and Podaleirius lead a contingent (2.731-732); Machaon's treatment
+     — extraction, sucking the wound, herbal dressings — is the poem's
+     standard battlefield medicine.
+
+[12] (4.195-197) These lines recur verbatim at 205-207 when Talthybius
+     delivers the message. Aristarchus athetized the first occurrence
+     (apparatus, Line 195-197: ath. hic Ar. (= 205-207)) — a doctrinaire
+     application of his dislike of repetition; the messenger-repetition
+     is normal epic technique (cf. Book 2, note [4]). Both passages are
+     translated, identically.
+
+[13] (4.223-421) The epipōlēsis ("review"): Agamemnon on foot down the
+     line, praising Idomeneus, the Ajaxes, and Nestor, insulting
+     Menestheus, Odysseus, and Diomedes. The scene is a portrait
+     gallery — and a study of Agamemnon's leadership, whose goads are
+     as ill-judged as his flatteries are smooth.
+
+[14] (4.242) "loud boasters" (ἰόμωροι) — obscure insult, already opaque
+     in antiquity: perhaps "braggarts with arrows" (fighting from range,
+     not in the line), perhaps just "loudmouths." The translation keeps
+     the taunt and this note keeps the doubt.
+
+[15] (4.297-309) Nestor's tactics — chariots massed in front, infantry
+     behind, shirkers penned in the middle, with a doctrine of chariot-
+     line fighting "the men before us" used — describe a kind of massed
+     chariot warfare that the poem's actual battles never show (Homeric
+     chariots are battle-taxis). Either a memory of older warfare or
+     the old man's idealization of it; the poem lets Nestor be the
+     keeper of both.
+
+[16] (4.320) "the gods never give men everything at once" — athetized
+     by Aristarchus (apparatus; cf. the similar 13.729). Ereuthalion
+     (319) is the club-wielding champion Nestor killed in his youth —
+     the full story is saved for 7.136-156.
+
+[17] (4.350) "what a word has escaped the fence of your teeth" (ἕρκος
+     ὀδόντων) — the fixed formula for speech that should have been kept
+     in; always so rendered.
+
+[18] (4.370-400) Agamemnon's Tydeus-tale reaches back to the Theban
+     war: Tydeus and Polyneices recruiting at Mycenae, the embassy to
+     Thebes, the athletic challenges, the fifty-man ambush he wiped out.
+     This is the Iliad's fullest window on the Theban saga — the great
+     rival epic cycle — deployed, characteristically, as a father held
+     up against a son. "The might of Eteocles" (386) is the same
+     periphrasis pattern as "the might of Heracles" (2.658).
+
+[19] (4.404-410) Sthenelus's retort: the Epigoni — the sons of the
+     Seven — actually took Thebes, which their fathers failed to do and
+     died trying, "by their own recklessness" (ἀτασθαλίῃσιν, the
+     Odyssey's opening moral keyword). Aristarchus athetized 407-409
+     (apparatus, Line 407-409: ath. Ar). Kept: the exchange sets up
+     Diomedes' pointed contrast.
+
+[20] (4.412) "Old friend" (τέττα) — an affectionate, untranslatable
+     address found only here. Diomedes silences Sthenelus and absorbs
+     the insult out of respect for the king's office — restraint he
+     will pointedly recall when he answers Agamemnon back at 9.32-49.
+     The moment defines him: youngest of the great captains and the
+     most self-governed.
+
+[21] (4.440-443) Terror (Δεῖμος), Panic (Φόβος), and Strife (Ἔρις) —
+     war's demons personified; Strife "small at first" but growing to
+     prop her head on heaven is the ancestor of Virgil's Fama. Her
+     epithet "insatiable" earns itself over the next twenty books.
+
+[22] (4.457-462) The first death of the Iliad: Antilochus (Nestor's
+     son) kills Echepolus. The kill establishes the death-formulas this
+     translation keeps fixed from here on: "darkness covered his eyes,"
+     "he fell with a thud, and his armor clattered upon him," "unstrung
+     his limbs," "his spirit left him." Their unvarying recurrence is
+     the poem's own drumbeat and is preserved, never elegantly varied.
+
+[23] (4.473-489) Simoeisios: named for the river Simois where his
+     mother bore him, killed in his first bloom, who "never paid back
+     the cost of his rearing" (θρέπτρα — the son's debt of care to his
+     parents), falling like a poplar cut down to be a chariot's
+     wheel-rim. The first full pathos-vignette of the battle books:
+     an entire peacetime life conjured at the instant of its ending,
+     the template for the poem's way of killing men.
+
+[24] (4.515) "Tritogeneia" — ancient title of Athena, of unknown
+     meaning even to the ancients (connected variously with lake
+     Tritonis, the river Triton, or "third-born"). Left as a name,
+     like Atrytone (2.157).
+
+[25] (4.539-544) The book closes with an imagined observer led through
+     the carnage by Athena, untouched and turning missiles aside —
+     only under those impossible conditions could a man "make light of
+     the work." The narrator's device measures the day: many Trojans
+     and Achaeans "stretched face-down in the dust beside one another."

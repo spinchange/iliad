@@ -1,0 +1,668 @@
+BOOK 3
+
+The duel for Helen: Paris against Menelaus, the view from the wall,
+and Aphrodite's rescue.
+
+TRANSLATOR'S COMMENTARY
+
+Book 3 reads like the war's first year transplanted into its tenth: a duel
+between the two men the whole war is about, a truce, and Helen naming the
+Achaean commanders for Priam as though he had never seen them in nine years
+of siege. Ancient and modern critics alike noticed the chronological
+strain; the poem plainly does not care, and the translation does not try to
+smooth it. What the book actually does is introduce the war's cause and
+cast in the most economical way possible, and it is built almost entirely
+out of formal, ceremonial speech — challenge, herald's summons, oath,
+prayer, curse. Those registers are rendered with deliberate stiffness (the
+oath-language especially), because Book 9's embassy and later truce scenes
+will reuse them; the conventions are logged in translation/CONVENTIONS.md.
+
+One idiom is kept literal as a matter of policy: ὅρκια τάμνειν, "to cut
+oaths" — from cutting the victims' throats — is translated "cut the sworn
+oaths" throughout, not softened to "swear a treaty." The whole oath scene
+(hair distributed to the chief men, wine poured as the curse names the
+perjurers' spilled brains, the lambs' throats cut with the same knife) is
+a single ritual gesture, and the verb carries it.
+
+Paris is called both Ἀλέξανδρος and Πάρις by the poem, with Ἀλέξανδρος
+predominating; the translation reproduces whichever name the Greek uses in
+each line rather than normalizing to "Paris" (see note [2]). Helen's voice
+is this book's discovery: her self-lacerating "dog-face that I am" (note
+[13]), the elders' hushed astonishment, and the confrontation in which she
+— alone of mortals in the Iliad — talks back to a god to her face and is
+crushed into obedience (notes [22]-[24]). Aristarchus athetized both that
+confrontation and her bitter speech to Paris; Zenodotus rewrote the line
+in which Aphrodite carries her a chair. The ancient editors were visibly
+uncomfortable with exactly the scenes a modern reader values most, and the
+notes record each intervention while the translation keeps the vulgate
+text intact.
+
+The apparatus also preserves, at line 302, four "plus verses" found in a
+Ptolemaic papyrus but absent from the medieval manuscripts — a live
+specimen of the pre-Aristarchean fluidity of the text (note [19]).
+
+------------------------------------------------------------
+
+   1  Now when they were marshaled, each company with its leaders,
+   2  the Trojans came on with clamor and a cry, like birds —
+   3  like the clamor of cranes that rises against the sky,
+   4  when they flee the winter and the measureless rain
+   5  and fly clamoring toward the streams of Ocean,
+   6  bearing slaughter and doom to the Pygmy men,[1]
+   7  and out of the morning air they carry their evil strife —
+   8  but the Achaeans came on in silence, breathing fury,
+   9  hearts set on standing by one another.
+  10  As when the South Wind pours mist on the peaks of a mountain,
+  11  no friend to shepherds, better than night to the thief,
+  12  and a man sees only as far as a stone's throw —
+  13  so the dust rose swirling under their feet
+  14  as they came on; and very swiftly they crossed the plain.
+
+  15  And when they were close, advancing on one another,
+  16  godlike Alexandros stood out as the Trojans' champion,[2]
+  17  with a leopard skin on his shoulders, and curved bow
+  18  and sword; and shaking two spears headed with bronze[3]
+  19  he challenged all the best of the Argives
+  20  to fight him man to man in dread combat.
+  21  But when Menelaus dear to Ares caught sight of him[4]
+  22  coming out in front of the throng with long strides,
+  23  then like a lion delighted to light on a great carcass,
+  24  finding a horned stag or a wild goat
+  25  when he is starving — he devours it greedily even though
+  26  the swift dogs and the sturdy young hunters are driving at him —
+  27  so Menelaus was delighted to see godlike Alexandros
+  28  with his own eyes; for he thought to make the offender pay.
+  29  At once he leapt from his chariot to the ground in his armor.
+  30  But when godlike Alexandros saw him
+  31  appear among the front fighters, his heart was struck cold,
+  32  and he shrank back into the crowd of his companions, dodging death.
+  33  As a man who has seen a snake in a mountain glen
+  34  starts back and away, and trembling seizes his limbs,
+  35  and he retreats, and pallor takes his cheeks,
+  36  so back into the throng of the proud Trojans
+  37  slipped godlike Alexandros, in dread of Atreus' son.
+  38  And Hector saw him, and raked him with shaming words:
+  39  "Paris — evil Paris — beauty and nothing more, woman-mad, seducer:
+  40  I wish you had never been born, or had died unmarried.
+  41  That is what I would wish, and it would be far better
+  42  than to have you a disgrace like this, a thing others look at sideways.
+  43  How the long-haired Achaeans must be cackling —
+  44  they thought a prince was champion because a fine
+  45  look is on him; but there is no strength in his heart, no fight.
+  46  Were you really such a man when in the seagoing ships
+  47  you sailed the deep with your trusted companions gathered,
+  48  and mixed with strangers, and carried off a beautiful woman
+  49  from a far land, a bride of spearmen —
+  50  a great grief to your father, to the city, and to all the people,
+  51  a joy to our enemies, a hanging of your own head?
+  52  And will you not stand up to Menelaus dear to Ares?
+  53  You would find out what kind of man it is whose wife in her bloom you keep.
+  54  The lyre would be no help to you then, nor the gifts of Aphrodite,
+  55  that hair and that fine look, when you went down in the dust.
+  56  The Trojans are cowards indeed — otherwise long since
+  57  you would have put on a shirt of stone for all the evil you have done."[5]
+  58  And godlike Alexandros answered him:
+  59  "Hector, you rake me justly, not more than justly.
+  60  Your heart is always unwearying, like an axe
+  61  driven through timber by a man's swing when he skillfully
+  62  cuts out a ship-beam, and the iron strengthens his stroke:
+  63  so unshaken is the spirit in your chest.
+  64  But do not throw in my face the lovely gifts of golden Aphrodite.
+  65  Not to be flung away are the gods' glorious gifts —
+  66  whatever they themselves give; no man could take them by choosing.
+  67  Now, if you want me to fight and do battle:
+  68  make the other Trojans sit down, and all the Achaeans,
+  69  and put me in the middle with Menelaus dear to Ares
+  70  to fight for Helen and all her possessions.
+  71  Whichever of us wins and proves the stronger,
+  72  let him take all the wealth, and the woman, and lead them home;
+  73  and the rest of you, cutting friendship and sworn oaths,
+  74  may you live on in deep-soiled Troy, and they return
+  75  to horse-pasturing Argos and Achaea of the beautiful women."
+  76  So he spoke, and Hector rejoiced greatly to hear the word,
+  77  and he went into the middle and held back the Trojan lines
+  78  gripping his spear by the middle; and they all sat down.
+  79  But the long-haired Achaeans kept shooting at him,
+  80  aiming with arrows and casting stones,
+  81  until the lord of men Agamemnon called out loud and long:
+  82  "Hold, Argives! Do not shoot, young men of the Achaeans!
+  83  Hector of the flashing helmet stands ready to say something."
+  84  So he spoke, and they held from fighting and fell silent,
+  85  quickly. And Hector spoke between the two armies:
+  86  "Hear from me, Trojans and strong-greaved Achaeans,
+  87  the word of Alexandros, for whose sake this quarrel rose.
+  88  He bids the other Trojans and all the Achaeans
+  89  lay down their fine armor on the earth that feeds so many,
+  90  while he in the middle, with Menelaus dear to Ares,
+  91  fights alone for Helen and all her possessions.
+  92  Whichever of them wins and proves the stronger,
+  93  let him take all the wealth, and the woman, and lead them home;
+  94  and the rest of us — let us cut friendship and sworn oaths."
+  95  So he spoke, and they all went still in silence.
+  96  And among them spoke Menelaus, good at the war-cry:
+  97  "Hear me now also. The pain of this comes closest
+  98  to my heart; and I intend that they part at last,
+  99  Argives and Trojans, since you have suffered many evils
+ 100  for the sake of my quarrel, and Alexandros who began it.
+ 101  For whichever of the two of us death and fate are prepared,
+ 102  let him die; and the rest of you part, and quickly.
+ 103  Bring two lambs — one white ram, one black ewe,
+ 104  for Earth and Sun; and we will bring another, for Zeus.[6]
+ 105  And lead down the strength of Priam, so he may cut the oaths
+ 106  himself, since his sons are overbearing and not to be trusted —
+ 107  that no one by transgression may do violence to the oaths of Zeus.
+ 108  The minds of younger men are always blowing in the wind;
+ 109  but where an old man is present, he looks before and behind
+ 110  at once, how the best may come of it for both sides."[7]
+ 111  So he spoke, and Achaeans and Trojans rejoiced,
+ 112  hoping to be done with the misery of war.
+ 113  They reined the chariots back into the lines, and stepped down,
+ 114  and stripped off their armor and laid it on the ground
+ 115  close together — there was little field between the armies.
+ 116  And Hector sent two heralds to the city
+ 117  quickly, to fetch the lambs and to summon Priam;
+ 118  and the lord Agamemnon sent Talthybius off
+ 119  to the hollow ships, and ordered him to bring
+ 120  a lamb; and he did not disobey brilliant Agamemnon.
+
+ 121  Now Iris went as messenger to white-armed Helen,
+ 122  in the likeness of her sister-in-law, the wife of Antenor's son —
+ 123  the one Antenor's son the lord Helicaon had married,
+ 124  Laodice, loveliest of the daughters of Priam.
+ 125  She found her in the hall: she was weaving a great web,
+ 126  a double cloak of purple,[8] and working into it the many struggles
+ 127  of the horse-taming Trojans and bronze-shirted Achaeans,
+ 128  which for her sake they suffered at the hands of Ares.
+ 129  Standing close, swift-footed Iris spoke:
+ 130  "Come here, dear bride, to see wonderful doings
+ 131  of the horse-taming Trojans and bronze-shirted Achaeans.
+ 132  They who before this carried tearful war at each other
+ 133  in the plain, ravenous for deadly battle —
+ 134  now they sit in silence, and the war has stopped;
+ 135  they lean on their shields, and the long spears are stuck in the earth.
+ 136  But Alexandros and Menelaus dear to Ares
+ 137  will fight for you with their long spears;
+ 138  and you will be called the dear wife of the man who wins."
+ 139  So speaking, the goddess put sweet longing into her heart
+ 140  for her first husband, and her city, and her father and mother.
+ 141  At once she veiled herself in shining white linen
+ 142  and went out of her chamber, letting fall a soft tear —
+ 143  not alone: two handmaids followed with her,
+ 144  Aethra, Pittheus' daughter,[9] and ox-eyed Clymene.
+ 145  And quickly they came to where the Scaean Gates stood.[10]
+
+ 146  Now those around Priam — Panthous and Thymoetes,
+ 147  Lampus and Clytius and Hicetaon, scion of Ares,
+ 148  and Ucalegon and Antenor, wise men both —
+ 149  sat as elders of the people at the Scaean Gates,
+ 150  finished with war now because of age, but speakers
+ 151  of quality, like cicadas that in the woods
+ 152  perch on a tree and send out their lily-thin voice:[11]
+ 153  such were the leaders of the Trojans sitting on the tower.
+ 154  And when they saw Helen coming up onto the tower,
+ 155  softly they spoke winged words to one another:
+ 156  "No shame that Trojans and strong-greaved Achaeans
+ 157  have suffered pain so long for a woman like this one.
+ 158  She is terribly like the immortal goddesses to look at.
+ 159  But even so — such as she is, let her go home in the ships,
+ 160  and not be left here, a grief to us and our children after."
+ 161  So they spoke; but Priam called Helen to him:[12]
+ 162  "Come here, dear child, and sit in front of me,
+ 163  to see your first husband and your kin and your friends —
+ 164  you are not to blame in my eyes: the gods are to blame,
+ 165  who set upon me this tearful war with the Achaeans —
+ 166  and to tell me the name of that gigantic man there,
+ 167  who that Achaean is, so tall and strong.
+ 168  There are others taller by a head, indeed;
+ 169  but a man so beautiful I have never yet seen with my eyes,
+ 170  nor so majestic. He looks like a king."
+ 171  And Helen answered him, brilliant among women:
+ 172  "You are dear to me, dear father-in-law, and dread to me too.
+ 173  How I wish vile death had pleased me on the day I followed
+ 174  your son here, leaving my bridal chamber and my kinsmen
+ 175  and my own dear daughter and the sweet company of girls my age.
+ 176  But that was not to be; and so I waste away with weeping.
+ 177  But I will tell you what you ask me and inquire.
+ 178  That man is Atreus' son, wide-ruling Agamemnon,
+ 179  both things at once: a good king and a strong spearman.
+ 180  And he was brother-in-law — to me, dog-face that I am[13] — if that ever was."
+ 181  So she spoke, and the old man marveled at him, and said:
+ 182  "Fortunate son of Atreus, child of destiny, blessed of fortune —
+ 183  how many young Achaean men are subject to you!
+ 184  Once I went into Phrygia of the vines,
+ 185  and there I saw Phrygian men in their multitudes, with their glancing horses,
+ 186  the hosts of Otreus and godlike Mygdon,
+ 187  encamped then along the banks of Sangarius;
+ 188  for I too, as an ally, was counted among them
+ 189  on the day the Amazons came, the match of men.[14]
+ 190  But even they were not so many as the bright-eyed Achaeans."
+ 191  Second, the old man saw Odysseus, and asked:
+ 192  "Come, tell me of this one too, dear child — who he is.
+ 193  Shorter by a head than Agamemnon, Atreus' son,
+ 194  but broader in the shoulders and chest to look at.
+ 195  His armor lies on the earth that feeds so many,
+ 196  and he himself ranges the ranks of men like a bellwether ram —
+ 197  yes, I liken him to a thick-fleeced ram
+ 198  that moves through a great flock of white ewes."
+ 199  And Helen, sprung of Zeus, answered him:
+ 200  "That is Laertes' son, resourceful Odysseus,
+ 201  raised in the land of Ithaca — rocky as it is —
+ 202  a man who knows every kind of trick and close-woven plan."
+ 203  And wise Antenor said to her in answer:
+ 204  "Lady, that word of yours is exactly true.
+ 205  For brilliant Odysseus came here once before,
+ 206  on an embassy about you,[15] with Menelaus dear to Ares;
+ 207  and I was their host: I welcomed them in my halls,
+ 208  and learned the build of both, and their close-woven plans.
+ 209  Now when they mixed with the assembled Trojans,
+ 210  standing, Menelaus overtopped him with his broad shoulders,
+ 211  but with both seated, Odysseus was the more majestic.
+ 212  And when they wove their words and their plans before us all,
+ 213  Menelaus, certainly, spoke fluently —
+ 214  few words, but very clear: he was no man of many words,
+ 215  no rambler — though he was in fact the younger.
+ 216  But whenever resourceful Odysseus rose to speak,
+ 217  he would just stand there, eyes fixed down on the ground,
+ 218  not moving the scepter backward or forward
+ 219  but holding it stiff, like a man who knows nothing;
+ 220  you would have called him some sulking churl, a plain fool.
+ 221  But when he let the great voice out of his chest,
+ 222  and the words came like snowflakes in winter,
+ 223  then no other mortal could rival Odysseus.
+ 224  Then we did not marvel so much at how Odysseus looked."
+ 225  Third, the old man saw Ajax, and asked:
+ 226  "And who is that other Achaean man, tall and strong,
+ 227  towering over the Argives in head and broad shoulders?"
+ 228  And Helen of the trailing robe answered, brilliant among women:
+ 229  "That is gigantic Ajax, wall of the Achaeans.
+ 230  And on the other side Idomeneus stands among the Cretans
+ 231  like a god, and the Cretan captains are gathered around him.
+ 232  Often Menelaus dear to Ares was his host
+ 233  in our house, whenever he came from Crete.
+ 234  And now I see all the other bright-eyed Achaeans,
+ 235  whom I could well recognize and name their names;
+ 236  but two marshals of the people I cannot see —
+ 237  Castor breaker of horses and Polydeuces the great boxer,
+ 238  my own brothers, whom one mother bore with me.
+ 239  Either they did not follow from lovely Lacedaemon,
+ 240  or they followed here in the seagoing ships
+ 241  but now are not willing to enter the battle of men,
+ 242  fearing the shame and the many reproaches that are mine."
+ 243  So she spoke. But the life-giving earth already held them under,[16]
+ 244  there in Lacedaemon, in their dear fatherland.
+
+ 245  Now the heralds were carrying through the city the gods' oath-offerings,
+ 246  two lambs, and wine that gladdens the heart, fruit of the field,
+ 247  in a goatskin bag; and the herald Idaeus carried
+ 248  a gleaming mixing-bowl and cups of gold;
+ 249  and he stood beside the old king and roused him:
+ 250  "Rise, son of Laomedon. The chief men are calling —
+ 251  of the horse-taming Trojans and the bronze-shirted Achaeans —
+ 252  for you to come down to the plain, to cut the sworn oaths.
+ 253  For Alexandros and Menelaus dear to Ares
+ 254  will fight with their long spears for the woman;
+ 255  and woman and wealth shall go with the winner,
+ 256  while the rest, cutting friendship and sworn oaths,
+ 257  we should live on in deep-soiled Troy, and they return
+ 258  to horse-pasturing Argos and Achaea of the beautiful women."
+ 259  So he spoke, and the old man shuddered; but he told his companions
+ 260  to yoke the horses, and they promptly obeyed.
+ 261  Priam mounted and drew the reins back taut,
+ 262  and beside him Antenor mounted the beautiful chariot,
+ 263  and through the Scaean Gates they drove the swift horses toward the plain.
+ 264  And when they had come among the Trojans and Achaeans,
+ 265  they stepped from the chariot onto the earth that feeds so many
+ 266  and walked into the space between Trojans and Achaeans.
+ 267  At once the lord of men Agamemnon rose,
+ 268  and resourceful Odysseus rose; and the proud heralds
+ 269  brought together the gods' oath-offerings, and in the bowl
+ 270  mixed the wine, and poured water over the kings' hands.
+ 271  And Atreus' son drew with his hand the knife
+ 272  that always hung beside the great sheath of his sword,
+ 273  and cut hairs from the lambs' heads; and then
+ 274  the heralds gave them out to the chief men of the Trojans and Achaeans.
+ 275  And Atreus' son prayed aloud among them, lifting his hands:
+ 276  "Father Zeus, ruling from Ida, most glorious, greatest;
+ 277  and Sun, who see all things and hear all things;
+ 278  and Rivers, and Earth, and you two below who punish
+ 279  the dead, whoever has sworn a false oath:[17]
+ 280  be witnesses; guard the sworn oaths.
+ 281  If Alexandros kills Menelaus,
+ 282  let him keep Helen and all her possessions,
+ 283  and we will go home in the seagoing ships;
+ 284  but if tawny-haired Menelaus kills Alexandros,
+ 285  then the Trojans are to give back Helen and all her possessions,
+ 286  and pay the Argives whatever recompense is fitting,
+ 287  such as will be remembered among men still to come.
+ 288  And if Priam and Priam's sons refuse
+ 289  to pay me that recompense when Alexandros has fallen,
+ 290  then I will fight on for the payment owed,
+ 291  staying right here, until I reach the end of the war."
+ 292  He spoke, and cut the lambs' throats with the pitiless bronze,
+ 293  and laid them down on the ground gasping,
+ 294  the life going out of them: the bronze had taken their strength.
+ 295  Then drawing wine from the bowl into the cups
+ 296  they poured it out, and prayed to the gods who are forever;
+ 297  and thus would one of the Achaeans and Trojans say:
+ 298  "Zeus most glorious, greatest, and you other immortal gods:
+ 299  whichever side first does harm against the oaths,
+ 300  may their brains run on the ground as this wine runs,
+ 301  theirs and their children's, and their wives be subdued to other men."[18]
+ 302  So they spoke; but the son of Cronos would not yet bring it to pass.[19]
+ 303  And Priam, Dardanus' descendant, spoke his word among them:
+ 304  "Hear from me, Trojans and strong-greaved Achaeans.
+ 305  I am going back to windswept Ilion,
+ 306  since I cannot yet bear to watch with my own eyes
+ 307  my dear son fighting Menelaus dear to Ares.
+ 308  Zeus, I suppose, knows — and the other immortal gods —
+ 309  for which of the two the end of death is fated."
+ 310  He spoke — a man like a god — and set the lambs in the chariot,
+ 311  and mounted himself, and drew the reins back taut,
+ 312  and beside him Antenor mounted the beautiful chariot;
+ 313  and back again to Ilion the two returned.
+
+ 314  Then Hector, Priam's son, and brilliant Odysseus
+ 315  first measured out the ground, and then
+ 316  took lots and shook them in a bronze-fitted helmet,
+ 317  for which of the two should cast his bronze spear first.
+ 318  And the hosts prayed, and lifted their hands to the gods,
+ 319  and thus would one of the Achaeans and Trojans say:
+ 320  "Father Zeus, ruling from Ida, most glorious, greatest:
+ 321  whichever of the two brought these troubles on both peoples,
+ 322  grant that he go down, dead, into the house of Hades,
+ 323  and that friendship and sworn oaths be ours."
+ 324  So they spoke; and great Hector of the flashing helmet shook the lots,
+ 325  looking away behind him; and Paris's lot leapt quickly out.
+ 326  Then the men sat down in ranks, where each man's
+ 327  high-stepping horses and patterned armor lay.
+ 328  And he girded the fine armor about his shoulders —[20]
+ 329  brilliant Alexandros, husband of lovely-haired Helen.
+ 330  First he set the greaves along his shins,
+ 331  beautiful ones, fitted with silver ankle-guards;
+ 332  next he girt about his chest the corslet
+ 333  of his brother Lycaon — and it fitted him;
+ 334  and about his shoulders he slung the silver-studded sword,
+ 335  a sword of bronze, and then the shield, great and heavy;
+ 336  and on his strong head he set the well-made helmet
+ 337  with its horsehair crest — and terribly the plume nodded above him —
+ 338  and took up a stout spear, fitted to his grip.
+ 339  And in the same way warlike Menelaus put on his gear.
+
+ 340  And when they had armed on either side of the throng,
+ 341  they strode into the space between Trojans and Achaeans,
+ 342  glaring terribly; and amazement held the watchers,
+ 343  the horse-taming Trojans and the strong-greaved Achaeans.
+ 344  They took their stand near each other on the measured ground,
+ 345  shaking their spears, in fury at one another.
+ 346  Alexandros first hurled his long-shadowed spear[21]
+ 347  and struck the shield of Atreus' son, balanced every way;
+ 348  but the bronze did not break through: its point was bent back
+ 349  in the strong shield. Second, Atreus' son Menelaus
+ 350  rose with his bronze, with a prayer to father Zeus:
+ 351  "Zeus, lord: grant me to punish the man who wronged me first —
+ 352  brilliant Alexandros — and break him under my hands,
+ 353  so that many a man may shudder, even among men yet to be born,
+ 354  at doing evil to a host who has offered him friendship."
+ 355  He spoke, and balancing his long-shadowed spear he hurled it
+ 356  and struck the shield of Priam's son, balanced every way.
+ 357  Through the shining shield the heavy spear went,
+ 358  and through the richly worked corslet it drove;
+ 359  and straight on beside his flank the spear sheared through
+ 360  the tunic — but he had swerved aside, and dodged black doom.
+ 361  Then Atreus' son drew the silver-studded sword,
+ 362  rose up, and struck the ridge of his helmet; but around it
+ 363  the sword shattered in three and four pieces, and fell from his hand.
+ 364  And Atreus' son groaned, looking into the wide sky:
+ 365  "Father Zeus, no other god is more destroying than you!
+ 366  I thought I had made Alexandros pay for his wickedness,
+ 367  and now the sword is broken in my hands, and the spear
+ 368  flew from my grip for nothing, and I have not hit him."
+ 369  He spoke — and springing on him he seized the horsehair helmet
+ 370  and swung round and dragged him toward the strong-greaved Achaeans;
+ 371  and the richly stitched strap was strangling the soft throat under it,
+ 372  the chin-strap drawn tight beneath his jaw.
+ 373  And now he would have dragged him off and won glory past telling,
+ 374  had not Aphrodite, Zeus's daughter, seen it sharply:
+ 375  she broke the strap — leather of an ox felled by force —
+ 376  and the helmet came away empty in his heavy hand.
+ 377  The hero sent it spinning away toward the strong-greaved Achaeans
+ 378  with a whirl, and his trusted companions gathered it up;
+ 379  and back again he sprang, raging to kill
+ 380  with his bronze spear. But Aphrodite snatched Paris away —
+ 381  easily, as a god can — and hid him in thick mist,
+ 382  and set him down in his fragrant, scented chamber.
+
+ 383  Then she went herself to summon Helen; she found her
+ 384  on the high tower, with the women of Troy thick around her.
+ 385  With her hand she plucked at her nectar-sweet robe and shook it,
+ 386  and spoke to her in the likeness of an old woman,
+ 387  a wool-comber of long ago, who used to work fine wool
+ 388  for her when she lived in Lacedaemon, and whom she dearly loved;
+ 389  in her likeness brilliant Aphrodite spoke:
+ 390  "Come here. Alexandros calls you home.
+ 391  There he is, in the bedchamber, on the turned bed,
+ 392  gleaming in his beauty and his clothes. You would not say
+ 393  he had come from single combat — rather that he was going
+ 394  to a dance, or sitting down just now come from dancing."
+ 395  So she spoke, and stirred the heart in Helen's breast;
+ 396  and when she noticed the surpassing beauty of the goddess's throat
+ 397  and the breasts of desire and the flashing eyes,
+ 398  awe took her,[22] and she spoke a word, and named her:
+ 399  "Strange goddess — why are you so set on cheating me like this?
+ 400  Will you carry me somewhere still farther on, to one of the fine
+ 401  cities of Phrygia or lovely Maeonia,
+ 402  if some mortal man is dear to you there too?
+ 403  Is it because Menelaus has beaten brilliant Alexandros
+ 404  and wants to lead hateful me home again —
+ 405  is that why you stand beside me now, weaving your tricks?
+ 406  Go sit beside him yourself. Renounce the paths of the gods;
+ 407  never again turn your feet back to Olympus,
+ 408  but fret over him forever, and guard him,
+ 409  until he makes you his wife — or else his slave.
+ 410  I will not go to him — that would be a thing for anger —
+ 411  to serve that man's bed. The women of Troy
+ 412  would all mock me afterward; and I have griefs past counting in my heart."
+ 413  And in anger brilliant Aphrodite answered her:
+ 414  "Do not provoke me, hard woman — or I may quit you in my anger
+ 415  and hate you as extravagantly as I now love you,
+ 416  and devise bitter hatreds between both sides,
+ 417  Trojans and Danaans alike — and you would perish miserably."
+ 418  So she spoke, and Helen sprung of Zeus was afraid,
+ 419  and she went in silence, wrapped in her shining white robe,
+ 420  unnoticed by all the Trojan women; and the goddess led.
+ 421  When they came to the beautiful house of Alexandros,
+ 422  the handmaids turned quickly to their work,
+ 423  and she went to the high-roofed bedchamber, brilliant among women.
+ 424  And laughter-loving Aphrodite[23] took a chair for her —
+ 425  a goddess! — carried it, and set it facing Alexandros;[24]
+ 426  there Helen sat, daughter of aegis-bearing Zeus,
+ 427  her eyes turned away, and she lashed her husband with her word:
+ 428  "You came back from the fight. How I wish you had died there,
+ 429  broken by the strong man who was my first husband.
+ 430  You used to boast, before, that you were the better man —
+ 431  stronger than Menelaus dear to Ares in force and hand and spear.
+ 432  Go on then, challenge Menelaus dear to Ares
+ 433  to fight you again face to face. — But no; I myself
+ 434  advise you to stop: do not fight tawny-haired Menelaus
+ 435  man against man, do not battle him,
+ 436  like a fool — or you may soon go down under his spear."[25]
+ 437  And Paris answered her with his word:
+ 438  "Woman, do not lash my heart with hard reproaches.
+ 439  This time Menelaus has won — with Athena's help;
+ 440  another time it will be I. There are gods on our side too.
+ 441  Come, let us take our joy in love, in bed together.
+ 442  Never has desire so wrapped itself around my heart —
+ 443  not even when I first carried you off from lovely Lacedaemon
+ 444  and sailed away in the seagoing ships,
+ 445  and on the island of Kranae[26] mixed with you in love and bed —
+ 446  as I love you now, and sweet longing takes hold of me."
+ 447  He spoke, and led the way to bed; and his wife followed.
+ 448  So the two lay together on the corded bed.
+
+ 449  But Atreus' son ranged through the throng like a wild beast,
+ 450  hunting for a glimpse of godlike Alexandros.
+ 451  And no one of the Trojans or their famed allies
+ 452  could show Alexandros to Menelaus dear to Ares;
+ 453  not out of friendship, surely, would they have hidden him, had anyone seen him:
+ 454  for he was hated by them all like black death.
+ 455  And among them spoke the lord of men Agamemnon:
+ 456  "Hear me, Trojans and Dardanians and allies.
+ 457  Victory clearly belongs to Menelaus dear to Ares.
+ 458  Give up, then, Argive Helen and the possessions with her,
+ 459  and pay whatever recompense is fitting,
+ 460  such as will be remembered among men still to come."
+ 461  So spoke Atreus' son, and the rest of the Achaeans gave assent.
+
+------------------------------------------------------------
+
+Notes
+
+[1] (3.3-7) The cranes migrating to Ocean's stream to war on the Pygmy
+    men — the oldest surviving reference to the Pygmy legend. The simile's
+    real work is the contrast it frames: the Trojans advance with clamor
+    like birds, the Achaeans in disciplined silence (8-9) — a recurring
+    characterization of the two armies.
+
+[2] (3.16) "Alexandros" — the poem's usual name for Paris (Πάρις appears
+    only occasionally, e.g. 325, 437). The translation reproduces
+    whichever name the Greek uses in each line rather than normalizing.
+    Hector's opening insult at 39, Δύσπαρι ("Dys-Paris," ill-Paris), is
+    rendered "Paris — evil Paris."
+
+[3] (3.18-20) A rare case of overlapping athetesis by both major
+    Alexandrian editors: Zenodotus rejected 18-20, Aristarchus separately
+    19-20 (apparatus). The bother was partly Paris's arsenal — leopard
+    skin, bow, sword, and two spears is theatrical overload. Kept: the
+    over-dressed entrance is exactly in character.
+
+[4] (3.21) "dear to Ares" (ἀρηΐφιλος) — Menelaus's standing epithet in
+    this book; his other is "tawny-haired" (ξανθός, 284). Both always so
+    rendered.
+
+[5] (3.57) "a shirt of stone" (λάϊνον χιτῶνα) — i.e. death by public
+    stoning, the community's punishment for the offense Paris committed;
+    the idiom is kept literal.
+
+[6] (3.103-104) The victims are matched to the oath-witnesses: a white
+    ram for the Sun, a black ewe for Earth, a third lamb from the
+    Achaeans for Zeus. Priam must swear in person because oaths bind the
+    swearer alone — and his sons are "not to be trusted" (106): the war
+    began with Paris violating a solemn bond.
+
+[7] (3.108-110) Aristarchus athetized these three generalizing lines on
+    young men's flightiness (apparatus, Line 108-110). Kept; the
+    sententiousness suits Menelaus's careful legalism in this speech.
+
+[8] (3.125-128) Helen weaving the battles "which for her sake they
+    suffered" — the poem's most self-referential image: she is weaving
+    the subject-matter of the Iliad while living inside it. The
+    Alexandrian editors read "a double cloak of purple" (πορφυρέην, as
+    printed); most manuscripts have "shimmering" (μαρμαρέην) — the
+    apparatus records the split (Line 126).
+
+[9] (3.144) Aethra, Pittheus' daughter, is in myth the mother of Theseus,
+    made Helen's slave when the Dioscuri sacked Athens's territory to
+    recover the girl Theseus had abducted — a story alien to Homer, and
+    ancient critics condemned the line as an Athenian interpolation
+    (Aristarchus athetized it; apparatus, Line 144). Translated as
+    printed; the name is either a fossil of that lost epic tradition or
+    a coincidence ancient readers over-read.
+
+[10] (3.145) The Scaean Gates: Troy's main gate facing the plain and the
+     battlefield, the fixed stage-set for departures and watching in this
+     poem (and, in tradition beyond it, the place of Achilles' death).
+
+[11] (3.151-152) The old counselors chirp like cicadas with their "lily-
+     thin voice" (ὄπα λειριόεσσαν — literally "lily-like," delicate as a
+     petal): age has left them song without strength. One of the poem's
+     most admired domestic similes.
+
+[12] (3.161-244) The teichoscopia ("viewing from the wall"): Priam, in
+     the war's tenth year, asks Helen to identify Agamemnon, Odysseus,
+     and Ajax as though the enemy were new to him. Critics ancient and
+     modern have noted the impossibility; dramatically it is the
+     audience's own introduction to the Achaean captains, staged through
+     the eyes of the two people most implicated in the war.
+
+[13] (3.180) "dog-face that I am" (κυνώπιδος) — Helen turns on herself
+     the poem's harshest shame-insult (cf. Achilles to Agamemnon, Book 1
+     note [19]). Her self-lacerations ("hateful me," 404; cf. 173-176)
+     are unique in the poem and are rendered at full strength.
+
+[14] (3.189) The Amazons, "the match of men" (ἀντιάνειραι) — one of only
+     two Iliad references to them (cf. 6.186); Priam fought against them
+     on the Sangarius in his youth. In post-Homeric epic they come to
+     Troy as allies — here they are still simply a memory of a hard war.
+
+[15] (3.205-224) Antenor recalls the pre-war embassy: Odysseus and
+     Menelaus came to Troy to demand Helen back before hostilities — a
+     tradition the Iliad otherwise passes over. His sketch of Odysseus's
+     oratory (the stiff stance, eyes down, then words "like snowflakes
+     in winter") became the classical archetype of deceptive-looking
+     eloquence.
+
+[16] (3.243-244) The famous ironic close of the teichoscopia: Helen
+     scans the plain for her brothers Castor and Polydeuces, imagining
+     them ashamed of her — "but the life-giving earth already held them
+     under." The narrator states their death with the epithet φυσίζοος
+     ("life-giving") set against the grave: kept in its full contradiction.
+     Homer knows nothing (or says nothing) of their later shared
+     immortality.
+
+[17] (3.276-279) The oath-witnesses: Zeus of Ida, the all-seeing Sun,
+     the Rivers and Earth, "and you two below who punish the dead" —
+     probably Hades and Persephone (some ancients understood the
+     Erinyes). Perjury is the one sin explicitly punished after death
+     in the Iliad.
+
+[18] (3.298-301) The curse enacts itself in the ritual: as the wine is
+     poured out, so may the perjurers' brains pour on the ground. "Their
+     wives be subdued to other men" completes the symmetry — the war is,
+     precisely, about a wife taken by another man.
+
+[19] (3.302) A Ptolemaic papyrus preserves four extra lines here — Zeus
+     thundering in answer and planning woes for both sides — absent from
+     the medieval manuscripts (apparatus, Line 302; cf. disputed_lines.md
+     #14 on Ptolemaic "plus verses"). A live specimen of how fluid the
+     text still was before the Alexandrian standardization. The vulgate's
+     laconic "the son of Cronos would not yet bring it to pass" is
+     translated; the papyrus expansion is recorded here.
+
+[20] (3.328-338) The poem's first full arming type-scene, in the fixed
+     order that recurs whenever a hero arms: greaves, corslet, sword,
+     shield, helmet, spear(s). Later arming scenes (Agamemnon in Book
+     11, Patroclus in 16, Achilles in 19) elaborate the same skeleton;
+     it will not be re-footnoted. Zenodotus athetized 334-335
+     (apparatus). Paris borrows his brother Lycaon's corslet — the
+     bowman owns none.
+
+[21] (3.346) "long-shadowed spear" (δολιχόσκιον ἔγχος) — the fixed
+     epithet of the thrown spear, always so rendered.
+
+[22] (3.396-418) Aristarchus athetized this whole exchange (apparatus,
+     Line 396-418) — Helen seeing through the disguise, defying the
+     goddess to her face ("Go sit beside him yourself... his wife — or
+     else his slave"), and Aphrodite's naked threat. No other mortal in
+     the Iliad speaks to a god like this; the scene lays bare what
+     Aphrodite's "gifts" cost the one who receives them. Kept entire.
+
+[23] (3.424) "laughter-loving Aphrodite" (φιλομειδὴς Ἀφροδίτη) — her
+     fixed epithet, always so rendered.
+
+[24] (3.424-425) A goddess carrying a chair for a mortal woman —
+     service so startling the translation lets the narrator's shock show
+     ("a goddess!" renders the emphatic θεά). Zenodotus rewrote 423-426
+     into a single innocuous line, "and she herself went and sat opposite
+     lord Alexandros" (apparatus, Line 423-426) — flattening exactly the
+     scandal that gives the gesture its force: Aphrodite is herself
+     procuring, and stoops to it.
+
+[25] (3.428-436) Helen's greeting to the rescued Paris — a death-wish,
+     a taunt, and a mid-sentence collapse from "challenge him again" to
+     "no — you would die." Aristarchus athetized 432-436 (apparatus).
+     Kept: the broken movement of the speech is the psychology.
+
+[26] (3.445) Kranae ("Rocky Isle") — the island where Paris and Helen
+     first slept together on the flight from Sparta; possibly a proper
+     name, possibly just "a rocky island." Ancient guesses ranged from
+     Cythera to an islet off the Laconian coast later renamed Helene.

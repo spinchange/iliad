@@ -1,0 +1,104 @@
+BOOK 7 — Apparatus Criticus (Monro-Allen, OCT 3rd ed., 1920)
+============================================================
+
+See README.md in this directory for a legend of the critical abbreviations
+(ath., Zen., Ar., Aristoph., vulg., om., codd., cf., Hdn., etc.).
+
+This file is a mechanical extraction from OCR'd scans of the Oxford Classical Text. The Greek text OCR is frequently garbled (diacritics and some letterforms are unreliable); critical sigla and Latin abbreviations are generally more reliable. Entries marked with no line number below could not be confidently tied to a specific Iliad line and are listed at the end as unplaced fragments.
+
+------------------------------------------------------------
+
+Line 18: v. om. |"
+Line 22: spe Tep. g 23 ékdepyoso
+Line 24: où d ad codd
+Line 30: paxno]ope0
+Line 31: om. p%*
+Line 32: om. 05 àbavd- mpo: ghpqaal.: «ou Zen. vulg.: Perini A oi Aristoph
+Line 33: rò»r 3° nueiBer” érerra Zen, v. l. in A rg e nio pi
+Line 53: ath. Ar
+Line 56: oi 3° ho AO°U: ro è vulg. 60 èy a M° U!
+Line 62: BeBpi8vîa: v.l. in A (cf. A 282)
+Line 64: méovros Arist. Probl
+Line 934: a vulg.: mévrov Ar. efa BC Lpal. aùrfis vulg.: aòrîi Ar.efhBCTal.: aùrovv.1. ant. Vi?, Arist. . c. : aòr@ U® 73 ® èv Ar. bgV!9V?2: uèv vulg
+Line 74: vòv dv tiva] el kai riva ch, v.linA éuo) paxécarda.) évì oThIeooiv i 90 5» riv v..1 GAT
+Line 95: velke’ Ar. (&v Tio TdV broprnudrwr), qL LU
+Line 97: Tdde y] ye rdd' v ap. T (&v rio)
+Line 104: Bidroso] Gavdrowe v.l. in AT Biorov répua padvon, yp. V'*
+Line 109: xp}] xpeé il
+Line 110: dè oxéo Ar. Hdn. aefogqAT: è &vryeo ch: 3’ Yoxeo vulg. 112 7ov te Tpop[eovoi PS, ròv brorp. Bm8 H! Vi
+Line 113: rodréy ye v. l. in A, ita Le? Lesbonax
+Line 182: II4 èvri- porfra v..1gA apuelvw Zen. M® P!5 (cf. A 80)
+Line 127: pespduevos péya (leg. ueyd)°) Eotevev Zen. 130 $lAas àvà] Bapetas Ar. (èv taîs éenracpéva:s ’Apiotapyxov Did.) c h
+Line 131: dra) bgGal.: àmeèx m
+Line 133: ’Axidovri v. l. ap. Strab. 348 uv
+Line 135: Pers] Xdas v. l. ap. Strab. /. c.: pnpàs Did, duce Pherecyde fr. 87: cf. 0297 fdapddyov Did. SAT Ar. 146 Ar. vulg.: r'aefhaBCDUV!V!6 al
+Line 149: d@ke d Ar. vulg.: 3@xev v. l. ant. cghial. Isra avriBiov uaxérarda èv alviî Bniorfjri bfgaal. 153 $] éug Zen. v.1.6T 168 àv] èv h
+Line 171: rerdAac0e Ar. Hdn. a dfag ABC Lp T: merdAiax0e vulg. &s qu. g A ita P!S pi5
+Line 177: Beoîoi dt Alexio Heracleo vulg. : @eoîs dè Ptol. Ascall ceghABCTal
+Line 179: Aaxeiv] rvxeîv h 186 3) ròv et
+Line 34: p Ar. (Bix@s)
+Line 34: p° AU! V16 ardvrn) Axaòv chal
+Line 187: xvvénv a L4 MS US VII V15 y23
+Line 193: dvvw Ar. P8 V12
+Line 195-199: ath. Zen. Aristoph. Ar
+Line 195: ye ibwvra:] rembbwrra L*O9U®V?®V23 197 éxèv) éAèov Ar. (ka) ai mAelovs) c gh al. 198
+Line 71: dpeln Ar.: pèv idpetn Aristoph. : 7° &iBpeln codd
+Line 207: Tebxn codd. praeter A ss.,6T O 187
+Line 213: BRiBds Ar. codd. (cf. 1 22)
+Line 214: pèy Ar. : uéy codd. 215 èmfAu@e cit. Plut. de aud. poet. 0a, hV!?
+Line 221: “YAp] Yòp v.l. ap. Strab. 408, 626 230 èmunvicas Ar
+Line 234: om. A Bm® M5 Ml! Of Pal! U!1 : Aîay Guaproeres Bovydie moîov terras ( = N 824) gr L!° V5: utrumque (ordine inverso) Ang. V18 V29
+Line 238: old’... 03) Md... nd v.l ap. Eust., P4 D m. rec.: è alterum cgpal. B@v Ar. vulg.: Body Aristoph. L! Lt Mc V32: Bè Rhi. 240 èratgew v. lin A
+Line 241: ante
+Line 240: o L!° N4 U10 Eust. Sniwv Ar. h 243 òmmrevoas ABCDM!TU!V!al.: drimrevras cet. rixwu: A Bm5E4 TVib al: “wii Iv: -wuar Bm't L18 US V18; ou cet. HOM. IL. 10
+Line 255-257: ath. Zen
+Line 259: xaXkés Ar. ghTU!*V10: xarkdy vulg
+Line 272: dorid' evixpiupPets Ar. : domidi èyxpiupdels vulg. aly’) èy v |. ant
+Line 279: uixeode ha L*L8L!? UA Viù V22 di
+Line 284: “Extopa ach A UV! al. : “Ekropi vulg
+Line 285: obros d v.l. in A al
+Line 286: f eh 1ABCDTaIl.: ei vulg
+Line 290: ravowuev TÉXepov xal 3niorfra bgaT v. Lin Aal
+Line 293: (= 282) asteriscus cum obelo A, om. W3
+Line 294: ’Axaov o L!1 L12 L14 N4 V15 al,
+Line 295: ath. Ar
+Line 208: Sirovra.) Sivovrai v ap. T (èv ri0i): Borra Hdn. g B Lp, gp. VI
+Line 299: d' dy] dé y hal.: 3 &u aq Vit Vv82
+Line 300: xaAro- xirovwv o N4
+Line 302: diéruayov L! L19 M10 US Ul V15 304 èukuhnrp Ar. : èudunrg b Vi? al
+Line 308: a (=E 516) M8 10*
+Line 312: kekagnéra cit. Et. M. 482. 8
+Line 316: diéyevov AfA al. (cf. 1 270) 324 %ptaro f cit. Eust. ufriw) pù00v M!° ss, VI V3? cit. Eust. 327 ’Arpedal Afikq A ss. BC al, eurvijpides "Axauol e V'
+Line 328: yàp] uèv bgq al. : 3) GeN*UViI
+Line 334-335: ath. Ar. 336 è’) r' Ar.hal. àupiBorov, yp. GT 337 év redip Aristoph. Le! yp. E* P* VS Eu. morì] rep) M° M!? V12 al
+Line 399: ed) € ér7° v.l. ant
+Line 342: Trrovs gh Eust. al. : Yrroy vulg
+Line 347: fipx àyopeverv] àavriov nda kK A U!
+Line 349: KeXever] dvdyei o M1° N4 U? V5 V14: spiver V!5
+Line 351: ’Arpeldnow)’Apyelowri 1
+Line 353: ath. Ar. Iva) èàv L1°: el VI lv’ èv pò) Ar. T corr. PS V1? A atri Valy
+Line 359: el d' Ar. codd.: e) v. l. ant
+Line 364: kal T' codd
+Line 368-369: om. i1 A M*M” U! U? V3 V8 v32
+Line 369: KeAever] àvdoyer N4 v14
+Line 370: aréAw)] orparév aefilm v.l. in A, BCT al. os TÒ wdpos rep) èv reXéeoai h V®?
+Line 380: om. cho A L° N4 V1 V15
+Line 385: om, AU? V® VI? Vil ’Arpe?da be d g Ge M° V!2 al, eikvh- pides "A
+Line 77: pie N? N4P1Vv1v, v. L in A
+Line 393: uv Ar. vulg.: uv gh
+Line 400: pu) ydp iqGe al
+Line 408: ita ch V®2 al. : -kes(n)éuey cet. 418 àu@érepor h al. 420 òrpuvovro (vel @rp.) vecus Ar. hV® V12 V15 V16 ; Srpuvov (&rpuvov) seu èrpuvovro (@rp.) vévas vulg
+Line 421: dpovpais e
+Line 424: xaAerdv c£BCS al
+Line 427: oi dè) dà r, yp. e A M!9U13 716 428,
+Line 431: wvpraîîjs Ar. vulg. : ruvpraîfis A ss. L!8 M!? N4: supraiîì Zen. N4 (431) emuvhveoy Vs v. Ll inAT: ère- cet. 436 èv redig Aristoph. h V®? (cf. 337) rep) chk1U!al. 437 0" aUSEust. : è L!° MB: om. vulg. 440 è) èvbg: ir h aòr@yv r L18 441 èv) repì chipral
+Line 443-464: ath. Zen. Aristoph. Ar
+Line 448: bri] bre ilABCTal
+Line 451: Soy 7’ Zen. vulg.: Srov ad hal.: donv 7° Ar. A Pal! U! VI
+Line 452: rò Ar. bchal.
+Line 708: v. l. ant. (xar’ &via r@y ouynudrwy): 767° D'aAUlal.: 87’ vulg
+Line 458: dv] co) c N4 Srov r° Zen. vulg. : Srov a d h al. : $onv 7’ Ar. p' AU! V! 465 berAss.al.: 7’ vulg. 472 év0ev dp codd
+Line 474: abrfo: Ar. (uv.) bg hABDTal.: aùroîvi cet
+Line 475: ath. Zen. Aristoph. Ar. àvSparddorri Ar. h v. l. ap. Eust. 481 mé- uevai mplv Ar. h: miéuev mpìv V3 VS
+Line 482: om. Zen post v
+Line 52: scripsit Zen, bròd) fua g om. cap'AD U! VI al. avdryer VI2 VIA VIS; èvelmp k 7 0e@v Ar. h 10 àrdrep0e Aristoph. : perdriode Zen. 18 raca[: p'

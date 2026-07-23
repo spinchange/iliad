@@ -1,0 +1,396 @@
+# Translation Conventions and Formula Register
+
+The authoritative register of fixed renderings and translation policy for
+this Iliad. Decisions here are binding for later books unless explicitly
+revisited. Started with Book 1; restructured (2026-07-22) on the model of
+the Odyssey project's FORMULAS.md.
+
+## Principles
+
+1. **The committed text is the source of truth.** This file must agree with
+   the translated books; when in doubt, grep `translation/book_*.txt`.
+   Update this register whenever a new formula is fixed, with a first-use
+   reference (book.line of this translation = the Greek's line numbers).
+2. **A formula, once fixed, recurs identically.** Epithets are never varied
+   away for elegance. Homer's repetition is structural; the English repeats
+   it verbatim, adjusting only grammatical person and inflection
+   ("answered him/her").
+3. **Whole-passage repetition is verbatim.** When the Greek repeats a block
+   (messenger speeches, retellings, type-scenes), the English repeats its
+   own earlier block word for word.
+4. **Distinct Greek gets distinct English by default.** Deliberate merges
+   are allowed but must be documented (current list: πόδας ὠκύς = ποδάρκης
+   "swift-footed"; θεοειδής = θεοείκελος "godlike").
+5. **Mechanical conformance is checked by tooling** — `python
+   tools/check_formulas.py` verifies high-value formulas against the Greek.
+   Add a check when fixing a formula that recurs often.
+
+## General stance (set in Book 1)
+
+- **Form**: plain, dignified modern English free verse, line-for-line with
+  the Greek (one English line per Greek line). Target a loose five-to-six
+  beat line (adopted from Book 5 onward; Books 1-4 predate the target and
+  are not retrofitted). No meter, no rhyme.
+- **Line numbers**: every translated line carries its Greek line number.
+  Notes cite (book.line).
+- **Epigraph**: each book opens with a one-sentence summary line.
+- **Text followed**: the printed Monro-Allen text as given in `books/`,
+  including athetized passages (atheteses recorded in footnotes, never
+  acted on). Where the printed text goes against the manuscript vulgate
+  (e.g. 1.350 "boundless" vs. "wine-dark"), translate as printed and
+  footnote.
+- **Footnote markers**: bracketed integers `[1]`, `[2]`… restarting at 1
+  per book; each note opens with its (book.line) reference. Formulas are
+  footnoted at first occurrence in the whole project only.
+
+## Terms for the enslaved and the household (adopted from the Odyssey register)
+
+- δμώς / δμῳή → **"slave" / "slave-woman"** — never "servant" or "maid."
+  (Not yet encountered in Books 1-4; binding from first occurrence.)
+- ἀμφίπολος → "handmaid" (3.143 "two handmaids"); plural attendance
+  phrases → "attendant women" as needed.
+- θεράπων → "aide" (4.227) or "henchman" (1.321, of heralds); in the
+  formula θεράποντες Ἄρηος → "squires of Ares" (2.110).
+
+## Thematic vocabulary (keep rigid)
+
+| Greek | English | First | Notes |
+|---|---|---|---|
+| μῆνις | wrath | 1.1 | theme word; never "rage/anger" |
+| τιμή | honor | 1.159 | |
+| γέρας | prize | 1.118 | the awarded object embodying honor |
+| ἄτη | blindness (ruin) | 1.412 | god-sent delusion; thread runs 1.412 → 2.111 → Book 19 |
+| ἀτιμάζειν etc. | dishonor | 1.11 | |
+| ἄποινα | ransom | 1.13 | |
+| κλέος | fame / the report | 2.325 / 2.486 | "fame" when won and lasting; "the report" for hearsay |
+| μῆτις | counsel / cunning | 2.169 | in epithets: "the equal of Zeus in counsel" |
+| ἀτασθαλίαι | recklessness | 4.409 | |
+| θέμιστες | the ordinances | 1.238 | |
+| ξεινοδόκος / ξεῖνος | host / guest(-friend), stranger | 3.354 | xenia vocabulary kept visible |
+
+## Epithets and names
+
+### People and gods
+| Greek | English | First |
+|---|---|---|
+| πόδας ὠκύς / ποδάρκης (Achilles) | swift-footed | 1.58 / 1.121 |
+| δῖος | brilliant | 1.7 |
+| ἄναξ ἀνδρῶν (Agamemnon) | lord of men | 1.7 |
+| εὐρὺ κρείων | wide-ruling | 1.102 |
+| κρείων | the lord | 1.130 |
+| θεοείκελος / θεοειδής | godlike | 1.131 / 3.16 |
+| διογενής | Zeus-sprung | 1.337 |
+| πολύμητις (Odysseus) | resourceful | 1.311 |
+| πολυμήχανος (Odysseus) | of many devices | 2.173 |
+| Διὶ μῆτιν ἀτάλαντος (Odysseus) | the equal of Zeus in counsel | 2.169 |
+| πτολίπορθος | sacker of cities | 2.278 |
+| καλλιπάρῃος | fair-cheeked | 1.143 |
+| λευκώλενος (Hera) | white-armed | 1.55 |
+| βοῶπις πότνια Ἥρη | ox-eyed lady Hera | 1.551 |
+| γλαυκῶπις (Athena) | grey-eyed | 1.206 |
+| Παλλάς | Pallas (kept) | 1.200 |
+| ἀγελείη (Athena) | the driver of the spoil | 4.128 |
+| Ἀτρυτώνη (Athena) | Unwearied one | 2.157 |
+| Τριτογένεια (Athena) | Tritogeneia (kept) | 4.515 |
+| αἰγίοχος (Zeus) | aegis-bearing | 1.202 |
+| νεφεληγερέτα (Zeus) | Zeus the cloud-gatherer | 1.511 |
+| μητίετα (Zeus) | Zeus the counselor / of the counsels | 1.175 |
+| τερπικέραυνος | who delights in thunder | 1.419 |
+| ἀστεροπητής | lord of lightning | 1.580 |
+| ὑψιβρεμέτης | who thunders on high | 1.354 |
+| ὑψίζυγος | high-throned | 4.166 |
+| εὐρύοπα | wide-seeing | 1.498 |
+| Κρονίδης / Κρονίων | son of Cronos | 1.397 |
+| ἀγκυλομήτεω Κρόνου | crooked-counseled Cronos | 2.205 |
+| πατὴρ ἀνδρῶν τε θεῶν τε | father of men and gods | 1.544 |
+| ταμίης πολέμοιο (Zeus) | the dispenser of war | 4.84 |
+| ἀργυρόπεζα (Thetis) | silver-footed | 1.538 |
+| ἅλιος γέρων | the old man of the sea (= Nereus, never named) | 1.538 |
+| ἠΰκομος | lovely-haired | 1.36 |
+| ἑκηβόλος / ἑκατηβόλος / ἑκατηβελέτης (Apollo) | who strikes from afar; standalone substantive: the far-striker | 1.14 / 1.96 |
+| ἕκατος | the far-striker | 1.385 |
+| ἑκάεργος | the worker-from-afar | 1.147 |
+| ἀργυρότοξος | god of the silver bow / of the silver bow | 1.37 |
+| Λυκηγενής (Apollo) | the Lycian-born | 4.101 |
+| κλυτότοξος | famed for the bow | 4.101 |
+| Φοῖβος | Phoebus (kept) | 1.43 |
+| Σμινθεύς | Smintheus (kept, cult title) | 1.39 |
+| κλυτοτέχνης (Hephaestus) | famed for craft | 1.571 |
+| ἀμφιγυήεις (Hephaestus) | crook-footed | 1.607 |
+| περικλυτός | famed | 1.607 |
+| ῥοδοδάκτυλος Ἠώς | rosy-fingered Dawn | 1.477 |
+| ἠριγένεια | early-born | 1.477 |
+| χρυσόθρονος | of the golden throne | 1.611 |
+| φιλομειδὴς Ἀφροδίτη | laughter-loving Aphrodite | 3.424 |
+| ἀργεϊφόντης (Hermes) | the slayer of Argus | 2.103 |
+| διάκτορος (Hermes) | the guide | 2.103 |
+| ποδήνεμος ὠκέα Ἶρις | wind-footed swift Iris | 2.786 |
+| πόδας ὠκέα Ἶρις | swift-footed Iris | 2.790 |
+| πότνια Ἥβη | the lady Hebe | 4.2 |
+| Δεῖμος / Φόβος / Ἔρις | Terror / Panic / Strife (personified, capitalized) | 4.440 |
+| κορυθαίολος Ἕκτωρ | Hector of the flashing helmet | 2.816 |
+| φαίδιμος Ἕκτωρ | glorious Hector | 4.505 |
+| ἀνδροφόνος (Hector) | man-slaughtering | 1.242 |
+| ἀρηΐφιλος (Menelaus) | dear to Ares | 3.21 |
+| ξανθός (Menelaus; of hair) | tawny-haired / tawny | 3.284 / 1.197 |
+| βοὴν ἀγαθός (Menelaus, Diomedes) | good at the war-cry | 2.408 / 2.563 |
+| Γερήνιος ἱππότα Νέστωρ | the Gerenian horseman Nestor | 2.336 |
+| ἱππόδαμος | breaker of horses (individual); horse-taming (Trojans) | 2.23 / 2.230 |
+| ἱπποκορυσταί | men who fight from chariots | 2.1 |
+| δουρὶ κλυτός | famed with the spear | 2.645 |
+| μενεπτόλεμος | steadfast in battle | 2.740 |
+| δαΐφρων | war-minded | 2.23 |
+| ὑπέρθυμος | high-hearted | 4.365 |
+| κυδάλιμος | glorious | 4.100 |
+| λινοθώρηξ | in/of the linen corslet | 2.529 |
+| βίη Ἡρακληείη (etc.) | the might of Heracles (periphrasis, keep) | 2.658 |
+| ποιμὴν λαῶν | shepherd of the people | 1.263 |
+| ὄζος Ἄρηος | scion of Ares | 2.540 |
+| θεράποντες Ἄρηος | squires of Ares | 2.110 |
+| ἀτάλαντος Ἄρηϊ / Ἐνυαλίῳ | the equal of Ares / of Enyalius | 2.627 / 2.651 |
+| ἡγήτορες ἠδὲ μέδοντες | leaders and lords | 2.79 |
+| κοσμήτορε λαῶν | marshals of the people | 1.16 |
+| μερόπων ἀνθρώπων | mortal men (sg. as sense requires) | 1.250 |
+| κάρη κομόωντες Ἀχαιοί | long-haired Achaeans | 2.11 |
+| ἐϋκνήμιδες Ἀχαιοί | strong-greaved Achaeans | 1.17 |
+| χαλκοχίτωνες Ἀχαιοί | bronze-shirted Achaeans | 1.371 |
+| ἑλίκωπες / ἑλικῶπις | bright-eyed | 1.98 |
+| ταχύπωλοι Δαναοί | Danaans of swift colts | 4.232 |
+| ἐΰζωνος | fair-belted | 1.429 |
+| τανύπεπλος | of the trailing robe | 3.228 |
+| δῖα γυναικῶν | brilliant among women | 2.714 |
+| ἰσόθεος φώς | a man like a god | 3.310 |
+| ἀντιάνειραι (Amazons) | the match of men | 3.189 |
+| ἕρκος Ἀχαιῶν (Ajax) | wall of the Achaeans | 3.229 |
+| ἐϋμμελίω (Priam) | of the good ash spear | 4.47 |
+| διοτρεφής | Zeus-nurtured | 1.176 |
+
+### Things, places, seascape
+| Greek | English | First |
+|---|---|---|
+| πολυφλοίσβοιο θαλάσσης | loud-roaring sea | 1.34 |
+| ἁλὸς ἀτρυγέτοιο | barren sea | 1.316 |
+| οἴνοπα πόντον | wine-dark sea (where printed; 1.350 prints "boundless") | 2.613 |
+| πολιῆς ἁλός | grey sea / grey salt water | 1.350 |
+| ὑγρὰ κέλευθα | the watery ways | 1.312 |
+| εὐρέα νῶτα θαλάσσης | the broad back of the sea | 2.159 |
+| θῖνʼ ἁλός / παρὰ θῖνα | the shore / surf-line of the sea | 1.34 |
+| θοαὶ νῆες | swift ships | 1.12 |
+| νῆες ἐΐσαι | balanced ships | 1.306 |
+| κορωνίσιν νηυσί | beaked ships | 1.170 |
+| ὠκύποροι νῆες | swift-faring ships | 1.421 |
+| κοίλῃσι νηυσί | hollow ships | 1.26 |
+| νηῒ μελαίνῃ | black ship | 1.141 |
+| πολυκλήϊσι | many-benched | 2.74 |
+| ἐϋσσέλμοιο | well-benched | 2.170 |
+| μιλτοπάρῃοι | with cheeks of vermilion | 2.637 |
+| ἑκατόμβη | hecatomb | 1.65 |
+| κλισίη | hut (never "tent") | 1.185 |
+| δολιχόσκιον ἔγχος | long-shadowed spear | 3.346 |
+| νηλέϊ χαλκῷ | the pitiless bronze | 3.292 |
+| πάντοσε ἴση (shield) | balanced every way | 3.347 |
+| κῆρα μέλαιναν | black doom | 3.360 |
+| χθὼν πουλυβότειρα | the earth that feeds so many | 3.89 |
+| φυσίζοος αἶα | the life-giving earth | 3.243 |
+| ζείδωρος ἄρουρα | the grain-giving earth | 2.548 |
+| Ὄλυμπος ἀγάννιφος / αἰγλήεις | snow-capped / shining Olympus | 1.420 / 1.532 |
+| Ἴλιος ἱρή | holy Ilion | 4.46 |
+| ἕρκος ὀδόντων | the fence of (your) teeth | 4.350 |
+| νήδυμος ὕπνος | sweet sleep | 2.2 |
+| μελίφρων ὕπνος | honey-hearted sleep | 2.34 |
+| οὖλος ὄνειρος | baneful Dream (capitalized as person) | 2.6 |
+| φλὸξ Ἡφαίστοιο | the flame of Hephaestus (metonymy, keep) | 2.426 |
+
+## Speech-introduction formulas (fixed whole lines; person-slots adapt)
+
+| Greek cue | English | First |
+|---|---|---|
+| τὸν/τὴν δʼ ἀπαμειβόμενος προσέφη [name] | Answering him/her spoke [name]: | 1.84 |
+| τὸν/τὴν δʼ ἠμείβετʼ ἔπειτα [name] | Then answered him/her [name] / Then [name] answered him/her: | 1.121 |
+| τὸν/τὴν δʼ αὖτε προσέειπε [name] | Then [name] answered him/her: | 1.206 |
+| τὸν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη [name] | Glaring at him darkly, [name] spoke/answered: | 1.148 |
+| ὅ σφιν ἐὺ φρονέων ἀγορήσατο καὶ μετέειπεν | With good will toward them he spoke and addressed them: | 1.73 |
+| καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα | and speaking winged words he/she addressed him/her: | 1.201 |
+| ἀγχοῦ δʼ ἱσταμένη/-ος … προσηύδα | Standing close, [name] spoke … | 2.172 |
+| ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε | and spoke a word, and named him/her: | 1.361 |
+| τοῖσι δʼ ἀνιστάμενος μετέφη [name] | [name] rose and spoke among them: | 1.58 |
+| τοῖσι δὲ καὶ μετέειπε [name] | And among them spoke [name]: | 2.336 |
+| ὣς φάτο / ὣς ἔφατ(ο) | So he/she spoke, … | 1.33 |
+| ἦ (ῥα) καί … | He/She spoke, and … | 1.219 |
+| ἤτοι ὅ γʼ ὣς εἰπὼν κατʼ ἄρʼ ἕζετο· τοῖσι δʼ ἀνέστη | So he spoke and sat down; and among them rose | 1.68 |
+| ὣς ἔφατʼ, οὐδʼ ἀπίθησε [name] | So he/she spoke, and [name] did not disobey | 2.166 |
+| μειλιχίοισιν (ἐπέεσσιν) | with honeyed words | 4.256 |
+| χολωτοῖσιν ἐπέεσσιν | with angry words | 4.241 |
+| αἰσχροῖς ἐπέεσσιν / νείκεσσεν | with shaming words / raked him | 3.38 |
+| κερτομίοισι (ἐπέεσσι) | with cutting/needling words | 1.539 / 4.6 |
+
+## Vocative address formulas (fixed verbatim)
+
+| Greek | English | First |
+|---|---|---|
+| διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ | Zeus-sprung son of Laertes, Odysseus of many devices | 2.173 |
+| Ἀτρεΐδη κύδιστε, ἄναξ ἀνδρῶν Ἀγάμεμνον | Most glorious son of Atreus, lord of men Agamemnon | 2.434 |
+| ὦ φίλοι ἥρωες Δαναοὶ θεράποντες Ἄρηος | Friends, Danaan heroes, squires of Ares | 2.110 |
+| Ζεῦ πάτερ Ἴδηθεν μεδέων κύδιστε μέγιστε | Father Zeus, ruling from Ida, most glorious, greatest | 3.276 |
+| Ζεῦ κύδιστε μέγιστε κελαινεφές | Zeus most glorious, greatest, lord of the dark cloud | 2.412 |
+| αἰνότατε Κρονίδη, ποῖον τὸν μῦθον ἔειπες | Most dread son of Cronos, what a word you have spoken! | 1.552 |
+| δαιμονίη / δαιμόνιε | Strange one / Possessed one / Fool (context-graded; see 1.561, 4.31, 2.190, 2.200) | 1.561 |
+| ὦ πόποι | Shame! / Well now! (indignant vs. amused; 1.254, 2.272) | 1.254 |
+| ὦ γέρον | Old man, … | 4.313 |
+| τέττα | Old friend (4.412 only) | 4.412 |
+| κέκλυτέ μευ [group] | Hear (from) me, [group] … | 3.86 |
+
+## Recurring whole lines and refrains (fixed verbatim)
+
+| English (fixed) | First | Notes |
+|---|---|---|
+| and when early-born rosy-fingered Dawn appeared, | 1.477 | the dawn line |
+| they feasted, and no heart lacked a fair share of the feast. | 1.468 | also 1.602, 2.431 |
+| And when they had put away desire for eating and drinking, | 1.469 | feast close; also 2.432 |
+| the young men filled the mixing-bowls brim-high with drink | 1.470 | |
+| Sacrifice block: "they first drew back the victims' heads, cut their throats, and flayed them, / carved out the thigh-pieces and wrapped them in fat, / making a double fold, and laid raw flesh upon them" | 1.459-461 | = 2.422-424 verbatim; continuations follow the Greek where it diverges |
+| When the thighs were burned and they had tasted the inner parts, / they cut up the rest and threaded it on spits, / roasted it with care, and drew it all off. | 1.464-466 | = 2.427-429 |
+| bearing ransom past counting, | 1.13 | = 1.372 |
+| but the two sons of Atreus most of all, marshals of the people | 1.16 | = 1.375 |
+| Then all the other Achaeans shouted assent: / respect the priest, take the shining ransom. | 1.22-23 | = 1.376-377 |
+| he sent him off harshly, and laid a hard command on him: | 1.25 | = 1.379; cf. 1.326 |
+| he has taken and keeps his/my prize; he seized it himself. | 1.356 | also 1.507, 2.240 — the quarrel's refrain |
+| loving both men alike in her heart, and caring for both. | 1.196 | = 1.209 |
+| I tell you this outright, and it will be accomplished: | 1.212 | ὧδε γὰρ ἐξερέω…; cf. 2.257 |
+| and let them drag / do not let them drag the balanced ships down to the sea | 2.165 | = 2.181 |
+| the struggles and groans of Helen | 2.356 | = 2.590 |
+| With him/them followed forty black ships. | 2.524 | catalogue refrain; variants per Greek |
+| With them thirty hollow ships sailed in order. | 2.516 | catalogue refrain |
+| he was broken under the hands of the swift-footed son of Aeacus / in the river | 2.860-861 | = 2.874-875 |
+| death and doom (θάνατον καὶ πότμον) | 2.359 | πότμος = doom; μοῖρα = fate |
+| Then let the wide earth gape for me. | 4.182 | recurs later (8.150) |
+| glory for him, grief for us. | 4.197 | = 4.207 |
+
+## Ritual and formal language (set in Book 3)
+
+- ὅρκια τάμνειν kept literal: "cut the (sworn) oaths" — from cutting the
+  victims' throats; never softened to "swear a treaty." ὅρκια πιστά =
+  "sworn oaths" / "oath-offerings" (when the physical victims are meant).
+- Oath-witness invocation (3.276-280) and curse formula (3.298-301)
+  rendered with deliberate stiffness — reuse this register for later
+  truce/oath scenes.
+- Prayer shape: invocation with cult titles → past services or grounds →
+  request. Keep the three-step structure visible.
+- Arming type-scene order (3.330-338): greaves → corslet → sword →
+  shield → helmet → spear. Footnoted at first occurrence only; later
+  arming scenes (Books 11, 16, 19) reuse the same English skeleton.
+
+## Combat conventions (set in Book 4 — binding for all battle books)
+
+Death formulas, fixed and never varied for elegance:
+- τὸν δὲ σκότος ὄσσε κάλυψε → "darkness covered his eyes"
+- δούπησεν δὲ πεσών, ἀράβησε δὲ τεύχεʼ ἐπʼ αὐτῷ → "he fell with a thud,
+  and his armor clattered upon him"
+- λῦσε δὲ γυῖα → "unstrung his limbs"
+- τὸν μὲν λίπε θυμός / θυμὸν ἀποπνείων → "the spirit left him" /
+  "gasping out his life"
+- μοῖρα πέδησε → "fate shackled (him)"
+
+Armor vocabulary:
+- ζωστήρ = war-belt; ζῶμα = loin-guard; μίτρη = waist-guard;
+  θώρηξ = corslet; κνημῖδες = greaves; κυνέη / κόρυς = helmet;
+  σάκος / ἀσπίς = shield (ὀμφαλόεσσαι = "bossed"); φάλος = (helmet-)ridge.
+- Wound anatomy kept clinically precise, as the Greek gives it.
+- Weapons are bronze; note rare iron exceptions when they occur
+  (4.123 arrowhead; iron otherwise = tools/wealth).
+- πρόμαχοι = "the front-fighters."
+
+## Paris / Alexandros (set in Book 3)
+
+The poem uses both names, Ἀλέξανδρος predominating. Reproduce whichever
+name the Greek has in each line; do not normalize. Δύσπαρι (3.39) =
+"Paris — evil Paris."
+
+## Catalogue style (set in Book 2, applies to any later list passages)
+
+- One English line per Greek line, litany register preserved.
+- Ship-count refrains rendered identically wherever the Greek is identical.
+- Relative-clause chains kept as "they who dwelt in… / who held…" anaphora.
+- Place-epithets always translated ("rocky Aulis," "Thisbe of the many
+  doves," "hundred-citied Crete").
+
+## Named-entity spellings
+
+Familiar Latinized forms throughout: Achilles, Agamemnon, Menelaus, Ajax,
+Odysseus, Patroclus, Nestor, Calchas, Chryses, Chryseis, Briseis (father:
+Briseus), Clytemnestra, Hector, Priam, Peleus, Thetis, Zeus, Hera, Athena,
+Apollo, Leto, Poseidon, Hephaestus, Peirithous, Dryas, Caeneus, Exadius,
+Polyphemus, Theseus, Aegeus, Talthybius, Eurybates, Idomeneus, Eëtion
+(keep diaeresis), Briareus / Aegaeon, Sintians.
+
+Added in Book 2: Thersites, Telemachus, Hermes, Pelops, Atreus, Thyestes,
+Iris, Aeneas, Anchises, Aphrodite, Sarpedon, Glaucus, Pandarus, Meriones,
+Tlepolemus, Heracles, Nireus, Philoctetes, Protesilaus, Podarces, Eumelus,
+Alcestis, Admetus, Machaon, Podaleirius, Eurypylus, Polypoetes, Leonteus,
+Meges, Thoas, Menestheus, Diomedes, Sthenelus, Euryalus, Ascalaphus,
+Ialmenus, Schedius, Epistrophus, Elephenor, Agapenor, Gouneus, Prothoos,
+Thamyris, Eurytus, Meleager, Oeneus, Erechtheus, Polites, Aesyetes,
+Asius, Hippothous, Acamas, Peiroos, Pyraechmes, Pylaemenes, Ennomus,
+Phorcys, Ascanius, Mesthles, Antiphus, Nastes, Amphimachus, Typhoeus,
+Myrine. "Adrastus" for the Sicyon king (2.572), "Adrestus" for the
+Trojan-side leader (2.830). Contingent peoples: Boeotians, Phocians,
+Locrians, Abantes, Epeians, Cephallenians, Aetolians, Cretans, Rhodians,
+Myrmidons/Hellenes/Achaeans, Magnetes, Enienes, Peraebians; Trojan-side:
+Dardanians, Pelasgians, Thracians, Cicones, Paeonians, Paphlagonians,
+Halizones, Mysians, Phrygians, Maeonians, Carians, Lycians.
+
+Added in Book 3: Helen, Paris/Alexandros (see policy above), Antenor,
+Laodice, Helicaon, Aethra, Pittheus, Clymene, Panthous, Thymoetes, Lampus,
+Clytius, Hicetaon, Ucalegon, Idaeus (herald of Troy), Laomedon, Castor,
+Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
+name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
+Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
+Maeonia, Lacedaemon.
+
+Added in Book 4: Hebe, Chiron, Antilochus, Echepolus, Agenor, Simoeisios,
+Leucus, Democoon, Diores, Eurymedon, Tydeus, Polyneices, Eteocles, Maeon,
+Ereuthalion, Pelagon, Alastor, Chromius, Haemon, Bias. Cadmeans (people
+of Thebes). Pergamos (Troy's citadel). Rivers: Simois, Asopus. Tricca,
+Abydos, Aenus, Zeleia. "Seven-gated Thebes" (Greek Thebes); "the walls of
+Thebe" for Eëtion's city only.
+
+Places: Troy, Ilion, Chryse, Cilla, Tenedos, Phthia, Pylos, Argos, Lemnos,
+Thebe (Eëtion's city — not Greek Thebes), Ocean (Ὠκεανός). Catalogue
+place names in familiar Latinized forms; keep diaeresis in Eïones,
+Boebeïs, Selleïs. Rivers: Cephisus, Alpheius, Peneius, Titaressus, Axius,
+Maeander, Scamander (adj. "Scamandrian"), Xanthus, Hellespont
+("strong-flowing").
+
+Patronymics: rendered as "Atreus' son / son of Atreus," "Peleus' son,"
+etc., not transliterated ("Atreides" avoided in the translation itself).
+Peoples: Achaeans / Danaans / Argives — follow whichever the Greek uses.
+
+## Cross-epic notes (Odyssey project, `..\odyssey`)
+
+Where the two projects render the same formula differently, the divergence
+is currently intentional (independent projects); revisit only if they are
+to become companion volumes. Known divergences: their "gray-eyed" (our
+"grey-eyed"); "Zeus who gathers the clouds" ("Zeus the cloud-gatherer");
+"Menelaus of the great war-cry" ("good at the war-cry"); "Dawn… with
+fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
+("resourceful Odysseus"); "noble" for δῖος ("brilliant"); "Zeus-born"
+("Zeus-sprung").
+
+## Notes for later books
+
+- Formula notes already placed in Books 1-4 establish the conventions
+  above — do not re-footnote them in Books 5-24.
+- 2.111-118 ≈ 9.18-25: reuse the Book 2 English verbatim in Book 9
+  (there spoken in earnest).
+- The δαῖτα decision at 1.4-5: vulgate followed; precedent for preferring
+  the vulgate over singly-attested Zenodotean readings.
+- ἀμφιγυήεις "crook-footed": revisit if Book 18's Hephaestus scenes make
+  it awkward.
+- Duals rendered as explicit "the two …" where English needs it
+  (1.327-347); keep in mind for the Book 9 embassy crux.
+- βαρβαρόφωνος "of barbarous speech" (2.867) — "barbarian" reserved
+  (anachronistic) throughout.
+- Diomedes' silence under rebuke (4.401-402) pays off at 9.32-49 — echo
+  note due there.
+- δμώς/δμῳή "slave" policy becomes live in Book 6 (Hector's household)
+  — see the household-terms section above.

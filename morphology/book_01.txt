@@ -1,0 +1,5792 @@
+BOOK 1 — Morphological Analysis (Perseus/AGDT Treebank)
+============================================================
+
+See README.md in this directory for the postag/relation legend.
+Format: Line N: form (lemma) [morphology] {syntactic relation}
+
+------------------------------------------------------------
+
+Line 1:
+    μῆνιν (μῆνις) [noun fem acc sg] {OBJ}
+    ἄειδε (ἀείδω) [verb pres imperv act 2 sg] {PRED_CO}
+    θεὰ (θεά) [noun fem voc sg] {ExD}
+    Πηληϊάδεω (Πηλείδης) [noun masc gen sg] {ATR}
+    Ἀχιλῆος (Ἀχιλλεύς) [noun masc gen sg] {ATR}
+
+Line 2:
+    οὐλομένην (οὐλόμενος) [adj fem acc sg] {ATR}
+    ἣ (ὅς) [pron fem nom sg] {SBJ}
+    μυρί' (μυρίος) [adj neut acc pl] {ATR}
+    Ἀχαιοῖς (Ἀχαιός) [adj masc dat pl] {OBJ}
+    ἄλγε' (ἄλγος) [noun neut acc pl] {OBJ}
+    ἔθηκε (τίθημι) [verb aor ind act 3 sg] {ATR_CO}
+
+Line 3:
+    πολλὰς (πολύς) [adj fem acc pl] {ATR}
+    δ' (δέ) [particle] {AuxY}
+    ἰφθίμους (ἴφθιμος) [adj fem acc pl] {ATR}
+    ψυχὰς (ψυχή) [noun fem acc pl] {OBJ}
+    Ἄϊδι (Ἅιδης) [noun masc dat sg] {OBJ}
+    προΐαψεν (προιάπτω) [verb aor ind act 3 sg] {ATR_CO}
+
+Line 4:
+    ἡρώων (ἥρως) [noun masc gen pl] {ATR}
+    αὐτοὺς (αὐτός) [adj masc acc pl] {OBJ}
+    δὲ (δέ) [particle] {COORD}
+    ἑλώρια (ἑλώριον) [noun neut acc pl] {OCOMP}
+    τεῦχε (τεύχω) [verb impf ind act 3 sg] {ATR_CO}
+    κύνεσσιν (κύων) [noun masc dat pl] {OBJ_CO}
+
+Line 5:
+    οἰωνοῖσί (οἰωνός) [noun masc dat pl] {OBJ_CO}
+    τε (τε) [particle] {COORD}
+    πᾶσι (πᾶς) [adj masc dat pl] {ATR}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἐτελείετο (τελέω) [verb impf ind mp 3 sg] {PRED_CO}
+    βουλή (βουλή) [noun fem nom sg] {SBJ}
+
+Line 6:
+    ἐξ (ἐκ) [prep] {AuxP}
+    οὗ (ὅς) [pron masc gen sg] {ADV}
+    δὴ (δή) [particle] {AuxY}
+    τὰ (ὁ) [article neut acc pl] {ATR}
+    πρῶτα (πρῶτος) [adj neut acc pl] {ADV}
+    διαστήτην (διίστημι) [verb aor ind act 3 dual] {ADV}
+    ἐρίσαντε (ἐρίζω) [verb aor part act dual] {ADV}
+
+Line 7:
+    Ἀτρεΐδης (Ἀτρείδης) [noun masc nom sg] {SBJ_CO}
+    τε (τε) [particle] {AuxY}
+    ἄναξ (ἄναξ) [noun masc nom sg] {ATR}
+    ἀνδρῶν (ἀνήρ) [noun masc gen pl] {ATR}
+    καὶ (καί) [conj] {COORD}
+    δῖος (δῖος) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ_CO}
+
+Line 8:
+    τίς (τίς) [pron masc nom sg] {SBJ}
+    τ' (τε) [particle] {AuxY}
+    ἄρ (ἄρα) [particle] {AuxY}
+    σφωε (σφεῖς) [pron masc acc dual] {OBJ}
+    θεῶν (θεός) [noun masc gen pl] {ATR}
+    ἔριδι (ἔρις) [noun fem dat sg] {ADV}
+    ξυνέηκε (συνίημι) [verb aor ind act 3 sg] {PRED}
+    μάχεσθαι (μάχομαι) [verb pres inf mp] {ADV}
+
+Line 9:
+    Λητοῦς (Λητώ) [noun fem gen sg] {ATR_CO}
+    καὶ (καί) [conj] {COORD}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR_CO}
+    υἱός (υἱός) [noun masc nom sg] {SBJ}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    γὰρ (γάρ) [particle] {AuxY}
+    βασιλῆϊ (βασιλεύς) [noun masc dat sg] {OBJ}
+    χολωθεὶς (χολόω) [verb aor part pass sg] {ADV}
+
+Line 10:
+    νοῦσον (νόσος) [noun fem acc sg] {OBJ}
+    ἀνὰ (ἀνά) [prep] {AuxP}
+    στρατὸν (στρατός) [noun masc acc sg] {OBJ}
+    ὄρσε (ὄρνυμι) [verb aor ind act 3 sg] {PRED_CO}
+    κακήν (κακός) [adj fem acc sg] {ATR}
+    ὀλέκοντο (ὀλέκω) [verb impf ind mp 3 pl] {PRED_CO}
+    δὲ (δέ) [particle] {COORD}
+    λαοί (λαός) [noun masc nom pl] {SBJ}
+
+Line 11:
+    οὕνεκα (οὕνεκα) [conj] {AuxC}
+    τὸν (ὁ) [article masc acc sg] {ATR}
+    Χρύσην (Χρύσης) [noun masc acc sg] {OBJ}
+    ἠτίμασεν (ἀτιμάζω) [verb aor ind act 3 sg] {ADV}
+    ἀρητῆρα (ἀρητήρ) [noun fem acc sg] {ATR}
+
+Line 12:
+    Ἀτρεΐδης (Ἀτρείδης) [noun masc nom sg] {SBJ}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἦλθε (ἔρχομαι) [verb aor ind act 3 sg] {PRED_CO}
+    θοὰς (θοός) [adj fem acc pl] {ATR}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    νῆας (ναῦς) [noun fem acc pl] {OBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 13:
+    λυσόμενός (λύω) [verb fut part mid sg] {ADV_CO}
+    τε (τε) [particle] {AuxY}
+    θύγατρα (θυγάτηρ) [noun fem acc sg] {OBJ}
+    φέρων (φέρω) [verb pres part act sg] {ADV_CO}
+    τ' (τε) [particle] {COORD}
+    ἀπερείσι' (ἀπερείσιος) [adj neut acc pl] {ATR}
+    ἄποινα (ἄποινα) [noun neut acc pl] {OBJ}
+
+Line 14:
+    στέμματ' (στέμμα) [noun neut acc pl] {OBJ}
+    ἔχων (ἔχω) [verb pres part act sg] {ADV_CO}
+    ἐν (ἐν) [prep] {AuxP}
+    χερσὶν (χείρ) [noun fem dat pl] {ADV}
+    ἑκηβόλου (ἑκηβόλος) [adj masc gen sg] {ATR}
+    Ἀπόλλωνος (Ἀπόλλων) [noun masc gen sg] {ATR}
+
+Line 15:
+    χρυσέῳ (χρύσεος) [adj neut dat sg] {ATR}
+    ἀνὰ (ἀνά) [prep] {AuxP}
+    σκήπτρῳ (σκῆπτρον) [noun neut dat sg] {ADV}
+    καὶ (καί) [conj] {COORD}
+    λίσσετο (λίσσομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    πάντας (πᾶς) [adj masc acc pl] {ATR}
+    Ἀχαιούς (Ἀχαιός) [adj masc acc pl] {OBJ_CO}
+
+Line 16:
+    Ἀτρεΐδα (Ἀτρείδης) [noun masc acc dual] {OBJ_AP_CO}
+    δὲ (δέ) [particle] {COORD}
+    μάλιστα (μάλιστα) [adv] {AuxZ}
+    δύω (δύο) [numeral] {ATR}
+    κοσμήτορε (κοσμήτωρ) [noun masc acc dual] {OBJ_AP_CO}
+    λαῶν (λαός) [noun masc gen pl] {ATR}
+
+Line 17:
+    Ἀτρεΐδαι (Ἀτρείδης) [noun masc voc pl] {ExD_CO}
+    τε (τε) [particle] {AuxY}
+    καὶ (καί) [conj] {COORD}
+    ἄλλοι (ἄλλος) [adj masc voc pl] {ATR}
+    ἐϋκνήμιδες (ἐυκνήμις) [adj masc voc pl] {ATR}
+    Ἀχαιοί (Ἀχαιός) [adj masc voc pl] {ExD_CO}
+
+Line 18:
+    ὑμῖν (σύ) [pron dat pl] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    θεοὶ (θεός) [noun masc nom pl] {SBJ}
+    δοῖεν (δίδωμι) [verb aor opt act 3 pl] {PRED}
+    Ὀλύμπια (Ὀλύμπιος) [adj neut acc pl] {ATR}
+    δώματ' (δῶμα) [noun neut acc pl] {OBJ}
+    ἔχοντες (ἔχω) [verb pres part act pl] {ATR}
+
+Line 19:
+    ἐκπέρσαι (ἐκπέρθω) [verb aor inf act] {OBJ_CO}
+    Πριάμοιο (Πρίαμος) [noun masc gen sg] {ATR}
+    πόλιν (πόλις) [noun fem acc sg] {OBJ}
+    εὖ (εὖ) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    οἴκαδ' (οἴκαδε) [adv] {OBJ}
+    ἱκέσθαι (ἱκνέομαι) [verb aor inf mid] {OBJ_CO}
+
+Line 20:
+    παῖδα (παῖς) [noun fem acc sg] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἐμοὶ (ἐγώ) [pron masc dat sg] {ATR}
+    λύσαιτε (λύω) [verb aor opt act 2 pl] {PRED_CO}
+    φίλην (φίλος) [adj fem acc sg] {ATR}
+    τὰ (ὁ) [article neut acc pl] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἄποινα (ἄποινα) [noun neut acc pl] {OBJ}
+    δέχεσθαι (δέχομαι) [verb pres inf mp] {PRED_CO}
+
+Line 21:
+    ἁζόμενοι (ἅζομαι) [verb pres part mp pl] {ADV}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR}
+    υἱὸν (υἱός) [noun masc acc sg] {OBJ_AP}
+    ἑκηβόλον (ἑκηβόλος) [adj masc acc sg] {ATR}
+    Ἀπόλλωνα (Ἀπόλλων) [noun masc acc sg] {OBJ_AP}
+
+Line 22:
+    ἔνθ' (ἔνθα) [adv] {AuxY}
+    ἄλλοι (ἄλλος) [adj masc nom pl] {ATR}
+    μὲν (μέν) [particle] {AuxY}
+    πάντες (πᾶς) [adj masc nom pl] {ATR}
+    ἐπευφήμησαν (ἐπευφημέω) [verb aor ind act 3 pl] {PRED}
+    Ἀχαιοὶ (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 23:
+    αἰδεῖσθαί (αἰδέομαι) [verb pres inf mp] {OBJ_CO}
+    θ' (τε) [particle] {AuxY}
+    ἱερῆα (ἱερεύς) [noun masc acc sg] {OBJ}
+    καὶ (καί) [conj] {COORD}
+    ἀγλαὰ (ἀγλαός) [adj neut acc pl] {ATR}
+    δέχθαι (δέχομαι) [verb aor inf mid] {OBJ_CO}
+    ἄποινα (ἄποινα) [noun neut acc pl] {OBJ}
+
+Line 24:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    οὐκ (οὐ) [adv] {AuxZ}
+    Ἀτρεΐδῃ (Ἀτρείδης) [noun masc dat sg] {ATR}
+    Ἀγαμέμνονι (Ἀγαμέμνων) [noun masc dat sg] {OBJ}
+    ἥνδανε (ἁνδάνω) [verb impf ind act 3 sg] {PRED_CO}
+    θυμῷ (θυμός) [noun masc dat sg] {ADV}
+
+Line 25:
+    ἀλλὰ (ἀλλά) [conj] {AuxY}
+    κακῶς (κακός) [adv] {ADV}
+    ἀφίει (ἀφίημι) [verb impf ind act 3 sg] {PRED_CO}
+    κρατερὸν (κρατερός) [adj masc acc sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἐπὶ (ἐπί) [prep] {AuxZ}
+    μῦθον (μῦθος) [noun masc acc sg] {OBJ}
+    ἔτελλε (τέλλω) [verb impf ind act 3 sg] {PRED_CO}
+
+Line 26:
+    μή (μή) [adv] {AuxZ}
+    σε (σύ) [pron acc sg] {OBJ}
+    γέρον (γέρων) [noun masc voc sg] {ExD}
+    κοίλῃσιν (κοῖλος) [adj fem dat pl] {ATR}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    παρὰ (παρά) [prep] {AuxP}
+    νηυσὶ (ναῦς) [noun fem dat pl] {ADV}
+    κιχείω (κιχάνω) [verb aor subj act 1 sg] {PRED}
+
+Line 27:
+    ἢ (ἤ) [conj] {AuxY}
+    νῦν (νῦν) [adv] {ADV}
+    δηθύνοντ' (δηθύνω) [verb pres part act sg] {ATV_CO}
+    ἢ (ἤ) [conj] {COORD}
+    ὕστερον (ὕστερος) [adj neut acc sg] {ADV}
+    αὖτις (αὖθις) [adv] {ADV}
+    ἰόντα (εἶμι) [verb pres part act sg] {ATV_CO}
+
+Line 28:
+    μή (μή) [conj] {AuxC}
+    νύ (νῦν) [adv] {ADV}
+    τοι (σύ) [pron dat sg] {OBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    χραίσμῃ (χραισμέω) [verb pres subj act 3 sg] {ADV}
+    σκῆπτρον (σκῆπτρον) [noun neut nom sg] {SBJ_CO}
+    καὶ (καί) [conj] {COORD}
+    στέμμα (στέμμα) [noun neut nom sg] {SBJ_CO}
+    θεοῖο (θεός) [noun masc gen sg] {ATR}
+
+Line 29:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    λύσω (λύω) [verb fut ind act 1 sg] {PRED_CO}
+    πρίν (πρίν) [adv] {AuxC}
+    μιν (μιν) [pron fem acc sg] {OBJ}
+    καὶ (καί) [adv] {AuxZ}
+    γῆρας (γῆρας) [noun neut nom sg] {SBJ}
+    ἔπεισιν (ἔπειμι) [verb pres ind act 3 sg] {ADV}
+
+Line 30:
+    ἡμετέρῳ (ἡμέτερος) [adj masc dat sg] {ATR}
+    ἐνὶ (ἐν) [prep] {AuxP}
+    οἴκῳ (οἶκος) [noun masc dat sg] {ADV}
+    ἐν (ἐν) [prep] {AuxP}
+    Ἄργεϊ (Ἄργος) [noun neut dat sg] {ADV}
+    τηλόθι (τηλόθι) [prep] {AuxP}
+    πάτρης (πάτρη) [noun fem gen sg] {ADV}
+
+Line 31:
+    ἱστὸν (ἱστός) [noun masc acc sg] {OBJ}
+    ἐποιχομένην (ἐποίχομαι) [verb pres part mp sg] {ATV_CO}
+    καὶ (καί) [conj] {COORD}
+    ἐμὸν (ἐμός) [adj neut acc sg] {ATR}
+    λέχος (λέχος) [noun neut acc sg] {OBJ}
+    ἀντιόωσαν (ἀντιάω) [verb pres part act sg] {ATV_CO}
+
+Line 32:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ἴθι (εἶμι) [verb pres imperv act 2 sg] {PRED_CO}
+    μή (μή) [adv] {AuxZ}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    ἐρέθιζε (ἐρεθίζω) [verb pres imperv act 2 sg] {PRED_CO}
+    σαώτερος (σῶς) [adj masc nom sg comp] {AtvV}
+    ὥς (ὡς) [conj] {AuxC}
+    κε (ἄν) [particle] {AuxZ}
+    νέηαι (νέομαι) [verb pres subj mp 2 sg] {ADV}
+
+Line 33:
+    ὣς (ὡς) [adv] {ADV}
+    ἔφατ' (φημί) [verb impf ind mp 3 sg] {PRED_CO}
+    ἔδεισεν (δείδω) [verb aor ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ὃ (ὁ) [article masc nom sg] {ATR}
+    γέρων (γέρων) [noun masc nom sg] {SBJ}
+    καὶ (καί) [conj] {COORD}
+    ἐπείθετο (πείθω) [verb impf ind mp 3 sg] {PRED_CO}
+    μύθῳ (μῦθος) [noun masc dat sg] {OBJ}
+
+Line 34:
+    βῆ (βαίνω) [verb aor ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἀκέων (ἀκέων) [adj masc nom sg] {AtvV}
+    παρὰ (παρά) [prep] {AuxP}
+    θῖνα (θίς) [noun fem acc sg] {OBJ}
+    πολυφλοίσβοιο (πολύφλοισβος) [adj fem gen sg] {ATR}
+    θαλάσσης (θάλασσα) [noun fem gen sg] {ATR}
+
+Line 35:
+    πολλὰ (πολύς) [adj neut acc pl] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ἔπειτ' (ἔπειτα) [adv] {ADV}
+    ἀπάνευθε (ἀπάνευθε) [adv] {OBJ}
+    κιὼν (κίω) [verb aor part act sg] {ADV}
+    ἠρᾶθ' (ἀράομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    ὃ (ὁ) [article masc nom sg] {ATR}
+    γεραιὸς (γεραιός) [adj masc nom sg] {SBJ}
+
+Line 36:
+    Ἀπόλλωνι (Ἀπόλλων) [noun masc dat sg] {OBJ}
+    ἄνακτι (ἄναξ) [noun masc dat sg] {ATR}
+    τὸν (ὅς) [pron masc acc sg] {OBJ}
+    ἠΰκομος (εὔκομος) [adj fem nom sg] {ATR}
+    τέκε (τίκτω) [verb aor ind act 3 sg] {ATR}
+    Λητώ (Λητώ) [noun fem nom sg] {SBJ}
+
+Line 37:
+    κλῦθί (κλύω) [verb aor imperv act 2 sg] {PRED_CO}
+    μευ (ἐγώ) [pron masc gen sg] {OBJ}
+    ἀργυρότοξ' (ἀργυρότοξος) [adj masc voc sg] {ExD_AP}
+    ὃς (ὅς) [pron masc nom sg] {SBJ}
+    Χρύσην (Χρύση) [noun fem acc sg] {OBJ_CO}
+    ἀμφιβέβηκας (ἀμφιβαίνω) [verb perf ind act 2 sg] {ATR_CO}
+
+Line 38:
+    Κίλλάν (Κίλλα) [noun fem acc sg] {OBJ_CO}
+    τε (τε) [particle] {COORD}
+    ζαθέην (ζάθεος) [adj fem acc sg] {ATR}
+    Τενέδοιό (Τένεδος) [noun fem gen sg] {OBJ}
+    τε (τε) [particle] {COORD}
+    ἶφι (ἶφι) [adv] {ADV}
+    ἀνάσσεις (ἀνάσσω) [verb pres ind act 2 sg] {ATR_CO}
+
+Line 39:
+    Σμινθεῦ (Σμινθεύς) [noun masc voc sg] {ExD_AP}
+    εἴ (εἰ) [conj] {AuxC}
+    ποτέ (ποτέ) [particle] {ADV}
+    τοι (σύ) [pron dat sg] {OBJ}
+    χαρίεντ' (χαρίεις) [adj masc dat sg] {ATR}
+    ἐπὶ (ἐπί) [prep] {AuxZ}
+    νηὸν (ναός) [noun masc acc sg] {OBJ}
+    ἔρεψα (ἐρέφω) [verb aor ind act 1 sg] {ADV_CO}
+
+Line 40:
+    ἢ (ἤ) [conj] {COORD}
+    εἰ (εἰ) [conj] {AuxC}
+    δή (δή) [particle] {AuxY}
+    ποτέ (ποτέ) [particle] {ADV}
+    τοι (σύ) [pron dat sg] {OBJ}
+    κατὰ (κατά) [prep] {AuxZ}
+    πίονα (πίων) [adj neut acc pl] {ATR}
+    μηρί' (μηρία) [noun neut acc pl] {OBJ}
+    ἔκηα (καίω) [verb aor ind act 1 sg] {ADV_CO}
+
+Line 41:
+    ταύρων (ταῦρος) [noun masc gen pl] {ATR_CO}
+    ἠδ' (ἠδέ) [conj] {COORD}
+    αἰγῶν (αἴξ) [noun masc gen pl] {ATR_CO}
+    τὸ (ὁ) [pron neut acc sg] {ATR}
+    δέ (δέ) [particle] {AuxZ}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    κρήηνον (κραίνω) [verb aor imperv act 2 sg] {PRED_CO}
+    ἐέλδωρ (ἔλδωρ) [noun neut acc sg] {OBJ}
+
+Line 42:
+    τίσειαν (τίνω) [verb aor opt act 3 pl] {PRED}
+    Δαναοὶ (Δαναοί) [noun masc nom pl] {SBJ}
+    ἐμὰ (ἐμός) [adj neut acc pl] {ATR}
+    δάκρυα (δάκρυον) [noun neut acc pl] {OBJ}
+    σοῖσι (σός) [adj neut dat pl] {ATR}
+    βέλεσσιν (βέλος) [noun neut dat pl] {ADV}
+
+Line 43:
+    ὣς (ὡς) [adv] {ADV}
+    ἔφατ' (φημί) [verb impf ind mp 3 sg] {PRED_CO}
+    εὐχόμενος (εὔχομαι) [verb pres part mp sg] {ADV}
+    τοῦ (ὁ) [pron masc gen sg] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἔκλυε (κλύω) [verb impf ind act 3 sg] {PRED_CO}
+    Φοῖβος (Φοῖβος) [noun masc nom sg] {ATR}
+    Ἀπόλλων (Ἀπόλλων) [noun masc nom sg] {SBJ}
+
+Line 44:
+    βῆ (βαίνω) [verb aor ind act 3 sg] {PRED_CO}
+    δὲ (δέ) [particle] {COORD}
+    κατ' (κατά) [prep] {AuxP}
+    Οὐλύμποιο (Ὄλυμπος) [noun masc gen sg] {ATR}
+    καρήνων (κάρηνον) [noun neut gen pl] {OBJ}
+    χωόμενος (χώομαι) [verb pres part mp sg] {ADV}
+    κῆρ (κῆρ) [noun neut acc sg] {OBJ}
+
+Line 45:
+    τόξ' (τόξον) [noun neut acc pl] {OBJ_CO}
+    ὤμοισιν (ὦμος) [noun masc dat pl] {ADV}
+    ἔχων (ἔχω) [verb pres part act sg] {ADV}
+    ἀμφηρεφέα (ἀμφηρεφής) [adj fem acc sg] {ATR}
+    τε (τε) [particle] {COORD}
+    φαρέτρην (φαρέτρα) [noun fem acc sg] {OBJ_CO}
+
+Line 46:
+    ἔκλαγξαν (κλάζω) [verb aor ind act 3 pl] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ὀϊστοὶ (ὀιστός) [noun masc nom pl] {SBJ}
+    ἐπ' (ἐπί) [prep] {AuxP}
+    ὤμων (ὦμος) [noun masc gen pl] {OBJ}
+    χωομένοιο (χώομαι) [verb pres part mp sg] {ATR}
+
+Line 47:
+    αὐτοῦ (αὐτός) [adj masc gen sg] {SBJ}
+    κινηθέντος (κινέω) [verb aor part pass sg] {ADV}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἤϊε (εἶμι) [verb impf ind act 3 sg] {PRED_CO}
+    νυκτὶ (νύξ) [noun fem dat sg] {OBJ}
+    ἐοικώς (εἴκω1) [verb perf part act sg] {ADV}
+
+Line 48:
+    ἕζετ' (ἕζομαι) [verb impf ind mid 3 sg] {PRED_CO}
+    ἔπειτ' (ἔπειτα) [adv] {ADV}
+    ἀπάνευθε (ἀπάνευθε) [prep] {AuxP}
+    νεῶν (ναῦς) [noun fem gen pl] {ADV}
+    μετὰ (μετά) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἰὸν (ἰός) [noun masc acc sg] {OBJ}
+    ἕηκε (ἵημι) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 49:
+    δεινὴ (δεινός) [adj fem nom sg] {ATR}
+    δὲ (δέ) [particle] {COORD}
+    κλαγγὴ (κλαγγή) [noun fem nom sg] {SBJ}
+    γένετ' (γίγνομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    ἀργυρέοιο (ἀργύρεος) [adj masc gen sg] {ATR}
+    βιοῖο (βιός) [noun masc gen sg] {ATR}
+
+Line 50:
+    οὐρῆας (ὀρεύς) [noun masc acc pl] {OBJ_CO}
+    μὲν (μέν) [particle] {AuxY}
+    πρῶτον (πρῶτος) [adj neut acc sg] {ADV}
+    ἐπῴχετο (ἐποίχομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    κύνας (κύων) [noun masc acc pl] {OBJ_CO}
+    ἀργούς (ἀργός) [adj masc acc pl] {ATR}
+
+Line 51:
+    αὐτὰρ (ἀτάρ) [conj] {COORD}
+    ἔπειτ' (ἔπειτα) [adv] {ADV}
+    αὐτοῖσι (αὐτός) [adj masc dat pl] {OBJ}
+    βέλος (βέλος) [noun neut acc sg] {OBJ}
+    ἐχεπευκὲς (ἐχεπευκής) [adj neut acc sg] {ATR}
+    ἐφιεὶς (ἐφίημι) [verb pres part act sg] {ADV}
+
+Line 52:
+    βάλλ' (βάλλω) [verb impf ind act 3 sg] {PRED_CO}
+    αἰεὶ (ἀεί) [adv] {ADV}
+    δὲ (δέ) [particle] {COORD}
+    πυραὶ (πυρή) [noun fem nom pl] {SBJ}
+    νεκύων (νέκυς) [noun masc gen pl] {ATR}
+    καίοντο (καίω) [verb impf ind mp 3 pl] {PRED_CO}
+    θαμειαί (θαμέες) [adj fem nom pl] {ATV}
+
+Line 53:
+    ἐννῆμαρ (ἐννῆμαρ) [adv] {ADV}
+    μὲν (μέν) [particle] {AuxY}
+    ἀνὰ (ἀνά) [prep] {AuxP}
+    στρατὸν (στρατός) [noun masc acc sg] {OBJ}
+    ᾤχετο (οἴχομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    κῆλα (κῆλον) [noun neut nom pl] {SBJ}
+    θεοῖο (θεός) [noun masc gen sg] {ATR}
+
+Line 54:
+    τῇ (ὁ) [article fem dat sg] {ATR}
+    δεκάτῃ (δέκατος) [adj fem dat sg] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ἀγορὴν (ἀγορά) [noun fem acc sg] {OBJ}
+    δὲ (δέ) [particle] {AuxZ}
+    καλέσσατο (καλέω) [verb aor ind mid 3 sg] {PRED_CO}
+    λαὸν (λαός) [noun masc acc sg] {OBJ}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 55:
+    τῷ (ὁ) [pron masc dat sg] {ATR}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    φρεσὶ (φρήν) [noun dat pl] {OBJ}
+    θῆκε (τίθημι) [verb aor ind act 3 sg] {PRED}
+    θεὰ (θεά) [noun fem nom sg] {SBJ_AP}
+    λευκώλενος (λευκώλενος) [adj fem nom sg] {ATR}
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ_AP}
+
+Line 56:
+    κήδετο (κήδω) [verb impf ind mp 3 sg] {PRED}
+    γὰρ (γάρ) [particle] {AuxY}
+    Δαναῶν (Δαναοί) [noun masc gen pl] {OBJ}
+    ὅτι (ὅτι) [conj] {AuxC}
+    ῥα (ἄρα) [particle] {AuxY}
+    θνήσκοντας (θνήσκω) [verb pres part act pl] {AtvV}
+    ὁρᾶτο (ὁράω) [verb impf ind mp 3 sg] {ADV}
+
+Line 57:
+    οἳ (ὁ) [pron masc nom pl] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    οὖν (οὖν) [particle] {AuxY}
+    ἤγερθεν (ἀγείρω) [verb aor ind pass 3 pl] {ADV_CO}
+    ὁμηγερέες (ὁμηγερής) [adj masc nom pl] {PNOM}
+    τε (τε) [particle] {COORD}
+    γένοντο (γίγνομαι) [verb aor ind mid 3 pl] {ADV_CO}
+
+Line 58:
+    τοῖσι (ὁ) [pron masc dat pl] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἀνιστάμενος (ἀνίστημι) [verb pres part mp sg] {ADV}
+    μετέφη (μετάφημι) [verb aor ind act 3 sg] {PRED_CO}
+    πόδας (πούς) [noun masc acc pl] {ATR}
+    ὠκὺς (ὠκύς) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 59:
+    Ἀτρεΐδη (Ἀτρείδης) [noun masc voc sg] {ExD}
+    νῦν (νῦν) [adv] {ADV}
+    ἄμμε (ἐγώ) [pron masc acc pl] {SBJ}
+    παλιμπλαγχθέντας (παλιμπλάζομαι) [verb aor part pass pl] {ADV}
+    ὀΐω (οἴομαι) [verb pres ind act 1 sg] {PRED}
+
+Line 60:
+    ἂψ (ἄψ) [adv] {ADV}
+    ἀπονοστήσειν (ἀπονοστέω) [verb fut inf act] {OBJ}
+    εἴ (εἰ) [conj] {AuxC}
+    κεν (ἄν) [particle] {AuxZ}
+    θάνατόν (θάνατος) [noun masc acc sg] {OBJ}
+    γε (γε) [particle] {AuxZ}
+    φύγοιμεν (φεύγω) [verb aor opt act 1 pl] {ADV}
+
+Line 61:
+    εἰ (εἰ) [conj] {AuxC}
+    δὴ (δή) [particle] {AuxY}
+    ὁμοῦ (ὁμοῦ) [adv] {ADV}
+    πόλεμός (πόλεμος) [noun masc nom sg] {SBJ_CO}
+    τε (τε) [particle] {AuxY}
+    δαμᾷ (δαμάζω) [verb fut ind act 3 sg] {ADV}
+    καὶ (καί) [conj] {COORD}
+    λοιμὸς (λοιμός) [noun masc nom sg] {SBJ_CO}
+    Ἀχαιούς (Ἀχαιός) [adj masc acc pl] {OBJ}
+
+Line 62:
+    ἀλλ' (ἀλλά) [adv] {AuxZ}
+    ἄγε (ἄγε) [adv] {AuxY}
+    δή (δή) [particle] {AuxY}
+    τινα (τις) [pron masc acc sg] {ATR}
+    μάντιν (μάντις) [noun masc acc sg] {OBJ_CO}
+    ἐρείομεν (εἴρω2) [verb pres subj act 1 pl] {PRED}
+    ἢ (ἤ) [conj] {AuxY}
+    ἱερῆα (ἱερεύς) [noun masc acc sg] {OBJ_CO}
+
+Line 63:
+    ἢ (ἤ) [conj] {COORD}
+    καὶ (καί) [adv] {AuxZ}
+    ὀνειροπόλον (ὀνειροπόλος) [noun masc acc sg] {OBJ_CO}
+    καὶ (καί) [adv] {AuxY}
+    γάρ (γάρ) [particle] {AuxY}
+    τ' (τε) [particle] {AuxY}
+    ὄναρ (ὄναρ) [noun neut nom sg] {SBJ}
+    ἐκ (ἐκ) [prep] {AuxP}
+    Διός (Ζεύς) [noun masc gen sg] {PNOM}
+    ἐστιν (εἰμί) [verb pres ind act 3 sg] {ExD}
+
+Line 64:
+    ὅς (ὅς) [pron masc nom sg] {SBJ}
+    κ' (ἄν) [particle] {AuxZ}
+    εἴποι (εἶπον) [verb aor opt act 3 sg] {ATR}
+    ὅ (ὅς) [pron neut acc sg] {ADV}
+    τι (τις) [pron neut acc sg] {ATR}
+    τόσσον (τόσος) [adj neut acc sg] {ADV}
+    ἐχώσατο (χώομαι) [verb aor ind mid 3 sg] {OBJ_AP}
+    Φοῖβος (Φοῖβος) [noun masc nom sg] {ATR}
+    Ἀπόλλων (Ἀπόλλων) [noun masc nom sg] {SBJ}
+
+Line 65:
+    εἴτ' (εἴτε) [adv] {AuxC}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    εὐχωλῆς (εὐχωλή) [noun fem gen sg] {OBJ_CO}
+    ἐπιμέμφεται (ἐπιμέμφομαι) [verb pres ind mp 3 sg] {OBJ_AP}
+    ἠδ' (ἠδέ) [conj] {COORD}
+    ἑκατόμβης (ἑκατόμβη) [noun fem gen sg] {OBJ_CO}
+
+Line 66:
+    αἴ (εἰ) [conj] {AuxC}
+    κέν (ἄν) [particle] {AuxZ}
+    πως (πως) [particle] {ADV}
+    ἀρνῶν (ἀρνός) [noun masc gen pl] {ATR_CO}
+    κνίσης (κνῖσα) [noun fem gen sg] {OBJ}
+    αἰγῶν (αἴξ) [noun masc gen pl] {ATR_CO}
+    τε (τε) [particle] {COORD}
+    τελείων (τέλειος) [adj masc gen pl] {ATR}
+
+Line 67:
+    βούλεται (βούλομαι) [verb pres subj mp 3 sg] {ADV}
+    ἀντιάσας (ἀντιάω) [verb aor part act sg] {ADV}
+    ἡμῖν (ἐγώ) [pron masc dat pl] {OBJ}
+    ἀπὸ (ἀπό) [prep] {AuxZ}
+    λοιγὸν (λοιγός) [noun masc acc sg] {OBJ}
+    ἀμῦναι (ἀμύνω) [verb aor inf act] {OBJ}
+
+Line 68:
+    ἤτοι (ἤτοι) [particle] {AuxY}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    ὣς (ὡς) [adv] {ADV}
+    εἰπὼν (εἶπον) [verb aor part act sg] {ADV}
+    κατ' (κατά) [prep] {AuxZ}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ἕζετο (ἕζομαι) [verb impf ind mid 3 sg] {PRED}
+    τοῖσι (ὁ) [pron masc dat pl] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἀνέστη (ἀνίστημι) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 69:
+    Κάλχας (Κάλχας) [noun masc nom sg] {SBJ}
+    Θεστορίδης (Θεστορίδης) [noun masc nom sg] {ATR}
+    οἰωνοπόλων (οἰωνοπόλος) [noun masc gen pl] {ATR}
+    ὄχ' (ὄχα) [adv] {AuxZ}
+    ἄριστος (ἄριστος) [adj masc nom sg] {ATR}
+
+Line 70:
+    ὃς (ὅς) [pron masc nom sg] {SBJ}
+    ᾔδη (οἶδα) [verb plup ind act 3 sg] {ATR_CO}
+    τά (ὁ) [pron neut acc pl] {OBJ_CO}
+    τ' (τε) [particle] {AuxY}
+    ἐόντα (εἰμί) [verb pres part act pl] {ATR}
+    τά (ὁ) [pron neut acc pl] {OBJ_CO}
+    τ' (τε) [particle] {AuxY}
+    ἐσσόμενα (εἰμί) [verb fut part mid pl] {ATR}
+    πρό (πρό) [prep] {AuxZ}
+    τ' (τε) [particle] {COORD}
+    ἐόντα (εἰμί) [verb pres part act pl] {OBJ_CO}
+
+Line 71:
+    καὶ (καί) [conj] {COORD}
+    νήεσσ' (ναῦς) [noun fem dat pl] {OBJ}
+    ἡγήσατ' (ἡγέομαι) [verb aor ind mid 3 sg] {ATR_CO}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+    Ἴλιον (Ἴλιος) [noun fem acc sg] {OBJ}
+    εἴσω (εἴσω) [prep] {AuxP}
+
+Line 72:
+    ἣν (ἑός) [adj fem acc sg] {ATR}
+    διὰ (διά) [prep] {AuxP}
+    μαντοσύνην (μαντοσύνη) [noun fem acc sg] {ADV}
+    τήν (ὁ) [pron fem acc sg] {OBJ}
+    οἱ (ἕ) [pron masc dat sg] {OBJ}
+    πόρε (πόρω) [verb aor ind act 3 sg] {ATR}
+    Φοῖβος (Φοῖβος) [noun masc nom sg] {ATR}
+    Ἀπόλλων (Ἀπόλλων) [noun masc nom sg] {SBJ}
+
+Line 73:
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    σφιν (σφεῖς) [pron masc dat pl] {OBJ}
+    ἐῢ (εὖ) [adv] {ADV}
+    φρονέων (φρονέω) [verb pres part act sg] {ADV}
+    ἀγορήσατο (ἀγοράομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    μετέειπεν (μετεῖπον) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 74:
+    ὦ (ὦ) [interj] {AuxZ}
+    Ἀχιλεῦ (Ἀχιλλεύς) [noun masc voc sg] {ExD_AP}
+    κέλεαί (κέλομαι) [verb pres ind mp 2 sg] {PRED}
+    με (ἐγώ) [pron masc acc sg] {SBJ}
+    Διῒ (Ζεύς) [noun masc dat sg] {ATR}
+    φίλε (φίλος) [adj masc voc sg] {ExD_AP}
+    μυθήσασθαι (μυθέομαι) [verb aor inf mp] {OBJ}
+
+Line 75:
+    μῆνιν (μῆνις) [noun fem acc sg] {OBJ}
+    Ἀπόλλωνος (Ἀπόλλων) [noun masc gen sg] {ATR_AP}
+    ἑκατηβελέταο (ἑκατηβελέτης) [noun masc gen sg] {ATR}
+    ἄνακτος (ἄναξ) [noun masc gen sg] {ATR_AP}
+
+Line 76:
+    τοὶ (σύ) [pron dat sg] {OBJ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἐγὼν (ἐγώ) [pron masc nom sg] {SBJ}
+    ἐρέω (εἴρω2) [verb fut ind act 1 sg] {PRED}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    σύνθεο (συντίθημι) [verb aor imperv mid 2 sg] {PRED_CO}
+    καί (καί) [conj] {COORD}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    ὄμοσσον (ὄμνυμι) [verb aor imperv act 2 sg] {PRED_CO}
+
+Line 77:
+    ἦ (ἦ) [adv] {AuxY}
+    μέν (μέν) [particle] {AuxY}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    πρόφρων (πρόφρων) [adj masc nom sg] {AtvV}
+    ἔπεσιν (ἔπος) [noun neut dat pl] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    χερσὶν (χείρ) [noun fem dat pl] {ADV_CO}
+    ἀρήξειν (ἀρήγω) [verb fut inf act] {OBJ}
+
+Line 78:
+    ἦ (ἦ) [adv] {AuxY}
+    γὰρ (γάρ) [particle] {AuxY}
+    ὀΐομαι (οἴομαι) [verb pres ind mp 1 sg] {PRED}
+    ἄνδρα (ἀνήρ) [noun masc acc sg] {SBJ}
+    χολωσέμεν (χολόω) [verb fut inf act] {OBJ}
+    ὃς (ὅς) [pron masc nom sg] {SBJ}
+    μέγα (μέγας) [adj neut acc sg] {ADV}
+    πάντων (πᾶς) [adj masc gen pl] {ATR}
+
+Line 79:
+    Ἀργείων (Ἀργεῖος) [adj masc gen pl] {OBJ}
+    κρατέει (κρατέω) [verb pres ind act 3 sg] {ATR_CO}
+    καί (καί) [conj] {COORD}
+    οἱ (ἕ) [pron masc dat sg] {OBJ}
+    πείθονται (πείθω) [verb pres ind mp 3 pl] {ATR_CO}
+    Ἀχαιοί (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 80:
+    κρείσσων (κρείσσων) [adj masc nom sg comp] {PNOM}
+    γὰρ (γάρ) [particle] {AuxY}
+    βασιλεὺς (βασιλεύς) [noun masc nom sg] {SBJ}
+    ὅτε (ὅτε) [conj] {AuxC}
+    χώσεται (χώομαι) [verb aor subj mid 3 sg] {ADV}
+    ἀνδρὶ (ἀνήρ) [noun masc dat sg] {OBJ}
+    χέρηϊ (χείρων) [adj masc dat sg comp] {ATR}
+
+Line 81:
+    εἴ (εἰ) [conj] {AuxC}
+    περ (πέρ) [particle] {AuxZ}
+    γάρ (γάρ) [particle] {AuxY}
+    τε (τε) [particle] {AuxY}
+    χόλον (χόλος) [noun masc acc sg] {OBJ}
+    γε (γε) [particle] {AuxZ}
+    καὶ (καί) [adv] {AuxZ}
+    αὐτῆμαρ (αὐτῆμαρ) [adv] {ADV}
+    καταπέψῃ (καταπέσσω) [verb aor subj act 3 sg] {ADV}
+
+Line 82:
+    ἀλλά (ἀλλά) [adv] {AuxY}
+    τε (τε) [particle] {AuxY}
+    καὶ (καί) [adv] {AuxZ}
+    μετόπισθεν (μετόπισθε) [adv] {ADV}
+    ἔχει (ἔχω) [verb pres ind act 3 sg] {PRED}
+    κότον (κότος) [noun masc acc sg] {OBJ}
+    ὄφρα (ὄφρα) [conj] {AuxC}
+    τελέσσῃ (τελέω) [verb aor subj act 3 sg] {ADV}
+
+Line 83:
+    ἐν (ἐν) [prep] {AuxP}
+    στήθεσσιν (στῆθος) [noun neut dat pl] {ADV}
+    ἑοῖσι (ἑός) [adj neut dat pl] {ATR}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    φράσαι (φράζω) [verb aor imperv mid 2 sg] {PRED_CO}
+    εἴ (εἰ) [conj] {AuxC}
+    με (ἐγώ) [pron masc acc sg] {OBJ}
+    σαώσεις (σώζω) [verb aor subj act 2 sg] {OBJ}
+
+Line 84:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἀπαμειβόμενος (ἀπαμείβομαι) [verb pres part mp sg] {ADV}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    πόδας (πούς) [noun masc acc pl] {ATR}
+    ὠκὺς (ὠκύς) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 85:
+    θαρσήσας (θαρσέω) [verb aor part act sg] {ADV}
+    μάλα (μάλα) [adv] {ADV}
+    εἰπὲ (εἶπον) [verb aor imperv act 2 sg] {PRED}
+    θεοπρόπιον (θεοπρόπιον) [noun neut acc sg] {OBJ}
+    ὅ (ὅς) [pron neut acc sg] {OBJ}
+    τι (τις) [pron neut acc sg] {ATR}
+    οἶσθα (οἶδα) [verb perf ind act 2 sg] {ATR}
+
+Line 86:
+    οὐ (οὐ) [adv] {AuxZ}
+    μὰ (μά) [particle] {AuxZ}
+    γὰρ (γάρ) [particle] {AuxY}
+    Ἀπόλλωνα (Ἀπόλλων) [noun masc acc sg] {ExD}
+    Διῒ (Ζεύς) [noun masc dat sg] {ATR}
+    φίλον (φίλος) [adj masc acc sg] {ATR}
+    ᾧ (ὅς) [pron masc dat sg] {OBJ}
+    τε (τε) [particle] {AuxY}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    Κάλχαν (Κάλχας) [noun masc voc sg] {ExD}
+
+Line 87:
+    εὐχόμενος (εὔχομαι) [verb pres part mp sg] {ADV}
+    Δαναοῖσι (Δαναοί) [noun masc dat pl] {OBJ}
+    θεοπροπίας (θεοπροπία) [noun fem acc pl] {OBJ}
+    ἀναφαίνεις (ἀναφαίνω) [verb pres ind act 2 sg] {ATR}
+
+Line 88:
+    οὔ (οὐ) [adv] {AuxZ}
+    τις (τις) [pron masc nom sg] {SBJ}
+    ἐμεῦ (ἐγώ) [pron masc gen sg] {SBJ}
+    ζῶντος (ζάω) [verb pres part act sg] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    χθονὶ (χθών) [noun fem dat sg] {ADV}
+    δερκομένοιο (δέρκομαι) [verb pres part mp sg] {ADV_CO}
+
+Line 89:
+    σοὶ (σύ) [pron dat sg] {OBJ}
+    κοίλῃς (κοῖλος) [adj fem dat pl] {ATR}
+    παρὰ (παρά) [prep] {AuxP}
+    νηυσί (ναῦς) [noun fem dat pl] {ADV}
+    βαρείας (βαρύς) [adj fem acc pl] {ATR}
+    χεῖρας (χείρ) [noun fem acc pl] {OBJ}
+    ἐποίσει (ἐπιφέρω) [verb fut ind act 3 sg] {PRED}
+
+Line 90:
+    συμπάντων (σύμπας) [adj masc gen pl] {ATR}
+    Δαναῶν (Δαναοί) [noun masc gen pl] {ATR}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {AuxZ}
+    ἢν (ἐάν) [conj] {AuxC}
+    Ἀγαμέμνονα (Ἀγαμέμνων) [noun masc acc sg] {OBJ}
+    εἴπῃς (εἶπον) [verb aor subj act 2 sg] {ADV}
+
+Line 91:
+    ὃς (ὅς) [pron masc nom sg] {SBJ}
+    νῦν (νῦν) [adv] {ADV}
+    πολλὸν (πολύς) [adj neut acc sg] {AuxZ}
+    ἄριστος (ἄριστος) [adj masc nom sg] {PNOM}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+    εὔχεται (εὔχομαι) [verb pres ind mp 3 sg] {ATR}
+    εἶναι (εἰμί) [verb pres inf act] {OBJ}
+
+Line 92:
+    καὶ (καί) [adv] {AuxY}
+    τότε (τότε) [adv] {ADV}
+    δὴ (δή) [particle] {AuxY}
+    θάρσησε (θαρσέω) [verb aor ind act 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    ηὔδα (αὐδάω) [verb impf ind act 3 sg] {PRED_CO}
+    μάντις (μάντις) [noun masc nom sg] {SBJ}
+    ἀμύμων (ἀμύμων) [adj masc nom sg] {ATR}
+
+Line 93:
+    οὔ (οὐ) [adv] {AuxZ}
+    τ' (τε) [particle] {AuxY}
+    ἄρ (ἄρα) [particle] {AuxY}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    εὐχωλῆς (εὐχωλή) [noun fem gen sg] {OBJ_CO}
+    ἐπιμέμφεται (ἐπιμέμφομαι) [verb pres ind mp 3 sg] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἑκατόμβης (ἑκατόμβη) [noun fem gen sg] {ADV_CO}
+
+Line 94:
+    ἀλλ' (ἀλλά) [conj] {COORD}
+    ἕνεκ' (ἕνεκα) [prep] {AuxP}
+    ἀρητῆρος (ἀρητήρ) [noun fem gen sg] {ATR}
+    ὃν (ὅς) [pron masc acc sg] {OBJ}
+    ἠτίμησ' (ἀτιμάω) [verb aor ind act 3 sg] {ATR_CO}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 95:
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    ἀπέλυσε (ἀπολύω) [verb aor ind act 3 sg] {ATR_CO}
+    θύγατρα (θυγάτηρ) [noun fem acc sg] {OBJ}
+    καὶ (καί) [conj] {COORD}
+    οὐκ (οὐ) [adv] {AuxZ}
+    ἀπεδέξατ' (ἀποδέχομαι) [verb aor ind mid 3 sg] {ATR_CO}
+    ἄποινα (ἄποινα) [noun neut acc pl] {OBJ}
+
+Line 96:
+    τοὔνεκ' (τοὔνεκα) [adv] {ADV}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ἄλγε' (ἄλγος) [noun neut acc pl] {OBJ}
+    ἔδωκεν (δίδωμι) [verb aor ind act 3 sg] {PRED_CO}
+    ἑκηβόλος (ἑκηβόλος) [adj masc nom sg] {SBJ}
+    ἠδ' (ἠδέ) [conj] {COORD}
+    ἔτι (ἔτι) [adv] {ADV}
+    δώσει (δίδωμι) [verb fut ind act 3 sg] {PRED_CO}
+
+Line 97:
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γε (γε) [particle] {AuxZ}
+    πρὶν (πρίν) [adv] {ADV}
+    Δαναοῖσιν (Δαναοί) [noun masc dat pl] {OBJ}
+    ἀεικέα (ἀεικής) [adj masc acc sg] {ATR}
+    λοιγὸν (λοιγός) [noun masc acc sg] {OBJ}
+    ἀπώσει (ἀπωθέω) [verb fut ind act 3 sg] {PRED_CO}
+
+Line 98:
+    πρίν (πρίν) [conj] {AuxC}
+    γ' (γε) [particle] {AuxZ}
+    ἀπὸ (ἀπό) [prep] {AuxZ}
+    πατρὶ (πατήρ) [noun masc dat sg] {OBJ}
+    φίλῳ (φίλος) [adj masc dat sg] {ATR}
+    δόμεναι (δίδωμι) [verb aor inf act] {ADV_CO}
+    ἑλικώπιδα (ἑλικῶπις) [adj fem acc sg] {ATR}
+    κούρην (κόρη) [noun fem acc sg] {OBJ}
+
+Line 99:
+    ἀπριάτην (ἀπρίατος) [adj fem acc sg] {ATV_CO}
+    ἀνάποινον (ἀνάποινος) [adj fem acc sg] {ATV_CO}
+    ἄγειν (ἄγω) [verb pres inf act] {ADV_CO}
+    θ' (τε) [particle] {COORD}
+    ἱερὴν (ἱερός) [adj fem acc sg] {ATR}
+    ἑκατόμβην (ἑκατόμβη) [noun fem acc sg] {OBJ}
+
+Line 100:
+    ἐς (εἰς) [prep] {AuxP}
+    Χρύσην (Χρύση) [noun fem acc sg] {OBJ}
+    τότε (τότε) [adv] {ADV}
+    κέν (ἄν) [particle] {AuxZ}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    ἱλασσάμενοι (ἱλάσκομαι) [verb aor part mid pl] {ADV}
+    πεπίθοιμεν (πείθω) [verb aor opt act 1 pl] {PRED}
+
+Line 101:
+    ἤτοι (ἤτοι) [particle] {AuxY}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    ὣς (ὡς) [adv] {ADV}
+    εἰπὼν (εἶπον) [verb aor part act sg] {ADV}
+    κατ' (κατά) [prep] {AuxZ}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ἕζετο (ἕζομαι) [verb aor ind mid 3 sg] {PRED}
+    τοῖσι (ὁ) [pron masc dat pl] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἀνέστη (ἀνίστημι) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 102:
+    ἥρως (ἥρως) [noun masc nom pl] {ATR}
+    Ἀτρεΐδης (Ἀτρείδης) [noun masc nom sg] {ATR}
+    εὐρὺ (εὐρύς) [adj neut acc sg] {AuxZ}
+    κρείων (κρείων) [noun masc nom sg] {ATR}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 103:
+    ἀχνύμενος (ἄχνυμαι) [verb pres part pass sg] {ADV}
+    μένεος (μένος) [noun neut gen sg] {OBJ}
+    δὲ (δέ) [particle] {AuxY}
+    μέγα (μέγας) [adj neut acc sg] {ADV}
+    φρένες (φρήν) [noun fem nom pl] {SBJ}
+    ἀμφιμέλαιναι (ἀμφιμέλας) [adj fem nom pl] {ATR}
+
+Line 104:
+    πίμπλαντ' (πίμπλημι) [verb impf ind mp 3 pl] {PRED_CO}
+    ὄσσε (ὄσσε) [noun neut nom dual] {SBJ}
+    δέ (δέ) [particle] {COORD}
+    οἱ (ἕ) [pron masc dat sg] {ATR}
+    πυρὶ (πῦρ) [noun neut dat sg] {OBJ}
+    λαμπετόωντι (λαμπετάω) [verb pres part act sg] {ATR}
+    ἐΐκτην (εἴκω1) [verb plup ind act 3 dual] {PRED_CO}
+
+Line 105:
+    Κάλχαντα (Κάλχας) [noun masc acc sg] {OBJ}
+    πρώτιστα (πρώτιστος) [adj neut acc pl] {ADV}
+    κάκ' (κακός) [adj neut acc pl] {ADV}
+    ὀσσόμενος (ὄσσομαι) [verb pres part mp sg] {ADV}
+    προσέειπε (προσεῖπον) [verb aor ind act 3 sg] {PRED}
+
+Line 106:
+    μάντι (μάντις) [noun masc voc sg] {ExD}
+    κακῶν (κακός) [adj neut gen pl] {ATR}
+    οὐ (οὐ) [adv] {AuxZ}
+    πώ (πω) [particle] {ADV}
+    ποτέ (ποτέ) [particle] {AuxY}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    τὸ (ὁ) [article neut acc sg] {ATR}
+    κρήγυον (κρήγυος) [adj neut acc sg] {OBJ}
+    εἶπας (εἶπον) [verb aor ind act 2 sg] {PRED}
+
+Line 107:
+    αἰεί (ἀεί) [adv] {ADV}
+    τοι (σύ) [pron dat sg] {OBJ}
+    τὰ (ὁ) [article neut nom pl] {ATR}
+    κάκ' (κακός) [adj neut nom pl] {SBJ}
+    ἐστὶ (εἰμί) [verb pres ind act 3 sg] {PRED_CO}
+    φίλα (φίλος) [adj neut nom pl] {PNOM}
+    φρεσὶ (φρήν) [noun dat pl] {ADV}
+    μαντεύεσθαι (μαντεύομαι) [verb pres inf mp] {ATR}
+
+Line 108:
+    ἐσθλὸν (ἐσθλός) [adj neut acc sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    οὔτέ (οὔτε) [adv] {AuxY}
+    τί (τις) [pron neut acc sg] {ATR}
+    πω (πω) [particle] {ADV}
+    εἶπας (εἶπον) [verb aor ind act 2 sg] {PRED_CO}
+    ἔπος (ἔπος) [noun neut acc sg] {OBJ}
+    οὔ (οὔτι) [adv] {COORD}
+    τ' (τε) [particle] {AuxZ}
+    ἐτέλεσσας (τελέω) [verb aor ind act 2 sg] {PRED_CO}
+
+Line 109:
+    καὶ (καί) [adv] {AuxY}
+    νῦν (νῦν) [adv] {ADV}
+    ἐν (ἐν) [prep] {AuxP}
+    Δαναοῖσι (Δαναοί) [noun masc dat pl] {ADV}
+    θεοπροπέων (θεοπροπέω) [verb pres part act sg] {ADV}
+    ἀγορεύεις (ἀγορεύω) [verb pres ind act 2 sg] {PRED}
+
+Line 110:
+    ὡς (ὡς) [conj] {AuxC}
+    δὴ (δή) [particle] {AuxY}
+    τοῦδ' (ὅδε) [pron neut gen sg] {ADV}
+    ἕνεκά (ἕνεκα) [prep] {AuxP}
+    σφιν (σφεῖς) [pron masc dat pl] {OBJ}
+    ἑκηβόλος (ἑκηβόλος) [adj masc nom sg] {SBJ}
+    ἄλγεα (ἄλγος) [noun neut acc pl] {OBJ}
+    τεύχει (τεύχω) [verb pres ind act 3 sg] {OBJ}
+
+Line 111:
+    οὕνεκ' (οὕνεκα) [adv] {AuxC}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    κούρης (κόρη) [noun fem gen sg] {ATR}
+    Χρυσηΐδος (Χρυσηίς) [noun fem gen sg] {ATR}
+    ἀγλά' (ἀγλαός) [adj neut acc pl] {ATR}
+    ἄποινα (ἄποινα) [noun neut acc pl] {OBJ}
+
+Line 112:
+    οὐκ (οὐ) [adv] {AuxZ}
+    ἔθελον (ἐθέλω) [verb impf ind act 1 sg] {ATR}
+    δέξασθαι (δέχομαι) [verb aor inf mid] {OBJ}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    πολὺ (πολύς) [adj neut acc sg] {ADV}
+    βούλομαι (βούλομαι) [verb pres ind mp 1 sg] {ADV}
+    αὐτὴν (αὐτός) [adj fem acc sg] {OBJ}
+
+Line 113:
+    οἴκοι (οἴκοι) [adv] {ADV}
+    ἔχειν (ἔχω) [verb pres inf act] {OBJ}
+    καὶ (καί) [adv] {AuxY}
+    γάρ (γάρ) [particle] {AuxY}
+    ῥα (ἄρα) [particle] {AuxY}
+    Κλυταιμνήστρης (Κλυταιμνήστρη) [noun fem gen sg] {OBJ_AP}
+    προβέβουλα (προβέβουλα) [verb perf ind act 1 sg] {PRED}
+
+Line 114:
+    κουριδίης (κουρίδιος) [adj fem gen sg] {ATR}
+    ἀλόχου (ἄλοχος) [noun fem gen sg] {OBJ_AP}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    οὔ (οὐ) [adv] {AuxZ}
+    ἑθέν (ἕ) [pron fem gen sg] {ATR}
+    ἐστι (εἰμί) [verb pres ind act 3 sg] {ADV}
+    χερείων (χείρων) [adj fem nom sg comp] {PNOM}
+
+Line 115:
+    οὐ (οὐ) [adv] {AuxZ}
+    δέμας (δέμας) [noun neut acc sg] {ADV_CO}
+    οὐ (οὐδέ) [particle] {AuxZ}
+    δὲ (δέ) [particle] {AuxY}
+    φυήν (φυή) [noun fem acc sg] {ADV_CO}
+    οὔ (οὐ) [adv] {AuxZ}
+    τ' (τε) [particle] {AuxY}
+    ἂρ (ἄρα) [particle] {AuxZ}
+    φρένας (φρήν) [noun masc acc pl] {ADV_CO}
+    οὔτέ (οὔτε) [adv] {COORD}
+    τι (τις) [pron neut acc sg] {ATR}
+    ἔργα (ἔργον) [noun neut acc pl] {ADV_CO}
+
+Line 116:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    καὶ (καί) [adv] {AuxZ}
+    ὧς (ὡς) [adv] {ADV}
+    ἐθέλω (ἐθέλω) [verb pres ind act 1 sg] {PRED}
+    δόμεναι (δίδωμι) [verb aor inf act] {OBJ}
+    πάλιν (πάλιν) [adv] {OBJ}
+    εἰ (εἰ) [conj] {AuxC}
+    τό (ὁ) [pron neut nom sg] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    ἄμεινον (ἀμείνων) [adj neut nom sg comp] {PNOM}
+
+Line 117:
+    βούλομ' (βούλομαι) [verb pres ind mp 1 sg] {PRED}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    λαὸν (λαός) [noun masc acc sg] {SBJ}
+    σῶν (σῶς) [adj masc acc sg] {PNOM}
+    ἔμμεναι (εἰμί) [verb pres inf act] {OBJ_CO}
+    ἢ (ἤ) [conj] {COORD}
+    ἀπολέσθαι (ἀπόλλυμι) [verb aor inf mid] {OBJ_CO}
+
+Line 118:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ἐμοὶ (ἐγώ) [pron masc dat sg] {OBJ}
+    γέρας (γέρας) [noun neut acc sg] {OBJ}
+    αὐτίχ' (αὐτίκα) [adv] {ADV}
+    ἑτοιμάσατ' (ἑτοιμάζω) [verb aor imperv act 2 pl] {PRED}
+    ὄφρα (ὄφρα) [conj] {AuxC}
+    μὴ (μή) [particle] {AuxZ}
+    οἶος (οἶος) [adj masc nom sg] {AtvV}
+
+Line 119:
+    Ἀργείων (Ἀργεῖος) [adj masc gen pl] {ATR}
+    ἀγέραστος (ἀγέραστος) [adj masc nom sg] {PNOM}
+    ἔω (εἰμί) [verb pres subj act 1 sg] {ADV}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    οὐ (οὐ) [adv] {AuxZ}
+    δὲ (δέ) [particle] {AuxZ}
+    ἔοικε (εἴκω1) [verb perf ind act 3 sg] {ADV}
+
+Line 120:
+    λεύσσετε (λεύσσω) [verb pres ind act 2 pl] {PRED}
+    γὰρ (γάρ) [particle] {AuxY}
+    τό (ὁ) [pron neut acc sg] {OBJ_AP}
+    γε (γε) [particle] {AuxZ}
+    πάντες (πᾶς) [adj masc nom pl] {SBJ}
+    ὅ (ὅς) [pron neut acc sg] {AuxC}
+    μοι (ἐγώ) [pron masc dat sg] {ATR}
+    γέρας (γέρας) [noun neut nom sg] {SBJ}
+    ἔρχεται (ἔρχομαι) [verb pres ind mp 3 sg] {OBJ_AP}
+    ἄλλῃ (ἄλλῃ) [adv] {OBJ}
+
+Line 121:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἠμείβετ' (ἀμείβω) [verb impf ind mp 3 sg] {PRED_CO}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+    ποδάρκης (ποδάρκης) [adj masc nom sg] {ATR}
+    δῖος (δῖος) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 122:
+    Ἀτρεΐδη (Ἀτρείδης) [noun masc voc sg] {ExD}
+    κύδιστε (κύδιστος) [adj masc voc sg] {ATR}
+    φιλοκτεανώτατε (φιλοκτέανος) [adj masc voc sg superl] {ATR}
+    πάντων (πᾶς) [adj neut gen pl] {ATR}
+
+Line 123:
+    πῶς (πῶς) [adv] {ADV}
+    γάρ (γάρ) [particle] {AuxY}
+    τοι (σύ) [pron dat sg] {OBJ}
+    δώσουσι (δίδωμι) [verb fut ind act 3 pl] {PRED}
+    γέρας (γέρας) [noun neut acc sg] {OBJ}
+    μεγάθυμοι (μεγάθυμος) [adj masc nom pl] {ATR}
+    Ἀχαιοί (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 124:
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    τί (τις) [pron neut acc sg] {AuxZ}
+    που (πού) [adv] {AuxY}
+    ἴδμεν (οἶδα) [verb perf ind act 1 pl] {PRED_CO}
+    ξυνήϊα (ξυνήιος) [adj neut acc pl] {OBJ}
+    κείμενα (κεῖμαι) [verb pres part mp pl] {ATV}
+    πολλά (πολύς) [adj neut acc pl] {ATR}
+
+Line 125:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    τὰ (ὁ) [pron neut acc pl] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    πολίων (πόλις) [noun fem gen pl] {OBJ}
+    ἐξεπράθομεν (ἐκπέρθω) [verb aor ind act 1 pl] {ATR}
+    τὰ (ὁ) [pron neut nom pl] {SBJ}
+    δέδασται (δατέομαι) [verb perf ind mp 3 sg] {PRED_CO}
+
+Line 126:
+    λαοὺς (λαός) [noun masc acc pl] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    οὐκ (οὐ) [adv] {AuxZ}
+    ἐπέοικε (ἐπέοικε) [verb perf ind act 3 sg] {PRED_CO}
+    παλίλλογα (παλίλλογος) [adj neut acc pl] {ATV}
+    ταῦτ' (οὗτος) [adj neut acc pl] {OBJ}
+    ἐπαγείρειν (ἐπαγείρω) [verb pres inf act] {SBJ}
+
+Line 127:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    νῦν (νῦν) [adv] {ADV}
+    τήνδε (ὅδε) [pron fem acc sg] {OBJ}
+    θεῷ (θεός) [noun masc dat sg] {OBJ}
+    πρόες (προίημι) [verb aor imperv act 2 sg] {PRED}
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    Ἀχαιοὶ (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 128:
+    τριπλῇ (τριπλόος) [adj fem dat sg] {ADV_CO}
+    τετραπλῇ (τετραπλόος) [adj fem dat sg] {ADV_CO}
+    τ' (τε) [particle] {COORD}
+    ἀποτείσομεν (ἀποτίνω) [verb fut ind act 1 pl] {PRED}
+    αἴ (εἰ) [conj] {AuxC}
+    κέ (ἄν) [particle] {AuxY}
+    ποθι (ποθι) [adv] {AuxY}
+    Ζεὺς (Ζεύς) [noun masc nom sg] {SBJ}
+
+Line 129:
+    δῷσι (δίδωμι) [verb aor subj act 3 sg] {ADV}
+    πόλιν (πόλις) [noun fem acc sg] {OBJ}
+    Τροίην (Τροία) [noun fem acc sg] {ATR}
+    εὐτείχεον (εὐτείχεος) [adj fem acc sg] {ATR}
+    ἐξαλαπάξαι (ἐξαλαπάζω) [verb aor inf act] {OBJ}
+
+Line 130:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἀπαμειβόμενος (ἀπαμείβομαι) [verb pres part mp sg] {ADV}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    κρείων (κρείων) [noun masc nom sg] {ATR}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 131:
+    μὴ (μή) [particle] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    οὕτως (οὕτως) [adv] {ADV}
+    ἀγαθός (ἀγαθός) [adj masc nom sg] {PNOM}
+    περ (πέρ) [particle] {AuxZ}
+    ἐὼν (εἰμί) [verb pres part act sg] {ADV}
+    θεοείκελ' (θεοείκελος) [adj masc voc sg] {ATR}
+    Ἀχιλλεῦ (Ἀχιλλεύς) [noun masc voc sg] {ExD}
+
+Line 132:
+    κλέπτε (κλέπτω) [verb pres imperv act 2 sg] {PRED_CO}
+    νόῳ (νόος) [noun masc dat sg] {ADV}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    οὐ (οὐ) [adv] {AuxZ}
+    παρελεύσεαι (παρέρχομαι) [verb fut ind mid 2 sg] {ADV_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    με (ἐγώ) [pron masc acc sg] {OBJ}
+    πείσεις (πείθω) [verb fut ind act 2 sg] {ADV_CO}
+
+Line 133:
+    ἦ (ἦ) [adv] {AuxY}
+    ἐθέλεις (ἐθέλω) [verb pres ind act 2 sg] {PRED_CO}
+    ὄφρ' (ὄφρα) [conj] {AuxC}
+    αὐτὸς (αὐτός) [adj masc nom sg] {AtvV}
+    ἔχῃς (ἔχω) [verb pres subj act 2 sg] {OBJ}
+    γέρας (γέρας) [noun neut acc sg] {OBJ_CO}
+    αὐτὰρ (ἀτάρ) [particle] {COORD}
+    ἔμ' (ἐγώ) [pron masc acc sg] {SBJ}
+    αὔτως (αὔτως) [adv] {ADV}
+
+Line 134:
+    ἧσθαι (ἧμαι) [verb perf inf mp] {OBJ_CO}
+    δευόμενον (δεύω2) [verb pres part mp sg] {ADV}
+    κέλεαι (κέλομαι) [verb pres ind mp 2 sg] {PRED_CO}
+    δέ (δέ) [particle] {COORD}
+    με (ἐγώ) [pron masc acc sg] {SBJ}
+    τήνδ' (ὅδε) [pron fem acc sg] {OBJ}
+    ἀποδοῦναι (ἀποδίδωμι) [verb aor inf act] {OBJ}
+
+Line 135:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    εἰ (εἰ) [conj] {AuxC}
+    μὲν (μέν) [particle] {AuxY}
+    δώσουσι (δίδωμι) [verb fut ind act 3 pl] {ADV}
+    γέρας (γέρας) [noun neut acc sg] {OBJ}
+    μεγάθυμοι (μεγάθυμος) [adj masc nom pl] {ATR}
+    Ἀχαιοὶ (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 136:
+    ἄρσαντες (ἀραρίσκω) [verb aor part act pl] {ADV}
+    κατὰ (κατά) [prep] {AuxP}
+    θυμὸν (θυμός) [noun masc acc sg] {OBJ}
+    ὅπως (ὅπως) [conj] {AuxC}
+    ἀντάξιον (ἀντάξιος) [adj neut nom sg] {PNOM}
+    ἔσται (εἰμί) [verb fut ind mid 3 sg] {ADV}
+
+Line 137:
+    εἰ (εἰ) [conj] {AuxC}
+    δέ (δέ) [particle] {COORD}
+    κε (ἄν) [particle] {AuxY}
+    μὴ (μή) [particle] {AuxZ}
+    δώωσιν (δίδωμι) [verb aor subj act 3 pl] {ADV}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    δέ (δέ) [particle] {AuxY}
+    κεν (ἄν) [particle] {AuxY}
+    αὐτὸς (αὐτός) [adj masc nom sg] {ATV}
+    ἕλωμαι (αἱρέω) [verb aor subj mp 1 sg] {PRED_CO}
+
+Line 138:
+    ἢ (ἤ) [conj] {AuxY}
+    τεὸν (τεός) [adj neut acc sg] {ATR_CO}
+    ἢ (ἤ) [conj] {COORD}
+    Αἴαντος (Αἴας) [noun masc gen sg] {ATR_CO}
+    ἰὼν (εἶμι) [verb pres part act sg] {ADV}
+    γέρας (γέρας) [noun neut acc sg] {OBJ}
+    ἢ (ἤ) [conj] {COORD}
+    Ὀδυσῆος (Ὀδυσσεύς) [noun masc gen sg] {ATR}
+
+Line 139:
+    ἄξω (ἄγω) [verb fut ind act 1 sg] {PRED_CO}
+    ἑλών (αἱρέω) [verb aor part act sg] {ADV}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    δέ (δέ) [particle] {COORD}
+    κεν (ἄν) [particle] {AuxY}
+    κεχολώσεται (χολόω) [verb futperf ind mp 3 sg] {PRED_CO}
+    ὅν (ὅς) [pron masc acc sg] {OBJ}
+    κεν (ἄν) [particle] {AuxY}
+    ἵκωμαι (ἱκνέομαι) [verb aor subj mp 1 sg] {ATR}
+
+Line 140:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ἤτοι (ἤτοι) [particle] {AuxY}
+    μὲν (μέν) [particle] {AuxY}
+    ταῦτα (οὗτος) [adj neut acc pl] {OBJ}
+    μεταφρασόμεσθα (μεταφράζω) [verb fut ind mid 1 pl] {PRED_CO}
+    καὶ (καί) [adv] {AuxZ}
+    αὖτις (αὖθις) [adv] {ADV}
+
+Line 141:
+    νῦν (νῦν) [adv] {ADV}
+    δ' (δέ) [particle] {AuxY}
+    ἄγε (ἄγε) [adv] {AuxY}
+    νῆα (ναῦς) [noun fem acc sg] {OBJ}
+    μέλαιναν (μέλας) [adj fem acc sg] {ATR}
+    ἐρύσσομεν (ἐρύω1) [verb aor subj act 1 pl] {PRED_CO}
+    εἰς (εἰς) [prep] {AuxP}
+    ἅλα (ἅλς1) [noun fem acc sg] {OBJ}
+    δῖαν (δῖος) [adj fem acc sg] {ATR}
+
+Line 142:
+    ἐν (ἐν) [prep] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    ἐρέτας (ἐρέτης) [noun masc acc pl] {OBJ}
+    ἐπιτηδὲς (ἐπιτηδές) [adv] {ADV}
+    ἀγείρομεν (ἀγείρω) [verb aor subj act 1 pl] {PRED_CO}
+    ἐς (εἰς) [prep] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    ἑκατόμβην (ἑκατόμβη) [noun fem acc sg] {OBJ}
+
+Line 143:
+    θείομεν (τίθημι) [verb aor subj act 1 pl] {PRED_CO}
+    ἂν (ἀνά) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    αὐτὴν (αὐτός) [adj fem acc sg] {ATV}
+    Χρυσηΐδα (Χρυσηίς) [noun fem acc sg] {OBJ}
+    καλλιπάρῃον (καλλιπάρηος) [adj fem acc sg] {ATR}
+
+Line 144:
+    βήσομεν (βαίνω) [verb aor subj act 1 pl] {PRED_CO}
+    εἷς (εἷς) [adj masc nom sg] {ATR}
+    δέ (δέ) [particle] {COORD}
+    τις (τις) [pron masc nom sg] {ATR}
+    ἀρχὸς (ἀρχός) [noun masc nom sg] {ATV}
+    ἀνὴρ (ἀνήρ) [noun masc nom sg] {SBJ_AP}
+    βουληφόρος (βουληφόρος) [adj masc nom sg] {ATR}
+    ἔστω (εἰμί) [verb pres imperv act 3 sg] {PRED_CO}
+
+Line 145:
+    ἢ (ἤ) [conj] {AuxY}
+    Αἴας (Αἴας) [noun masc nom sg] {SBJ_AP_CO}
+    ἢ (ἤ) [conj] {AuxY}
+    Ἰδομενεὺς (Ἰδομενεύς) [noun masc nom sg] {SBJ_AP_CO}
+    ἢ (ἤ) [conj] {AuxY}
+    δῖος (δῖος) [adj masc nom sg] {ATR}
+    Ὀδυσσεὺς (Ὀδυσσεύς) [noun masc nom sg] {SBJ_AP_CO}
+
+Line 146:
+    ἠὲ (ἤ) [conj] {COORD}
+    σὺ (σύ) [pron nom sg] {SBJ_AP_CO}
+    Πηλεΐδη (Πηλείδης) [noun masc voc sg] {ExD}
+    πάντων (πᾶς) [adj masc gen pl] {ATR}
+    ἐκπαγλότατ' (ἔκπαγλος) [adj masc voc sg superl] {ATR}
+    ἀνδρῶν (ἀνήρ) [noun masc gen pl] {ATR}
+
+Line 147:
+    ὄφρ' (ὄφρα) [conj] {AuxC}
+    ἥμιν (ἐγώ) [pron masc dat pl] {ADV}
+    ἑκάεργον (Ἑκάεργος) [adj masc acc sg] {OBJ}
+    ἱλάσσεαι (ἱλάσκομαι) [verb aor subj mid 2 sg] {ADV}
+    ἱερὰ (ἱερός) [noun neut acc pl] {OBJ}
+    ῥέξας (ῥέζω) [verb aor part act sg] {ADV}
+
+Line 148:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ὑπόδρα (ὑπόδρα) [adv] {ADV}
+    ἰδὼν (εἶδον) [verb aor part act sg] {ADV}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    πόδας (πούς) [noun masc acc pl] {ATR}
+    ὠκὺς (ὠκύς) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 149:
+    ὤ (ὦ) [interj] {AuxY}
+    μοι (ἐγώ) [pron masc dat sg] {AuxZ}
+    ἀναιδείην (ἀναίδεια) [noun fem acc sg] {OBJ}
+    ἐπιειμένε (ἐπιέννυμι) [verb perf part pass sg] {ExD}
+    κερδαλεόφρον (κερδαλεόφρων) [adj masc voc sg] {ExD}
+
+Line 150:
+    πῶς (πῶς) [adv] {ADV}
+    τίς (τις) [pron masc nom sg] {SBJ}
+    τοι (σύ) [pron dat sg] {ATR}
+    πρόφρων (πρόφρων) [adj masc nom sg] {ATV}
+    ἔπεσιν (ἔπος) [noun neut dat pl] {OBJ}
+    πείθηται (πείθω) [verb pres subj mp 3 sg] {PRED}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 151:
+    ἢ (ἤ) [conj] {AuxY}
+    ὁδὸν (ὁδός) [noun fem acc sg] {OBJ}
+    ἐλθέμεναι (ἔρχομαι) [verb aor inf act] {ADV_CO}
+    ἢ (ἤ) [conj] {COORD}
+    ἀνδράσιν (ἀνήρ) [noun masc dat pl] {OBJ}
+    ἶφι (ἶφι) [adv] {ADV}
+    μάχεσθαι (μάχομαι) [verb pres inf mp] {ADV_CO}
+
+Line 152:
+    οὐ (οὐ) [adv] {AuxZ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    Τρώων (Τρώς) [noun gen pl] {ATR}
+    ἕνεκ' (ἕνεκα) [prep] {AuxP}
+    ἤλυθον (ἔρχομαι) [verb aor ind act 1 sg] {PRED}
+    αἰχμητάων (αἰχμητής) [noun masc gen pl] {ADV}
+
+Line 153:
+    δεῦρο (δεῦρο) [adv] {OBJ}
+    μαχησόμενος (μάχομαι) [verb fut part mid sg] {ADV}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    οὔ (οὐ) [adv] {AuxZ}
+    τί (τις) [pron neut acc sg] {AuxZ}
+    μοι (ἐγώ) [pron masc dat sg] {ADV}
+    αἴτιοί (αἴτιος) [adj masc nom pl] {PNOM}
+    εἰσιν (εἰμί) [verb pres ind act 3 pl] {ADV}
+
+Line 154:
+    οὐ (οὐ) [adv] {AuxZ}
+    γὰρ (γάρ) [particle] {AuxY}
+    πώποτ' (πώποτε) [adv] {ADV}
+    ἐμὰς (ἐμός) [adj fem acc pl] {ATR}
+    βοῦς (βοῦς) [noun fem acc pl] {OBJ}
+    ἤλασαν (ἐλαύνω) [verb aor ind act 3 pl] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δὲ (δέ) [particle] {AuxY}
+    μὲν (μέν) [particle] {AuxY}
+    ἵππους (ἵππος) [noun fem acc pl] {OBJ}
+
+Line 155:
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    ποτ' (ποτέ) [particle] {ADV}
+    ἐν (ἐν) [prep] {AuxP}
+    Φθίῃ (Φθία) [noun fem dat sg] {ADV}
+    ἐριβώλακι (ἐριβῶλαξ) [adj fem dat sg] {ATR_CO}
+    βωτιανείρῃ (βωτιάνειρα) [noun fem dat sg] {ATR_CO}
+
+Line 156:
+    καρπὸν (καρπός1) [noun masc acc sg] {OBJ}
+    ἐδηλήσαντ' (δηλέομαι) [verb aor ind mp 3 pl] {PRED_CO}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    ἦ (ἦ) [adv] {AuxY}
+    μάλα (μάλα) [adv] {AuxZ}
+    πολλὰ (πολύς) [adj neut nom pl] {SBJ_AP}
+    μεταξὺ (μεταξύ) [adv] {ADV}
+
+Line 157:
+    οὔρεά (ὄρος) [noun neut nom pl] {SBJ_AP_CO}
+    τε (τε) [particle] {AuxY}
+    σκιόεντα (σκιόεις) [adj neut nom pl] {ATR}
+    θάλασσά (θάλασσα) [noun fem nom sg] {SBJ_AP_CO}
+    τε (τε) [particle] {COORD}
+    ἠχήεσσα (ἠχήεις) [adj fem nom sg] {ATR}
+
+Line 158:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    σοὶ (σύ) [pron dat sg] {OBJ}
+    ὦ (ὦ) [interj] {AuxZ}
+    μέγ' (μέγας) [adj neut acc sg] {AuxZ}
+    ἀναιδὲς (ἀναιδής) [adj masc voc sg] {ExD}
+    ἅμ' (ἅμα) [adv] {ADV}
+    ἑσπόμεθ' (ἕπομαι) [verb aor ind mid 1 pl] {PRED}
+    ὄφρα (ὄφρα) [conj] {AuxC}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    χαίρῃς (χαίρω) [verb pres subj act 2 sg] {ADV}
+
+Line 159:
+    τιμὴν (τιμή) [noun fem acc sg] {OBJ}
+    ἀρνύμενοι (ἄρνυμαι) [verb pres part mp pl] {ADV}
+    Μενελάῳ (Μενέλαος) [noun masc dat sg] {OBJ_CO}
+    σοί (σύ) [pron dat sg] {OBJ_CO}
+    τε (τε) [particle] {COORD}
+    κυνῶπα (κυνώπης) [noun masc voc sg] {ExD}
+
+Line 160:
+    πρὸς (πρός) [prep] {AuxP}
+    Τρώων (Τρώς) [noun gen pl] {ADV}
+    τῶν (ὁ) [pron neut gen pl] {OBJ}
+    οὔ (οὐ) [adv] {AuxZ}
+    τι (τις) [pron neut acc sg] {AuxZ}
+    μετατρέπῃ (μετατρέπομαι) [verb pres ind mp 2 sg] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἀλεγίζεις (ἀλεγίζω) [verb pres ind act 2 sg] {PRED_CO}
+
+Line 161:
+    καὶ (καί) [adv] {AuxY}
+    δή (δή) [particle] {AuxY}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    γέρας (γέρας) [noun neut acc sg] {OBJ}
+    αὐτὸς (αὐτός) [adj masc nom sg] {AtvV}
+    ἀφαιρήσεσθαι (ἀφαιρέω) [verb fut inf mid] {OBJ}
+    ἀπειλεῖς (ἀπειλέω) [verb pres ind act 2 sg] {PRED}
+
+Line 162:
+    ᾧ (ὅς) [pron neut dat sg] {ADV}
+    ἔπι (ἐπί) [prep] {AuxP}
+    πολλὰ (πολύς) [adj neut acc pl] {OBJ}
+    μόγησα (μογέω) [verb aor ind act 1 sg] {ATR_CO}
+    δόσαν (δίδωμι) [verb aor ind act 3 pl] {ATR_CO}
+    δέ (δέ) [particle] {COORD}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    υἷες (υἱός) [noun masc nom pl] {SBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 163:
+    οὐ (οὐ) [adv] {AuxZ}
+    μὲν (μέν) [particle] {AuxY}
+    σοί (σύ) [pron dat sg] {ATR}
+    ποτε (ποτέ) [particle] {ADV}
+    ἶσον (ἴσος) [adj neut acc sg] {ATR}
+    ἔχω (ἔχω) [verb pres ind act 1 sg] {PRED}
+    γέρας (γέρας) [noun neut acc sg] {OBJ}
+    ὁππότ' (ὁπότε) [adv] {AuxC}
+    Ἀχαιοὶ (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 164:
+    Τρώων (Τρώς) [noun gen pl] {ATR}
+    ἐκπέρσωσ' (ἐκπέρθω) [verb aor subj act 3 pl] {ADV}
+    εὖ (εὖ) [adv] {ADV}
+    ναιόμενον (ναίω) [verb pres part mp sg] {ATR}
+    πτολίεθρον (πτολίεθρον) [noun neut acc sg] {OBJ}
+
+Line 165:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    τὸ (ὁ) [pron neut acc sg] {ATR}
+    μὲν (μέν) [particle] {AuxY}
+    πλεῖον (πλείων) [adj neut acc sg comp] {OBJ}
+    πολυάϊκος (πολυάιξ) [adj masc gen sg] {ATR}
+    πολέμοιο (πόλεμος) [noun masc gen sg] {ATR}
+
+Line 166:
+    χεῖρες (χείρ) [noun fem nom pl] {SBJ}
+    ἐμαὶ (ἐμός) [adj fem nom pl] {ATR}
+    διέπουσ' (διέπω) [verb pres ind act 3 pl] {PRED}
+    ἀτὰρ (ἀτάρ) [particle] {AuxY}
+    ἤν (ἐάν) [conj] {AuxC}
+    ποτε (ποτέ) [particle] {AuxY}
+    δασμὸς (δασμός) [noun masc nom sg] {SBJ}
+    ἵκηται (ἱκνέομαι) [verb aor subj mp 3 sg] {ADV}
+
+Line 167:
+    σοὶ (σύ) [pron dat sg] {ATR}
+    τὸ (ὁ) [article neut nom sg] {ATR}
+    γέρας (γέρας) [noun neut nom sg] {SBJ}
+    πολὺ (πολύς) [adj neut acc sg] {AuxZ}
+    μεῖζον (μέγας) [adj neut nom sg comp] {PNOM}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ὀλίγον (ὀλίγος) [adj neut acc sg] {ATR_CO}
+    τε (τε) [particle] {AuxY}
+    φίλον (φίλος) [adj neut acc sg] {ATR_CO}
+    τε (τε) [particle] {COORD}
+
+Line 168:
+    ἔρχομ' (ἔρχομαι) [verb pres ind mp 1 sg] {PRED_CO}
+    ἔχων (ἔχω) [verb pres part act sg] {ADV}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    νῆας (ναῦς) [noun fem acc pl] {OBJ}
+    ἐπεί (ἐπεί) [conj] {AuxC}
+    κε (ἄν) [particle] {AuxY}
+    κάμω (κάμνω) [verb aor subj act 1 sg] {ADV}
+    πολεμίζων (πολεμίζω) [verb pres part act sg] {ADV}
+
+Line 169:
+    νῦν (νῦν) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    εἶμι (εἶμι) [verb pres ind act 1 sg] {PRED_CO}
+    Φθίην (Φθία) [noun fem acc sg] {OBJ}
+    δ' (δέ) [particle] {AuxZ}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    ἦ (ἦ) [adv] {AuxY}
+    πολὺ (πολύς) [adj neut acc sg] {AuxZ}
+    φέρτερόν (φέρτατος) [adj neut nom sg] {PNOM}
+    ἐστιν (εἰμί) [verb pres ind act 3 sg] {ADV_CO}
+
+Line 170:
+    οἴκαδ' (οἴκαδε) [adv] {OBJ}
+    ἴμεν (εἶμι) [verb pres inf act] {SBJ}
+    σὺν (σύν) [prep] {AuxP}
+    νηυσὶ (ναῦς) [noun fem dat pl] {ADV}
+    κορωνίσιν (κορωνίς) [adj fem dat pl] {ATR}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    σ' (σύ) [pron masc dat sg] {OBJ}
+    ὀΐω (οἴομαι) [verb pres ind act 1 sg] {ADV_CO}
+
+Line 171:
+    ἐνθάδ' (ἐνθάδε) [adv] {ADV}
+    ἄτιμος (ἄτιμος) [adj masc nom sg] {PNOM}
+    ἐὼν (εἰμί) [verb pres part act sg] {ADV}
+    ἄφενος (ἄφενος) [noun neut acc sg] {OBJ_CO}
+    καὶ (καί) [conj] {COORD}
+    πλοῦτον (πλοῦτος) [noun masc acc sg] {OBJ_CO}
+    ἀφύξειν (ἀφύσσω) [verb fut inf act] {OBJ}
+
+Line 172:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἠμείβετ' (ἀμείβω) [verb impf ind mp 3 sg] {PRED_CO}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+    ἄναξ (ἄναξ) [noun masc nom sg] {ATR}
+    ἀνδρῶν (ἀνήρ) [noun masc gen pl] {ATR}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 173:
+    φεῦγε (φεύγω) [verb pres imperv act 2 sg] {PRED_CO}
+    μάλ' (μάλα) [adv] {ADV}
+    εἴ (εἰ) [conj] {AuxC}
+    τοι (σύ) [pron dat sg] {ATR}
+    θυμὸς (θυμός) [noun masc nom sg] {SBJ}
+    ἐπέσσυται (ἐπισεύω) [verb pres ind mp 3 sg] {ADV}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    σ' (σύ) [pron acc sg] {SBJ}
+    ἔγωγε (ἐγώ) [pron masc nom sg] {SBJ}
+
+Line 174:
+    λίσσομαι (λίσσομαι) [verb pres ind mp 1 sg] {PRED_CO}
+    εἵνεκ' (ἕνεκα) [prep] {AuxP}
+    ἐμεῖο (ἐγώ) [pron masc gen sg] {ADV}
+    μένειν (μένω) [verb pres inf act] {OBJ}
+    πάρ' (παρά) [verb pres ind act 3 pl] {AuxP_ExD_PRED_CO}
+    ἔμοιγε (ἐγώ) [pron masc dat sg] {OBJ}
+    καὶ (καί) [adv] {AuxZ}
+    ἄλλοι (ἄλλος) [adj masc nom pl] {SBJ}
+
+Line 175:
+    οἵ (ὅς) [pron masc nom pl] {SBJ}
+    κέ (ἄν) [particle] {AuxY}
+    με (ἐγώ) [pron masc acc sg] {OBJ}
+    τιμήσουσι (τιμάω) [verb aor subj act 3 pl] {ATR}
+    μάλιστα (μάλιστα) [adv] {ADV}
+    δὲ (δέ) [particle] {COORD}
+    μητίετα (μητίετα) [noun masc nom sg] {ATR}
+    Ζεύς (Ζεύς) [noun masc nom sg] {SBJ}
+
+Line 176:
+    ἔχθιστος (ἔχθιστος) [adj masc nom sg superl] {PNOM}
+    δέ (δέ) [particle] {COORD}
+    μοί (ἐγώ) [pron masc dat sg] {OBJ}
+    ἐσσι (εἰμί) [verb pres ind act 2 sg] {PRED_CO}
+    διοτρεφέων (διοτρεφής) [adj masc gen pl] {ATR}
+    βασιλήων (βασιλεύς) [noun masc gen pl] {ATR}
+
+Line 177:
+    αἰεὶ (ἀεί) [adv] {ADV}
+    γάρ (γάρ) [particle] {AuxY}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ἔρις (ἔρις) [noun fem nom sg] {SBJ_CO}
+    τε (τε) [particle] {AuxY}
+    φίλη (φίλος) [adj fem nom sg] {PNOM}
+    πόλεμοί (πόλεμος) [noun masc nom pl] {SBJ_CO}
+    τε (τε) [particle] {AuxY}
+    μάχαι (μάχη) [noun fem nom pl] {SBJ_CO}
+    τε (τε) [particle] {COORD}
+
+Line 178:
+    εἰ (εἰ) [conj] {AuxC}
+    μάλα (μάλα) [adv] {AuxZ}
+    καρτερός (καρτερός) [adj masc nom sg] {PNOM}
+    ἐσσι (εἰμί) [verb pres ind act 2 sg] {ADV}
+    θεός (θεός) [noun masc nom sg] {SBJ}
+    που (πού) [adv] {AuxY}
+    σοὶ (σύ) [pron dat sg] {OBJ}
+    τό (ὁ) [pron neut acc sg] {OBJ}
+    γ' (γε) [particle] {AuxZ}
+    ἔδωκεν (δίδωμι) [verb aor ind act 3 sg] {PRED}
+
+Line 179:
+    οἴκαδ' (οἴκαδε) [adv] {OBJ}
+    ἰὼν (εἶμι) [verb pres part act sg] {ADV}
+    σὺν (σύν) [prep] {AuxP}
+    νηυσί (ναῦς) [noun fem dat pl] {ADV_CO}
+    τε (τε) [particle] {AuxY}
+    σῇς (σός) [adj fem dat pl] {ATR}
+    καὶ (καί) [conj] {COORD}
+    σοῖς (σός) [adj masc dat pl] {ATR}
+    ἑτάροισι (ἑταῖρος) [noun masc dat pl] {ADV_CO}
+
+Line 180:
+    Μυρμιδόνεσσιν (Μυρμιδόνες) [noun masc dat pl] {OBJ}
+    ἄνασσε (ἀνάσσω) [verb pres imperv act 2 sg] {PRED_CO}
+    σέθεν (σύ) [pron gen sg] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    οὐκ (οὐ) [adv] {AuxZ}
+    ἀλεγίζω (ἀλεγίζω) [verb pres ind act 1 sg] {PRED_CO}
+
+Line 181:
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ὄθομαι (ὄθομαι) [verb pres ind mp 1 sg] {PRED_CO}
+    κοτέοντος (κοτέω) [verb pres part act sg] {AtvV}
+    ἀπειλήσω (ἀπειλέω) [verb fut ind act 1 sg] {PRED_CO}
+    δέ (δέ) [particle] {COORD}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ὧδε (ὧδε) [adv] {ADV}
+
+Line 182:
+    ὡς (ὡς) [adv] {ADV}
+    ἔμ' (ἐγώ) [pron masc acc sg] {OBJ}
+    ἀφαιρεῖται (ἀφαιρέω) [verb pres ind mp 3 sg] {ADV}
+    Χρυσηΐδα (Χρυσηίς) [noun fem acc sg] {OBJ}
+    Φοῖβος (Φοῖβος) [noun masc nom sg] {ATR}
+    Ἀπόλλων (Ἀπόλλων) [noun masc nom sg] {SBJ}
+
+Line 183:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    σὺν (σύν) [prep] {AuxP}
+    νηΐ (ναῦς) [noun fem dat sg] {ADV_CO}
+    τ' (τε) [particle] {AuxY}
+    ἐμῇ (ἐμός) [adj fem dat sg] {ATR}
+    καὶ (καί) [conj] {COORD}
+    ἐμοῖς (ἐμός) [adj masc dat pl] {ATR}
+    ἑτάροισι (ἑταῖρος) [noun masc dat pl] {ADV_CO}
+
+Line 184:
+    πέμψω (πέμπω) [verb fut ind act 1 sg] {PRED_CO}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    δέ (δέ) [particle] {COORD}
+    κ' (ἄν) [particle] {AuxZ}
+    ἄγω (ἄγω) [verb pres subj act 1 sg] {PRED_CO}
+    Βρισηΐδα (Βρισηίς) [noun fem acc sg] {OBJ_AP}
+    καλλιπάρῃον (καλλιπάρηος) [adj fem acc sg] {ATR}
+
+Line 185:
+    αὐτὸς (αὐτός) [adj masc nom sg] {ATV}
+    ἰὼν (εἶμι) [verb pres part act sg] {ADV}
+    κλισίην (κλισία) [noun fem acc sg] {OBJ}
+    δὲ (δέ) [particle] {AuxZ}
+    τὸ (ὁ) [article neut acc sg] {ATR}
+    σὸν (σός) [adj neut acc sg] {ATR}
+    γέρας (γέρας) [noun neut acc sg] {OBJ_AP}
+    ὄφρ' (ὄφρα) [conj] {AuxC}
+    ἐῢ (εὖ) [adv] {ADV}
+    εἰδῇς (εἶδον) [verb perf subj act 2 sg] {ADV_CO}
+
+Line 186:
+    ὅσσον (ὅσος) [adj neut acc sg] {ADV}
+    φέρτερός (φέρτερος) [adj masc nom sg comp] {PNOM}
+    εἰμι (εἰμί) [verb pres ind act 1 sg] {OBJ}
+    σέθεν (σύ) [pron gen sg] {ATR}
+    στυγέῃ (στυγέω) [verb pres subj act 3 sg] {ADV_CO}
+    δὲ (δέ) [particle] {COORD}
+    καὶ (καί) [adv] {AuxZ}
+    ἄλλος (ἄλλος) [adj masc nom sg] {SBJ}
+
+Line 187:
+    ἶσον (ἴσος) [adj masc acc sg] {PNOM}
+    ἐμοὶ (ἐγώ) [pron masc dat sg] {ATR}
+    φάσθαι (φημί) [verb pres inf mp] {OBJ_CO}
+    καὶ (καί) [conj] {COORD}
+    ὁμοιωθήμεναι (ὁμοιόω) [verb aor inf pass] {OBJ_CO}
+    ἄντην (ἄντην) [adv] {ADV}
+
+Line 188:
+    ὣς (ὡς) [adv] {ADV}
+    φάτο (φημί) [verb aor ind mid 3 sg] {PRED}
+    Πηλεΐωνι (Πηλείων) [noun masc dat sg] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἄχος (ἄχος) [noun neut nom sg] {SBJ}
+    γένετ' (γίγνομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    ἐν (ἐν) [prep] {AuxP}
+    δέ (δέ) [particle] {COORD}
+    οἱ (ἕ) [pron masc dat sg] {ATR}
+    ἦτορ (ἦτορ) [noun neut nom sg] {SBJ}
+
+Line 189:
+    στήθεσσιν (στῆθος) [noun neut dat pl] {ADV}
+    λασίοισι (λάσιος) [adj neut dat pl] {ATR}
+    διάνδιχα (διάνδιχα) [adv] {ADV}
+    μερμήριξεν (μερμηρίζω) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 190:
+    ἢ (ἤ) [conj] {AuxY}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γε (γε) [particle] {AuxZ}
+    φάσγανον (φάσγανον) [noun neut acc sg] {OBJ}
+    ὀξὺ (ὀξύς) [adj neut acc sg] {ATR}
+    ἐρυσσάμενος (ἐρύω1) [verb aor part mid sg] {ADV}
+    παρὰ (παρά) [prep] {AuxP}
+    μηροῦ (μηρός) [noun masc gen sg] {ADV}
+
+Line 191:
+    τοὺς (ὁ) [pron masc acc pl] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    ἀναστήσειεν (ἀνίστημι) [verb aor opt act 3 sg] {OBJ_CO}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    Ἀτρεΐδην (Ἀτρείδης) [noun masc acc sg] {OBJ}
+    ἐναρίζοι (ἐναρίζω) [verb pres opt act 3 sg] {OBJ_CO}
+
+Line 192:
+    ἦε (ἤ) [conj] {COORD}
+    χόλον (χόλος) [noun masc acc sg] {OBJ}
+    παύσειεν (παύω) [verb aor opt act 3 sg] {OBJ_CO}
+    ἐρητύσειέ (ἐρητύω) [verb aor opt act 3 sg] {OBJ_CO}
+    τε (τε) [particle] {COORD}
+    θυμόν (θυμός) [noun masc acc sg] {OBJ}
+
+Line 193:
+    ἧος (ἕως) [conj] {AuxC}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    ταῦθ' (οὗτος) [adj neut acc pl] {OBJ}
+    ὥρμαινε (ὁρμαίνω) [verb impf ind act 3 sg] {ADV_CO}
+    κατὰ (κατά) [prep] {AuxP}
+    φρένα (φρήν) [noun fem acc sg] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    κατὰ (κατά) [prep] {AuxP}
+    θυμόν (θυμός) [noun masc acc sg] {ADV_CO}
+
+Line 194:
+    ἕλκετο (ἕλκω) [verb impf ind mp 3 sg] {ADV_CO}
+    δ' (δέ) [particle] {COORD}
+    ἐκ (ἐκ) [prep] {AuxP}
+    κολεοῖο (κολεόν) [noun neut gen sg] {OBJ}
+    μέγα (μέγας) [adj neut acc sg] {ATR}
+    ξίφος (ξίφος) [noun neut acc sg] {OBJ}
+    ἦλθε (ἔρχομαι) [verb aor ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    Ἀθήνη (Ἀθήνη) [noun fem nom sg] {SBJ}
+
+Line 195:
+    οὐρανόθεν (οὐρανόθεν) [adv] {OBJ}
+    πρὸ (πρό) [prep] {AuxZ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἧκε (ἵημι) [verb aor ind act 3 sg] {PRED}
+    θεὰ (θεά) [noun fem nom sg] {SBJ_AP}
+    λευκώλενος (λευκώλενος) [adj fem nom sg] {ATR}
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ_AP}
+
+Line 196:
+    ἄμφω (ἄμφω) [adj masc acc dual] {OBJ}
+    ὁμῶς (ὁμῶς) [adv] {ADV}
+    θυμῷ (θυμός) [noun masc dat sg] {ADV}
+    φιλέουσά (φιλέω) [verb pres part act sg] {ADV_CO}
+    τε (τε) [particle] {AuxY}
+    κηδομένη (κήδω) [verb pres part mp sg] {ADV_CO}
+    τε (τε) [particle] {COORD}
+
+Line 197:
+    στῆ (ἵστημι) [verb aor ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {AuxY}
+    ὄπιθεν (ὄπισθεν) [adv] {ADV}
+    ξανθῆς (ξανθός) [adj fem gen sg] {ATR}
+    δὲ (δέ) [particle] {COORD}
+    κόμης (κόμη) [noun fem gen sg] {OBJ}
+    ἕλε (αἱρέω) [verb aor ind act 3 sg] {PRED_CO}
+    Πηλεΐωνα (Πηλείων) [noun masc acc sg] {OBJ}
+
+Line 198:
+    οἴῳ (οἶος) [adj masc dat sg] {AtvV}
+    φαινομένη (φαίνω) [verb pres part mp sg] {ADV}
+    τῶν (ὁ) [article masc gen pl] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἄλλων (ἄλλος) [adj masc gen pl] {ATR}
+    οὔ (οὐ) [adv] {AuxZ}
+    τις (τις) [pron masc nom sg] {SBJ}
+    ὁρᾶτο (ὁράω) [verb impf ind mp 3 sg] {PRED_CO}
+
+Line 199:
+    θάμβησεν (θαμβέω) [verb aor ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {AuxY}
+    Ἀχιλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+    μετὰ (μετά) [prep] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    ἐτράπετ' (τρέπω) [verb aor ind mid 3 sg] {PRED_CO}
+    αὐτίκα (αὐτίκα) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ἔγνω (γιγνώσκω) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 200:
+    Παλλάδ' (Παλλάς) [noun fem acc sg] {ATR}
+    Ἀθηναίην (Ἀθήνη) [noun fem acc sg] {OBJ}
+    δεινὼ (δεινός) [adj neut nom dual] {ATV}
+    δέ (δέ) [particle] {COORD}
+    οἱ (ἕ) [pron fem dat sg] {ATR}
+    ὄσσε (ὄσσε) [noun neut nom dual] {SBJ}
+    φάανθεν (φαίνω) [verb aor ind pass 3 pl] {PRED_CO}
+
+Line 201:
+    καί (καί) [conj] {COORD}
+    μιν (μιν) [pron fem acc sg] {OBJ}
+    φωνήσας (φωνέω) [verb aor part act sg] {ADV}
+    ἔπεα (ἔπος) [noun neut acc pl] {OBJ}
+    πτερόεντα (πτερόεις) [adj neut acc pl] {ATR}
+    προσηύδα (προσαυδάω) [verb impf ind act 3 sg] {PRED_CO}
+
+Line 202:
+    τίπτ' (τίπτε) [pron] {ADV}
+    αὖτ' (αὖτε) [adv] {ADV}
+    αἰγιόχοιο (αἰγίοχος) [adj masc gen sg] {ATR}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR}
+    τέκος (τέκος) [noun neut voc sg] {ExD}
+    εἰλήλουθας (ἔρχομαι) [verb perf ind act 2 sg] {PRED}
+
+Line 203:
+    ἦ (ἦ) [adv] {AuxY}
+    ἵνα (ἵνα) [conj] {AuxC}
+    ὕβριν (ὕβρις) [noun fem acc sg] {OBJ}
+    ἴδῃ (εἶδον) [verb aor subj mp 2 sg] {ADV}
+    Ἀγαμέμνονος (Ἀγαμέμνων) [noun masc gen sg] {ATR}
+    Ἀτρεΐδαο (Ἀτρείδης) [noun masc gen sg] {ATR}
+
+Line 204:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ἔκ (ἐκ) [prep] {AuxZ}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ἐρέω (εἴρω2) [verb fut ind act 1 sg] {PRED_CO}
+    τὸ (ὁ) [pron neut acc sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    καὶ (καί) [adv] {AuxY}
+    τελέεσθαι (τελέω) [verb fut inf mid] {OBJ}
+    ὀΐω (οἴομαι) [verb pres ind act 1 sg] {PRED_CO}
+
+Line 205:
+    ᾗς (ἑός) [adj fem dat pl] {ATR}
+    ὑπεροπλίῃσι (ὑπεροπλία) [noun fem dat pl] {ADV}
+    τάχ' (τάχα) [adv] {ADV}
+    ἄν (ἄν) [particle] {AuxY}
+    ποτε (ποτέ) [particle] {ADV}
+    θυμὸν (θυμός) [noun masc acc sg] {OBJ}
+    ὀλέσσῃ (ὄλλυμι) [verb aor subj act 3 sg] {PRED}
+
+Line 206:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    αὖτε (αὖτε) [adv] {AuxY}
+    προσέειπε (προσεῖπον) [verb aor ind act 3 sg] {PRED_CO}
+    θεὰ (θεά) [noun fem nom sg] {SBJ_AP}
+    γλαυκῶπις (γλαυκῶπις) [adj fem nom sg] {ATR}
+    Ἀθήνη (Ἀθήνη) [noun fem nom sg] {SBJ_AP}
+
+Line 207:
+    ἦλθον (ἔρχομαι) [verb aor ind act 1 sg] {PRED}
+    ἐγὼ (ἐγώ) [pron fem nom sg] {SBJ}
+    παύσουσα (παύω) [verb fut part act sg] {ADV}
+    τὸ (ὁ) [article neut acc sg] {ATR}
+    σὸν (σός) [adj neut acc sg] {ATR}
+    μένος (μένος) [noun neut acc sg] {OBJ}
+    αἴ (εἰ) [conj] {AuxC}
+    κε (ἄν) [particle] {AuxY}
+    πίθηαι (πείθω) [verb aor subj mp 2 sg] {ADV}
+
+Line 208:
+    οὐρανόθεν (οὐρανόθεν) [adv] {OBJ}
+    πρὸ (πρό) [prep] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    μ' (ἐγώ) [pron fem acc sg] {OBJ}
+    ἧκε (ἵημι) [verb aor ind act 3 sg] {PRED}
+    θεὰ (θεά) [noun fem nom sg] {SBJ_AP}
+    λευκώλενος (λευκώλενος) [adj fem nom sg] {ATR}
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ_AP}
+
+Line 209:
+    ἄμφω (ἄμφω) [adj masc acc dual] {OBJ}
+    ὁμῶς (ὁμῶς) [adv] {ADV}
+    θυμῷ (θυμός) [noun masc dat sg] {ADV}
+    φιλέουσά (φιλέω) [verb pres part act sg] {ADV_CO}
+    τε (τε) [particle] {AuxY}
+    κηδομένη (κήδω) [verb pres part mp sg] {ADV_CO}
+    τε (τε) [particle] {COORD}
+
+Line 210:
+    ἀλλ' (ἀλλά) [adv] {AuxZ}
+    ἄγε (ἄγε) [adv] {AuxY}
+    λῆγ' (λήγω) [verb pres imperv act 2 sg] {PRED_CO}
+    ἔριδος (ἔρις) [noun fem gen sg] {OBJ}
+    μη (μή) [particle] {AuxZ}
+    δὲ (δέ) [particle] {COORD}
+    ξίφος (ξίφος) [noun neut acc sg] {OBJ}
+    ἕλκεο (ἕλκω) [verb pres imperv mp 2 sg] {PRED_CO}
+    χειρί (χείρ) [noun fem dat sg] {ADV}
+
+Line 211:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ἤτοι (ἤτοι) [particle] {AuxY}
+    ἔπεσιν (ἔπος) [noun neut dat pl] {ADV}
+    μὲν (μέν) [particle] {AuxY}
+    ὀνείδισον (ὀνειδίζω) [verb aor imperv act 2 sg] {PRED}
+    ὡς (ὡς) [adv] {ADV}
+    ἔσεταί (εἰμί) [verb fut ind mid 3 sg] {OBJ}
+    περ (πέρ) [particle] {AuxY}
+
+Line 212:
+    ὧδε (ὧδε) [adv] {ADV}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἐξερέω (ἐξείρω) [verb fut ind act 1 sg] {PRED_CO}
+    τὸ (ὁ) [pron neut nom sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    καὶ (καί) [adv] {AuxY}
+    τετελεσμένον (τελέω) [verb perf part mp sg] {PNOM}
+    ἔσται (εἰμί) [verb fut ind mid 3 sg] {PRED_CO}
+
+Line 213:
+    καί (καί) [conj] {COORD}
+    ποτέ (ποτέ) [particle] {ADV}
+    τοι (σύ) [pron dat sg] {OBJ}
+    τρὶς (τρίς) [adv] {AuxZ}
+    τόσσα (τόσος) [adj neut nom pl] {ATR}
+    παρέσσεται (πάρειμι) [verb fut ind mid 3 sg] {PRED_CO}
+    ἀγλαὰ (ἀγλαός) [adj neut nom pl] {ATR}
+    δῶρα (δῶρον) [noun neut nom pl] {SBJ}
+
+Line 214:
+    ὕβριος (ὕβρις) [noun fem gen sg] {ADV}
+    εἵνεκα (ἕνεκα) [prep] {AuxP}
+    τῆσδε (ὅδε) [pron fem gen sg] {ATR}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἴσχεο (ἴσχω) [verb pres imperv mp 2 sg] {PRED_CO}
+    πείθεο (πείθω) [verb pres imperv mp 2 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἡμῖν (ἐγώ) [pron fem dat pl] {OBJ}
+
+Line 215:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἀπαμειβόμενος (ἀπαμείβομαι) [verb pres part mp sg] {ADV}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    πόδας (πούς) [noun masc acc pl] {ATR}
+    ὠκὺς (ὠκύς) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 216:
+    χρὴ (χρή) [verb pres ind act 3 sg] {PRED}
+    μὲν (μέν) [particle] {AuxY}
+    σφωΐτερόν (σφωίτερος) [adj neut acc sg] {ATR}
+    γε (γε) [particle] {AuxZ}
+    θεὰ (θεά) [noun fem voc sg] {ExD}
+    ἔπος (ἔπος) [noun neut acc sg] {OBJ}
+    εἰρύσσασθαι (ἐρύω2) [verb aor inf mid] {OBJ}
+
+Line 217:
+    καὶ (καί) [adv] {AuxZ}
+    μάλα (μάλα) [adv] {ADV}
+    περ (πέρ) [particle] {AuxZ}
+    θυμῷ (θυμός) [noun masc dat sg] {ADV}
+    κεχολωμένον (χολόω) [verb perf part mp sg] {ADV}
+    ὧς (ὡς) [adv] {ADV}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἄμεινον (ἀμείνων) [adj neut nom sg comp] {PNOM}
+
+Line 218:
+    ὅς (ὅς) [pron masc nom sg] {SBJ}
+    κε (ἄν) [particle] {AuxY}
+    θεοῖς (θεός) [noun masc dat pl] {OBJ}
+    ἐπιπείθηται (ἐπιπείθομαι) [verb pres subj mp 3 sg] {ATR}
+    μάλα (μάλα) [adv] {ADV}
+    τ' (τε) [particle] {AuxY}
+    ἔκλυον (κλύω) [verb aor ind act 3 pl] {PRED}
+    αὐτοῦ (αὐτός) [adj masc gen sg] {OBJ}
+
+Line 219:
+    ἦ (ἠμί) [verb impf ind act 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {AuxY}
+    ἐπ' (ἐπί) [prep] {AuxP}
+    ἀργυρέῃ (ἀργύρεος) [adj fem dat sg] {ATR}
+    κώπῃ (κώπη) [noun fem dat sg] {OBJ}
+    σχέθε (ἔχω) [verb aor ind act 3 sg] {PRED_CO}
+    χεῖρα (χείρ) [noun fem acc sg] {OBJ}
+    βαρεῖαν (βαρύς) [adj fem acc sg] {ATR}
+
+Line 220:
+    ἂψ (ἄψ) [adv] {ADV}
+    δ' (δέ) [particle] {AuxY}
+    ἐς (εἰς) [prep] {AuxP}
+    κουλεὸν (κολεόν) [noun neut acc sg] {ADV}
+    ὦσε (ὠθέω) [verb aor ind act 3 sg] {PRED_CO}
+    μέγα (μέγας) [adj neut acc sg] {ATR}
+    ξίφος (ξίφος) [noun neut acc sg] {OBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἀπίθησε (ἀπιθέω) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 221:
+    μύθῳ (μῦθος) [noun masc dat sg] {OBJ}
+    Ἀθηναίης (Ἀθήνη) [noun fem gen sg] {ATR}
+    ἣ (ὁ) [pron fem nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    Οὔλυμπον (Ὄλυμπος) [noun masc acc sg] {OBJ}
+    δὲ (δέ) [particle] {AuxZ}
+    βεβήκει (βαίνω) [verb plup ind act 3 sg] {PRED_CO}
+
+Line 222:
+    δώματ' (δῶμα) [noun neut acc pl] {OBJ}
+    ἐς (εἰς) [prep] {AuxP}
+    αἰγιόχοιο (αἰγίοχος) [adj masc gen sg] {ATR}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR}
+    μετὰ (μετά) [prep] {AuxP}
+    δαίμονας (δαίμων) [noun masc acc pl] {OBJ}
+    ἄλλους (ἄλλος) [adj masc acc pl] {ATR}
+
+Line 223:
+    Πηλεΐδης (Πηλείδης) [noun masc nom sg] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἐξαῦτις (ἐξαῦτις) [adv] {ADV}
+    ἀταρτηροῖς (ἀταρτηρός) [adj neut dat pl] {ATR}
+    ἐπέεσσιν (ἔπος) [noun neut dat pl] {ADV}
+
+Line 224:
+    Ἀτρεΐδην (Ἀτρείδης) [noun masc acc sg] {OBJ}
+    προσέειπε (προσεῖπον) [verb aor ind act 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    οὔ (οὐ) [adv] {AuxZ}
+    πω (πω) [particle] {AuxY}
+    λῆγε (λήγω) [verb impf ind act 3 sg] {PRED_CO}
+    χόλοιο (χόλος) [noun masc gen sg] {OBJ}
+
+Line 225:
+    οἰνοβαρές (οἰνοβαρής) [adj masc voc sg] {ExD}
+    κυνὸς (κύων) [noun masc gen sg] {ATR}
+    ὄμματ' (ὄμμα) [noun neut acc pl] {OBJ_CO}
+    ἔχων (ἔχω) [verb pres part act sg] {ATR}
+    κραδίην (καρδία) [noun fem acc sg] {OBJ_CO}
+    δ' (δέ) [particle] {COORD}
+    ἐλάφοιο (ἔλαφος) [noun masc gen sg] {ATR}
+
+Line 226:
+    οὔτέ (οὔτε) [adv] {AuxZ}
+    ποτ' (ποτέ) [particle] {AuxY}
+    ἐς (εἰς) [prep] {AuxP}
+    πόλεμον (πόλεμος) [noun masc acc sg] {ADV}
+    ἅμα (ἅμα) [prep] {AuxP}
+    λαῷ (λαός) [noun masc dat sg] {ADV}
+    θωρηχθῆναι (θωρήσσω) [verb aor inf pass] {OBJ_CO}
+
+Line 227:
+    οὔ (οὐ) [adv] {COORD}
+    τε (τε) [particle] {AuxZ}
+    λόχον (λόχος) [noun masc acc sg] {OBJ}
+    δ' (δέ) [particle] {AuxZ}
+    ἰέναι (εἶμι) [verb pres inf act] {OBJ_CO}
+    σὺν (σύν) [prep] {AuxP}
+    ἀριστήεσσιν (ἀριστεύς) [noun masc dat pl] {ADV}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 228:
+    τέτληκας (τλάω) [verb perf ind act 2 sg] {PRED}
+    θυμῷ (θυμός) [noun masc dat sg] {ADV}
+    τὸ (ὁ) [pron neut nom sg] {SBJ}
+    δέ (δέ) [particle] {COORD}
+    τοι (σύ) [pron dat sg] {ATR}
+    κὴρ (κήρ) [noun masc nom sg] {PNOM}
+    εἴδεται (εἶδον) [verb pres ind mp 3 sg] {PRED_CO}
+    εἶναι (εἰμί) [verb pres inf act] {OBJ}
+
+Line 229:
+    ἦ (ἦ) [adv] {AuxY}
+    πολὺ (πολύς) [adj neut acc sg] {AuxZ}
+    λώϊόν (λωίων) [adj neut nom sg comp] {PNOM}
+    ἐστι (εἰμί) [verb pres ind act 3 sg] {PRED}
+    κατὰ (κατά) [prep] {AuxP}
+    στρατὸν (στρατός) [noun masc acc sg] {ADV}
+    εὐρὺν (εὐρύς) [adj masc acc sg] {ATR}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 230:
+    δῶρ' (δῶρον) [noun neut acc pl] {OBJ}
+    ἀποαιρεῖσθαι (ἀφαιρέω) [verb pres inf mp] {SBJ}
+    ὅς (ὅς) [pron masc nom sg] {SBJ}
+    τις (τις) [pron masc nom sg] {ATR}
+    σέθεν (σύ) [pron gen sg] {ATR}
+    ἀντίον (ἀντίος) [noun neut acc sg] {ADV}
+    εἴπῃ (εἶπον) [verb aor subj act 3 sg] {OBJ}
+
+Line 231:
+    δημοβόρος (δημοβόρος) [adj masc nom sg] {ATR}
+    βασιλεὺς (βασιλεύς) [noun masc nom sg] {SBJ}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    οὐτιδανοῖσιν (οὐτιδανός) [adj masc dat pl] {OBJ}
+    ἀνάσσεις (ἀνάσσω) [verb pres ind act 2 sg] {ADV}
+
+Line 232:
+    ἦ (ἦ) [adv] {AuxY}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἂν (ἄν) [particle] {AuxY}
+    Ἀτρεΐδη (Ἀτρείδης) [noun masc voc sg] {ExD}
+    νῦν (νῦν) [adv] {ADV}
+    ὕστατα (ὕστατος) [adj neut acc pl] {ADV}
+    λωβήσαιο (λωβάομαι) [verb aor opt mp 2 sg] {PRED}
+
+Line 233:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ἔκ (ἐκ) [prep] {AuxZ}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ἐρέω (εἴρω2) [verb fut ind act 1 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    ἐπὶ (ἐπί) [prep] {AuxZ}
+    μέγαν (μέγας) [adj masc acc sg] {ATR}
+    ὅρκον (ὅρκος) [noun masc acc sg] {OBJ}
+    ὀμοῦμαι (ὄμνυμι) [verb fut ind mid 1 sg] {PRED_CO}
+
+Line 234:
+    ναὶ (ναί) [adv] {ExD}
+    μὰ (μά) [particle] {AuxZ}
+    τόδε (ὅδε) [pron neut acc sg] {ATR}
+    σκῆπτρον (σκῆπτρον) [noun neut acc sg] {ExD}
+    τὸ (ὁ) [pron neut nom sg] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    οὔ (οὐ) [adv] {AuxZ}
+    ποτε (ποτέ) [particle] {ADV}
+    φύλλα (φύλλον) [noun neut acc pl] {OBJ_CO}
+    καὶ (καί) [conj] {COORD}
+    ὄζους (ὄζος) [noun masc acc pl] {OBJ_CO}
+
+Line 235:
+    φύσει (φύω) [verb fut ind act 3 sg] {ATR_CO}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    δὴ (δή) [particle] {AuxY}
+    πρῶτα (πρῶτος) [adj neut acc pl] {ADV}
+    τομὴν (τομή) [noun fem acc sg] {OBJ}
+    ἐν (ἐν) [prep] {AuxP}
+    ὄρεσσι (ὄρος) [noun neut dat pl] {ADV}
+    λέλοιπεν (λείπω) [verb plup ind act 3 pl] {ADV}
+
+Line 236:
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἀναθηλήσει (ἀναθηλέω) [verb fut ind act 3 sg] {ATR_CO}
+    περὶ (περί) [prep] {AuxZ}
+    γάρ (γάρ) [particle] {AuxY}
+    ῥά (ἄρα) [particle] {AuxY}
+    ἑ (ἕ) [pron neut acc sg] {OBJ}
+    χαλκὸς (χαλκός) [noun masc nom sg] {SBJ}
+    ἔλεψε (λέπω) [verb aor ind act 3 sg] {PRED}
+
+Line 237:
+    φύλλά (φύλλον) [noun neut acc pl] {OBJ_CO}
+    τε (τε) [particle] {AuxY}
+    καὶ (καί) [conj] {COORD}
+    φλοιόν (φλοιός) [noun masc acc sg] {OBJ_CO}
+    νῦν (νῦν) [adv] {ADV}
+    αὖτέ (αὖτε) [adv] {AuxY}
+    μιν (μιν) [pron neut acc sg] {OBJ}
+    υἷες (υἱός) [noun masc nom pl] {SBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 238:
+    ἐν (ἐν) [prep] {AuxP}
+    παλάμῃς (παλάμη) [noun fem dat pl] {ADV}
+    φορέουσι (φορέω) [verb pres ind act 3 pl] {PRED}
+    δικασπόλοι (δικασπόλος) [noun masc nom pl] {ATV}
+    οἵ (ὅς) [pron masc nom pl] {SBJ}
+    τε (τε) [particle] {AuxY}
+    θέμιστας (θέμις) [noun fem acc pl] {OBJ}
+
+Line 239:
+    πρὸς (πρός) [prep] {AuxP}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR}
+    εἰρύαται (ἐρύω2) [verb perf ind mp 3 pl] {ATR}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    δέ (δέ) [particle] {COORD}
+    τοι (σύ) [pron dat sg] {ADV}
+    μέγας (μέγας) [adj masc nom sg] {ATR}
+    ἔσσεται (εἰμί) [verb fut ind mid 3 sg] {PRED_CO}
+    ὅρκος (ὅρκος) [noun masc nom sg] {PNOM}
+
+Line 240:
+    ἦ (ἦ) [adv] {AuxY}
+    ποτ' (ποτέ) [particle] {ADV}
+    Ἀχιλλῆος (Ἀχιλλεύς) [noun masc gen sg] {ATR}
+    ποθὴ (ποθή) [noun fem nom sg] {SBJ}
+    ἵξεται (ἱκνέομαι) [verb fut ind mid 3 sg] {PRED}
+    υἷας (υἱός) [noun masc acc pl] {OBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 241:
+    σύμπαντας (σύμπας) [adj masc acc pl] {ATR}
+    τότε (τότε) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    οὔ (οὐ) [adv] {AuxZ}
+    τι (τις) [pron neut acc sg] {AuxZ}
+    δυνήσεαι (δύναμαι) [verb fut ind mid 2 sg] {PRED_CO}
+    ἀχνύμενός (ἄχνυμαι) [verb pres part pass sg] {ADV}
+    περ (πέρ) [particle] {AuxZ}
+
+Line 242:
+    χραισμεῖν (χραισμέω) [verb pres inf act] {OBJ}
+    εὖτ' (εὖτε) [conj] {AuxC}
+    ἂν (ἄν) [particle] {AuxY}
+    πολλοὶ (πολύς) [adj masc nom pl] {SBJ}
+    ὑφ' (ὑπό) [prep] {AuxP}
+    Ἕκτορος (Ἕκτωρ) [noun masc gen sg] {ADV}
+    ἀνδροφόνοιο (ἀνδροφόνος) [adj masc gen sg] {ATR}
+
+Line 243:
+    θνήσκοντες (θνήσκω) [verb pres part act pl] {ADV}
+    πίπτωσι (πίπτω) [verb pres subj act 3 pl] {ADV}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἔνδοθι (ἔνδοθι) [adv] {ADV}
+    θυμὸν (θυμός) [noun masc acc sg] {OBJ}
+    ἀμύξεις (ἀμύσσω) [verb fut ind act 2 sg] {PRED_CO}
+
+Line 244:
+    χωόμενος (χώομαι) [verb pres part mp sg] {ADV}
+    ὅ (ὅς) [pron neut acc sg] {AuxC}
+    τ' (τε) [particle] {AuxY}
+    ἄριστον (ἄριστος) [adj masc acc sg] {OBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+    οὐδὲν (οὐδείς) [adj neut acc sg] {ADV}
+    ἔτισας (τίνω) [verb aor ind act 2 sg] {ADV}
+
+Line 245:
+    ὣς (ὡς) [adv] {ADV}
+    φάτο (φημί) [verb aor ind mid 3 sg] {PRED_CO}
+    Πηλεΐδης (Πηλείδης) [noun masc nom sg] {SBJ}
+    ποτὶ (πρός) [prep] {AuxZ}
+    δὲ (δέ) [particle] {AuxY}
+    σκῆπτρον (σκῆπτρον) [noun neut acc sg] {OBJ}
+    βάλε (βάλλω) [verb aor ind act 3 sg] {PRED_CO}
+    γαίῃ (γαῖα) [noun fem dat sg] {ADV}
+
+Line 246:
+    χρυσείοις (χρύσεος) [adj masc dat pl] {ATR}
+    ἥλοισι (ἧλος) [noun masc dat pl] {ADV}
+    πεπαρμένον (πείρω) [verb perf part mp sg] {ATR}
+    ἕζετο (ἕζομαι) [verb impf ind mid 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    αὐτός (αὐτός) [adj masc nom sg] {AtvV}
+
+Line 247:
+    Ἀτρεΐδης (Ἀτρείδης) [noun masc nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἑτέρωθεν (ἑτέρωθεν) [adv] {ADV}
+    ἐμήνιε (μηνίω) [verb impf ind act 3 sg] {PRED_CO}
+    τοῖσι (ὁ) [pron masc dat pl] {OBJ}
+    δὲ (δέ) [particle] {COORD}
+    Νέστωρ (Νέστωρ) [noun masc nom sg] {SBJ_AP}
+
+Line 248:
+    ἡδυεπὴς (ἡδυεπής) [adj masc nom sg] {ATR}
+    ἀνόρουσε (ἀνορούω) [verb aor ind act 3 sg] {PRED_CO}
+    λιγὺς (λιγύς) [adj masc nom sg] {ATR}
+    Πυλίων (Πύλιος) [noun masc gen pl] {ATR}
+    ἀγορητής (ἀγορητής) [noun masc nom sg] {SBJ_AP}
+
+Line 249:
+    τοῦ (ὁ) [pron masc gen sg] {ATR}
+    καὶ (καί) [adv] {AuxZ}
+    ἀπὸ (ἀπό) [prep] {AuxP}
+    γλώσσης (γλῶσσα) [noun fem gen sg] {OBJ}
+    μέλιτος (μέλι) [noun neut gen sg] {ATR}
+    γλυκίων (γλυκύς) [adj fem nom sg comp] {ATV}
+    ῥέεν (ῥέω) [verb impf ind act 3 sg] {ATR}
+    αὐδή (αὐδή) [noun fem nom sg] {SBJ}
+
+Line 250:
+    τῷ (ὁ) [pron masc dat sg] {ADV}
+    δ' (δέ) [particle] {AuxY}
+    ἤδη (ἤδη) [adv] {ADV}
+    δύο (δύο) [numeral] {ATR}
+    μὲν (μέν) [particle] {AuxY}
+    γενεαὶ (γενεά) [noun fem nom pl] {SBJ}
+    μερόπων (μέροψ) [adj masc gen pl] {ATR}
+    ἀνθρώπων (ἄνθρωπος) [noun masc gen pl] {ATR}
+
+Line 251:
+    ἐφθίαθ' (φθίω) [verb plup ind mp 3 pl] {PRED_CO}
+    οἵ (ὅς) [pron masc nom pl] {SBJ}
+    οἱ (ἕ) [pron masc dat sg] {ADV}
+    πρόσθεν (πρόσθεν) [adv] {ADV}
+    ἅμα (ἅμα) [prep] {AuxP}
+    τράφεν (τρέφω) [verb aor ind pass 3 pl] {ATR_CO}
+    ἠδ' (ἠδέ) [conj] {COORD}
+    ἐγένοντο (γίγνομαι) [verb aor ind mid 3 pl] {ATR_CO}
+
+Line 252:
+    ἐν (ἐν) [prep] {AuxP}
+    Πύλῳ (Πύλος) [noun fem dat sg] {ADV}
+    ἠγαθέῃ (ἠγάθεος) [adj fem dat sg] {ATR}
+    μετὰ (μετά) [prep] {AuxP}
+    δὲ (δέ) [particle] {COORD}
+    τριτάτοισιν (τρίτατος) [adj masc dat pl] {ADV}
+    ἄνασσεν (ἀνάσσω) [verb impf ind act 3 sg] {PRED_CO}
+
+Line 253:
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    σφιν (σφεῖς) [pron masc dat pl] {OBJ}
+    ἐῢ (εὖ) [adv] {ADV}
+    φρονέων (φρονέω) [verb pres part act sg] {ADV}
+    ἀγορήσατο (ἀγοράομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    μετέειπεν (μετεῖπον) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 254:
+    ὦ (ὦ) [interj] {AuxZ}
+    πόποι (πόποι) [interj] {ExD}
+    ἦ (ἦ) [adv] {AuxY}
+    μέγα (μέγας) [adj neut nom sg] {ATR}
+    πένθος (πένθος) [noun neut nom sg] {SBJ}
+    Ἀχαιΐδα (Ἀχαιΐς) [adj fem acc sg] {ATR}
+    γαῖαν (γαῖα) [noun fem acc sg] {OBJ}
+    ἱκάνει (ἱκάνω) [verb pres ind act 3 sg] {PRED}
+
+Line 255:
+    ἦ (ἦ) [adv] {AuxY}
+    κεν (ἄν) [particle] {AuxY}
+    γηθήσαι (γηθέω) [verb aor opt act 3 sg] {PRED_CO}
+    Πρίαμος (Πρίαμος) [noun masc nom sg] {SBJ_CO}
+    Πριάμοιό (Πρίαμος) [noun masc gen sg] {ATR}
+    τε (τε) [particle] {COORD}
+    παῖδες (παῖς) [noun masc nom pl] {SBJ_CO}
+
+Line 256:
+    ἄλλοι (ἄλλος) [adj masc nom pl] {ATR}
+    τε (τε) [particle] {COORD}
+    Τρῶες (Τρώς) [noun masc nom pl] {SBJ}
+    μέγα (μέγας) [adj neut acc sg] {ADV}
+    κεν (ἄν) [particle] {AuxY}
+    κεχαροίατο (χαίρω) [verb aor opt mid 3 pl] {PRED_CO}
+    θυμῷ (θυμός) [noun masc dat sg] {ADV}
+
+Line 257:
+    εἰ (εἰ) [conj] {AuxC}
+    σφῶϊν (σύ) [pron gen dual] {OBJ}
+    τάδε (ὅδε) [pron neut acc pl] {OBJ}
+    πάντα (πᾶς) [adj neut acc pl] {ATR}
+    πυθοίατο (πυνθάνομαι) [verb aor opt mid 3 pl] {ADV}
+    μαρναμένοιϊν (μάρναμαι) [verb pres part mp dual] {ATV}
+
+Line 258:
+    οἳ (ὅς) [pron masc nom pl] {SBJ}
+    περὶ (περί) [prep] {AuxZ}
+    μὲν (μέν) [particle] {AuxY}
+    βουλὴν (βουλή) [noun fem acc sg] {ADV}
+    Δαναῶν (Δαναοί) [noun masc gen pl] {OBJ}
+    περὶ (περί) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἐστὲ (εἰμί) [verb pres ind act 2 pl] {ATR_CO}
+    μάχεσθαι (μάχομαι) [verb pres inf mp] {ADV}
+
+Line 259:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    πίθεσθ' (πείθω) [verb aor imperv mid 2 pl] {PRED}
+    ἄμφω (ἄμφω) [adj masc nom dual] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    νεωτέρω (νέος) [adj masc nom dual comp] {PNOM}
+    ἐστὸν (εἰμί) [verb pres ind act 2 dual] {PRED_CO}
+    ἐμεῖο (ἐγώ) [pron masc gen sg] {ATR}
+
+Line 260:
+    ἤδη (ἤδη) [adv] {ADV}
+    γάρ (γάρ) [particle] {AuxY}
+    ποτ' (ποτέ) [particle] {ADV}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    καὶ (καί) [adv] {AuxZ}
+    ἀρείοσιν (ἀρείων) [adj dat pl comp] {ATR}
+    ἠέ (ἤ) [conj] {AuxC}
+    περ (πέρ) [particle] {AuxZ}
+    ὑμῖν (σύ) [pron dat pl] {ATR}
+
+Line 261:
+    ἀνδράσιν (ἀνήρ) [noun masc dat pl] {OBJ}
+    ὡμίλησα (ὁμιλέω) [verb aor ind act 1 sg] {PRED}
+    καὶ (καί) [conj] {COORD}
+    οὔ (οὐ) [adv] {AuxZ}
+    ποτέ (ποτέ) [particle] {ADV}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    οἵ (ὁ) [pron masc nom pl] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    ἀθέριζον (ἀθερίζω) [verb impf ind act 3 pl] {PRED}
+
+Line 262:
+    οὐ (οὐ) [adv] {AuxZ}
+    γάρ (γάρ) [particle] {AuxY}
+    πω (πω) [particle] {ADV}
+    τοίους (τοῖος) [adj masc acc pl] {ATR}
+    ἴδον (εἶδον) [verb aor ind act 1 sg] {PRED_CO}
+    ἀνέρας (ἀνήρ) [noun masc acc pl] {OBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    δὲ (δέ) [particle] {COORD}
+    ἴδωμαι (εἶδον) [verb aor subj mp 1 sg] {PRED_CO}
+
+Line 263:
+    οἷον (οἷος) [adj masc acc sg] {PNOM}
+    Πειρίθοόν (Πειρίθοος) [noun masc acc sg] {SBJ_CO}
+    τε (τε) [particle] {AuxY}
+    Δρύαντά (Δρύας) [noun masc acc sg] {SBJ_CO}
+    τε (τε) [particle] {AuxY}
+    ποιμένα (ποιμήν) [noun masc acc sg] {ATR}
+    λαῶν (λαός) [noun masc gen pl] {ATR}
+
+Line 264:
+    Καινέα (Καινεύς) [noun masc acc sg] {SBJ_CO}
+    τ' (τε) [particle] {AuxY}
+    Ἐξάδιόν (Ἐξάδιος) [noun masc acc sg] {SBJ_CO}
+    τε (τε) [particle] {AuxY}
+    καὶ (καί) [conj] {AuxY}
+    ἀντίθεον (ἀντίθεος) [adj masc acc sg] {ATR}
+    Πολύφημον (Πολύφημος) [noun masc acc sg] {SBJ_CO}
+
+Line 265:
+    Θησέα (Θησεύς) [noun masc acc sg] {SBJ_CO}
+    τ' (τε) [particle] {COORD}
+    Αἰγεΐδην (Αἰγείδης) [noun masc acc sg] {ATR}
+    ἐπιείκελον (ἐπιείκελος) [adj masc acc sg] {ATR}
+    ἀθανάτοισιν (ἀθάνατος) [adj masc dat pl] {ATR}
+
+Line 266:
+    κάρτιστοι (κράτιστος) [adj masc nom pl] {ATV}
+    δὴ (δή) [particle] {AuxY}
+    κεῖνοι (κεῖνος) [adj masc nom pl] {SBJ}
+    ἐπιχθονίων (ἐπιχθόνιος) [adj masc gen pl] {ATR}
+    τράφεν (τρέφω) [verb aor ind pass 3 pl] {PRED}
+    ἀνδρῶν (ἀνήρ) [noun masc gen pl] {ATR}
+
+Line 267:
+    κάρτιστοι (κράτιστος) [adj masc nom pl] {PNOM}
+    μὲν (μέν) [particle] {AuxY}
+    ἔσαν (εἰμί) [verb impf ind act 3 pl] {PRED_CO}
+    καὶ (καί) [conj] {AuxY}
+    καρτίστοις (κράτιστος) [adj masc dat pl] {OBJ_AP}
+    ἐμάχοντο (μάχομαι) [verb impf ind mp 3 pl] {PRED_CO}
+
+Line 268:
+    φηρσὶν (φήρ) [noun masc dat pl] {OBJ_AP}
+    ὀρεσκῴοισι (ὀρεσκῷος) [adj masc dat pl] {ATR}
+    καὶ (καί) [conj] {COORD}
+    ἐκπάγλως (ἔκπαγλος) [adv] {ADV}
+    ἀπόλεσσαν (ἀπόλλυμι) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 269:
+    καὶ (καί) [adv] {AuxY}
+    μὲν (μέν) [particle] {AuxY}
+    τοῖσιν (ὁ) [pron masc dat pl] {OBJ}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    μεθομίλεον (μεθομιλέω) [verb impf ind act 1 sg] {PRED}
+    ἐκ (ἐκ) [prep] {AuxP}
+    Πύλου (Πύλος) [noun fem gen sg] {OBJ_AP}
+    ἐλθὼν (ἔρχομαι) [verb aor part act sg] {ADV}
+
+Line 270:
+    τηλόθεν (τηλόθεν) [adv] {OBJ_AP}
+    ἐξ (ἐκ) [prep] {AuxP}
+    ἀπίης (ἄπιος) [adj fem gen sg] {ATR}
+    γαίης (γαῖα) [noun fem gen sg] {OBJ_AP}
+    καλέσαντο (καλέω) [verb aor ind mid 3 pl] {PRED}
+    γὰρ (γάρ) [particle] {AuxY}
+    αὐτοί (αὐτός) [adj masc nom pl] {AtvV}
+
+Line 271:
+    καὶ (καί) [conj] {COORD}
+    μαχόμην (μάχομαι) [verb impf ind mp 1 sg] {PRED_CO}
+    κατ' (κατά) [prep] {AuxP}
+    ἔμ' (ἐγώ) [pron masc acc sg] {ADV}
+    αὐτὸν (αὐτός) [adj masc acc sg] {ATV}
+    ἐγώ (ἐγώ) [pron masc nom sg] {SBJ}
+    κείνοισι (κεῖνος) [adj masc dat pl] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἂν (ἄν) [particle] {AuxY}
+    οὔ (οὐ) [adv] {AuxZ}
+    τις (τις) [pron masc nom sg] {SBJ}
+
+Line 272:
+    τῶν (ὁ) [pron masc gen pl] {ATR}
+    οἳ (ὅς) [pron masc nom pl] {SBJ}
+    νῦν (νῦν) [adv] {ADV}
+    βροτοί (βροτός) [noun masc nom pl] {PNOM}
+    εἰσιν (εἰμί) [verb pres ind act 3 pl] {ATR}
+    ἐπιχθόνιοι (ἐπιχθόνιος) [adj masc nom pl] {ATR}
+    μαχέοιτο (μάχομαι) [verb pres opt mp 3 sg] {PRED_CO}
+
+Line 273:
+    καὶ (καί) [adv] {AuxY}
+    μέν (μέν) [particle] {AuxY}
+    μευ (ἐγώ) [pron masc gen sg] {ATR}
+    βουλέων (βουλή) [noun fem gen pl] {OBJ}
+    ξύνιεν (συνίημι) [verb impf ind act 3 pl] {PRED_CO}
+    πείθοντό (πείθω) [verb impf ind mp 3 pl] {PRED_CO}
+    τε (τε) [particle] {COORD}
+    μύθῳ (μῦθος) [noun masc dat sg] {OBJ}
+
+Line 274:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    πίθεσθε (πείθω) [verb aor imperv mid 2 pl] {PRED}
+    καὶ (καί) [adv] {AuxZ}
+    ὔμμες (σύ) [pron nom pl] {SBJ}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    πείθεσθαι (πείθω) [verb pres inf mp] {SBJ}
+    ἄμεινον (ἀμείνων) [adj neut nom sg comp] {PNOM}
+
+Line 275:
+    μήτε (μήτε) [particle] {AuxZ}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    τόνδ' (ὅδε) [pron masc acc sg] {OBJ}
+    ἀγαθός (ἀγαθός) [adj masc nom sg] {PNOM}
+    περ (πέρ) [particle] {AuxZ}
+    ἐὼν (εἰμί) [verb pres part act sg] {ADV}
+    ἀποαίρεο (ἀφαιρέω) [verb pres imperv mp 2 sg] {PRED_CO}
+    κούρην (κόρη) [noun fem acc sg] {OBJ}
+
+Line 276:
+    ἀλλ' (ἀλλά) [conj] {COORD}
+    ἔα (ἐάω) [verb pres imperv act 2 sg] {PRED_CO}
+    ὥς (ὡς) [conj] {AuxC}
+    οἱ (ἕ) [pron masc dat sg] {OBJ}
+    πρῶτα (πρῶτος) [adj neut acc pl] {ADV}
+    δόσαν (δίδωμι) [verb aor ind act 3 pl] {ADV}
+    γέρας (γέρας) [noun neut acc sg] {AtvV}
+    υἷες (υἱός) [noun masc nom pl] {SBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 277:
+    μήτε (μήτε) [particle] {AuxZ}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    Πηλείδη (Πηλείδης) [noun masc voc sg] {ExD}
+    ἔθελ' (ἐθέλω) [verb pres imperv act 2 sg] {PRED}
+    ἐριζέμεναι (ἐρίζω) [verb pres inf act] {OBJ}
+    βασιλῆϊ (βασιλεύς) [noun masc dat sg] {OBJ}
+
+Line 278:
+    ἀντιβίην (ἐναντίβιος) [adv] {ADV}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    οὔ (οὐ) [adv] {AuxZ}
+    ποθ' (ποτέ) [particle] {AuxY}
+    ὁμοίης (ὁμοῖος) [adj fem gen sg] {ATR}
+    ἔμμορε (μείρομαι) [verb perf ind act 3 sg] {ADV}
+    τιμῆς (τιμή) [noun fem gen sg] {OBJ}
+
+Line 279:
+    σκηπτοῦχος (σκηπτοῦχος) [adj masc nom sg] {ATR}
+    βασιλεύς (βασιλεύς) [noun masc nom sg] {SBJ}
+    ᾧ (ὅς) [pron masc dat sg] {OBJ}
+    τε (τε) [particle] {AuxY}
+    Ζεὺς (Ζεύς) [noun masc nom sg] {SBJ}
+    κῦδος (κῦδος) [noun neut acc sg] {OBJ}
+    ἔδωκεν (δίδωμι) [verb aor ind act 3 sg] {ATR}
+
+Line 280:
+    εἰ (εἰ) [conj] {AuxC}
+    δὲ (δέ) [particle] {COORD}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    καρτερός (καρτερός) [adj masc nom sg] {PNOM}
+    ἐσσι (εἰμί) [verb pres ind act 2 sg] {ADV_CO}
+    θεὰ (θεά) [noun fem nom sg] {SBJ}
+    δέ (δέ) [particle] {COORD}
+    σε (σύ) [pron acc sg] {OBJ}
+    γείνατο (γείνομαι) [verb aor ind mid 3 sg] {ADV_CO}
+    μήτηρ (μήτηρ) [noun fem nom sg] {ATV}
+
+Line 281:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γε (γε) [particle] {AuxZ}
+    φέρτερός (φέρτατος) [adj masc nom sg] {PNOM}
+    ἐστιν (εἰμί) [verb pres ind act 3 sg] {PRED_CO}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    πλεόνεσσιν (πλείων) [adj masc dat pl comp] {OBJ}
+    ἀνάσσει (ἀνάσσω) [verb pres ind act 3 sg] {ADV}
+
+Line 282:
+    Ἀτρεΐδη (Ἀτρείδης) [noun masc voc sg] {ExD}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    παῦε (παύω) [verb pres imperv act 2 sg] {PRED_CO}
+    τεὸν (τεός) [adj neut acc sg] {ATR}
+    μένος (μένος) [noun neut acc sg] {OBJ}
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ἔγωγε (ἐγώ) [pron masc nom sg] {SBJ}
+
+Line 283:
+    λίσσομ' (λίσσομαι) [verb pres ind mp 1 sg] {PRED}
+    Ἀχιλλῆϊ (Ἀχιλλεύς) [noun masc dat sg] {OBJ}
+    μεθέμεν (μεθίημι) [verb aor inf act] {OBJ}
+    χόλον (χόλος) [noun masc acc sg] {OBJ}
+    ὃς (ὅς) [pron masc nom sg] {SBJ}
+    μέγα (μέγας) [adj neut nom sg] {ATR}
+    πᾶσιν (πᾶς) [adj masc dat pl] {ATR}
+
+Line 284:
+    ἕρκος (ἕρκος) [noun neut nom sg] {PNOM}
+    Ἀχαιοῖσιν (Ἀχαιός) [adj masc dat pl] {OBJ}
+    πέλεται (πέλω) [verb pres ind mp 3 sg] {ATR}
+    πολέμοιο (πόλεμος) [noun masc gen sg] {ATR}
+    κακοῖο (κακός) [adj masc gen sg] {ATR}
+
+Line 285:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἀπαμειβόμενος (ἀπαμείβομαι) [verb pres part mp sg] {ADV}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    κρείων (κρείων) [noun masc nom sg] {ATR}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 286:
+    ναὶ (ναί) [adv] {AuxY}
+    δὴ (δή) [particle] {AuxY}
+    ταῦτά (οὗτος) [adj neut acc pl] {OBJ}
+    γε (γε) [particle] {AuxZ}
+    πάντα (πᾶς) [adj neut acc pl] {ATR}
+    γέρον (γέρων) [noun masc voc sg] {ExD}
+    κατὰ (κατά) [prep] {AuxP}
+    μοῖραν (μοῖρα) [noun fem acc sg] {ADV}
+    ἔειπες (εἶπον) [verb aor ind act 2 sg] {PRED}
+
+Line 287:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ὅδ' (ὅδε) [pron masc nom sg] {ATR}
+    ἀνὴρ (ἀνήρ) [noun masc nom sg] {SBJ}
+    ἐθέλει (ἐθέλω) [verb pres ind act 3 sg] {PRED_AP}
+    περὶ (περί) [prep] {AuxZ}
+    πάντων (πᾶς) [adj masc gen pl] {ATR}
+    ἔμμεναι (εἰμί) [verb pres inf act] {OBJ}
+    ἄλλων (ἄλλος) [adj masc gen pl] {OBJ}
+
+Line 288:
+    πάντων (πᾶς) [adj masc gen pl] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    κρατέειν (κρατέω) [verb pres inf act] {OBJ_CO}
+    ἐθέλει (ἐθέλω) [verb pres ind act 3 sg] {PRED_AP}
+    πάντεσσι (πᾶς) [adj masc dat pl] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἀνάσσειν (ἀνάσσω) [verb pres inf act] {OBJ_CO}
+
+Line 289:
+    πᾶσι (πᾶς) [adj masc dat pl] {OBJ}
+    δὲ (δέ) [particle] {COORD}
+    σημαίνειν (σημαίνω) [verb pres inf act] {OBJ_CO}
+    ἅ (ὅς) [pron neut acc pl] {OBJ}
+    τιν' (τις) [pron masc acc sg] {SBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    πείσεσθαι (πείθω) [verb fut inf mid] {OBJ}
+    ὀΐω (οἴομαι) [verb pres ind act 1 sg] {ATR}
+
+Line 290:
+    εἰ (εἰ) [conj] {AuxC}
+    δέ (δέ) [particle] {COORD}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    αἰχμητὴν (αἰχμητής) [noun masc acc sg] {OCOMP}
+    ἔθεσαν (τίθημι) [verb aor ind act 3 pl] {ADV}
+    θεοὶ (θεός) [noun masc nom pl] {SBJ}
+    αἰὲν (ἀεί) [adv] {ADV}
+    ἐόντες (εἰμί) [verb pres part act pl] {ATR}
+
+Line 291:
+    τοὔνεκά (τοὔνεκα) [adv] {ADV}
+    οἱ (ἕ) [pron masc dat sg] {OBJ}
+    προθέουσιν (προτίθημι) [verb pres ind act 3 pl] {PRED_CO}
+    ὀνείδεα (ὄνειδος) [noun neut acc pl] {OBJ}
+    μυθήσασθαι (μυθέομαι) [verb aor inf mp] {OBJ}
+
+Line 292:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ὑποβλήδην (ὑποβλήδην) [adv] {ADV}
+    ἠμείβετο (ἀμείβω) [verb impf ind mp 3 sg] {PRED_CO}
+    δῖος (δῖος) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 293:
+    ἦ (ἦ) [adv] {AuxY}
+    γάρ (γάρ) [particle] {AuxY}
+    κεν (ἄν) [particle] {AuxY}
+    δειλός (δειλός) [adj masc nom sg] {PNOM_CO}
+    τε (τε) [particle] {AuxY}
+    καὶ (καί) [conj] {COORD}
+    οὐτιδανὸς (οὐτιδανός) [adj masc nom sg] {PNOM_CO}
+    καλεοίμην (καλέω) [verb pres opt mp 1 sg] {PRED}
+
+Line 294:
+    εἰ (εἰ) [conj] {AuxC}
+    δὴ (δή) [particle] {AuxY}
+    σοὶ (σύ) [pron dat sg] {OBJ}
+    πᾶν (πᾶς) [adj neut acc sg] {ATR}
+    ἔργον (ἔργον) [noun neut acc sg] {OBJ}
+    ὑπείξομαι (ὑπείκω) [verb aor subj mid 1 sg] {ADV}
+    ὅττί (ὅστις) [pron neut acc sg] {OBJ}
+    κεν (ἄν) [particle] {AuxY}
+    εἴπῃς (εἶπον) [verb aor subj act 2 sg] {ATR}
+
+Line 295:
+    ἄλλοισιν (ἄλλος) [adj masc dat pl] {OBJ}
+    δὴ (δή) [particle] {AuxY}
+    ταῦτ' (οὗτος) [adj neut acc pl] {OBJ}
+    ἐπιτέλλεο (ἐπιτέλλω) [verb pres imperv mp 2 sg] {PRED_CO}
+    μὴ (μή) [particle] {AuxZ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἔμοιγε (ἐγώ) [pron masc dat sg] {OBJ}
+
+Line 296:
+    σήμαιν' (σημαίνω) [verb pres imperv act 2 sg] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἔγωγ' (ἐγώ) [pron masc nom sg] {SBJ}
+    ἔτι (ἔτι) [adv] {ADV}
+    σοὶ (σύ) [pron dat sg] {OBJ}
+    πείσεσθαι (πείθω) [verb fut inf mid] {OBJ}
+    ὀΐω (οἴομαι) [verb pres ind act 1 sg] {PRED}
+
+Line 297:
+    ἄλλο (ἄλλος) [adj neut acc sg] {OBJ}
+    δέ (δέ) [particle] {AuxY}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ἐρέω (εἴρω2) [verb fut ind act 1 sg] {PRED_CO}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἐνὶ (ἐν) [prep] {AuxP}
+    φρεσὶ (φρήν) [noun fem dat pl] {OBJ}
+    βάλλεο (βάλλω) [verb pres imperv mp 2 sg] {PRED_CO}
+    σῇσι (σός) [adj fem dat pl] {ATR}
+
+Line 298:
+    χερσὶ (χείρ) [noun fem dat pl] {ADV}
+    μὲν (μέν) [particle] {AuxY}
+    οὔ (οὐ) [adv] {AuxZ}
+    τοι (τοι) [particle] {AuxY}
+    ἔγωγε (ἐγώ) [pron masc nom sg] {SBJ}
+    μαχήσομαι (μάχομαι) [verb fut ind mid 1 sg] {PRED}
+    εἵνεκα (ἕνεκα) [prep] {AuxP}
+    κούρης (κόρη) [noun fem gen sg] {ADV}
+
+Line 299:
+    οὔ (οὐ) [adv] {AuxY}
+    τε (τε) [particle] {AuxZ}
+    σοὶ (σύ) [pron dat sg] {OBJ_CO}
+    οὔτέ (οὔτε) [adv] {COORD}
+    τῳ (τις) [pron dat sg] {OBJ_CO}
+    ἄλλῳ (ἄλλος) [adj masc dat sg] {ATR}
+    ἐπεί (ἐπεί) [conj] {AuxC}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    ἀφέλεσθέ (ἀφαιρέω) [verb aor ind mid 2 pl] {ADV}
+    γε (γε) [particle] {AuxZ}
+    δόντες (δίδωμι) [verb aor part act pl] {ADV}
+
+Line 300:
+    τῶν (ὁ) [article neut gen pl] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἄλλων (ἄλλος) [adj neut gen pl] {ATR}
+    ἅ (ὅς) [pron neut nom pl] {SBJ}
+    μοί (ἐγώ) [pron masc dat sg] {OBJ}
+    ἐστι (εἰμί) [verb pres ind act 3 sg] {ATR}
+    θοῇ (θοός) [adj fem dat sg] {ATR}
+    παρὰ (παρά) [prep] {AuxP}
+    νηῒ (ναῦς) [noun fem dat sg] {ADV}
+    μελαίνῃ (μέλας) [adj fem dat sg] {ATR}
+
+Line 301:
+    τῶν (ὁ) [pron neut gen pl] {ATR}
+    οὐκ (οὐ) [adv] {AuxZ}
+    ἄν (ἄν) [particle] {AuxY}
+    τι (τις) [pron neut acc sg] {OBJ}
+    φέροις (φέρω) [verb pres opt act 2 sg] {PRED_CO}
+    ἀνελὼν (ἀναιρέω) [verb aor part act sg] {ADV}
+    ἀέκοντος (ἀέκων) [adj masc gen sg] {ADV}
+    ἐμεῖο (ἐγώ) [pron masc gen sg] {SBJ}
+
+Line 302:
+    εἰ (εἰ) [interj] {AuxY}
+    δ' (δέ) [particle] {COORD}
+    ἄγε (ἄγε) [adv] {AuxY}
+    μὴν (μήν) [particle] {AuxY}
+    πείρησαι (πειράω) [verb aor imperv mid 2 sg] {PRED_CO}
+    ἵνα (ἵνα) [conj] {AuxC}
+    γνώωσι (γιγνώσκω) [verb aor subj act 3 pl] {ADV}
+    καὶ (καί) [adv] {AuxZ}
+    οἵδε (ὅδε) [pron masc nom pl] {SBJ}
+
+Line 303:
+    αἶψά (αἶψα) [adv] {ADV}
+    τοι (σύ) [pron dat sg] {ATR}
+    αἷμα (αἷμα) [noun neut nom sg] {SBJ}
+    κελαινὸν (κελαινός) [adj neut nom sg] {ATR}
+    ἐρωήσει (ἐρωέω) [verb fut ind act 3 sg] {PRED}
+    περὶ (περί) [prep] {AuxP}
+    δουρί (δόρυ) [noun neut dat sg] {ADV}
+
+Line 304:
+    ὣς (ὡς) [adv] {ADV}
+    τώ (ὁ) [pron masc nom dual] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    ἀντιβίοισι (ἀντίβιος) [adj neut dat pl] {ATR}
+    μαχεσσαμένω (μάχομαι) [verb aor part mid dual] {ADV}
+    ἐπέεσσιν (ἔπος) [noun neut dat pl] {ADV}
+
+Line 305:
+    ἀνστήτην (ἀνίστημι) [verb aor ind act 3 dual] {PRED_CO}
+    λῦσαν (λύω) [verb aor ind act 3 pl] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἀγορὴν (ἀγορά) [noun fem acc sg] {OBJ}
+    παρὰ (παρά) [prep] {AuxP}
+    νηυσὶν (ναῦς) [noun fem dat pl] {ADV}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 306:
+    Πηλεΐδης (Πηλείδης) [noun masc nom sg] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    κλισίας (κλισία) [noun fem acc pl] {OBJ_CO}
+    καὶ (καί) [conj] {COORD}
+    νῆας (ναῦς) [noun fem acc pl] {OBJ_CO}
+    ἐΐσας (ἴσος) [adj fem acc pl] {ATR}
+
+Line 307:
+    ἤϊε (εἶμι) [verb impf ind act 3 sg] {PRED}
+    σύν (σύν) [prep] {AuxP}
+    τε (τε) [particle] {AuxY}
+    Μενοιτιάδῃ (Μενοιτιάδης) [noun masc dat sg] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    οἷς (ἑός) [adj masc dat pl] {ATR}
+    ἑτάροισιν (ἑταῖρος) [noun masc dat pl] {ADV_CO}
+
+Line 308:
+    Ἀτρεΐδης (Ἀτρείδης) [noun masc nom sg] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἄρα (ἄρα) [particle] {AuxY}
+    νῆα (ναῦς) [noun fem acc sg] {OBJ}
+    θοὴν (θοός) [adj fem acc sg] {ATR}
+    ἅλα (ἅλς1) [noun fem acc sg] {OBJ}
+    δὲ (δέ) [particle] {AuxZ}
+    προέρυσσεν (προερύω) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 309:
+    ἐν (ἐν) [prep] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    ἐρέτας (ἐρέτης) [noun masc acc pl] {OBJ}
+    ἔκρινεν (κρίνω) [verb aor ind act 3 sg] {PRED_CO}
+    ἐείκοσιν (εἴκοσι) [numeral] {ATR}
+    ἐς (εἰς) [prep] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    ἑκατόμβην (ἑκατόμβη) [noun fem acc sg] {OBJ}
+
+Line 310:
+    βῆσε (βαίνω) [verb aor ind act 3 sg] {PRED_CO}
+    θεῷ (θεός) [noun masc dat sg] {OBJ}
+    ἀνὰ (ἀνά) [prep] {AuxZ}
+    δὲ (δέ) [particle] {COORD}
+    Χρυσηΐδα (Χρυσηίς) [noun fem acc sg] {OBJ}
+    καλλιπάρῃον (καλλιπάρηος) [adj fem acc sg] {ATR}
+
+Line 311:
+    εἷσεν (ἵζω) [verb aor ind act 3 sg] {PRED_CO}
+    ἄγων (ἄγω) [verb pres part act sg] {ADV}
+    ἐν (ἐν) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἀρχὸς (ἀρχός) [noun masc nom sg] {ATV}
+    ἔβη (βαίνω) [verb aor ind act 3 sg] {PRED_CO}
+    πολύμητις (πολύμητις) [adj masc nom sg] {ATR}
+    Ὀδυσσεύς (Ὀδυσσεύς) [noun masc nom sg] {SBJ}
+
+Line 312:
+    οἳ (ὁ) [pron masc nom pl] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    ἔπειτ' (ἔπειτα) [adv] {ADV}
+    ἀναβάντες (ἀναβαίνω) [verb aor part act pl] {ADV}
+    ἐπέπλεον (ἐπιπλέω) [verb impf ind act 3 pl] {PRED_CO}
+    ὑγρὰ (ὑγρός) [adj neut acc pl] {ATR}
+    κέλευθα (κέλευθος) [noun neut acc pl] {OBJ}
+
+Line 313:
+    λαοὺς (λαός) [noun masc acc pl] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    Ἀτρεΐδης (Ἀτρείδης) [noun masc nom sg] {SBJ}
+    ἀπολυμαίνεσθαι (ἀπολυμαίνομαι) [verb pres inf mp] {OBJ}
+    ἄνωγεν (ἄνωγα) [verb perf ind act 3 sg] {PRED_CO}
+
+Line 314:
+    οἳ (ὁ) [pron masc nom pl] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἀπελυμαίνοντο (ἀπολυμαίνομαι) [verb impf ind mp 3 pl] {PRED_CO}
+    καὶ (καί) [conj] {AuxY}
+    εἰς (εἰς) [prep] {AuxP}
+    ἅλα (ἅλς1) [noun fem acc sg] {OBJ}
+    λύματα (λῦμα) [noun neut acc pl] {OBJ}
+    βάλλον (βάλλω) [verb impf ind act 3 pl] {PRED_CO}
+
+Line 315:
+    ἕρδον (ἔρδω) [verb impf ind act 3 pl] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    Ἀπόλλωνι (Ἀπόλλων) [noun masc dat sg] {OBJ}
+    τεληέσσας (τελήεις) [adj fem acc pl] {ATR}
+    ἑκατόμβας (ἑκατόμβη) [noun fem acc pl] {OBJ}
+
+Line 316:
+    ταύρων (ταῦρος) [noun masc gen pl] {ATR_CO}
+    ἠδ' (ἠδέ) [conj] {COORD}
+    αἰγῶν (αἴξ) [noun masc gen pl] {ATR_CO}
+    παρὰ (παρά) [prep] {AuxP}
+    θῖν' (θίς) [noun masc acc sg] {ADV}
+    ἁλὸς (ἅλς1) [noun fem gen sg] {ATR}
+    ἀτρυγέτοιο (ἀτρύγετος) [adj fem gen sg] {ATR}
+
+Line 317:
+    κνίση (κνῖσα) [noun fem nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    οὐρανὸν (οὐρανός) [noun masc acc sg] {OBJ}
+    ἷκεν (ἱκνέομαι) [verb aor ind act 3 sg] {PRED_CO}
+    ἑλισσομένη (ἑλίσσω) [verb pres part mp sg] {ADV}
+    περὶ (περί) [prep] {AuxP}
+    καπνῷ (καπνός) [noun masc dat sg] {ADV}
+
+Line 318:
+    ὣς (ὡς) [adv] {ADV}
+    οἳ (ὁ) [pron masc nom pl] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    τὰ (ὁ) [pron neut acc pl] {OBJ}
+    πένοντο (πένομαι) [verb impf ind mp 3 pl] {PRED}
+    κατὰ (κατά) [prep] {AuxP}
+    στρατόν (στρατός) [noun masc acc sg] {ADV}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 319:
+    λῆγ' (λήγω) [verb impf ind act 3 sg] {PRED_CO}
+    ἔριδος (ἔρις) [noun fem gen sg] {OBJ}
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    πρῶτον (πρῶτος) [adj neut acc sg] {ADV}
+    ἐπηπείλησ' (ἐπαπειλέω) [verb aor ind act 3 sg] {ATR}
+    Ἀχιλῆϊ (Ἀχιλλεύς) [noun masc dat sg] {OBJ}
+
+Line 320:
+    ἀλλ' (ἀλλά) [conj] {COORD}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γε (γε) [particle] {AuxZ}
+    Ταλθύβιόν (Ταλθύβιος) [noun masc acc sg] {OBJ_CO}
+    τε (τε) [particle] {AuxY}
+    καὶ (καί) [conj] {COORD}
+    Εὐρυβάτην (Εὐρυβάτης) [noun masc acc sg] {OBJ_CO}
+    προσέειπε (προσεῖπον) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 321:
+    τώ (ὁ) [pron masc nom dual] {SBJ}
+    οἱ (ἕ) [pron masc dat sg] {OBJ}
+    ἔσαν (εἰμί) [verb impf ind act 3 pl] {ATR}
+    κήρυκε (κῆρυξ) [noun masc nom dual] {PNOM_CO}
+    καὶ (καί) [conj] {COORD}
+    ὀτρηρὼ (ὀτρηρός) [adj masc nom dual] {ATR}
+    θεράποντε (θεράπων) [noun masc nom dual] {PNOM_CO}
+
+Line 322:
+    ἔρχεσθον (ἔρχομαι) [verb pres imperv mp 2 dual] {PRED}
+    κλισίην (κλισία) [noun fem acc sg] {OBJ}
+    Πηληϊάδεω (Πηλείδης) [noun masc gen sg] {ATR}
+    Ἀχιλῆος (Ἀχιλλεύς) [noun masc gen sg] {ATR}
+
+Line 323:
+    χειρὸς (χείρ) [noun fem gen sg] {OBJ}
+    ἑλόντ' (αἱρέω) [verb aor part act dual] {ADV}
+    ἀγέμεν (ἄγω) [verb pres inf act] {PRED}
+    Βρισηΐδα (Βρισηίς) [noun fem acc sg] {OBJ}
+    καλλιπάρῃον (καλλιπάρηος) [adj fem acc sg] {ATR}
+
+Line 324:
+    εἰ (εἰ) [conj] {AuxC}
+    δέ (δέ) [particle] {COORD}
+    κε (ἄν) [particle] {AuxY}
+    μὴ (μή) [particle] {AuxZ}
+    δώῃσιν (δίδωμι) [verb aor subj act 3 sg] {ADV}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    δέ (δέ) [particle] {AuxY}
+    κεν (ἄν) [particle] {AuxY}
+    αὐτὸς (αὐτός) [adj masc nom sg] {ATV}
+    ἕλωμαι (αἱρέω) [verb aor subj mid 1 sg] {PRED_CO}
+
+Line 325:
+    ἐλθὼν (ἔρχομαι) [verb aor part act sg] {ADV}
+    σὺν (σύν) [prep] {AuxP}
+    πλεόνεσσι (πλείων) [adj masc dat pl comp] {ADV}
+    τό (ὁ) [pron neut nom sg] {SBJ}
+    οἱ (ἕ) [pron masc dat sg] {OBJ}
+    καὶ (καί) [adv] {AuxZ}
+    ῥίγιον (ῥίγιον) [adj neut nom sg] {PNOM}
+    ἔσται (εἰμί) [verb fut ind mid 3 sg] {PRED}
+
+Line 326:
+    ὣς (ὡς) [adv] {ADV}
+    εἰπὼν (εἶπον) [verb aor part act sg] {ADV}
+    προΐει (προίημι) [verb impf ind act 3 sg] {PRED_CO}
+    κρατερὸν (κρατερός) [adj masc acc sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἐπὶ (ἐπί) [prep] {AuxZ}
+    μῦθον (μῦθος) [noun masc acc sg] {OBJ}
+    ἔτελλε (τέλλω) [verb impf ind act 3 sg] {PRED_CO}
+
+Line 327:
+    τὼ (ὁ) [pron masc nom dual] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἀέκοντε (ἀέκων) [adj masc nom dual] {ATV}
+    βάτην (βαίνω) [verb aor ind act 3 dual] {PRED_CO}
+    παρὰ (παρά) [prep] {AuxP}
+    θῖν' (θίς) [noun masc acc sg] {OBJ}
+    ἁλὸς (ἅλς1) [noun fem gen sg] {ATR}
+    ἀτρυγέτοιο (ἀτρύγετος) [adj fem gen sg] {ATR}
+
+Line 328:
+    Μυρμιδόνων (Μυρμιδόνες) [noun masc gen pl] {ATR}
+    δ' (δέ) [particle] {AuxY}
+    ἐπί (ἐπί) [prep] {AuxP}
+    τε (τε) [particle] {AuxY}
+    κλισίας (κλισία) [noun fem acc pl] {OBJ_CO}
+    καὶ (καί) [conj] {COORD}
+    νῆας (ναῦς) [noun fem acc pl] {OBJ_CO}
+    ἱκέσθην (ἱκνέομαι) [verb aor ind mid 3 dual] {PRED_CO}
+
+Line 329:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    εὗρον (εὑρίσκω) [verb aor ind act 3 pl] {PRED_CO}
+    παρά (παρά) [prep] {AuxP}
+    τε (τε) [particle] {AuxY}
+    κλισίῃ (κλισία) [noun fem dat sg] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    νηῒ (ναῦς) [noun fem dat sg] {ADV_CO}
+    μελαίνῃ (μέλας) [adj fem dat sg] {ATR}
+
+Line 330:
+    ἥμενον (ἧμαι) [verb perf part mp sg] {ATV}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἄρα (ἄρα) [particle] {AuxY}
+    τώ (ὁ) [pron masc acc dual] {OBJ}
+    γε (γε) [particle] {AuxZ}
+    ἰδὼν (εἶδον) [verb aor part act sg] {ADV}
+    γήθησεν (γηθέω) [verb aor ind act 3 sg] {PRED_CO}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 331:
+    τὼ (ὁ) [pron masc nom dual] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    ταρβήσαντε (ταρβέω) [verb aor part act dual] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    αἰδομένω (αἰδέομαι) [verb pres part mp dual] {ADV_CO}
+    βασιλῆα (βασιλεύς) [noun masc acc sg] {OBJ}
+
+Line 332:
+    στήτην (ἵστημι) [verb aor ind act 3 dual] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {AuxY}
+    τί (τις) [pron neut acc sg] {OBJ}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    προσεφώνεον (προσφωνέω) [verb impf ind act 3 pl] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἐρέοντο (ἔρομαι) [verb impf ind mp 3 pl] {PRED_CO}
+
+Line 333:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    ἔγνω (γιγνώσκω) [verb aor ind act 3 sg] {PRED_CO}
+    ᾗσιν (ἑός) [adj fem dat pl] {ATR}
+    ἐνὶ (ἐν) [prep] {AuxP}
+    φρεσὶ (φρήν) [noun fem dat pl] {ADV}
+    φώνησέν (φωνέω) [verb aor ind act 3 sg] {PRED_CO}
+    τε (τε) [particle] {COORD}
+
+Line 334:
+    χαίρετε (χαίρω) [verb pres imperv act 2 pl] {PRED_CO}
+    κήρυκες (κῆρυξ) [noun masc voc pl] {ExD_AP}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR_CO}
+    ἄγγελοι (ἄγγελος) [noun masc voc pl] {ExD_AP}
+    ἠδὲ (ἠδέ) [conj] {COORD}
+    καὶ (καί) [adv] {AuxZ}
+    ἀνδρῶν (ἀνήρ) [noun masc gen pl] {ATR_CO}
+
+Line 335:
+    ἆσσον (ἆσσον) [adv] {OBJ}
+    ἴτ' (εἶμι) [verb pres imperv act 2 pl] {PRED_CO}
+    οὔ (οὐ) [adv] {AuxZ}
+    τί (τις) [pron neut acc sg] {ADV}
+    μοι (ἐγώ) [pron masc dat sg] {ADV}
+    ὔμμες (σύ) [pron nom pl] {SBJ}
+    ἐπαίτιοι (ἐπαίτιος) [adj masc nom pl] {PNOM}
+    ἀλλ' (ἀλλά) [conj] {COORD}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 336:
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    σφῶϊ (σύ) [pron acc dual] {OBJ}
+    προΐει (προίημι) [verb impf ind act 3 sg] {ATR}
+    Βρισηΐδος (Βρισηίς) [noun fem gen sg] {ATR}
+    εἵνεκα (ἕνεκα) [prep] {AuxP}
+    κούρης (κόρη) [noun fem gen sg] {ADV}
+
+Line 337:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ἄγε (ἄγε) [adv] {AuxY}
+    διογενὲς (διογενής) [adj neut voc sg] {ATR}
+    Πατρόκλεες (Πάτροκλος) [noun masc voc sg] {ExD}
+    ἔξαγε (ἐξάγω) [verb pres imperv act 2 sg] {PRED}
+    κούρην (κόρη) [noun fem acc sg] {OBJ}
+
+Line 338:
+    καί (καί) [conj] {COORD}
+    σφωϊν (σφεῖς) [pron masc dat dual] {OBJ}
+    δὸς (δίδωμι) [verb aor imperv act 2 sg] {PRED_CO}
+    ἄγειν (ἄγω) [verb pres inf act] {ADV}
+    τὼ (ὁ) [pron masc nom dual] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    αὐτὼ (αὐτός) [adj masc nom dual] {ATV}
+    μάρτυροι (μάρτυρος) [noun masc nom pl] {PNOM}
+    ἔστων (εἰμί) [verb pres imperv act 3 pl] {PRED_CO}
+
+Line 339:
+    πρός (πρός) [prep] {AuxP}
+    τε (τε) [particle] {AuxY}
+    θεῶν (θεός) [noun masc gen pl] {ADV_CO}
+    μακάρων (μάκαρ) [adj masc gen pl] {ATR}
+    πρός (πρός) [prep] {AuxP}
+    τε (τε) [particle] {AuxY}
+    θνητῶν (θνητός) [adj masc gen pl] {ATR}
+    ἀνθρώπων (ἄνθρωπος) [noun masc gen pl] {ADV_CO}
+
+Line 340:
+    καὶ (καί) [conj] {COORD}
+    πρὸς (πρός) [prep] {AuxP}
+    τοῦ (ὁ) [article masc gen sg] {ATR}
+    βασιλῆος (βασιλεύς) [noun masc gen sg] {ADV_CO}
+    ἀπηνέος (ἀπηνής) [adj masc gen sg] {ATR}
+    εἴ (εἰ) [conj] {AuxC}
+    ποτε (ποτέ) [particle] {ADV}
+    δ' (δέ) [particle] {AuxY}
+    αὖτε (αὖτε) [adv] {ADV}
+
+Line 341:
+    χρειὼ (χρεώ) [noun fem nom sg] {SBJ}
+    ἐμεῖο (ἐγώ) [pron masc gen sg] {ATR}
+    γένηται (γίγνομαι) [verb aor subj mid 3 sg] {ADV}
+    ἀεικέα (ἀεικής) [adj masc acc sg] {ATR}
+    λοιγὸν (λοιγός) [noun masc acc sg] {OBJ}
+    ἀμῦναι (ἀμύνω) [verb aor inf act] {ATR}
+
+Line 342:
+    τοῖς (ὁ) [article masc dat pl] {ATR}
+    ἄλλοις (ἄλλος) [adj masc dat pl] {OBJ}
+    ἦ (ἦ) [adv] {AuxY}
+    γὰρ (γάρ) [particle] {AuxY}
+    ὅ (ὁ) [pron masc nom sg] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    ὀλοιῇσι (ὀλοός) [adj fem dat pl] {ATR}
+    φρεσὶ (φρήν) [noun fem dat pl] {ADV}
+    θύει (θύω) [verb pres ind act 3 sg] {PRED_CO}
+
+Line 343:
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    τι (τις) [pron neut acc sg] {ADV}
+    οἶδε (οἶδα) [verb perf ind act 3 sg] {PRED_CO}
+    νοῆσαι (νοέω) [verb aor inf act] {OBJ}
+    ἅμα (ἅμα) [adv] {AuxY}
+    πρόσσω (πρόσω) [adv] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    ὀπίσσω (ὀπίσω) [adv] {ADV_CO}
+
+Line 344:
+    ὅππως (ὅπως) [conj] {AuxC}
+    οἱ (ἕ) [pron masc dat sg] {ATR}
+    παρὰ (παρά) [prep] {AuxP}
+    νηυσὶ (ναῦς) [noun fem dat pl] {ADV}
+    σόοι (σῶς) [adj masc nom pl] {ATV}
+    μαχέοιντο (μάχομαι) [verb pres opt mp 3 pl] {ADV}
+    Ἀχαιοί (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 345:
+    ὣς (ὡς) [adv] {ADV}
+    φάτο (φημί) [verb aor ind mid 3 sg] {PRED_CO}
+    Πάτροκλος (Πάτροκλος) [noun masc nom sg] {SBJ}
+    δὲ (δέ) [particle] {AuxY}
+    φίλῳ (φίλος) [adj masc dat sg] {ATR}
+    ἐπεπείθεθ' (ἐπιπείθομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    ἑταίρῳ (ἑταῖρος) [noun masc dat sg] {OBJ}
+
+Line 346:
+    ἐκ (ἐκ) [prep] {AuxP}
+    δ' (δέ) [particle] {AuxY}
+    ἄγαγε (ἄγω) [verb aor ind act 3 sg] {PRED_CO}
+    κλισίης (κλισία) [noun fem gen sg] {OBJ}
+    Βρισηΐδα (Βρισηίς) [noun fem acc sg] {OBJ}
+    καλλιπάρῃον (καλλιπάρηος) [adj fem acc sg] {ATR}
+
+Line 347:
+    δῶκε (δίδωμι) [verb aor ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἄγειν (ἄγω) [verb pres inf act] {ADV}
+    τὼ (ὁ) [pron masc nom dual] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    αὖτις (αὖθις) [adv] {OBJ}
+    ἴτην (εἶμι) [verb impf ind act 3 dual] {PRED_CO}
+    παρὰ (παρά) [prep] {AuxP}
+    νῆας (ναῦς) [noun fem acc pl] {OBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 348:
+    ἣ (ὁ) [article fem nom sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἀέκουσ' (ἀέκων) [adj fem nom sg] {ATV}
+    ἅμα (ἅμα) [prep] {AuxP}
+    τοῖσι (ὁ) [pron masc dat pl] {ADV}
+    γυνὴ (γυνή) [noun fem nom sg] {SBJ}
+    κίεν (κίω) [verb impf ind act 3 sg] {PRED_CO}
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    Ἀχιλλεὺς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 349:
+    δακρύσας (δακρύω) [verb aor part act sg] {ADV}
+    ἑτάρων (ἑταῖρος) [noun masc gen pl] {ADV}
+    ἄφαρ (ἄφαρ) [adv] {ADV}
+    ἕζετο (ἕζομαι) [verb impf ind mid 3 sg] {PRED}
+    νόσφι (νόσφι) [prep] {AuxP}
+    λιασθείς (λιάζομαι) [verb aor part mp sg] {ADV}
+
+Line 350:
+    θῖν' (θίς) [noun masc acc sg] {OBJ}
+    ἔφ' (ἐπί) [prep] {AuxP}
+    ἁλὸς (ἅλς1) [noun fem gen sg] {ATR}
+    πολιῆς (πολιός) [adj fem gen sg] {ATR}
+    ὁρόων (ὁράω) [verb pres part act sg] {ADV}
+    ἐπ' (ἐπί) [prep] {AuxP}
+    ἀπείρονα (ἀπείρων) [adj masc acc sg] {ATR}
+    πόντον (πόντος) [noun masc acc sg] {OBJ}
+
+Line 351:
+    πολλὰ (πολύς) [adj neut acc pl] {ADV}
+    δὲ (δέ) [particle] {COORD}
+    μητρὶ (μήτηρ) [noun fem dat sg] {OBJ}
+    φίλῃ (φίλος) [adj fem dat sg] {ATR}
+    ἠρήσατο (ἀράομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    χεῖρας (χείρ) [noun fem acc pl] {OBJ}
+    ὀρεγνύς (ὀρέγνυμι) [verb pres part act sg] {ADV}
+
+Line 352:
+    μῆτερ (μήτηρ) [noun fem voc sg] {ExD}
+    ἐπεί (ἐπεί) [conj] {AuxC}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    ἔτεκές (τίκτω) [verb aor ind act 2 sg] {ADV}
+    γε (γε) [particle] {AuxZ}
+    μινυνθάδιόν (μινυνθάδιος) [adj masc acc sg] {PNOM}
+    περ (πέρ) [particle] {AuxZ}
+    ἐόντα (εἰμί) [verb pres part act sg] {ATV}
+
+Line 353:
+    τιμήν (τιμή) [noun fem acc sg] {OBJ}
+    πέρ (πέρ) [particle] {AuxZ}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    ὄφελλεν (ὀφέλλω) [verb impf ind act 3 sg] {PRED}
+    Ὀλύμπιος (Ὀλύμπιος) [adj masc nom sg] {ATR}
+    ἐγγυαλίξαι (ἐγγυαλίζω) [verb aor inf act] {OBJ}
+
+Line 354:
+    Ζεὺς (Ζεύς) [noun masc nom sg] {SBJ}
+    ὑψιβρεμέτης (ὑψιβρεμέτης) [adj masc nom sg] {ATR}
+    νῦν (νῦν) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {AuxZ}
+    με (ἐγώ) [pron masc acc sg] {OBJ}
+    τυτθὸν (τυτθός) [adj neut acc sg] {ADV}
+    ἔτισεν (τίνω) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 355:
+    ἦ (ἦ) [adv] {AuxY}
+    γάρ (γάρ) [particle] {AuxY}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    Ἀτρεΐδης (Ἀτρείδης) [noun masc nom sg] {ATR}
+    εὐρὺ (εὐρύς) [adj neut acc sg] {AuxZ}
+    κρείων (κρείων) [noun masc nom sg] {ATR}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 356:
+    ἠτίμησεν (ἀτιμάω) [verb aor ind act 3 sg] {PRED}
+    ἑλὼν (αἱρέω) [verb aor part act sg] {ADV}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἔχει (ἔχω) [verb pres ind act 3 sg] {PRED}
+    γέρας (γέρας) [noun neut acc sg] {OBJ}
+    αὐτὸς (αὐτός) [adj masc nom sg] {AtvV}
+    ἀπούρας (ἀπαυράω) [verb aor part act sg] {ADV}
+
+Line 357:
+    ὣς (ὡς) [adv] {ADV}
+    φάτο (φημί) [verb aor ind mid 3 sg] {PRED_CO}
+    δάκρυ (δάκρυ) [noun neut acc sg] {OBJ}
+    χέων (χέω) [verb pres part act sg] {ADV}
+    τοῦ (ὁ) [pron masc gen sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἔκλυε (κλύω) [verb impf ind act 3 sg] {PRED_CO}
+    πότνια (πότνια) [adj fem nom sg] {ATR}
+    μήτηρ (μήτηρ) [noun fem nom sg] {SBJ}
+
+Line 358:
+    ἡμένη (ἧμαι) [verb perf part mp sg] {ADV}
+    ἐν (ἐν) [prep] {AuxP}
+    βένθεσσιν (βένθος) [noun neut dat pl] {ADV}
+    ἁλὸς (ἅλς1) [noun fem gen sg] {ATR}
+    παρὰ (παρά) [prep] {AuxP}
+    πατρὶ (πατήρ) [noun masc dat sg] {ADV}
+    γέροντι (γέρων) [noun masc dat sg] {ATR}
+
+Line 359:
+    καρπαλίμως (καρπάλιμος) [adv] {ADV}
+    δ' (δέ) [particle] {AuxY}
+    ἀνέδυ (ἀναδύνω) [verb aor ind act 3 sg] {PRED_CO}
+    πολιῆς (πολιός) [adj fem gen sg] {ATR}
+    ἁλὸς (ἅλς1) [noun fem gen sg] {OBJ}
+    ἠΰτ' (ἠύτε) [particle] {ADV}
+    ὀμίχλη (ὀμίχλη) [noun fem nom sg] {SBJ}
+
+Line 360:
+    καί (καί) [conj] {AuxY}
+    ῥα (ἄρα) [particle] {AuxY}
+    πάροιθ' (πάροιθε) [prep] {AuxP}
+    αὐτοῖο (αὐτός) [adj masc gen sg] {ADV}
+    καθέζετο (καθέζομαι) [verb impf ind act 3 sg] {PRED_CO}
+    δάκρυ (δάκρυ) [noun neut acc sg] {OBJ}
+    χέοντος (χέω) [verb pres part act sg] {ATV}
+
+Line 361:
+    χειρί (χείρ) [noun fem dat sg] {ADV}
+    τέ (τε) [particle] {AuxY}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    κατέρεξεν (καταρρέζω) [verb aor ind act 3 sg] {PRED_CO}
+    ἔπος (ἔπος) [noun neut acc sg] {OBJ}
+    τ' (τε) [particle] {AuxY}
+    ἔφατ' (φημί) [verb impf ind mp 3 sg] {PRED_CO}
+    ἔκ (ἐκ) [prep] {AuxZ}
+    τ' (τε) [particle] {COORD}
+    ὀνόμαζε (ὀνομάζω) [verb impf ind act 3 sg] {PRED_CO}
+
+Line 362:
+    τέκνον (τέκνον) [noun neut voc sg] {ExD}
+    τί (τίς) [pron neut acc sg] {ADV}
+    κλαίεις (κλαίω) [verb pres ind act 2 sg] {PRED}
+    τί (τις) [pron neut nom sg] {ATR}
+    δέ (δέ) [particle] {COORD}
+    σε (σύ) [pron acc sg] {OBJ}
+    φρένας (φρήν) [noun masc acc pl] {OBJ}
+    ἵκετο (ἱκνέομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    πένθος (πένθος) [noun neut nom sg] {SBJ}
+
+Line 363:
+    ἐξαύδα (ἐξαυδάω) [verb pres imperv act 2 sg] {PRED_CO}
+    μὴ (μή) [particle] {AuxZ}
+    κεῦθε (κεύθω) [verb pres imperv act 2 sg] {PRED_CO}
+    νόῳ (νόος) [noun masc dat sg] {ADV}
+    ἵνα (ἵνα) [conj] {AuxC}
+    εἴδομεν (οἶδα) [verb perf subj act 1 pl] {ADV}
+    ἄμφω (ἄμφω) [adj masc nom dual] {SBJ}
+
+Line 364:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δὲ (δέ) [particle] {COORD}
+    βαρὺ (βαρύς) [adj neut acc sg] {ADV}
+    στενάχων (στενάχω) [verb pres part act sg] {ADV}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    πόδας (πούς) [noun masc acc pl] {ATR}
+    ὠκὺς (ὠκύς) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ}
+
+Line 365:
+    οἶσθα (οἶδα) [verb perf ind act 2 sg] {PRED}
+    τί (τις) [pron neut acc sg] {ADV}
+    ἤ (ἤ) [interj] {AuxY}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ταῦτα (οὗτος) [adj neut acc pl] {OBJ}
+    ἰδυίῃ (οἶδα) [verb perf part act sg] {ATV}
+    πάντ' (πᾶς) [adj neut acc pl] {ATR}
+    ἀγορεύω (ἀγορεύω) [verb pres subj act 1 sg] {PRED}
+
+Line 366:
+    ᾠχόμεθ' (οἴχομαι) [verb impf ind mp 1 pl] {PRED_CO}
+    ἐς (εἰς) [prep] {AuxP}
+    Θήβην (Θήβη) [noun fem acc sg] {OBJ_AP}
+    ἱερὴν (ἱερός) [adj fem acc sg] {ATR}
+    πόλιν (πόλις) [noun fem acc sg] {OBJ_AP}
+    Ἠετίωνος (Ἠετίων) [noun masc gen sg] {ATR}
+
+Line 367:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δὲ (δέ) [particle] {AuxY}
+    διεπράθομέν (διαπέρθω) [verb aor ind act 1 pl] {PRED_CO}
+    τε (τε) [particle] {AuxY}
+    καὶ (καί) [conj] {COORD}
+    ἤγομεν (ἄγω) [verb impf ind act 1 pl] {PRED_CO}
+    ἐνθάδε (ἐνθάδε) [adv] {OBJ}
+    πάντα (πᾶς) [adj neut acc pl] {OBJ}
+
+Line 368:
+    καὶ (καί) [conj] {AuxY}
+    τὰ (ὁ) [pron neut acc pl] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    εὖ (εὖ) [adv] {ADV}
+    δάσσαντο (δατέομαι) [verb aor ind mid 3 pl] {PRED}
+    μετὰ (μετά) [prep] {AuxP}
+    σφίσιν (σφεῖς) [pron masc dat pl] {ADV}
+    υἷες (υἱός) [noun masc nom pl] {SBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 369:
+    ἐκ (ἐκ) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἕλον (αἱρέω) [verb aor ind act 3 pl] {PRED}
+    Ἀτρεΐδῃ (Ἀτρείδης) [noun masc dat sg] {OBJ}
+    Χρυσηΐδα (Χρυσηίς) [noun fem acc sg] {OBJ}
+    καλλιπάρῃον (καλλιπάρηος) [adj fem acc sg] {ATR}
+
+Line 370:
+    Χρύσης (Χρύσης) [noun masc nom sg] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    αὖθ' (αὖτε) [adv] {AuxY}
+    ἱερεὺς (ἱερεύς) [noun masc nom sg] {ATR}
+    ἑκατηβόλου (ἑκατηβόλος) [adj masc gen sg] {ATR}
+    Ἀπόλλωνος (Ἀπόλλων) [noun masc gen sg] {ATR}
+
+Line 371:
+    ἦλθε (ἔρχομαι) [verb aor ind act 3 sg] {PRED_CO}
+    θοὰς (θοός) [adj fem acc pl] {ATR}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    νῆας (ναῦς) [noun fem acc pl] {OBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+    χαλκοχιτώνων (χαλκοχίτων) [adj masc gen pl] {ATR}
+
+Line 372:
+    λυσόμενός (λύω) [verb fut part mid sg] {ADV_CO}
+    τε (τε) [particle] {AuxY}
+    θύγατρα (θυγάτηρ) [noun fem acc sg] {OBJ}
+    φέρων (φέρω) [verb pres part act sg] {ADV_CO}
+    τ' (τε) [particle] {COORD}
+    ἀπερείσι' (ἀπερείσιος) [adj neut acc pl] {ATR}
+    ἄποινα (ἄποινα) [noun neut acc pl] {OBJ}
+
+Line 373:
+    στέμματ' (στέμμα) [noun neut acc pl] {OBJ}
+    ἔχων (ἔχω) [verb pres part act sg] {ADV}
+    ἐν (ἐν) [prep] {AuxP}
+    χερσὶν (χείρ) [noun fem dat pl] {ADV}
+    ἑκηβόλου (ἑκηβόλος) [adj masc gen sg] {ATR}
+    Ἀπόλλωνος (Ἀπόλλων) [noun masc gen sg] {ATR}
+
+Line 374:
+    χρυσέῳ (χρύσεος) [adj neut dat sg] {ATR}
+    ἀνὰ (ἀνά) [prep] {AuxP}
+    σκήπτρῳ (σκῆπτρον) [noun neut dat sg] {ADV}
+    καὶ (καί) [conj] {COORD}
+    λίσσετο (λίσσομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    πάντας (πᾶς) [adj masc acc pl] {ATR}
+    Ἀχαιούς (Ἀχαιός) [adj masc acc pl] {OBJ_CO}
+
+Line 375:
+    Ἀτρεΐδα (Ἀτρείδης) [noun masc acc dual] {OBJ_AP_CO}
+    δὲ (δέ) [particle] {COORD}
+    μάλιστα (μάλιστα) [adv] {AuxZ}
+    δύω (δύο) [numeral] {ATR}
+    κοσμήτορε (κοσμήτωρ) [noun masc acc dual] {OBJ_AP_CO}
+    λαῶν (λαός) [noun masc gen pl] {ATR}
+
+Line 376:
+    ἔνθ' (ἔνθα) [adv] {ADV}
+    ἄλλοι (ἄλλος) [adj masc nom pl] {ATR}
+    μὲν (μέν) [particle] {AuxY}
+    πάντες (πᾶς) [adj masc nom pl] {ATR}
+    ἐπευφήμησαν (ἐπευφημέω) [verb aor ind act 3 pl] {PRED}
+    Ἀχαιοὶ (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 377:
+    αἰδεῖσθαί (αἰδέομαι) [verb pres inf mp] {OBJ_CO}
+    θ' (τε) [particle] {AuxY}
+    ἱερῆα (ἱερεύς) [noun masc acc sg] {OBJ}
+    καὶ (καί) [conj] {COORD}
+    ἀγλαὰ (ἀγλαός) [adj neut acc pl] {ATR}
+    δέχθαι (δέχομαι) [verb aor inf mid] {OBJ_CO}
+    ἄποινα (ἄποινα) [noun neut acc pl] {OBJ}
+
+Line 378:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    οὐκ (οὐ) [adv] {AuxZ}
+    Ἀτρεΐδῃ (Ἀτρείδης) [noun masc dat sg] {ATR}
+    Ἀγαμέμνονι (Ἀγαμέμνων) [noun masc dat sg] {OBJ}
+    ἥνδανε (ἁνδάνω) [verb impf ind act 3 sg] {PRED_CO}
+    θυμῷ (θυμός) [noun masc dat sg] {ADV}
+
+Line 379:
+    ἀλλὰ (ἀλλά) [conj] {AuxY}
+    κακῶς (κακός) [adv] {ADV}
+    ἀφίει (ἀφίημι) [verb impf ind act 3 sg] {PRED_CO}
+    κρατερὸν (κρατερός) [adj masc acc sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἐπὶ (ἐπί) [prep] {AuxZ}
+    μῦθον (μῦθος) [noun masc acc sg] {OBJ}
+    ἔτελλε (τέλλω) [verb impf ind act 3 sg] {PRED_CO}
+
+Line 380:
+    χωόμενος (χώομαι) [verb pres part mp sg] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ὁ (ὁ) [article masc nom sg] {ATR}
+    γέρων (γέρων) [noun masc nom sg] {SBJ}
+    πάλιν (πάλιν) [adv] {OBJ}
+    ᾤχετο (οἴχομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    τοῖο (ὁ) [pron masc gen sg] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    Ἀπόλλων (Ἀπόλλων) [noun masc nom sg] {SBJ}
+
+Line 381:
+    εὐξαμένου (εὔχομαι) [verb aor part mid sg] {ATV}
+    ἤκουσεν (ἀκούω) [verb aor ind act 3 sg] {PRED_CO}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    μάλα (μάλα) [adv] {AuxZ}
+    οἱ (ἕ) [pron masc dat sg] {OBJ}
+    φίλος (φίλος) [adj masc nom sg] {PNOM}
+    ἦεν (εἰμί) [verb impf ind act 3 sg] {ADV}
+
+Line 382:
+    ἧκε (ἵημι) [verb aor ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἐπ' (ἐπί) [prep] {AuxP}
+    Ἀργείοισι (Ἀργεῖος) [adj masc dat pl] {ADV}
+    κακὸν (κακός) [adj neut acc sg] {ATR}
+    βέλος (βέλος) [noun neut acc sg] {OBJ}
+    οἳ (ὁ) [article masc nom pl] {ATR}
+    δέ (δέ) [particle] {AuxY}
+    νυ (νῦν) [adv] {ADV}
+    λαοὶ (λαός) [noun masc nom pl] {SBJ}
+
+Line 383:
+    θνῇσκον (θνήσκω) [verb impf ind act 3 pl] {PRED_CO}
+    ἐπασσύτεροι (ἐπασσύτερος) [adj masc nom pl] {ATV}
+    τὰ (ὁ) [article neut nom pl] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἐπῴχετο (ἐποίχομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    κῆλα (κῆλον) [noun neut nom pl] {SBJ}
+    θεοῖο (θεός) [noun masc gen sg] {ATR}
+
+Line 384:
+    πάντῃ (πάντῃ) [adv] {ADV}
+    ἀνὰ (ἀνά) [prep] {AuxP}
+    στρατὸν (στρατός) [noun masc acc sg] {OBJ}
+    εὐρὺν (εὐρύς) [adj masc acc sg] {ATR}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+    ἄμμι (ἐγώ) [pron masc dat pl] {OBJ}
+    δὲ (δέ) [particle] {COORD}
+    μάντις (μάντις) [noun masc nom sg] {SBJ}
+
+Line 385:
+    εὖ (εὖ) [adv] {ADV}
+    εἰδὼς (οἶδα) [verb perf part act sg] {ADV}
+    ἀγόρευε (ἀγορεύω) [verb impf ind act 3 sg] {PRED_CO}
+    θεοπροπίας (θεοπροπία) [noun fem acc pl] {OBJ}
+    ἑκάτοιο (ἕκατος) [noun masc gen sg] {ATR}
+
+Line 386:
+    αὐτίκ' (αὐτίκα) [adv] {ADV}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    πρῶτος (πρῶτος) [adj masc nom sg] {ATV}
+    κελόμην (κέλομαι) [verb impf ind mp 1 sg] {PRED}
+    θεὸν (θεός) [noun masc acc sg] {OBJ}
+    ἱλάσκεσθαι (ἱλάσκομαι) [verb pres inf mp] {OBJ}
+
+Line 387:
+    Ἀτρεΐωνα (Ἀτρεΐων) [noun masc acc sg] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+    χόλος (χόλος) [noun masc nom sg] {SBJ}
+    λάβεν (λαμβάνω) [verb aor ind act 3 sg] {PRED_CO}
+    αἶψα (αἶψα) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ἀναστὰς (ἀνίστημι) [verb aor part act sg] {ADV}
+
+Line 388:
+    ἠπείλησεν (ἀπειλέω) [verb aor ind act 3 sg] {PRED_CO}
+    μῦθον (μῦθος) [noun masc acc sg] {OBJ}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    δὴ (δή) [particle] {AuxY}
+    τετελεσμένος (τελέω) [verb perf part mp sg] {PNOM}
+    ἐστί (εἰμί) [verb pres ind act 3 sg] {ATR}
+
+Line 389:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    γὰρ (γάρ) [particle] {AuxY}
+    σὺν (σύν) [prep] {AuxP}
+    νηῒ (ναῦς) [noun fem dat sg] {ADV}
+    θοῇ (θοός) [adj fem dat sg] {ATR}
+    ἑλίκωπες (ἑλίκωψ) [adj masc nom pl] {ATR}
+    Ἀχαιοὶ (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 390:
+    ἐς (εἰς) [prep] {AuxP}
+    Χρύσην (Χρύσης) [noun masc acc sg] {OBJ}
+    πέμπουσιν (πέμπω) [verb pres ind act 3 pl] {PRED_CO}
+    ἄγουσι (ἄγω) [verb pres ind act 3 pl] {PRED_CO}
+    δὲ (δέ) [particle] {COORD}
+    δῶρα (δῶρον) [noun neut acc pl] {OBJ}
+    ἄνακτι (ἄναξ) [noun masc dat sg] {OBJ}
+
+Line 391:
+    τὴν (ὁ) [pron fem acc sg] {OBJ_AP}
+    δὲ (δέ) [particle] {COORD}
+    νέον (νέος) [adj neut acc sg] {ADV}
+    κλισίηθεν (κλισίηθεν) [adv] {OBJ}
+    ἔβαν (βαίνω) [verb aor ind act 3 pl] {PRED_CO}
+    κήρυκες (κῆρυξ) [noun masc nom pl] {SBJ}
+    ἄγοντες (ἄγω) [verb pres part act pl] {ADV}
+
+Line 392:
+    κούρην (κόρη) [noun fem acc sg] {OBJ_AP}
+    Βρισῆος (Βρισεύς) [noun masc gen sg] {ATR}
+    τήν (ὁ) [pron fem acc sg] {OBJ}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    δόσαν (δίδωμι) [verb aor ind act 3 pl] {ATR}
+    υἷες (υἱός) [noun masc nom pl] {SBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 393:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    εἰ (εἰ) [conj] {AuxC}
+    δύνασαί (δύναμαι) [verb pres ind mp 2 sg] {ADV}
+    γε (γε) [particle] {AuxZ}
+    περίσχεο (περιέχω) [verb aor imperv mid 2 sg] {PRED}
+    παιδὸς (παῖς) [noun masc gen sg] {OBJ}
+    ἑῆος (ἐύς) [adj gen sg] {ATR}
+
+Line 394:
+    ἐλθοῦσ' (ἔρχομαι) [verb aor part act sg] {ADV}
+    Οὔλυμπον (Ὄλυμπος) [noun masc acc sg] {OBJ}
+    δὲ (δέ) [particle] {AuxP}
+    Δία (Ζεύς) [noun masc acc sg] {OBJ}
+    λίσαι (λίσσομαι) [verb aor imperv mid 2 sg] {PRED}
+    εἴ (εἰ) [conj] {AuxC}
+    ποτε (ποτέ) [particle] {AuxY}
+    δή (δή) [particle] {AuxY}
+    τι (τις) [pron neut acc sg] {ADV}
+
+Line 395:
+    ἢ (ἤ) [conj] {AuxY}
+    ἔπει (ἔπος) [noun neut dat sg] {ADV_CO}
+    ὤνησας (ὀνίνημι) [verb aor ind act 2 sg] {ADV}
+    κραδίην (καρδία) [noun fem acc sg] {OBJ}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR}
+    ἠὲ (ἤ) [conj] {COORD}
+    καὶ (καί) [adv] {AuxZ}
+    ἔργῳ (ἔργον) [noun neut dat sg] {ADV_CO}
+
+Line 396:
+    πολλάκι (πολλάκις) [adv] {ADV}
+    γάρ (γάρ) [particle] {AuxY}
+    σεο (σύ) [pron gen sg] {OBJ}
+    πατρὸς (πατήρ) [noun masc gen sg] {ATR}
+    ἐνὶ (ἐν) [prep] {AuxP}
+    μεγάροισιν (μέγαρον) [noun neut dat pl] {ADV}
+    ἄκουσα (ἀκούω) [verb aor ind act 1 sg] {PRED}
+
+Line 397:
+    εὐχομένης (εὔχομαι) [verb pres part mp sg] {ATV}
+    ὅτ' (ὅτε) [conj] {AuxC}
+    ἔφησθα (φημί) [verb aor ind act 2 sg] {ADV}
+    κελαινεφέϊ (κελαινεφής) [adj dat sg] {ATR}
+    Κρονίωνι (Κρονίων) [noun masc dat sg] {OBJ}
+
+Line 398:
+    οἴη (οἶος) [adj fem nom sg] {AtvV}
+    ἐν (ἐν) [prep] {AuxP}
+    ἀθανάτοισιν (ἀθάνατος) [adj masc dat pl] {ATR}
+    ἀεικέα (ἀεικής) [adj masc acc sg] {ATR}
+    λοιγὸν (λοιγός) [noun masc acc sg] {OBJ}
+    ἀμῦναι (ἀμύνω) [verb aor inf act] {OBJ}
+
+Line 399:
+    ὁππότε (ὁπότε) [conj] {AuxC}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    ξυνδῆσαι (συνδέω) [verb aor inf act] {OBJ}
+    Ὀλύμπιοι (Ὀλύμπιος) [adj masc nom pl] {SBJ_AP}
+    ἤθελον (ἐθέλω) [verb impf ind act 3 pl] {ADV}
+    ἄλλοι (ἄλλος) [adj masc nom pl] {ATR}
+
+Line 400:
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ_AP_CO}
+    τ' (τε) [particle] {AuxY}
+    ἠδὲ (ἠδέ) [conj] {AuxY}
+    Ποσειδάων (Ποσειδεών) [noun masc nom sg] {SBJ_AP_CO}
+    καὶ (καί) [conj] {COORD}
+    Παλλὰς (Παλλάς) [noun fem nom sg] {ATR}
+    Ἀθήνη (Ἀθήνη) [noun fem nom sg] {SBJ_AP_CO}
+
+Line 401:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    τόν (ὁ) [pron masc acc sg] {OBJ}
+    γ' (γε) [particle] {AuxZ}
+    ἐλθοῦσα (ἔρχομαι) [verb aor part act sg] {ADV}
+    θεὰ (θεά) [noun fem voc sg] {ExD}
+    ὑπελύσαο (ὑπολύω) [verb aor ind mid 2 sg] {PRED}
+    δεσμῶν (δεσμός) [noun masc gen pl] {OBJ}
+
+Line 402:
+    ὦχ' (ὦκα) [adv] {ADV}
+    ἑκατόγχειρον (ἑκατόγχειρος) [adj masc acc sg] {OBJ}
+    καλέσασ' (καλέω) [verb aor part act sg] {ADV}
+    ἐς (εἰς) [prep] {AuxP}
+    μακρὸν (μακρός) [adj masc acc sg] {ATR}
+    Ὄλυμπον (Ὄλυμπος) [noun masc acc sg] {OBJ}
+
+Line 403:
+    ὃν (ὅς) [pron masc acc sg] {OBJ}
+    Βριάρεων (Βριάρεως) [noun masc acc sg] {OCOMP}
+    καλέουσι (καλέω) [verb pres ind act 3 pl] {ATR_CO}
+    θεοί (θεός) [noun masc nom pl] {SBJ}
+    ἄνδρες (ἀνήρ) [noun masc nom pl] {SBJ}
+    δέ (δέ) [particle] {COORD}
+    τε (τε) [particle] {AuxY}
+    πάντες (πᾶς) [adj masc nom pl] {ATR}
+
+Line 404:
+    Αἰγαίων' (Αἰγαίων) [noun masc acc sg] {OCOMP}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    γὰρ (γάρ) [particle] {AuxY}
+    αὖτε (αὖτε) [adv] {AuxY}
+    βίην (βία) [noun fem acc sg] {ATR}
+    οὗ (ἑός) [adj masc gen sg] {ATR}
+    πατρὸς (πατήρ) [noun masc gen sg] {ATR}
+    ἀμείνων (ἀμείνων) [adj masc nom sg comp] {PNOM}
+
+Line 405:
+    ὅς (ὅς) [pron masc nom sg] {SBJ}
+    ῥα (ἄρα) [particle] {AuxY}
+    παρὰ (παρά) [prep] {AuxP}
+    Κρονίωνι (Κρονίων) [noun masc dat sg] {OBJ}
+    καθέζετο (καθέζομαι) [verb aor ind mid 3 sg] {ATR}
+    κύδεϊ (κῦδος) [noun neut dat sg] {ADV}
+    γαίων (γαίω) [verb pres part act sg] {ADV}
+
+Line 406:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    καὶ (καί) [adv] {AuxY}
+    ὑπέδεισαν (ὑποδείδω) [verb aor ind act 3 pl] {PRED_CO}
+    μάκαρες (μάκαρ) [adj masc nom pl] {ATR}
+    θεοὶ (θεός) [noun masc nom pl] {SBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἔτ' (ἔτι) [adv] {ADV}
+    ἔδησαν (δέω) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 407:
+    τῶν (ὁ) [pron neut gen pl] {OBJ}
+    νῦν (νῦν) [adv] {ADV}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    μνήσασα (μιμνήσκω) [verb aor part act sg] {ADV}
+    παρέζεο (παρέζομαι) [verb pres imperv mp 2 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    λαβὲ (λαμβάνω) [verb aor imperv act 2 sg] {PRED_CO}
+    γούνων (γόνυ) [noun neut gen pl] {OBJ}
+
+Line 408:
+    αἴ (εἰ) [conj] {AuxC}
+    κέν (ἄν) [particle] {AuxY}
+    πως (πως) [particle] {ADV}
+    ἐθέλῃσιν (ἐθέλω) [verb pres subj act 3 sg] {ADV}
+    ἐπὶ (ἐπί) [prep] {AuxZ}
+    Τρώεσσιν (Τρώς) [noun masc dat pl] {OBJ}
+    ἀρῆξαι (ἀρήγω) [verb aor inf act] {OBJ_CO}
+
+Line 409:
+    τοὺς (ὁ) [article masc acc pl] {ATR}
+    δὲ (δέ) [particle] {COORD}
+    κατὰ (κατά) [prep] {AuxP}
+    πρύμνας (πρύμνα) [noun fem acc pl] {OBJ_CO}
+    τε (τε) [particle] {AuxY}
+    καὶ (καί) [conj] {COORD}
+    ἀμφ' (ἀμφί) [prep] {AuxP}
+    ἅλα (ἅλς1) [noun fem acc sg] {OBJ_CO}
+    ἔλσαι (εἴλω) [verb aor inf act] {OBJ_CO}
+    Ἀχαιοὺς (Ἀχαιός) [adj masc acc pl] {OBJ}
+
+Line 410:
+    κτεινομένους (κτείνω) [verb pres part mp pl] {ATV}
+    ἵνα (ἵνα) [conj] {AuxC}
+    πάντες (πᾶς) [adj masc nom pl] {SBJ}
+    ἐπαύρωνται (ἐπαυρέω) [verb aor subj mid 3 pl] {ADV_CO}
+    βασιλῆος (βασιλεύς) [noun masc gen sg] {OBJ}
+
+Line 411:
+    γνῷ (γιγνώσκω) [verb aor subj act 3 sg] {ADV_CO}
+    δὲ (δέ) [particle] {COORD}
+    καὶ (καί) [adv] {AuxZ}
+    Ἀτρεΐδης (Ἀτρείδης) [noun masc nom sg] {ATR}
+    εὐρὺ (εὐρύς) [adj neut acc sg] {AuxZ}
+    κρείων (κρείων) [noun masc nom sg] {ATR}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 412:
+    ἣν (ἑός) [adj fem acc sg] {ATR}
+    ἄτην (ἄτη) [noun fem acc sg] {OBJ}
+    ὅ (ὅς) [pron neut acc sg] {AuxC}
+    τ' (τε) [particle] {AuxY}
+    ἄριστον (ἄριστος) [adj masc acc sg] {OBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+    οὐδὲν (οὐδείς) [adj neut acc sg] {ADV}
+    ἔτισεν (τίνω) [verb aor ind act 3 sg] {ATR}
+
+Line 413:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἠμείβετ' (ἀμείβω) [verb impf ind mp 3 sg] {PRED_CO}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+    Θέτις (Θέτις) [noun fem nom sg] {SBJ}
+    κατὰ (κατά) [prep] {AuxZ}
+    δάκρυ (δάκρυ) [noun neut acc sg] {OBJ}
+    χέουσα (χέω) [verb pres part act sg] {ADV}
+
+Line 414:
+    ὤ (ὦ) [interj] {AuxY}
+    μοι (ἐγώ) [pron fem dat sg] {AuxZ}
+    τέκνον (τέκνον) [noun neut voc sg] {ExD}
+    ἐμόν (ἐμός) [adj neut voc sg] {ATR}
+    τί (τίς) [pron neut acc sg] {ADV}
+    νύ (νῦν) [adv] {ADV}
+    σ' (σύ) [pron acc sg] {OBJ}
+    ἔτρεφον (τρέφω) [verb impf ind act 1 sg] {PRED}
+    αἰνὰ (αἰνός) [adj neut acc pl] {ADV}
+    τεκοῦσα (τίκτω) [verb aor part act sg] {ADV}
+
+Line 415:
+    αἴθ' (εἴθε) [interj] {AuxY}
+    ὄφελες (ὀφείλω) [verb aor ind act 2 sg] {PRED}
+    παρὰ (παρά) [prep] {AuxP}
+    νηυσὶν (ναῦς) [noun fem dat pl] {ADV}
+    ἀδάκρυτος (ἀδάκρυτος) [adj masc nom sg] {AtvV_CO}
+    καὶ (καί) [conj] {COORD}
+    ἀπήμων (ἀπήμων) [adj masc nom sg] {AtvV_CO}
+
+Line 416:
+    ἧσθαι (ἧμαι) [verb perf inf mp] {OBJ}
+    ἐπεί (ἐπεί) [conj] {AuxC}
+    νύ (νῦν) [adv] {ADV}
+    τοι (σύ) [pron dat sg] {ATR}
+    αἶσα (αἶσα) [noun fem nom sg] {SBJ}
+    μίνυνθά (μίνυνθα) [adv] {ADV}
+    περ (πέρ) [particle] {AuxZ}
+    οὔ (οὐ) [adv] {AuxZ}
+    τι (τις) [pron neut acc sg] {AuxZ}
+    μάλα (μάλα) [adv] {AuxZ}
+    δήν (δήν) [adv] {ADV}
+
+Line 417:
+    νῦν (νῦν) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ἅμα (ἅμα) [adv] {AuxY}
+    τ' (τε) [particle] {AuxY}
+    ὠκύμορος (ὠκύμορος) [adj masc nom sg] {PNOM_CO}
+    καὶ (καί) [conj] {COORD}
+    ὀϊζυρὸς (ὀιζυρός) [adj masc nom sg] {PNOM_CO}
+    περὶ (περί) [prep] {AuxP}
+    πάντων (πᾶς) [adj masc gen pl] {ADV}
+
+Line 418:
+    ἔπλεο (πέλω) [verb aor ind mp 2 sg] {PRED_CO}
+    τώ (τῶ) [adv] {ADV}
+    σε (σύ) [pron acc sg] {OBJ}
+    κακῇ (κακός) [adj fem dat sg] {ATR}
+    αἴσῃ (αἶσα) [noun fem dat sg] {ADV}
+    τέκον (τίκτω) [verb aor ind act 1 sg] {PRED}
+    ἐν (ἐν) [prep] {AuxP}
+    μεγάροισι (μέγαρον) [noun neut dat pl] {ADV}
+
+Line 419:
+    τοῦτο (οὗτος) [adj neut acc sg] {ATR}
+    δέ (δέ) [particle] {COORD}
+    τοι (σύ) [pron dat sg] {ADV}
+    ἐρέουσα (εἴρω2) [verb fut part act sg] {ADV}
+    ἔπος (ἔπος) [noun neut acc sg] {OBJ}
+    Διὶ (Ζεύς) [noun masc dat sg] {OBJ}
+    τερπικεραύνῳ (τερπικέραυνος) [adj masc dat sg] {ATR}
+
+Line 420:
+    εἶμ' (εἶμι) [verb pres ind act 1 sg] {PRED_CO}
+    αὐτὴ (αὐτός) [adj fem nom sg] {AtvV}
+    πρὸς (πρός) [prep] {AuxP}
+    Ὄλυμπον (Ὄλυμπος) [noun masc acc sg] {OBJ}
+    ἀγάννιφον (ἀγάννιφος) [adj masc acc sg] {ATR}
+    αἴ (εἰ) [conj] {AuxC}
+    κε (ἄν) [particle] {AuxY}
+    πίθηται (πείθω) [verb aor subj mp 3 sg] {ADV}
+
+Line 421:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    νῦν (νῦν) [adv] {ADV}
+    νηυσὶ (ναῦς) [noun fem dat pl] {ADV}
+    παρήμενος (πάρημαι) [verb pres part mp sg] {ADV}
+    ὠκυπόροισι (ὠκύπορος) [adj fem dat pl] {ATR}
+
+Line 422:
+    μήνι' (μηνίω) [verb pres imperv act 2 sg] {PRED}
+    Ἀχαιοῖσιν (Ἀχαιός) [adj masc dat pl] {OBJ}
+    πολέμου (πόλεμος) [noun masc gen sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἀποπαύεο (ἀποπαύω) [verb pres imperv mp 2 sg] {PRED}
+    πάμπαν (πάμπαν) [adv] {ADV}
+
+Line 423:
+    Ζεὺς (Ζεύς) [noun masc nom sg] {SBJ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἐς (εἰς) [prep] {AuxP}
+    Ὠκεανὸν (Ὠκεανός) [noun masc acc sg] {OBJ}
+    μετ' (μετά) [prep] {AuxP}
+    ἀμύμονας (ἀμύμων) [adj masc acc pl] {ATR}
+    Αἰθιοπῆας (Αἰθίοψ) [noun masc acc pl] {OBJ}
+
+Line 424:
+    χθιζὸς (χθιζός) [adj masc nom sg] {ATV}
+    ἔβη (βαίνω) [verb aor ind act 3 sg] {PRED_CO}
+    κατὰ (κατά) [prep] {AuxP}
+    δαῖτα (δαίς1) [noun fem acc sg] {ADV}
+    θεοὶ (θεός) [noun masc nom pl] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἅμα (ἅμα) [adv] {ADV}
+    πάντες (πᾶς) [adj masc nom pl] {ATR}
+    ἕποντο (ἕπομαι) [verb impf ind mp 3 pl] {PRED_CO}
+
+Line 425:
+    δωδεκάτῃ (δωδέκατος) [adj fem dat sg] {ADV}
+    δέ (δέ) [particle] {AuxY}
+    τοι (τοι) [particle] {AuxY}
+    αὖτις (αὖθις) [adv] {ADV}
+    ἐλεύσεται (ἔρχομαι) [verb fut ind mid 3 sg] {PRED_CO}
+    Οὔλυμπον (Ὄλυμπος) [noun masc acc sg] {OBJ}
+    δέ (δέ) [particle] {AuxZ}
+
+Line 426:
+    καὶ (καί) [conj] {AuxY}
+    τότ' (τότε) [adv] {ADV}
+    ἔπειτά (ἔπειτα) [adv] {ADV}
+    τοι (τοι) [particle] {AuxY}
+    εἶμι (εἶμι) [verb pres ind act 1 sg] {PRED_CO}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR}
+    ποτὶ (πρός) [prep] {AuxP}
+    χαλκοβατὲς (χαλκοβατής) [adj neut acc sg] {ATR}
+    δῶ (δῶμα) [noun neut acc sg] {OBJ}
+
+Line 427:
+    καί (καί) [conj] {AuxY}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    γουνάσομαι (γουνάζομαι) [verb fut ind mp 1 sg] {PRED_CO}
+    καί (καί) [conj] {COORD}
+    μιν (μιν) [pron masc acc sg] {SBJ}
+    πείσεσθαι (πείθω) [verb fut inf mid] {OBJ}
+    ὀΐω (οἴομαι) [verb pres ind act 1 sg] {PRED_CO}
+
+Line 428:
+    ὣς (ὡς) [adv] {ADV}
+    ἄρα (ἄρα) [particle] {AuxY}
+    φωνήσασ' (φωνέω) [verb aor part act sg] {ADV}
+    ἀπεβήσετο (ἀποβαίνω) [verb aor ind mid 3 sg] {PRED_CO}
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δὲ (δέ) [particle] {COORD}
+    λίπ' (λείπω) [verb aor ind act 3 sg] {PRED_CO}
+    αὐτοῦ (αὐτοῦ) [adv] {OBJ}
+
+Line 429:
+    χωόμενον (χώομαι) [verb pres part mp sg] {ATV}
+    κατὰ (κατά) [prep] {AuxP}
+    θυμὸν (θυμός) [noun masc acc sg] {ADV}
+    ἐϋζώνοιο (εὔζωνος) [adj fem gen sg] {ATR}
+    γυναικὸς (γυνή) [noun fem gen sg] {OBJ}
+
+Line 430:
+    τήν (ὁ) [pron fem acc sg] {OBJ}
+    ῥα (ἄρα) [particle] {AuxY}
+    βίῃ (βία) [noun fem dat sg] {ADV}
+    ἀέκοντος (ἀέκων) [adj masc gen sg] {AtvV}
+    ἀπηύρων (ἀπαυράω) [verb impf ind act 3 pl] {ATR}
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    Ὀδυσσεὺς (Ὀδυσσεύς) [noun masc nom sg] {SBJ}
+
+Line 431:
+    ἐς (εἰς) [prep] {AuxP}
+    Χρύσην (Χρύση) [noun fem acc sg] {OBJ}
+    ἵκανεν (ἱκάνω) [verb impf ind act 3 sg] {PRED}
+    ἄγων (ἄγω) [verb pres part act sg] {ADV}
+    ἱερὴν (ἱερός) [adj fem acc sg] {ATR}
+    ἑκατόμβην (ἑκατόμβη) [noun fem acc sg] {OBJ}
+
+Line 432:
+    οἳ (ὁ) [pron masc nom pl] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ὅτε (ὅτε) [conj] {AuxC}
+    δὴ (δή) [particle] {AuxY}
+    λιμένος (λιμήν) [noun masc gen sg] {OBJ}
+    πολυβενθέος (πολυβενθής) [adj masc gen sg] {ATR}
+    ἐντὸς (ἐντός) [prep] {AuxP}
+    ἵκοντο (ἱκνέομαι) [verb aor ind mid 3 pl] {ADV}
+
+Line 433:
+    ἱστία (ἱστίον) [noun neut acc pl] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    στείλαντο (στέλλω) [verb aor ind mid 3 pl] {PRED_CO}
+    θέσαν (τίθημι) [verb aor ind act 3 pl] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἐν (ἐν) [prep] {AuxP}
+    νηῒ (ναῦς) [noun fem dat sg] {OBJ}
+    μελαίνῃ (μέλας) [adj fem dat sg] {ATR}
+
+Line 434:
+    ἱστὸν (ἱστός) [noun masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἱστοδόκῃ (ἱστοδόκη) [noun fem dat sg] {OBJ}
+    πέλασαν (πελάζω) [verb aor ind act 3 pl] {PRED}
+    προτόνοισιν (πρότονοι) [noun masc dat pl] {ADV}
+    ὑφέντες (ὑφίημι) [verb aor part act pl] {ADV}
+
+Line 435:
+    καρπαλίμως (καρπάλιμος) [adv] {ADV}
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    εἰς (εἰς) [prep] {AuxP}
+    ὅρμον (ὅρμος2) [noun masc acc sg] {OBJ}
+    προέρεσσαν (προερέσσω) [verb aor ind act 3 pl] {PRED_CO}
+    ἐρετμοῖς (ἐρετμόν) [noun neut dat pl] {ADV}
+
+Line 436:
+    ἐκ (ἐκ) [prep] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    εὐνὰς (εὐνή) [noun fem acc pl] {OBJ}
+    ἔβαλον (βάλλω) [verb aor ind act 3 pl] {PRED_CO}
+    κατὰ (κατά) [prep] {AuxZ}
+    δὲ (δέ) [particle] {COORD}
+    πρυμνήσι' (πρυμνήσιος) [adj neut acc pl] {OBJ}
+    ἔδησαν (δέω) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 437:
+    ἐκ (ἐκ) [prep] {AuxZ}
+    δὲ (δέ) [particle] {AuxY}
+    καὶ (καί) [adv] {AuxZ}
+    αὐτοὶ (αὐτός) [adj masc nom pl] {AtvV}
+    βαῖνον (βαίνω) [verb impf ind act 3 pl] {PRED_CO}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    ῥηγμῖνι (ῥηγμίν) [noun masc dat sg] {ADV}
+    θαλάσσης (θάλασσα) [noun fem gen sg] {ATR}
+
+Line 438:
+    ἐκ (ἐκ) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἑκατόμβην (ἑκατόμβη) [noun fem acc sg] {OBJ}
+    βῆσαν (βαίνω) [verb aor ind act 3 pl] {PRED_CO}
+    ἑκηβόλῳ (ἑκηβόλος) [adj masc dat sg] {ATR}
+    Ἀπόλλωνι (Ἀπόλλων) [noun masc dat sg] {OBJ}
+
+Line 439:
+    ἐκ (ἐκ) [prep] {AuxP}
+    δὲ (δέ) [particle] {COORD}
+    Χρυσηῒς (Χρυσηίς) [noun fem nom sg] {SBJ}
+    νηὸς (ναῦς) [noun fem gen sg] {OBJ}
+    βῆ (βαίνω) [verb aor ind act 3 sg] {PRED_CO}
+    ποντοπόροιο (ποντοπόρος) [adj fem gen sg] {ATR}
+
+Line 440:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    ἔπειτ' (ἔπειτα) [adv] {ADV}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    βωμὸν (βωμός) [noun masc acc sg] {OBJ}
+    ἄγων (ἄγω) [verb pres part act sg] {ADV}
+    πολύμητις (πολύμητις) [adj masc nom sg] {ATR}
+    Ὀδυσσεὺς (Ὀδυσσεύς) [noun masc nom sg] {SBJ}
+
+Line 441:
+    πατρὶ (πατήρ) [noun masc dat sg] {ATR}
+    φίλῳ (φίλος) [adj masc dat sg] {ATR}
+    ἐν (ἐν) [prep] {AuxP}
+    χερσὶ (χείρ) [noun fem dat pl] {OBJ}
+    τίθει (τίθημι) [verb impf ind act 3 sg] {PRED_CO}
+    καί (καί) [conj] {COORD}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    προσέειπεν (προσεῖπον) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 442:
+    ὦ (ὦ) [interj] {AuxZ}
+    Χρύση (Χρύσης) [noun masc voc sg] {ExD}
+    πρό (πρό) [prep] {AuxZ}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    ἔπεμψεν (πέμπω) [verb aor ind act 3 sg] {PRED}
+    ἄναξ (ἄναξ) [noun masc nom sg] {ATR}
+    ἀνδρῶν (ἀνήρ) [noun masc gen pl] {ATR}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 443:
+    παῖδά (παῖς) [noun fem acc sg] {OBJ}
+    τε (τε) [particle] {AuxY}
+    σοὶ (σύ) [pron dat sg] {OBJ}
+    ἀγέμεν (ἄγω) [verb pres inf act] {ADV_CO}
+    Φοίβῳ (Φοῖβος) [noun masc dat sg] {OBJ}
+    θ' (τε) [particle] {COORD}
+    ἱερὴν (ἱερός) [adj fem acc sg] {ATR}
+    ἑκατόμβην (ἑκατόμβη) [noun fem acc sg] {OBJ}
+
+Line 444:
+    ῥέξαι (ῥέζω) [verb aor inf act] {ADV_CO}
+    ὑπὲρ (ὑπέρ) [prep] {AuxP}
+    Δαναῶν (Δαναοί) [noun masc gen pl] {ADV}
+    ὄφρ' (ὄφρα) [conj] {AuxC}
+    ἱλασόμεσθα (ἱλάσκομαι) [verb aor subj mid 1 pl] {ADV}
+    ἄνακτα (ἄναξ) [noun masc acc sg] {OBJ}
+
+Line 445:
+    ὃς (ὅς) [pron masc nom sg] {SBJ}
+    νῦν (νῦν) [adv] {ADV}
+    Ἀργείοισι (Ἀργεῖος) [adj masc dat pl] {OBJ}
+    πολύστονα (πολύστονος) [adj neut acc pl] {ATR}
+    κήδε' (κῆδος) [noun neut acc pl] {OBJ}
+    ἐφῆκεν (ἐφίημι) [verb aor ind act 3 sg] {ATR}
+
+Line 446:
+    ὣς (ὡς) [adv] {ADV}
+    εἰπὼν (εἶπον) [verb aor part act sg] {ADV}
+    ἐν (ἐν) [prep] {AuxP}
+    χερσὶ (χείρ) [noun fem dat pl] {OBJ}
+    τίθει (τίθημι) [verb impf ind act 3 sg] {PRED_CO}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    δέξατο (δέχομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    χαίρων (χαίρω) [verb pres part act sg] {ADV}
+
+Line 447:
+    παῖδα (παῖς) [noun fem acc sg] {OBJ}
+    φίλην (φίλος) [adj fem acc sg] {ATR}
+    τοὶ (ὁ) [pron masc nom pl] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    ὦκα (ὦκα) [adv] {ADV}
+    θεῷ (θεός) [noun masc dat sg] {OBJ}
+    ἱερὴν (ἱερός) [adj fem acc sg] {ATR}
+    ἑκατόμβην (ἑκατόμβη) [noun fem acc sg] {OBJ}
+
+Line 448:
+    ἑξείης (ἑξείης) [adv] {ADV}
+    ἔστησαν (ἵστημι) [verb aor ind act 3 pl] {PRED_CO}
+    ἐΰδμητον (εὔδμητος) [adj masc acc sg] {ATR}
+    περὶ (περί) [prep] {AuxP}
+    βωμόν (βωμός) [noun masc acc sg] {ADV}
+
+Line 449:
+    χερνίψαντο (χερνίπτομαι) [verb aor ind mp 3 pl] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+    καὶ (καί) [conj] {COORD}
+    οὐλοχύτας (οὐλοχύται) [noun fem acc pl] {OBJ}
+    ἀνέλοντο (ἀναιρέω) [verb aor ind mid 3 pl] {PRED_CO}
+
+Line 450:
+    τοῖσιν (ὁ) [pron masc dat pl] {ADV}
+    δὲ (δέ) [particle] {COORD}
+    Χρύσης (Χρύσης) [noun masc nom sg] {SBJ}
+    μεγάλ' (μέγας) [adj neut acc pl] {ADV}
+    εὔχετο (εὔχομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    χεῖρας (χείρ) [noun fem acc pl] {OBJ}
+    ἀνασχών (ἀνέχω) [verb aor part act sg] {ADV}
+
+Line 451:
+    κλῦθί (κλύω) [verb aor imperv act 2 sg] {PRED}
+    μευ (ἐγώ) [pron masc gen sg] {OBJ}
+    ἀργυρότοξ' (ἀργυρότοξος) [adj masc voc sg] {ExD}
+    ὃς (ὅς) [pron masc nom sg] {SBJ}
+    Χρύσην (Χρύση) [noun fem acc sg] {OBJ_CO}
+    ἀμφιβέβηκας (ἀμφιβαίνω) [verb perf ind act 2 sg] {ATR_CO}
+
+Line 452:
+    Κίλλαν (Κίλλα) [noun fem acc sg] {OBJ_CO}
+    τε (τε) [particle] {COORD}
+    ζαθέην (ζάθεος) [adj fem acc sg] {ATR}
+    Τενέδοιό (Τένεδος) [noun fem gen sg] {OBJ}
+    τε (τε) [particle] {COORD}
+    ἶφι (ἶφι) [adv] {ADV}
+    ἀνάσσεις (ἀνάσσω) [verb pres ind act 2 sg] {ATR_CO}
+
+Line 453:
+    ἦ (ἦ) [adv] {AuxY}
+    μὲν (μέν) [particle] {AuxY}
+    δή (δή) [particle] {AuxY}
+    ποτ' (ποτέ) [particle] {ADV}
+    ἐμεῦ (ἐγώ) [pron masc gen sg] {OBJ}
+    πάρος (πάρος) [adv] {ADV}
+    ἔκλυες (κλύω) [verb aor ind act 2 sg] {PRED}
+    εὐξαμένοιο (εὔχομαι) [verb aor part mid sg] {ATV}
+
+Line 454:
+    τίμησας (τιμάω) [verb aor ind act 2 sg] {PRED_AP_CO}
+    μὲν (μέν) [particle] {AuxY}
+    ἐμέ (ἐγώ) [pron masc acc sg] {OBJ}
+    μέγα (μέγας) [adj neut acc sg] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ἴψαο (ἴπτομαι) [verb aor ind mp 2 sg] {PRED_AP_CO}
+    λαὸν (λαός) [noun masc acc sg] {OBJ}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 455:
+    ἠδ' (ἠδέ) [adv] {AuxY}
+    ἔτι (ἔτι) [adv] {ADV}
+    καὶ (καί) [adv] {AuxZ}
+    νῦν (νῦν) [adv] {ADV}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    τόδ' (ὅδε) [pron neut acc sg] {ATR}
+    ἐπικρήηνον (ἐπικραίνω) [verb aor imperv act 2 sg] {PRED}
+    ἐέλδωρ (ἔλδωρ) [noun neut acc sg] {OBJ}
+
+Line 456:
+    ἤδη (ἤδη) [adv] {ADV}
+    νῦν (νῦν) [adv] {ADV}
+    Δαναοῖσιν (Δαναοί) [noun masc dat pl] {OBJ}
+    ἀεικέα (ἀεικής) [adj masc acc sg] {ATR}
+    λοιγὸν (λοιγός) [noun masc acc sg] {OBJ}
+    ἄμυνον (ἀμύνω) [verb aor imperv act 2 sg] {PRED}
+
+Line 457:
+    ὣς (ὡς) [adv] {ADV}
+    ἔφατ' (φημί) [verb impf ind mp 3 sg] {PRED_CO}
+    εὐχόμενος (εὔχομαι) [verb pres part mp sg] {ADV}
+    τοῦ (ὁ) [pron masc gen sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἔκλυε (κλύω) [verb impf ind act 3 sg] {PRED_CO}
+    Φοῖβος (Φοῖβος) [noun masc nom sg] {ATR}
+    Ἀπόλλων (Ἀπόλλων) [noun masc nom sg] {SBJ}
+
+Line 458:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ἐπεί (ἐπεί) [conj] {AuxC}
+    ῥ' (ἄρα) [particle] {AuxY}
+    εὔξαντο (εὔχομαι) [verb aor ind mid 3 pl] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    οὐλοχύτας (οὐλοχύται) [noun fem acc pl] {OBJ}
+    προβάλοντο (προβάλλω) [verb aor ind mid 3 pl] {ADV_CO}
+
+Line 459:
+    αὐέρυσαν (αὐερύω) [verb aor ind act 3 pl] {PRED_CO}
+    μὲν (μέν) [particle] {AuxY}
+    πρῶτα (πρῶτος) [adj neut acc pl] {ADV}
+    καὶ (καί) [conj] {AuxY}
+    ἔσφαξαν (σφάζω) [verb aor ind act 3 pl] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    ἔδειραν (δέρω) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 460:
+    μηρούς (μηρός) [noun masc acc pl] {OBJ}
+    τ' (τε) [particle] {AuxY}
+    ἐξέταμον (ἐκτέμνω) [verb aor ind act 3 pl] {PRED_CO}
+    κατά (κατά) [prep] {AuxZ}
+    τε (τε) [particle] {COORD}
+    κνίσῃ (κνῖσα) [noun fem dat sg] {ADV}
+    ἐκάλυψαν (καλύπτω) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 461:
+    δίπτυχα (δίπτυχος) [adj neut acc pl] {ADV}
+    ποιήσαντες (ποιέω) [verb aor part act pl] {ADV}
+    ἐπ' (ἐπί) [prep] {AuxP}
+    αὐτῶν (αὐτός) [adj masc gen pl] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ὠμοθέτησαν (ὠμοθετέω) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 462:
+    καῖε (καίω) [verb impf ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {AuxY}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    σχίζῃς (σχίζα) [noun fem dat pl] {ADV}
+    ὁ (ὁ) [article masc nom sg] {ATR}
+    γέρων (γέρων) [noun masc nom sg] {SBJ}
+    ἐπὶ (ἐπί) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    αἴθοπα (αἶθοψ) [adj masc acc sg] {ATR}
+    οἶνον (οἶνος) [noun masc acc sg] {OBJ}
+
+Line 463:
+    λεῖβε (λείβω) [verb impf ind act 3 sg] {PRED_CO}
+    νέοι (νέος) [adj masc nom pl] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    παρ' (παρά) [prep] {AuxP}
+    αὐτὸν (αὐτός) [adj masc acc sg] {ADV}
+    ἔχον (ἔχω) [verb impf ind act 3 pl] {PRED_CO}
+    πεμπώβολα (πεμπώβολον) [noun neut acc pl] {OBJ}
+    χερσίν (χείρ) [noun fem dat pl] {ADV}
+
+Line 464:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    κατὰ (κατά) [prep] {AuxZ}
+    μῆρε (μῆρα) [noun neut nom dual] {SBJ}
+    κάη (καίω) [verb aor ind pass 3 sg] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    σπλάγχνα (σπλάγχνον) [noun neut acc pl] {OBJ}
+    πάσαντο (πατέομαι) [verb aor ind mid 3 pl] {ADV_CO}
+
+Line 465:
+    μίστυλλόν (μιστύλλω) [verb impf ind act 3 pl] {PRED_CO}
+    τ' (τε) [particle] {AuxY}
+    ἄρα (ἄρα) [particle] {AuxY}
+    τἆλλα (ἄλλος) [adj neut acc pl] {OBJ}
+    καὶ (καί) [conj] {AuxY}
+    ἀμφ' (ἀμφί) [prep] {AuxP}
+    ὀβελοῖσιν (ὀβελός) [noun masc dat pl] {ADV}
+    ἔπειραν (πείρω) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 466:
+    ὤπτησάν (ὀπτάω) [verb aor ind act 3 pl] {PRED_CO}
+    τε (τε) [particle] {AuxY}
+    περιφραδέως (περιφραδής) [adv] {ADV}
+    ἐρύσαντό (ἐρύω1) [verb aor ind mid 3 pl] {PRED_CO}
+    τε (τε) [particle] {COORD}
+    πάντα (πᾶς) [adj neut acc pl] {OBJ}
+
+Line 467:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    παύσαντο (παύω) [verb aor ind mid 3 pl] {ADV_CO}
+    πόνου (πόνος) [noun masc gen sg] {OBJ}
+    τετύκοντό (τεύχω) [verb aor ind mid 3 pl] {ADV_CO}
+    τε (τε) [particle] {COORD}
+    δαῖτα (δαίς1) [noun fem acc sg] {OBJ}
+
+Line 468:
+    δαίνυντ' (δαίνυμι) [verb impf ind mp 3 pl] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    τι (τις) [pron neut acc sg] {ADV}
+    θυμὸς (θυμός) [noun masc nom sg] {SBJ}
+    ἐδεύετο (δέω) [verb impf ind mp 3 sg] {PRED_CO}
+    δαιτὸς (δαίς1) [noun fem gen sg] {OBJ}
+    ἐΐσης (ἴσος) [adj fem gen sg] {ATR}
+
+Line 469:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    πόσιος (πόσις2) [noun fem gen sg] {ATR_CO}
+    καὶ (καί) [conj] {COORD}
+    ἐδητύος (ἐδητύς) [noun fem gen sg] {ATR_CO}
+    ἐξ (ἐκ) [prep] {AuxZ}
+    ἔρον (ἔρος) [noun masc acc sg] {OBJ}
+    ἕντο (ἵημι) [verb aor ind mid 3 pl] {ADV}
+
+Line 470:
+    κοῦροι (κοῦρος) [noun masc nom pl] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    κρητῆρας (κρατήρ) [noun masc acc pl] {OBJ}
+    ἐπεστέψαντο (ἐπιστέφω) [verb aor ind mid 3 pl] {PRED_CO}
+    ποτοῖο (ποτός) [adj masc gen sg] {OBJ}
+
+Line 471:
+    νώμησαν (νωμάω) [verb aor ind act 3 pl] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἄρα (ἄρα) [particle] {AuxY}
+    πᾶσιν (πᾶς) [adj masc dat pl] {OBJ}
+    ἐπαρξάμενοι (ἐπάρχω) [verb aor part mid pl] {ADV}
+    δεπάεσσιν (δέπας) [noun neut dat pl] {ADV}
+
+Line 472:
+    οἳ (ὁ) [pron masc nom pl] {SBJ_AP}
+    δὲ (δέ) [particle] {COORD}
+    πανημέριοι (πανημέριος) [adj masc nom pl] {ATV}
+    μολπῇ (μολπή) [noun fem dat sg] {ADV}
+    θεὸν (θεός) [noun masc acc sg] {OBJ}
+    ἱλάσκοντο (ἱλάσκομαι) [verb impf ind mp 3 pl] {PRED_CO}
+
+Line 473:
+    καλὸν (καλός) [adj masc acc sg] {ATR}
+    ἀείδοντες (ἀείδω) [verb pres part act pl] {ADV}
+    παιήονα (παιάν) [noun masc acc sg] {OBJ}
+    κοῦροι (κοῦρος) [noun masc nom pl] {SBJ_AP}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 474:
+    μέλποντες (μέλπω) [verb pres part act pl] {ADV}
+    ἑκάεργον (Ἑκάεργος) [adj masc acc sg] {OBJ}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    φρένα (φρήν) [noun fem acc sg] {OBJ}
+    τέρπετ' (τέρπω) [verb impf ind mp 3 sg] {PRED_CO}
+    ἀκούων (ἀκούω) [verb pres part act sg] {ADV}
+
+Line 475:
+    ἦμος (ἦμος) [conj] {AuxC}
+    δ' (δέ) [particle] {COORD}
+    ἠέλιος (ἥλιος) [noun masc nom sg] {SBJ}
+    κατέδυ (καταδύω) [verb aor ind act 3 sg] {ADV_CO}
+    καὶ (καί) [conj] {COORD}
+    ἐπὶ (ἐπί) [prep] {AuxZ}
+    κνέφας (κνέφας) [noun neut nom sg] {SBJ}
+    ἦλθε (ἔρχομαι) [verb aor ind act 3 sg] {ADV_CO}
+
+Line 476:
+    δὴ (δή) [particle] {AuxY}
+    τότε (τότε) [adv] {ADV}
+    κοιμήσαντο (κοιμάω) [verb aor ind mid 3 pl] {PRED_CO}
+    παρὰ (παρά) [prep] {AuxP}
+    πρυμνήσια (πρυμνήσιος) [adj neut acc pl] {ADV}
+    νηός (ναῦς) [noun fem gen sg] {ATR}
+
+Line 477:
+    ἦμος (ἦμος) [conj] {AuxC}
+    δ' (δέ) [particle] {COORD}
+    ἠριγένεια (ἠριγένεια) [adj fem nom sg] {ATR}
+    φάνη (φαίνω) [verb aor ind pass 3 sg] {ADV}
+    ῥοδοδάκτυλος (ῥοδοδάκτυλος) [adj fem nom sg] {ATR}
+    Ἠώς (ἠώς) [noun fem nom sg] {SBJ}
+
+Line 478:
+    καὶ (καί) [adv] {AuxY}
+    τότ' (τότε) [adv] {ADV}
+    ἔπειτ' (ἔπειτα) [adv] {AuxY}
+    ἀνάγοντο (ἀνάγω) [verb impf ind mp 3 pl] {PRED_CO}
+    μετὰ (μετά) [prep] {AuxP}
+    στρατὸν (στρατός) [noun masc acc sg] {OBJ}
+    εὐρὺν (εὐρύς) [adj masc acc sg] {ATR}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 479:
+    τοῖσιν (ὁ) [pron masc dat pl] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἴκμενον (ἴκμενος) [adj masc acc sg] {ATR}
+    οὖρον (οὖρος) [noun masc acc sg] {OBJ}
+    ἵει (ἵημι) [verb impf ind act 3 sg] {PRED_CO}
+    ἑκάεργος (Ἑκάεργος) [adj masc nom sg] {ATR}
+    Ἀπόλλων (Ἀπόλλων) [noun masc nom sg] {SBJ}
+
+Line 480:
+    οἳ (ὁ) [pron masc nom pl] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἱστὸν (ἱστός) [noun masc acc sg] {OBJ}
+    στήσαντ' (ἵστημι) [verb aor ind mid 3 pl] {PRED_CO}
+    ἀνά (ἀνά) [prep] {AuxZ}
+    θ' (τε) [particle] {COORD}
+    ἱστία (ἱστίον) [noun neut acc pl] {OBJ}
+    λευκὰ (λευκός) [adj neut acc pl] {ATR}
+    πέτασσαν (πετάννυμι) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 481:
+    ἐν (ἐν) [prep] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    ἄνεμος (ἄνεμος) [noun masc nom sg] {SBJ}
+    πρῆσεν (πρήθω) [verb aor ind act 3 sg] {PRED_CO}
+    μέσον (μέσος) [adj neut acc sg] {ATR}
+    ἱστίον (ἱστίον) [noun neut acc sg] {OBJ}
+    ἀμφὶ (ἀμφί) [prep] {AuxP}
+    δὲ (δέ) [particle] {COORD}
+    κῦμα (κῦμα) [noun neut nom sg] {SBJ}
+
+Line 482:
+    στείρῃ (στεῖρα) [noun fem dat sg] {ADV}
+    πορφύρεον (πορφύρεος) [adj neut nom sg] {ATR}
+    μεγάλ' (μέγας) [adj neut acc pl] {ADV}
+    ἴαχε (ἰάχω) [verb impf ind act 3 sg] {PRED_CO}
+    νηὸς (ναῦς) [noun fem gen sg] {SBJ}
+    ἰούσης (εἶμι) [verb pres part act sg] {ADV}
+
+Line 483:
+    ἣ (ὁ) [pron fem nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἔθεεν (θέω) [verb impf ind act 3 sg] {PRED_CO}
+    κατὰ (κατά) [prep] {AuxP}
+    κῦμα (κῦμα) [noun neut acc sg] {OBJ}
+    διαπρήσσουσα (διαπράσσω) [verb pres part act sg] {ADV}
+    κέλευθον (κέλευθος) [noun fem acc sg] {OBJ}
+
+Line 484:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ἐπεί (ἐπεί) [conj] {AuxC}
+    ῥ' (ἄρα) [particle] {AuxY}
+    ἵκοντο (ἱκνέομαι) [verb aor ind mid 3 pl] {ADV}
+    κατὰ (κατά) [prep] {AuxP}
+    στρατὸν (στρατός) [noun masc acc sg] {OBJ}
+    εὐρὺν (εὐρύς) [adj masc acc sg] {ATR}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 485:
+    νῆα (ναῦς) [noun fem acc sg] {OBJ}
+    μὲν (μέν) [particle] {AuxY}
+    οἵ (ὁ) [pron masc nom pl] {SBJ}
+    γε (γε) [particle] {AuxZ}
+    μέλαιναν (μέλας) [adj fem acc sg] {ATR}
+    ἐπ' (ἐπί) [prep] {AuxP}
+    ἠπείροιο (ἤπειρος) [noun fem gen sg] {OBJ}
+    ἔρυσσαν (ἐρύω1) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 486:
+    ὑψοῦ (ὑψοῦ) [adv] {ADV}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    ψαμάθοις (ψάμαθος) [noun fem dat pl] {ADV}
+    ὑπὸ (ὑπό) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἕρματα (ἕρμα) [noun neut acc pl] {OBJ}
+    μακρὰ (μακρός) [adj neut acc pl] {ATR}
+    τάνυσσαν (τανύω) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 487:
+    αὐτοὶ (αὐτός) [adj masc nom pl] {AtvV}
+    δ' (δέ) [particle] {COORD}
+    ἐσκίδναντο (σκίδνημι) [verb impf ind mp 3 pl] {PRED_CO}
+    κατὰ (κατά) [prep] {AuxP}
+    κλισίας (κλισία) [noun fem acc pl] {OBJ_CO}
+    τε (τε) [particle] {AuxY}
+    νέας (ναῦς) [noun fem acc pl] {OBJ_CO}
+    τε (τε) [particle] {COORD}
+
+Line 488:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ὃ (ὁ) [pron masc nom sg] {SBJ_AP}
+    μήνιε (μηνίω) [verb impf ind act 3 sg] {PRED}
+    νηυσὶ (ναῦς) [noun fem dat pl] {OBJ}
+    παρήμενος (πάρημαι) [verb pres part mp sg] {ADV}
+    ὠκυπόροισι (ὠκύπορος) [adj fem dat pl] {ATR}
+
+Line 489:
+    διογενὴς (διογενής) [adj masc nom sg] {ATR}
+    Πηλῆος (Πηλεύς) [noun masc gen sg] {ATR}
+    υἱὸς (υἱός) [noun masc nom sg] {SBJ_AP}
+    πόδας (πούς) [noun masc acc pl] {ATR}
+    ὠκὺς (ὠκύς) [adj masc nom sg] {ATR}
+    Ἀχιλλεύς (Ἀχιλλεύς) [noun masc nom sg] {SBJ_AP}
+
+Line 490:
+    οὔτέ (οὔτε) [adv] {AuxY}
+    ποτ' (ποτέ) [particle] {ADV}
+    εἰς (εἰς) [prep] {AuxP}
+    ἀγορὴν (ἀγορά) [noun fem acc sg] {OBJ}
+    πωλέσκετο (πωλέομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    κυδιάνειραν (κυδιάνειρα) [adj fem acc sg] {ATR}
+
+Line 491:
+    οὔτέ (οὔτε) [adv] {COORD}
+    ποτ' (ποτέ) [particle] {ADV}
+    ἐς (εἰς) [prep] {AuxP}
+    πόλεμον (πόλεμος) [noun masc acc sg] {OBJ}
+    ἀλλὰ (ἀλλά) [conj] {AuxY}
+    φθινύθεσκε (φθινύθω) [verb impf ind act 3 sg] {PRED_CO}
+    φίλον (φίλος) [adj neut acc sg] {ATR}
+    κῆρ (κῆρ) [noun neut acc sg] {OBJ}
+
+Line 492:
+    αὖθι (αὖθι) [adv] {OBJ}
+    μένων (μένω) [verb pres part act sg] {ADV}
+    ποθέεσκε (ποθέω) [verb impf ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἀϋτήν (ἀυτή) [noun fem acc sg] {OBJ_CO}
+    τε (τε) [particle] {AuxY}
+    πτόλεμόν (πόλεμος) [noun masc acc sg] {OBJ_CO}
+    τε (τε) [particle] {COORD}
+
+Line 493:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ὅτε (ὅτε) [conj] {AuxC}
+    δή (δή) [particle] {AuxY}
+    ῥ' (ἄρα) [particle] {AuxY}
+    ἐκ (ἐκ) [prep] {AuxP}
+    τοῖο (ὁ) [pron neut gen sg] {ATR}
+    δυωδεκάτη (δωδέκατος) [adj fem nom sg] {ATR}
+    γένετ' (γίγνομαι) [verb aor ind mid 3 sg] {ADV}
+    ἠώς (ἠώς) [noun fem nom sg] {SBJ}
+
+Line 494:
+    καὶ (καί) [adv] {AuxY}
+    τότε (τότε) [adv] {ADV}
+    δὴ (δή) [particle] {AuxY}
+    πρὸς (πρός) [prep] {AuxP}
+    Ὄλυμπον (Ὄλυμπος) [noun masc acc sg] {OBJ}
+    ἴσαν (εἶμι) [verb impf ind act 3 pl] {PRED_CO}
+    θεοὶ (θεός) [noun masc nom pl] {SBJ}
+    αἰὲν (ἀεί) [adv] {ADV}
+    ἐόντες (εἰμί) [verb pres part act pl] {ATR}
+
+Line 495:
+    πάντες (πᾶς) [adj masc nom pl] {ATR}
+    ἅμα (ἅμα) [adv] {ADV}
+    Ζεὺς (Ζεύς) [noun masc nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἦρχε (ἄρχω) [verb impf ind act 3 sg] {PRED_CO}
+    Θέτις (Θέτις) [noun fem nom sg] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    οὐ (οὐ) [adv] {AuxZ}
+    λήθετ' (λανθάνω) [verb impf ind mp 3 sg] {PRED_CO}
+    ἐφετμέων (ἐφετμή) [noun fem gen pl] {OBJ}
+
+Line 496:
+    παιδὸς (παῖς) [noun masc gen sg] {ATR}
+    ἑοῦ (ἑός) [adj masc gen sg] {ATR}
+    ἀλλ' (ἀλλά) [conj] {COORD}
+    ἥ (ὁ) [pron fem nom sg] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    ἀνεδύσετο (ἀναδύνω) [verb aor ind mid 3 sg] {PRED_CO}
+    κῦμα (κῦμα) [noun neut acc sg] {OBJ}
+    θαλάσσης (θάλασσα) [noun fem gen sg] {ATR}
+
+Line 497:
+    ἠερίη (ἠέριος) [adj fem nom sg] {AtvV}
+    δ' (δέ) [particle] {COORD}
+    ἀνέβη (ἀναβαίνω) [verb aor ind act 3 sg] {PRED_CO}
+    μέγαν (μέγας) [adj masc acc sg] {ATR}
+    οὐρανὸν (οὐρανός) [noun masc acc sg] {OBJ_CO}
+    Οὔλυμπόν (Ὄλυμπος) [noun masc acc sg] {OBJ_CO}
+    τε (τε) [particle] {COORD}
+
+Line 498:
+    εὗρεν (εὑρίσκω) [verb aor ind act 3 sg] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    εὐρύοπα (εὐρύοπα) [adj masc acc sg] {ATR}
+    Κρονίδην (Κρονίδης) [noun masc acc sg] {OBJ}
+    ἄτερ (ἄτερ) [prep] {AuxP}
+    ἥμενον (ἧμαι) [verb perf part mp sg] {ATV}
+    ἄλλων (ἄλλος) [adj masc gen pl] {ADV_CO}
+
+Line 499:
+    ἀκροτάτῃ (ἄκρος) [adj fem dat sg superl] {ATR}
+    κορυφῇ (κορυφή) [noun fem dat sg] {ADV}
+    πολυδειράδος (πολυδειράς) [adj masc gen sg] {ATR}
+    Οὐλύμποιο (Ὄλυμπος) [noun masc gen sg] {ATR}
+
+Line 500:
+    καί (καί) [adv] {AuxY}
+    ῥα (ἄρα) [particle] {AuxY}
+    πάροιθ' (πάροιθε) [prep] {AuxP}
+    αὐτοῖο (αὐτός) [adj masc gen sg] {OBJ}
+    καθέζετο (καθέζομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {AuxY}
+    λάβε (λαμβάνω) [verb aor ind act 3 sg] {PRED_CO}
+    γούνων (γόνυ) [noun neut gen pl] {OBJ}
+
+Line 501:
+    σκαιῇ (σκαιός) [adj fem dat sg] {ADV}
+    δεξιτερῇ (δεξιτερός) [adj fem dat sg] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ὑπ' (ὑπό) [prep] {AuxP}
+    ἀνθερεῶνος (ἀνθερεών) [noun masc gen sg] {ADV}
+    ἑλοῦσα (αἱρέω) [verb aor part act sg] {ADV}
+
+Line 502:
+    λισσομένη (λίσσομαι) [verb pres part mp sg] {ADV}
+    προσέειπε (προσεῖπον) [verb aor ind act 3 sg] {PRED_CO}
+    Δία (Ζεύς) [noun masc acc sg] {OBJ}
+    Κρονίωνα (Κρονίων) [noun masc acc sg] {ATR}
+    ἄνακτα (ἄναξ) [noun masc acc sg] {ATR}
+
+Line 503:
+    Ζεῦ (Ζεύς) [noun masc voc sg] {ExD}
+    πάτερ (πατήρ) [noun masc voc sg] {ATR}
+    εἴ (εἰ) [conj] {AuxC}
+    ποτε (ποτέ) [particle] {AuxY}
+    δή (δή) [particle] {AuxY}
+    σε (σύ) [pron acc sg] {OBJ}
+    μετ' (μετά) [prep] {AuxP}
+    ἀθανάτοισιν (ἀθάνατος) [adj masc dat pl] {ADV}
+    ὄνησα (ὀνίνημι) [verb aor ind act 1 sg] {ADV}
+
+Line 504:
+    ἢ (ἤ) [conj] {AuxY}
+    ἔπει (ἔπος) [noun neut dat sg] {ADV_CO}
+    ἢ (ἤ) [conj] {COORD}
+    ἔργῳ (ἔργον) [noun neut dat sg] {ADV_CO}
+    τόδε (ὅδε) [pron neut acc sg] {ATR}
+    μοι (ἐγώ) [pron masc dat sg] {OBJ}
+    κρήηνον (κραίνω) [verb aor imperv act 2 sg] {PRED}
+    ἐέλδωρ (ἔλδωρ) [noun neut acc sg] {OBJ}
+
+Line 505:
+    τίμησόν (τιμάω) [verb aor imperv act 2 sg] {PRED}
+    μοι (ἐγώ) [pron fem dat sg] {ATR}
+    υἱὸν (υἱός) [noun masc acc sg] {OBJ}
+    ὃς (ὅς) [pron masc nom sg] {SBJ}
+    ὠκυμορώτατος (ὠκύμορος) [adj masc nom sg superl] {PNOM}
+    ἄλλων (ἄλλος) [adj masc gen pl] {ATR}
+
+Line 506:
+    ἔπλετ' (πέλω) [verb aor ind mp 3 sg] {ATR}
+    ἀτάρ (ἀτάρ) [particle] {AuxY}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    νῦν (νῦν) [adv] {ADV}
+    γε (γε) [particle] {AuxZ}
+    ἄναξ (ἄναξ) [noun masc nom sg] {ATR}
+    ἀνδρῶν (ἀνήρ) [noun masc gen pl] {ATR}
+    Ἀγαμέμνων (Ἀγαμέμνων) [noun masc nom sg] {SBJ}
+
+Line 507:
+    ἠτίμησεν (ἀτιμάω) [verb aor ind act 3 sg] {PRED}
+    ἑλὼν (αἱρέω) [verb aor part act sg] {ADV}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἔχει (ἔχω) [verb pres ind act 3 sg] {PRED}
+    γέρας (γέρας) [noun neut acc sg] {OBJ}
+    αὐτὸς (αὐτός) [adj masc nom sg] {AtvV}
+    ἀπούρας (ἀπαυράω) [verb aor part act sg] {ADV}
+
+Line 508:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    σύ (σύ) [pron nom sg] {SBJ}
+    πέρ (πέρ) [particle] {AuxZ}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    τῖσον (τίνω) [verb aor imperv act 2 sg] {PRED}
+    Ὀλύμπιε (Ὀλύμπιος) [adj masc voc sg] {ATR}
+    μητίετα (μητίετα) [noun masc voc sg] {ATR}
+    Ζεῦ (Ζεύς) [noun masc voc sg] {ExD}
+
+Line 509:
+    τόφρα (τόφρα) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    Τρώεσσι (Τρώς) [noun masc dat pl] {OBJ}
+    τίθει (τίθημι) [verb pres imperv act 2 sg] {PRED_CO}
+    κράτος (κράτος) [noun neut acc sg] {OBJ}
+    ὄφρ' (ὄφρα) [conj] {AuxC}
+    ἂν (ἄν) [particle] {AuxY}
+    Ἀχαιοὶ (Ἀχαιός) [adj masc nom pl] {SBJ}
+
+Line 510:
+    υἱὸν (υἱός) [noun masc acc sg] {OBJ}
+    ἐμὸν (ἐμός) [adj masc acc sg] {ATR}
+    τίσωσιν (τίνω) [verb aor subj act 3 pl] {ADV_CO}
+    ὀφέλλωσίν (ὀφέλλω) [verb aor subj act 3 pl] {ADV_CO}
+    τέ (τε) [particle] {COORD}
+    ἑ (ἕ) [pron masc acc sg] {OBJ}
+    τιμῇ (τιμή) [noun fem dat sg] {ADV}
+
+Line 511:
+    ὣς (ὡς) [adv] {ADV}
+    φάτο (φημί) [verb aor ind mid 3 sg] {PRED}
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    οὔ (οὐ) [adv] {AuxZ}
+    τι (τις) [pron neut acc sg] {OBJ}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    νεφεληγερέτα (νεφεληγερέτα) [noun masc nom sg] {ATR}
+    Ζεύς (Ζεύς) [noun masc nom sg] {SBJ}
+
+Line 512:
+    ἀλλ' (ἀλλά) [conj] {COORD}
+    ἀκέων (ἀκέων) [adj masc nom sg] {AtvV}
+    δὴν (δήν) [adv] {ADV}
+    ἧστο (ἧμαι) [verb plup ind mid 3 sg] {PRED_CO}
+    Θέτις (Θέτις) [noun fem nom sg] {SBJ}
+    δ' (δέ) [particle] {AuxY}
+    ὡς (ὡς) [adv] {ADV}
+    ἥψατο (ἅπτω) [verb aor ind mid 3 sg] {ADV}
+    γούνων (γόνυ) [noun neut gen pl] {OBJ}
+
+Line 513:
+    ὣς (ὡς) [adv] {ADV}
+    ἔχετ' (ἔχω) [verb impf ind mp 3 sg] {PRED_CO}
+    ἐμπεφυυῖα (ἐμφύω) [verb perf part act sg] {ADV}
+    καὶ (καί) [conj] {COORD}
+    εἴρετο (ἔρομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    δεύτερον (δεύτερος) [adj neut acc sg] {ADV}
+    αὖτις (αὖθις) [adv] {ADV}
+
+Line 514:
+    νημερτὲς (νημερτής) [adj neut acc sg] {ADV}
+    μὲν (μέν) [particle] {AuxY}
+    δή (δή) [particle] {AuxY}
+    μοι (ἐγώ) [pron fem dat sg] {OBJ}
+    ὑπόσχεο (ὑπισχνέομαι) [verb aor ind mid 2 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    κατάνευσον (κατανεύω) [verb aor imperv act 2 sg] {PRED_CO}
+
+Line 515:
+    ἢ (ἤ) [conj] {COORD}
+    ἀπόειπ' (ἀπεῖπον) [verb aor imperv act 2 sg] {PRED_CO}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    οὔ (οὐ) [adv] {AuxZ}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ἔπι (ἐπί) [prep] {AuxZ}
+    δέος (δέος) [noun neut nom sg] {SBJ}
+    ὄφρ' (ὄφρα) [conj] {AuxC}
+    ἐῢ (εὖ) [adv] {ADV}
+    εἰδέω (οἶδα) [verb perf subj act 1 sg] {ADV}
+
+Line 516:
+    ὅσσον (ὅσος) [adj neut acc sg] {ADV}
+    ἐγὼ (ἐγώ) [pron fem nom sg] {SBJ}
+    μετὰ (μετά) [prep] {AuxP}
+    πᾶσιν (πᾶς) [adj masc dat pl] {ADV}
+    ἀτιμοτάτη (ἄτιμος) [adj fem nom sg superl] {ATR}
+    θεός (θεός) [noun fem nom sg] {PNOM}
+    εἰμι (εἰμί) [verb pres ind act 1 sg] {OBJ}
+
+Line 517:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δὲ (δέ) [particle] {COORD}
+    μέγ' (μέγας) [adj neut acc sg] {ADV}
+    ὀχθήσας (ὀχθέω) [verb aor part act sg] {ADV}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    νεφεληγερέτα (νεφεληγερέτα) [noun masc nom sg] {ATR}
+    Ζεύς (Ζεύς) [noun masc nom sg] {SBJ}
+
+Line 518:
+    ἦ (ἦ) [adv] {AuxY}
+    δὴ (δή) [particle] {AuxY}
+    λοίγια (λοίγιος) [adj neut nom pl] {ATR}
+    ἔργ' (ἔργον) [noun neut nom pl] {SBJ}
+    ὅ (ὅς) [pron neut acc sg] {AuxC}
+    τέ (τε) [particle] {AuxY}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    ἐχθοδοπῆσαι (ἐχθοδοπέω) [verb aor inf act] {OBJ}
+    ἐφήσεις (ἐφίημι) [verb fut ind act 2 sg] {ADV}
+
+Line 519:
+    Ἥρῃ (Ἥρα) [noun fem dat sg] {OBJ}
+    ὅτ' (ὅτε) [conj] {AuxC}
+    ἄν (ἄν) [particle] {AuxY}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    ἐρέθῃσιν (ἐρέθω) [verb pres subj act 3 sg] {ADV}
+    ὀνειδείοις (ὀνείδειος) [adj neut dat pl] {ATR}
+    ἐπέεσσιν (ἔπος) [noun neut dat pl] {ADV}
+
+Line 520:
+    ἣ (ὁ) [pron fem nom sg] {SBJ}
+    δὲ (δέ) [particle] {AuxY}
+    καὶ (καί) [adv] {AuxZ}
+    αὔτως (αὔτως) [adv] {ADV}
+    μ' (ἐγώ) [pron masc acc sg] {OBJ}
+    αἰεὶ (ἀεί) [adv] {ADV}
+    ἐν (ἐν) [prep] {AuxP}
+    ἀθανάτοισι (ἀθάνατος) [adj masc dat pl] {ATR}
+    θεοῖσι (θεός) [noun masc dat pl] {ADV}
+
+Line 521:
+    νεικεῖ (νεικέω) [verb pres ind act 3 sg] {PRED_CO}
+    καί (καί) [conj] {COORD}
+    τέ (τε) [particle] {AuxY}
+    μέ (ἐγώ) [pron masc acc sg] {SBJ}
+    φησι (φημί) [verb pres ind act 3 sg] {PRED_CO}
+    μάχῃ (μάχη) [noun fem dat sg] {ADV}
+    Τρώεσσιν (Τρώς) [noun masc dat pl] {OBJ}
+    ἀρήγειν (ἀρήγω) [verb pres inf act] {OBJ}
+
+Line 522:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    νῦν (νῦν) [adv] {ADV}
+    αὖτις (αὖθις) [adv] {ADV}
+    ἀπόστιχε (ἀποστείχω) [verb aor imperv act 2 sg] {PRED}
+    μή (μή) [conj] {AuxC}
+    τι (τις) [pron neut acc sg] {OBJ}
+    νοήσῃ (νοέω) [verb aor subj act 3 sg] {ADV}
+
+Line 523:
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ}
+    ἐμοὶ (ἐγώ) [pron masc dat sg] {OBJ}
+    δέ (δέ) [particle] {COORD}
+    κε (ἄν) [particle] {AuxY}
+    ταῦτα (οὗτος) [adj neut nom pl] {SBJ}
+    μελήσεται (μέλω) [verb fut ind mid 3 sg] {PRED_CO}
+    ὄφρα (ὄφρα) [conj] {AuxC}
+    τελέσσω (τελέω) [verb aor subj act 1 sg] {ADV}
+
+Line 524:
+    εἰ (εἰ) [interj] {AuxY}
+    δ' (δέ) [particle] {COORD}
+    ἄγε (ἄγε) [adv] {AuxY}
+    τοι (σύ) [pron dat sg] {OBJ}
+    κεφαλῇ (κεφαλή) [noun fem dat sg] {ADV}
+    κατανεύσομαι (κατανεύω) [verb fut ind mid 1 sg] {PRED_CO}
+    ὄφρα (ὄφρα) [conj] {AuxC}
+    πεποίθῃς (πείθω) [verb perf subj act 2 sg] {ADV}
+
+Line 525:
+    τοῦτο (οὗτος) [adj neut nom sg] {SBJ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἐξ (ἐκ) [prep] {AuxP}
+    ἐμέθεν (ἐγώ) [pron masc gen sg] {ADV}
+    γε (γε) [particle] {AuxZ}
+    μετ' (μετά) [prep] {AuxP}
+    ἀθανάτοισι (ἀθάνατος) [adj masc dat pl] {ADV}
+    μέγιστον (μέγας) [adj neut nom sg] {ATR}
+
+Line 526:
+    τέκμωρ (τέκμαρ) [noun neut nom sg] {PNOM}
+    οὐ (οὐ) [adv] {AuxZ}
+    γὰρ (γάρ) [particle] {AuxY}
+    ἐμὸν (ἐμός) [adj neut nom sg] {ATR}
+    παλινάγρετον (παλινάγρετος) [adj neut nom sg] {PNOM_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {AuxY}
+    ἀπατηλὸν (ἀπατηλός) [adj neut nom sg] {PNOM_CO}
+
+Line 527:
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἀτελεύτητον (ἀτελεύτητος) [adj neut nom sg] {PNOM_CO}
+    ὅ (ὅς) [pron neut acc sg] {OBJ}
+    τί (τις) [pron neut acc sg] {ATR}
+    κεν (ἄν) [particle] {AuxY}
+    κεφαλῇ (κεφαλή) [noun fem dat sg] {ADV}
+    κατανεύσω (κατανεύω) [verb aor subj act 1 sg] {ATR}
+
+Line 528:
+    ἦ (ἠμί) [verb impf ind act 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    κυανέῃσιν (κυάνεος) [adj fem dat pl] {ATR}
+    ἐπ' (ἐπί) [prep] {AuxZ}
+    ὀφρύσι (ὀφρύς) [noun fem dat pl] {ADV}
+    νεῦσε (νεύω) [verb aor ind act 3 sg] {PRED_CO}
+    Κρονίων (Κρονίων) [noun masc nom sg] {SBJ}
+
+Line 529:
+    ἀμβρόσιαι (ἀμβρόσιος) [adj fem nom pl] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἄρα (ἄρα) [particle] {AuxY}
+    χαῖται (χαίτη) [noun fem nom pl] {SBJ}
+    ἐπερρώσαντο (ἐπιρρώομαι) [verb aor ind mid 3 pl] {PRED_CO}
+    ἄνακτος (ἄναξ) [noun masc gen sg] {ATR}
+
+Line 530:
+    κρατὸς (κάρα) [noun fem gen sg] {ADV}
+    ἀπ' (ἀπό) [prep] {AuxP}
+    ἀθανάτοιο (ἀθάνατος) [adj fem gen sg] {ATR}
+    μέγαν (μέγας) [adj masc acc sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἐλέλιξεν (ἐλελίζω) [verb aor ind act 3 sg] {PRED_CO}
+    Ὄλυμπον (Ὄλυμπος) [noun masc acc sg] {OBJ}
+
+Line 531:
+    τώ (ὁ) [pron masc nom dual] {SBJ}
+    γ' (γε) [particle] {AuxZ}
+    ὣς (ὡς) [adv] {ADV}
+    βουλεύσαντε (βουλεύω) [verb aor part act dual] {ADV}
+    διέτμαγεν (διατμήγω) [verb aor ind pass 3 pl] {PRED}
+    ἣ (ὁ) [pron fem nom sg] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+
+Line 532:
+    εἰς (εἰς) [prep] {AuxP}
+    ἅλα (ἅλς1) [noun fem acc sg] {OBJ}
+    ἆλτο (ἅλλομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    βαθεῖαν (βαθύς) [adj fem acc sg] {ATR}
+    ἀπ' (ἀπό) [prep] {AuxP}
+    αἰγλήεντος (αἰγλήεις) [adj masc gen sg] {ATR}
+    Ὀλύμπου (Ὄλυμπος) [noun masc gen sg] {OBJ}
+
+Line 533:
+    Ζεὺς (Ζεύς) [noun masc nom sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    ἑὸν (ἑός) [adj neut acc sg] {ATR}
+    πρὸς (πρός) [prep] {AuxP}
+    δῶμα (δῶμα) [noun neut acc sg] {OBJ}
+    θεοὶ (θεός) [noun masc nom pl] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    ἅμα (ἅμα) [adv] {ADV}
+    πάντες (πᾶς) [adj masc nom pl] {ATR}
+    ἀνέσταν (ἀνίστημι) [verb aor ind act 3 pl] {PRED_CO}
+
+Line 534:
+    ἐξ (ἐκ) [prep] {AuxP}
+    ἑδέων (ἕδος) [noun neut gen pl] {OBJ}
+    σφοῦ (σφός) [adj masc gen sg] {ATR}
+    πατρὸς (πατήρ) [noun masc gen sg] {ADV}
+    ἐναντίον (ἐναντίος) [prep] {AuxP}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {AuxY}
+    τις (τις) [pron masc nom sg] {SBJ}
+    ἔτλη (τλάω) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 535:
+    μεῖναι (μένω) [verb aor inf act] {OBJ}
+    ἐπερχόμενον (ἐπέρχομαι) [verb pres part mp sg] {AtvV}
+    ἀλλ' (ἀλλά) [conj] {COORD}
+    ἀντίοι (ἀντίος) [adj masc nom pl] {ATV}
+    ἔσταν (ἵστημι) [verb aor ind act 3 pl] {PRED_CO}
+    ἅπαντες (ἅπας) [adj masc nom pl] {SBJ}
+
+Line 536:
+    ὣς (ὡς) [adv] {ADV}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    ἔνθα (ἔνθα) [adv] {ADV}
+    καθέζετ' (καθέζομαι) [verb aor ind mid 3 sg] {PRED}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    θρόνου (θρόνος) [noun masc gen sg] {OBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ}
+
+Line 537:
+    ἠγνοίησεν (ἀγνοέω) [verb aor ind act 3 sg] {PRED_CO}
+    ἰδοῦσ' (εἶδον) [verb aor part act sg] {ADV}
+    ὅτι (ὅτι) [conj] {AuxC}
+    οἱ (ἕ) [pron masc dat sg] {OBJ}
+    συμφράσσατο (συμφράζομαι) [verb aor ind mid 3 sg] {OBJ}
+    βουλὰς (βουλή) [noun fem acc pl] {OBJ}
+
+Line 538:
+    ἀργυρόπεζα (ἀργυρόπεζος) [adj fem nom sg] {ATR}
+    Θέτις (Θέτις) [noun fem nom sg] {SBJ_AP}
+    θυγάτηρ (θυγάτηρ) [noun fem nom sg] {SBJ_AP}
+    ἁλίοιο (ἅλιος) [adj masc gen sg] {ATR}
+    γέροντος (γέρων) [noun masc gen sg] {ATR}
+
+Line 539:
+    αὐτίκα (αὐτίκα) [adv] {ADV}
+    κερτομίοισι (κερτόμιος) [adj neut dat pl] {ATR}
+    Δία (Ζεύς) [noun masc acc sg] {OBJ}
+    Κρονίωνα (Κρονίων) [noun masc acc sg] {ATR}
+    προσηύδα (προσαυδάω) [verb impf ind act 3 sg] {PRED}
+
+Line 540:
+    τίς (τις) [pron masc nom sg] {SBJ}
+    δ' (δέ) [particle] {COORD}
+    αὖ (αὖ) [adv] {AuxY}
+    τοι (σύ) [pron dat sg] {OBJ}
+    δολομῆτα (δολομήτης) [noun masc voc sg] {ExD}
+    θεῶν (θεός) [noun masc gen pl] {ATR}
+    συμφράσσατο (συμφράζομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    βουλάς (βουλή) [noun fem acc pl] {OBJ}
+
+Line 541:
+    αἰεί (ἀεί) [adv] {ADV}
+    τοι (σύ) [pron dat sg] {OBJ}
+    φίλον (φίλος) [adj neut nom sg] {PNOM}
+    ἐστὶν (εἰμί) [verb pres ind act 3 sg] {PRED}
+    ἐμεῦ (ἐγώ) [pron fem gen sg] {ADV}
+    ἀπὸ (ἀπό) [prep] {AuxP}
+    νόσφιν (νόσφι) [adv] {ADV}
+    ἐόντα (εἰμί) [verb pres part act sg] {ADV}
+
+Line 542:
+    κρυπτάδια (κρυπτάδιος) [adj neut acc pl] {ADV}
+    φρονέοντα (φρονέω) [verb pres part act sg] {ADV}
+    δικαζέμεν (δικάζω) [verb pres inf act] {SBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    τί (τις) [pron neut acc sg] {ADV}
+    πώ (πω) [particle] {ADV}
+    μοι (ἐγώ) [pron fem dat sg] {OBJ}
+
+Line 543:
+    πρόφρων (πρόφρων) [adj masc nom sg] {AtvV}
+    τέτληκας (τλάω) [verb perf ind act 2 sg] {PRED_CO}
+    εἰπεῖν (εἶπον) [verb aor inf act] {OBJ}
+    ἔπος (ἔπος) [noun neut acc sg] {OBJ}
+    ὅττι (ὅστις) [pron neut acc sg] {OBJ}
+    νοήσῃς (νοέω) [verb aor subj act 2 sg] {ATR}
+
+Line 544:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἠμείβετ' (ἀμείβω) [verb impf ind mp 3 sg] {PRED_CO}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+    πατὴρ (πατήρ) [noun masc nom sg] {SBJ}
+    ἀνδρῶν (ἀνήρ) [noun masc gen pl] {ATR_CO}
+    τε (τε) [particle] {AuxY}
+    θεῶν (θεός) [noun masc gen pl] {ATR_CO}
+    τε (τε) [particle] {COORD}
+
+Line 545:
+    Ἥρη (Ἥρα) [noun fem voc sg] {ExD}
+    μὴ (μή) [particle] {AuxZ}
+    δὴ (δή) [particle] {AuxY}
+    πάντας (πᾶς) [adj masc acc pl] {ATR}
+    ἐμοὺς (ἐμός) [adj masc acc pl] {ATR}
+    ἐπιέλπεο (ἐπέλπομαι) [verb pres imperv mp 2 sg] {PRED}
+    μύθους (μῦθος) [noun masc acc pl] {OBJ}
+
+Line 546:
+    εἰδήσειν (οἶδα) [verb fut inf act] {OBJ}
+    χαλεποί (χαλεπός) [adj masc nom pl] {PNOM}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ἔσοντ' (εἰμί) [verb fut ind mid 3 pl] {PRED}
+    ἀλόχῳ (ἄλοχος) [noun fem dat sg] {PNOM}
+    περ (πέρ) [particle] {AuxZ}
+    ἐούσῃ (εἰμί) [verb pres part act sg] {ATV}
+
+Line 547:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ὃν (ὅς) [pron masc acc sg] {OBJ}
+    μέν (μέν) [particle] {AuxY}
+    κ' (ἄν) [particle] {AuxY}
+    ἐπιεικὲς (ἐπιεικής) [adj neut nom sg] {PNOM}
+    ἀκουέμεν (ἀκούω) [verb pres inf act] {SBJ}
+    οὔ (οὐ) [adv] {AuxZ}
+    τις (τις) [pron masc nom sg] {SBJ}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+
+Line 548:
+    οὔ (οὐ) [adv] {AuxY}
+    τε (τε) [particle] {AuxZ}
+    θεῶν (θεός) [noun masc gen pl] {ATR_CO}
+    πρότερος (πρότερος) [adj masc nom sg] {ATV}
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    εἴσεται (οἶδα) [verb fut ind mid 3 sg] {PRED}
+    οὔ (οὐ) [adv] {COORD}
+    τ' (τε) [particle] {AuxZ}
+    ἀνθρώπων (ἄνθρωπος) [noun masc gen pl] {ATR_CO}
+
+Line 549:
+    ὃν (ὅς) [pron neut acc sg] {OBJ}
+    δέ (δέ) [particle] {AuxY}
+    κ' (ἄν) [particle] {AuxY}
+    ἐγὼν (ἐγώ) [pron masc nom sg] {SBJ}
+    ἀπάνευθε (ἀπάνευθε) [prep] {AuxP}
+    θεῶν (θεός) [noun masc gen pl] {ADV}
+    ἐθέλωμι (ἐθέλω) [verb pres subj act 1 sg] {ATR}
+    νοῆσαι (νοέω) [verb aor inf act] {OBJ}
+
+Line 550:
+    μή (μή) [adv] {AuxZ}
+    τι (τις) [pron neut acc sg] {ADV}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    ταῦτα (οὗτος) [adj neut acc pl] {OBJ}
+    ἕκαστα (ἕκαστος) [adj neut acc pl] {ATR}
+    διείρεο (διείρομαι) [verb pres imperv mp 2 sg] {PRED_CO}
+    μη (μή) [particle] {AuxZ}
+    δὲ (δέ) [particle] {COORD}
+    μετάλλα (μεταλλάω) [verb pres imperv act 2 sg] {PRED_CO}
+
+Line 551:
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἠμείβετ' (ἀμείβω) [verb impf ind mp 3 sg] {PRED_CO}
+    ἔπειτα (ἔπειτα) [adv] {ADV}
+    βοῶπις (βοῶπις) [adj fem nom sg] {ATR}
+    πότνια (πότνια) [noun fem nom sg] {ATR}
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ}
+
+Line 552:
+    αἰνότατε (αἰνός) [adj masc voc sg superl] {ATR}
+    Κρονίδη (Κρονίδης) [noun masc voc sg] {ExD}
+    ποῖον (ποῖος) [adj masc acc sg] {ATR}
+    τὸν (ὁ) [article masc acc sg] {ATR}
+    μῦθον (μῦθος) [noun masc acc sg] {OBJ}
+    ἔειπες (εἶπον) [verb aor ind act 2 sg] {PRED}
+
+Line 553:
+    καὶ (καί) [adv] {AuxZ}
+    λίην (λίαν) [adv] {ADV}
+    σε (σύ) [pron acc sg] {OBJ}
+    πάρος (πάρος) [adv] {ADV}
+    γ' (γε) [particle] {AuxZ}
+    οὔ (οὐ) [adv] {AuxY}
+    τ' (τε) [particle] {AuxZ}
+    εἴρομαι (ἔρομαι) [verb pres ind mp 1 sg] {PRED_CO}
+    οὔ (οὐ) [adv] {COORD}
+    τε (τε) [particle] {AuxZ}
+    μεταλλῶ (μεταλλάω) [verb pres ind act 1 sg] {PRED_CO}
+
+Line 554:
+    ἀλλὰ (ἀλλά) [conj] {COORD}
+    μάλ' (μάλα) [adv] {AuxZ}
+    εὔκηλος (εὔκηλος) [adj masc nom sg] {AtvV}
+    τὰ (ὁ) [pron neut acc pl] {OBJ}
+    φράζεαι (φράζω) [verb pres ind mp 2 sg] {PRED_CO}
+    ἅσσ' (ὅστις) [pron neut acc pl] {OBJ}
+    ἐθέλῃσθα (ἐθέλω) [verb pres subj act 2 sg] {ATR}
+
+Line 555:
+    νῦν (νῦν) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    αἰνῶς (αἰνός) [adv] {ADV}
+    δείδοικα (δείδω) [verb perf ind act 1 sg] {PRED_CO}
+    κατὰ (κατά) [prep] {AuxP}
+    φρένα (φρήν) [noun fem acc sg] {ADV}
+    μή (μή) [conj] {AuxC}
+    σε (σύ) [pron acc sg] {OBJ}
+    παρείπῃ (παρεῖπον) [verb aor subj act 3 sg] {OBJ}
+
+Line 556:
+    ἀργυρόπεζα (ἀργυρόπεζος) [adj fem nom sg] {ATR}
+    Θέτις (Θέτις) [noun fem nom sg] {SBJ_AP}
+    θυγάτηρ (θυγάτηρ) [noun fem nom sg] {SBJ_AP}
+    ἁλίοιο (ἅλιος) [adj masc gen sg] {ATR}
+    γέροντος (γέρων) [noun masc gen sg] {ATR}
+
+Line 557:
+    ἠερίη (ἠέριος) [adj fem nom sg] {AtvV}
+    γὰρ (γάρ) [particle] {AuxY}
+    σοί (σύ) [pron dat sg] {OBJ}
+    γε (γε) [particle] {AuxZ}
+    παρέζετο (παρέζομαι) [verb impf ind mp 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {COORD}
+    λάβε (λαμβάνω) [verb aor ind act 3 sg] {PRED_CO}
+    γούνων (γόνυ) [noun neut gen pl] {OBJ}
+
+Line 558:
+    τῇ (ὁ) [pron fem dat sg] {OBJ}
+    σ' (σύ) [pron acc sg] {SBJ}
+    ὀΐω (οἴομαι) [verb pres ind act 1 sg] {PRED}
+    κατανεῦσαι (κατανεύω) [verb aor inf act] {OBJ}
+    ἐτήτυμον (ἐτήτυμος) [adj neut acc sg] {ADV}
+    ὡς (ὡς) [conj] {AuxC}
+    Ἀχιλῆα (Ἀχιλλεύς) [noun masc acc sg] {OBJ}
+
+Line 559:
+    τιμήσῃς (τιμάω) [verb aor subj act 2 sg] {OBJ_CO}
+    ὀλέσῃς (ὄλλυμι) [verb aor subj act 2 sg] {OBJ_CO}
+    δὲ (δέ) [particle] {COORD}
+    πολέας (πολύς) [adj masc acc pl] {OBJ}
+    ἐπὶ (ἐπί) [prep] {AuxP}
+    νηυσὶν (ναῦς) [noun fem dat pl] {ADV}
+    Ἀχαιῶν (Ἀχαιός) [adj masc gen pl] {ATR}
+
+Line 560:
+    τὴν (ὁ) [pron fem acc sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἀπαμειβόμενος (ἀπαμείβομαι) [verb pres part mp sg] {ADV}
+    προσέφη (πρόσφημι) [verb aor ind act 3 sg] {PRED_CO}
+    νεφεληγερέτα (νεφεληγερέτα) [noun masc nom sg] {ATR}
+    Ζεύς (Ζεύς) [noun masc nom sg] {SBJ}
+
+Line 561:
+    δαιμονίη (δαιμόνιος) [adj fem voc sg] {ExD}
+    αἰεὶ (ἀεί) [adv] {ADV}
+    μὲν (μέν) [particle] {AuxY}
+    ὀΐεαι (οἴομαι) [verb pres ind mp 2 sg] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    σε (σύ) [pron acc sg] {OBJ}
+    λήθω (λανθάνω) [verb pres ind act 1 sg] {PRED_CO}
+
+Line 562:
+    πρῆξαι (πράσσω) [verb aor inf act] {OBJ}
+    δ' (δέ) [particle] {AuxY}
+    ἔμπης (ἔμπας) [adv] {ADV}
+    οὔ (οὐ) [adv] {AuxZ}
+    τι (τις) [pron neut acc sg] {OBJ}
+    δυνήσεαι (δύναμαι) [verb fut ind mid 2 sg] {PRED_CO}
+    ἀλλ' (ἀλλά) [conj] {COORD}
+    ἀπὸ (ἀπό) [prep] {AuxP}
+    θυμοῦ (θυμός) [noun masc gen sg] {ADV}
+
+Line 563:
+    μᾶλλον (μᾶλλον) [adv] {ADV}
+    ἐμοὶ (ἐγώ) [pron masc dat sg] {ATR}
+    ἔσεαι (εἰμί) [verb fut ind mid 2 sg] {PRED_CO}
+    τὸ (ὁ) [pron neut nom sg] {SBJ}
+    δέ (δέ) [particle] {COORD}
+    τοι (σύ) [pron dat sg] {OBJ}
+    καὶ (καί) [adv] {AuxZ}
+    ῥίγιον (ῥίγιον) [adj neut nom sg comp] {PNOM}
+    ἔσται (εἰμί) [verb fut ind mp 3 sg] {PRED_CO}
+
+Line 564:
+    εἰ (εἰ) [conj] {AuxC}
+    δ' (δέ) [particle] {COORD}
+    οὕτω (οὕτως) [adv] {ADV}
+    τοῦτ' (οὗτος) [adj neut nom sg] {SBJ}
+    ἐστὶν (εἰμί) [verb pres ind act 3 sg] {ADV}
+    ἐμοὶ (ἐγώ) [pron masc dat sg] {OBJ}
+    μέλλει (μέλλω) [verb pres ind act 3 sg] {PRED_CO}
+    φίλον (φίλος) [adj neut nom sg] {PNOM}
+    εἶναι (εἰμί) [verb pres inf act] {OBJ}
+
+Line 565:
+    ἀλλ' (ἀλλά) [adv] {AuxY}
+    ἀκέουσα (ἀκέων) [adj fem nom sg] {AtvV}
+    κάθησο (κάθημαι) [verb perf imperv mp 2 sg] {PRED_CO}
+    ἐμῷ (ἐμός) [adj masc dat sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἐπιπείθεο (ἐπιπείθομαι) [verb pres imperv mp 2 sg] {PRED_CO}
+    μύθῳ (μῦθος) [noun masc dat sg] {OBJ}
+
+Line 566:
+    μή (μή) [conj] {AuxC}
+    νύ (νῦν) [adv] {ADV}
+    τοι (σύ) [pron dat sg] {OBJ}
+    οὐ (οὐ) [adv] {AuxZ}
+    χραίσμωσιν (χραισμέω) [verb aor subj act 3 pl] {ADV}
+    ὅσοι (ὅσος) [adj masc nom pl] {ATR}
+    θεοί (θεός) [noun masc nom pl] {SBJ}
+    εἰσ' (εἰμί) [verb pres ind act 3 pl] {SBJ}
+    ἐν (ἐν) [prep] {AuxP}
+    Ὀλύμπῳ (Ὄλυμπος) [noun masc dat sg] {ADV}
+
+Line 567:
+    ἆσσον (ἆσσον) [adv] {OBJ}
+    ἰόνθ' (εἶμι) [verb pres part act sg] {AtvV}
+    ὅτε (ὅτε) [conj] {AuxC}
+    κέν (ἄν) [particle] {AuxY}
+    τοι (σύ) [pron dat sg] {OBJ}
+    ἀάπτους (ἄαπτος) [adj fem acc pl] {ATR}
+    χεῖρας (χείρ) [noun fem acc pl] {OBJ}
+    ἐφείω (ἐφίημι) [verb aor subj act 1 sg] {ADV}
+
+Line 568:
+    ὣς (ὡς) [adv] {ADV}
+    ἔφατ' (φημί) [verb aor ind mp 3 sg] {PRED_CO}
+    ἔδεισεν (δείδω) [verb aor ind act 3 sg] {PRED_CO}
+    δὲ (δέ) [particle] {AuxY}
+    βοῶπις (βοῶπις) [adj fem nom sg] {ATR}
+    πότνια (πότνια) [adj fem nom sg] {ATR}
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ}
+
+Line 569:
+    καί (καί) [conj] {COORD}
+    ῥ' (ἄρα) [particle] {AuxY}
+    ἀκέουσα (ἀκέων) [adj fem nom sg] {AtvV}
+    καθῆστο (κάθημαι) [verb plup ind mid 3 sg] {PRED_CO}
+    ἐπιγνάμψασα (ἐπιγνάμπτω) [verb aor part act sg] {ADV}
+    φίλον (φίλος) [adj neut acc sg] {ATR}
+    κῆρ (κῆρ) [noun neut acc sg] {OBJ}
+
+Line 570:
+    ὄχθησαν (ὀχθέω) [verb aor ind act 3 pl] {PRED_CO}
+    δ' (δέ) [particle] {COORD}
+    ἀνὰ (ἀνά) [prep] {AuxP}
+    δῶμα (δῶμα) [noun neut acc sg] {ADV}
+    Διὸς (Ζεύς) [noun masc gen sg] {ATR}
+    θεοὶ (θεός) [noun masc nom pl] {SBJ}
+    Οὐρανίωνες (οὐρανίωνες) [noun masc nom pl] {ATR}
+
+Line 571:
+    τοῖσιν (ὁ) [pron masc dat pl] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    Ἥφαιστος (Ἥφαιστος) [noun masc nom sg] {SBJ}
+    κλυτοτέχνης (κλυτοτέχνης) [adj masc nom sg] {ATR}
+    ἦρχ' (ἄρχω) [verb impf ind act 3 sg] {PRED_CO}
+    ἀγορεύειν (ἀγορεύω) [verb pres inf act] {OBJ}
+
+Line 572:
+    μητρὶ (μήτηρ) [noun fem dat sg] {OBJ_AP}
+    φίλῃ (φίλος) [adj fem dat sg] {ATR}
+    ἐπίηρα (ἐπίηρα) [noun neut acc pl] {OBJ}
+    φέρων (φέρω) [verb pres part act sg] {ADV}
+    λευκωλένῳ (λευκώλενος) [adj fem dat sg] {ATR}
+    Ἥρῃ (Ἥρα) [noun fem dat sg] {OBJ_AP}
+
+Line 573:
+    ἦ (ἦ) [adv] {AuxY}
+    δὴ (δή) [particle] {AuxY}
+    λοίγια (λοίγιος) [adj neut nom pl] {ATR_CO}
+    ἔργα (ἔργον) [noun neut nom pl] {PNOM}
+    τάδ' (ὅδε) [pron neut nom pl] {SBJ}
+    ἔσσεται (εἰμί) [verb fut ind mp 3 sg] {PRED}
+    οὐ (οὐ) [adv] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἔτ' (ἔτι) [adv] {AuxZ}
+    ἀνεκτά (ἀνεκτός) [adj neut nom pl] {ATR_CO}
+
+Line 574:
+    εἰ (εἰ) [conj] {AuxC}
+    δὴ (δή) [particle] {AuxY}
+    σφὼ (σύ) [pron nom dual] {SBJ}
+    ἕνεκα (ἕνεκα) [prep] {AuxP}
+    θνητῶν (θνητός) [adj masc gen pl] {ADV}
+    ἐριδαίνετον (ἐριδαίνω) [verb pres ind act 2 dual] {ADV_CO}
+    ὧδε (ὧδε) [adv] {ADV}
+
+Line 575:
+    ἐν (ἐν) [prep] {AuxP}
+    δὲ (δέ) [particle] {COORD}
+    θεοῖσι (θεός) [noun masc dat pl] {ADV}
+    κολῳὸν (κολῳός) [noun masc acc sg] {OBJ}
+    ἐλαύνετον (ἐλαύνω) [verb pres ind act 2 dual] {ADV_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    τι (τις) [pron neut acc sg] {ADV}
+    δαιτὸς (δαίς1) [noun fem gen sg] {ATR}
+
+Line 576:
+    ἐσθλῆς (ἐσθλός) [adj fem gen sg] {ATR}
+    ἔσσεται (εἰμί) [verb fut ind mp 3 sg] {PRED_CO}
+    ἦδος (ἦδος) [noun neut nom sg] {SBJ}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    τὰ (ὁ) [article neut nom pl] {ATR}
+    χερείονα (χείρων) [noun neut nom pl comp] {SBJ}
+    νικᾷ (νικάω) [verb pres subj act 3 sg] {ADV}
+
+Line 577:
+    μητρὶ (μήτηρ) [noun fem dat sg] {OBJ}
+    δ' (δέ) [particle] {COORD}
+    ἐγὼ (ἐγώ) [pron masc nom sg] {SBJ}
+    παράφημι (παράφημι) [verb pres ind act 1 sg] {PRED_CO}
+    καὶ (καί) [adv] {AuxZ}
+    αὐτῇ (αὐτός) [adj fem dat sg] {ATV}
+    περ (πέρ) [particle] {AuxZ}
+    νοεούσῃ (νοέω) [verb pres part act sg] {ATV}
+
+Line 578:
+    πατρὶ (πατήρ) [noun masc dat sg] {OBJ_AP}
+    φίλῳ (φίλος) [adj masc dat sg] {ATR}
+    ἐπίηρα (ἐπίηρα) [noun neut acc pl] {OBJ}
+    φέρειν (φέρω) [verb pres inf act] {OBJ}
+    Διί (Ζεύς) [noun masc dat sg] {OBJ_AP}
+    ὄφρα (ὄφρα) [conj] {AuxC}
+    μὴ (μή) [particle] {AuxZ}
+    αὖτε (αὖτε) [adv] {ADV}
+
+Line 579:
+    νεικείῃσι (νεικέω) [verb pres subj act 3 sg] {ADV_CO}
+    πατήρ (πατήρ) [noun masc nom sg] {SBJ}
+    σὺν (σύν) [prep] {AuxZ}
+    δ' (δέ) [particle] {COORD}
+    ἡμῖν (ἐγώ) [pron masc dat pl] {ADV}
+    δαῖτα (δαίς1) [noun fem acc sg] {OBJ}
+    ταράξῃ (ταράσσω) [verb aor subj act 3 sg] {ADV_CO}
+
+Line 580:
+    εἴ (εἰ) [conj] {AuxC}
+    περ (πέρ) [particle] {AuxY}
+    γάρ (γάρ) [particle] {AuxY}
+    κ' (ἄν) [particle] {AuxY}
+    ἐθέλῃσιν (ἐθέλω) [verb pres subj act 3 sg] {ADV}
+    Ὀλύμπιος (Ὀλύμπιος) [adj masc nom sg] {SBJ}
+    ἀστεροπητὴς (ἀστεροπητής) [noun masc nom sg] {ATR}
+
+Line 581:
+    ἐξ (ἐκ) [prep] {AuxP}
+    ἑδέων (ἕδος) [noun neut gen pl] {OBJ}
+    στυφελίξαι (στυφελίζω) [verb aor inf act] {OBJ}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    γὰρ (γάρ) [particle] {AuxY}
+    πολὺ (πολύς) [adj neut acc sg] {AuxZ}
+    φέρτατός (φέρτατος) [adj masc nom sg] {PNOM}
+    ἐστιν (εἰμί) [verb pres ind act 3 sg] {PRED}
+
+Line 582:
+    ἀλλὰ (ἀλλά) [adv] {AuxY}
+    σὺ (σύ) [pron nom sg] {SBJ}
+    τὸν (ὁ) [pron masc acc sg] {OBJ}
+    ἐπέεσσι (ἔπος) [noun neut dat pl] {ADV}
+    καθάπτεσθαι (καθάπτω) [verb pres inf mp] {PRED}
+    μαλακοῖσιν (μαλακός) [adj neut dat pl] {ATR}
+
+Line 583:
+    αὐτίκ' (αὐτίκα) [adv] {ADV}
+    ἔπειθ' (ἔπειτα) [adv] {ADV}
+    ἵλαος (ἵλαος) [adj masc nom sg] {PNOM}
+    Ὀλύμπιος (Ὀλύμπιος) [adj masc nom sg] {SBJ}
+    ἔσσεται (εἰμί) [verb fut ind mp 3 sg] {PRED}
+    ἡμῖν (ἐγώ) [pron masc dat pl] {OBJ}
+
+Line 584:
+    ὣς (ὡς) [adv] {ADV}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ἔφη (φημί) [verb aor ind act 3 sg] {PRED_CO}
+    καὶ (καί) [conj] {AuxY}
+    ἀναΐξας (ἀναίσσω) [verb aor part act sg] {ADV}
+    δέπας (δέπας) [noun neut acc sg] {OBJ}
+    ἀμφικύπελλον (ἀμφικύπελλος) [adj neut acc sg] {ATR}
+
+Line 585:
+    μητρὶ (μήτηρ) [noun fem dat sg] {OBJ}
+    φίλῃ (φίλος) [adj fem dat sg] {ATR}
+    ἐν (ἐν) [prep] {AuxP}
+    χειρὶ (χείρ) [noun fem dat sg] {OBJ}
+    τίθει (τίθημι) [verb impf ind act 3 sg] {PRED_CO}
+    καί (καί) [conj] {COORD}
+    μιν (μιν) [pron fem acc sg] {OBJ}
+    προσέειπε (προσεῖπον) [verb aor ind act 3 sg] {PRED_CO}
+
+Line 586:
+    τέτλαθι (τλάω) [verb perf imperv act 2 sg] {PRED}
+    μῆτερ (μήτηρ) [noun fem voc sg] {ExD}
+    ἐμή (ἐμός) [adj fem voc sg] {ATR}
+    καὶ (καί) [conj] {COORD}
+    ἀνάσχεο (ἀνέχω) [verb aor imperv mid 2 sg] {PRED_CO}
+    κηδομένη (κήδω) [verb pres part mp sg] {ADV}
+    περ (πέρ) [particle] {AuxZ}
+
+Line 587:
+    μή (μή) [conj] {AuxC}
+    σε (σύ) [pron acc sg] {OBJ}
+    φίλην (φίλος) [adj fem acc sg] {PNOM}
+    περ (πέρ) [particle] {AuxZ}
+    ἐοῦσαν (εἰμί) [verb pres part act sg] {ATR}
+    ἐν (ἐν) [prep] {AuxP}
+    ὀφθαλμοῖσιν (ὀφθαλμός) [noun masc dat pl] {ADV}
+    ἴδωμαι (εἶδον) [verb aor subj mp 1 sg] {ADV_CO}
+
+Line 588:
+    θεινομένην (θείνω) [verb pres part mp sg] {ATV}
+    τότε (τότε) [adv] {ADV}
+    δ' (δέ) [particle] {COORD}
+    οὔ (οὐ) [adv] {AuxZ}
+    τι (τις) [pron neut acc sg] {ADV}
+    δυνήσομαι (δύναμαι) [verb aor subj mid 1 sg] {ADV_CO}
+    ἀχνύμενός (ἄχνυμαι) [verb pres part pass sg] {ADV}
+    περ (πέρ) [particle] {AuxZ}
+
+Line 589:
+    χραισμεῖν (χραισμέω) [verb pres inf act] {OBJ}
+    ἀργαλέος (ἀργαλέος) [adj masc nom sg] {PNOM}
+    γὰρ (γάρ) [particle] {AuxY}
+    Ὀλύμπιος (Ὀλύμπιος) [adj masc nom sg] {SBJ}
+    ἀντιφέρεσθαι (ἀντιφέρω) [verb pres inf mp] {ADV}
+
+Line 590:
+    ἤδη (ἤδη) [adv] {ADV}
+    γάρ (γάρ) [particle] {AuxY}
+    με (ἐγώ) [pron masc acc sg] {OBJ}
+    καὶ (καί) [adv] {AuxZ}
+    ἄλλοτ' (ἄλλοτε) [adv] {ADV}
+    ἀλεξέμεναι (ἀλέξω) [verb pres inf act] {OBJ}
+    μεμαῶτα (μέμαα) [verb perf part act sg] {ATV}
+
+Line 591:
+    ῥῖψε (ῥίπτω) [verb aor ind act 3 sg] {PRED_CO}
+    ποδὸς (πούς) [noun masc gen sg] {OBJ}
+    τεταγὼν (τεταγών) [verb aor part act sg] {ADV}
+    ἀπὸ (ἀπό) [prep] {AuxP}
+    βηλοῦ (βηλός) [noun masc gen sg] {OBJ}
+    θεσπεσίοιο (θεσπέσιος) [adj masc gen sg] {ATR}
+
+Line 592:
+    πᾶν (πᾶς) [adj neut acc sg] {ATR}
+    δ' (δέ) [particle] {AuxY}
+    ἦμαρ (ἦμαρ) [noun neut acc sg] {ADV}
+    φερόμην (φέρω) [verb impf ind mp 1 sg] {PRED_CO}
+    ἅμα (ἅμα) [prep] {AuxP}
+    δ' (δέ) [particle] {AuxY}
+    ἠελίῳ (ἥλιος) [noun masc dat sg] {ADV}
+    καταδύντι (καταδύω) [verb aor part act sg] {ATV}
+
+Line 593:
+    κάππεσον (καταπίπτω) [verb aor ind act 1 sg] {PRED_CO}
+    ἐν (ἐν) [prep] {AuxP}
+    Λήμνῳ (Λῆμνος) [noun fem dat sg] {ADV}
+    ὀλίγος (ὀλίγος) [adj masc nom sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἔτι (ἔτι) [adv] {ADV}
+    θυμὸς (θυμός) [noun masc nom sg] {SBJ}
+    ἐνῆεν (ἔνειμι) [verb impf ind act 3 sg] {PRED_CO}
+
+Line 594:
+    ἔνθά (ἔνθα) [adv] {ADV}
+    με (ἐγώ) [pron masc acc sg] {OBJ}
+    Σίντιες (Σίντιες) [noun masc nom pl] {ATR}
+    ἄνδρες (ἀνήρ) [noun masc nom pl] {SBJ}
+    ἄφαρ (ἄφαρ) [adv] {ADV}
+    κομίσαντο (κομίζω) [verb aor ind mid 3 pl] {PRED}
+    πεσόντα (πίπτω) [verb aor part act sg] {ATV}
+
+Line 595:
+    ὣς (ὡς) [adv] {ADV}
+    φάτο (φημί) [verb aor ind mid 3 sg] {PRED_CO}
+    μείδησεν (μειδάω) [verb aor ind act 3 sg] {PRED_CO}
+    δὲ (δέ) [particle] {AuxY}
+    θεὰ (θεά) [noun fem nom sg] {SBJ_AP}
+    λευκώλενος (λευκώλενος) [adj fem nom sg] {ATR}
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ_AP}
+
+Line 596:
+    μειδήσασα (μειδάω) [verb aor part act sg] {ADV}
+    δὲ (δέ) [particle] {COORD}
+    παιδὸς (παῖς) [noun masc gen sg] {OBJ}
+    ἐδέξατο (δέχομαι) [verb aor ind mid 3 sg] {PRED_CO}
+    χειρὶ (χείρ) [noun fem dat sg] {ADV}
+    κύπελλον (κύπελλον) [noun neut acc sg] {OBJ}
+
+Line 597:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ὃ (ὁ) [pron masc nom sg] {SBJ}
+    τοῖς (ὁ) [article masc dat pl] {ATR}
+    ἄλλοισι (ἄλλος) [adj masc dat pl] {ATR}
+    θεοῖς (θεός) [noun masc dat pl] {OBJ}
+    ἐνδέξια (ἐνδέξιος) [adj neut acc pl] {ADV}
+    πᾶσιν (πᾶς) [adj masc dat pl] {ATR}
+
+Line 598:
+    οἰνοχόει (οἰνοχοέω) [verb impf ind act 3 sg] {PRED}
+    γλυκὺ (γλυκύς) [adj neut acc sg] {ATR}
+    νέκταρ (νέκταρ) [noun neut acc sg] {OBJ}
+    ἀπὸ (ἀπό) [prep] {AuxP}
+    κρητῆρος (κρατήρ) [noun masc gen sg] {ADV}
+    ἀφύσσων (ἀφύσσω) [verb pres part act sg] {ADV}
+
+Line 599:
+    ἄσβεστος (ἄσβεστος) [adj masc nom sg] {ATR}
+    δ' (δέ) [particle] {COORD}
+    ἄρ' (ἄρα) [particle] {AuxY}
+    ἐνῶρτο (ἐνόρνυμι) [verb aor ind mid 3 sg] {PRED_CO}
+    γέλως (γέλως) [noun masc nom sg] {SBJ}
+    μακάρεσσι (μάκαρ) [adj masc dat pl] {ATR}
+    θεοῖσιν (θεός) [noun masc dat pl] {OBJ}
+
+Line 600:
+    ὡς (ὡς) [conj] {AuxC}
+    ἴδον (εἶδον) [verb aor ind act 3 pl] {ADV}
+    Ἥφαιστον (Ἥφαιστος) [noun masc acc sg] {OBJ}
+    διὰ (διά) [prep] {AuxP}
+    δώματα (δῶμα) [noun neut acc pl] {OBJ}
+    ποιπνύοντα (ποιπνύω) [verb pres part act sg] {ATV}
+
+Line 601:
+    ὣς (ὡς) [adv] {ADV}
+    τότε (τότε) [adv] {ADV}
+    μὲν (μέν) [particle] {AuxY}
+    πρόπαν (πρόπας) [adj neut acc sg] {ATR}
+    ἦμαρ (ἦμαρ) [noun neut acc sg] {ADV}
+    ἐς (εἰς) [prep] {AuxP}
+    ἠέλιον (ἥλιος) [noun masc acc sg] {ADV}
+    καταδύντα (καταδύω) [verb aor part act sg] {ATV}
+
+Line 602:
+    δαίνυντ' (δαίνυμι) [verb impf ind mp 3 pl] {PRED_CO}
+    οὐ (οὐ) [adv] {AuxZ}
+    δέ (δέ) [particle] {COORD}
+    τι (τις) [pron neut acc sg] {ADV}
+    θυμὸς (θυμός) [noun masc nom sg] {SBJ}
+    ἐδεύετο (δέω) [verb impf ind mp 3 sg] {PRED_CO}
+    δαιτὸς (δαίς1) [noun fem gen sg] {OBJ_CO}
+    ἐΐσης (ἴσος) [adj fem gen sg] {ATR}
+
+Line 603:
+    οὐ (οὐ) [adv] {AuxZ}
+    μὲν (μέν) [particle] {AuxY}
+    φόρμιγγος (φόρμιγξ) [noun fem gen sg] {OBJ_CO}
+    περικαλλέος (περικαλλής) [adj fem gen sg] {ATR}
+    ἣν (ὅς) [pron fem acc sg] {OBJ}
+    ἔχ' (ἔχω) [verb impf ind act 3 sg] {ATR}
+    Ἀπόλλων (Ἀπόλλων) [noun masc nom sg] {SBJ}
+
+Line 604:
+    Μουσάων (Μοῦσα) [noun fem gen pl] {OBJ_CO}
+    θ' (τε) [particle] {COORD}
+    αἳ (ὅς) [pron fem nom pl] {SBJ}
+    ἄειδον (ἀείδω) [verb impf ind act 3 pl] {ATR}
+    ἀμειβόμεναι (ἀμείβω) [verb pres part mp pl] {ADV}
+    ὀπὶ (ὄψ) [noun fem dat sg] {ADV}
+    καλῇ (καλός) [adj fem dat sg] {ATR}
+
+Line 605:
+    αὐτὰρ (ἀτάρ) [particle] {AuxY}
+    ἐπεὶ (ἐπεί) [conj] {AuxC}
+    κατέδυ (καταδύω) [verb aor ind act 3 sg] {ADV}
+    λαμπρὸν (λαμπρός) [adj neut nom sg] {ATR}
+    φάος (φάος) [noun neut nom sg] {SBJ}
+    ἠελίοιο (ἥλιος) [noun masc gen sg] {ATR}
+
+Line 606:
+    οἳ (ὁ) [pron masc nom pl] {SBJ}
+    μὲν (μέν) [particle] {AuxY}
+    κακκείοντες (κατακείω) [verb fut part act pl] {ADV}
+    ἔβαν (βαίνω) [verb aor ind act 3 pl] {PRED}
+    οἶκον (οἶκος) [noun masc acc sg] {OBJ}
+    δὲ (δέ) [particle] {AuxZ}
+    ἕκαστος (ἕκαστος) [adj masc nom sg] {ATV}
+
+Line 607:
+    ἧχι (ἧχι) [adv] {ADV}
+    ἑκάστῳ (ἕκαστος) [adj masc dat sg] {OBJ}
+    δῶμα (δῶμα) [noun neut acc sg] {OBJ}
+    περικλυτὸς (περικλυτός) [adj masc nom sg] {ATR}
+    ἀμφιγυήεις (ἀμφιγυήεις) [adj masc nom sg] {ATR}
+
+Line 608:
+    Ἥφαιστος (Ἥφαιστος) [noun masc nom sg] {SBJ}
+    ποίησεν (ποιέω) [verb aor ind act 3 sg] {ATR}
+    ἰδυίῃσι (οἶδα) [verb perf part act pl] {ATR}
+    πραπίδεσσι (πραπίδες) [noun fem dat pl] {ADV}
+
+Line 609:
+    Ζεὺς (Ζεύς) [noun masc nom sg] {SBJ}
+    δὲ (δέ) [particle] {COORD}
+    πρὸς (πρός) [prep] {AuxP}
+    ὃν (ἑός) [adj neut acc sg] {ATR}
+    λέχος (λέχος) [noun neut acc sg] {OBJ}
+    ἤϊ' (εἶμι) [verb impf ind act 3 sg] {PRED_CO}
+    Ὀλύμπιος (Ὀλύμπιος) [adj masc nom sg] {ATR}
+    ἀστεροπητής (ἀστεροπητής) [noun masc nom sg] {ATR}
+
+Line 610:
+    ἔνθα (ἔνθα) [adv] {ADV}
+    πάρος (πάρος) [adv] {ADV}
+    κοιμᾶθ' (κοιμάω) [verb impf ind mp 3 sg] {ATR}
+    ὅτε (ὅτε) [conj] {AuxC}
+    μιν (μιν) [pron masc acc sg] {OBJ}
+    γλυκὺς (γλυκύς) [adj masc nom sg] {ATR}
+    ὕπνος (ὕπνος) [noun masc nom sg] {SBJ}
+    ἱκάνοι (ἱκάνω) [verb pres opt act 3 sg] {ADV}
+
+Line 611:
+    ἔνθα (ἔνθα) [adv] {ADV}
+    καθεῦδ' (καθεύδω) [verb impf ind act 3 sg] {PRED_CO}
+    ἀναβάς (ἀναβαίνω) [verb aor part act sg] {ADV}
+    παρὰ (παρά) [prep] {AuxZ}
+    δὲ (δέ) [particle] {COORD}
+    χρυσόθρονος (χρυσόθρονος) [adj fem nom sg] {ATR}
+    Ἥρη (Ἥρα) [noun fem nom sg] {SBJ}

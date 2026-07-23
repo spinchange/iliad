@@ -1,0 +1,1160 @@
+BOOK 2
+
+The lying Dream, the testing of the army, Thersites beaten — and the
+Catalogue of Ships.
+
+TRANSLATOR'S COMMENTARY
+
+Book 2 falls into two very different halves — the night-intrigue, failed
+test, and Thersites scene (1-493), and then the Catalogue of Ships with its
+Trojan counterpart (494-877) — and the main book-wide decision here was how
+to handle the second half. The Catalogue has been suspected since antiquity's
+critics and modern Analysts alike of being an originally independent
+composition, and several manuscripts omit the span entirely (see note [20]).
+I have translated it as fully integral, and deliberately kept its litany
+register rather than flattening it into a gazetteer: one English line per
+Greek line as elsewhere, every place-epithet translated ("Thisbe of the many
+doves," "rocky Aulis"), leader-genealogies given their full ceremonial
+weight. The incantatory repetition of the ship-count refrains ("With him
+followed forty black ships") is preserved exactly where the Greek repeats
+and varied only where the Greek varies. The little narrative windows that
+open out of the list — Thamyris maimed by the Muses, Protesilaus' half-built
+house, Philoctetes on Lemnos, Nireus beautiful and negligible — are the
+Catalogue's own pulse, and the notes flag them rather than the geography.
+
+The other live decision was tonal: Odysseus' two-tier crowd control
+(kings get "gentle words," commoners get the scepter across the back).
+Aristarchus athetized 193-197, and the passage is independently missing
+from Xenophon's quotation of the scene (note [11]); I translate as printed
+and let the class asymmetry stand at full strength, since Thersites'
+beating immediately afterward depends on it. Thersites himself I have kept
+rough — "endless babble," "word-slinging insulter" — because the poem's own
+verdict on him is rough; this is the one place in the Iliad where the army's
+laughter is turned on a named common soldier, and softening it misrepresents
+the scene.
+
+Zenodotus is unusually active in this book: he condensed the Dream's
+triple-repeated message (notes [4]), athetized Agamemnon's atē-speech
+(11-118, note [7]), the Thersites portrait-lines, the Nireus anaphora
+(note [26]), and the Achilles-passage inside the Catalogue (note [27]).
+As in Book 1, the translation follows the printed vulgate text throughout
+and records atheteses in the notes.
+
+Two carried-over threads from Book 1 to watch: Agamemnon here blames his
+quarrel with Achilles on Zeus-sent atē ("blindness," 111, and openly "it
+was I who began the anger," 378) — the same vocabulary Achilles used of him
+at 1.412; and the Catalogue's Achilles-paragraph (686-694) holds the plot's
+tension in place mid-list. New recurring epithets are footnoted at first
+occurrence and logged in translation/CONVENTIONS.md; the famous crux at
+318 (did the god make the serpent-portent "conspicuous" or "invisible"?)
+is note [14], and the Salamis couplet with its ancient forgery accusation
+is note [23].
+
+------------------------------------------------------------
+
+   1  The other gods, and men who fight from chariots,
+   2  slept the whole night through; but sweet sleep did not hold Zeus.
+   3  He was turning over in his mind how he might honor
+   4  Achilles, and destroy many beside the Achaean ships.
+   5  And this plan seemed to his heart the best:
+   6  to send baneful Dream to Atreus' son Agamemnon.[1]
+   7  And speaking winged words he addressed him:
+   8  "Up, go, baneful Dream, to the Achaeans' swift ships.
+   9  Come to the hut of Agamemnon, Atreus' son,
+  10  and tell him everything exactly as I charge you.
+  11  Bid him arm the long-haired Achaeans[2]
+  12  in full force: for now he might take the wide-wayed city
+  13  of the Trojans. The immortals who keep their homes on Olympus
+  14  are no longer divided; Hera has bent them all
+  15  by her begging, and sorrows are fastened on the Trojans."
+  16  So he spoke, and Dream went when he had heard the word.
+  17  Swiftly he came to the Achaeans' swift ships
+  18  and went to Atreus' son Agamemnon. He found him
+  19  sleeping in his hut, ambrosial slumber poured around him.
+  20  He stood above his head in the likeness of Neleus' son
+  21  Nestor, whom Agamemnon honored most of the elders;
+  22  in his likeness the divine Dream spoke:
+  23  "You sleep, son of war-minded Atreus, breaker of horses.[3]
+  24  A man of counsel should not sleep the whole night through,
+  25  a man to whom peoples are entrusted, who has so much to care for.
+  26  Now hear me quickly: I am a messenger of Zeus,
+  27  who far away cares greatly for you, and pities you.
+  28  He bids you arm the long-haired Achaeans
+  29  in full force: for now you might take the wide-wayed city
+  30  of the Trojans. The immortals who keep their homes on Olympus
+  31  are no longer divided; Hera has bent them all
+  32  by her begging, and sorrows are fastened on the Trojans
+  33  from Zeus. Keep this in your mind, and let no forgetting
+  34  take you, when honey-hearted sleep lets you go."
+  35  So he spoke and went away, and left him there
+  36  believing in his heart things that were not to be:
+  37  he thought he would take Priam's city on that very day —
+  38  the fool: he did not know what work Zeus was planning,
+  39  who meant to lay yet more griefs and groans
+  40  on Trojans and Danaans alike through the strong encounters of war.
+  41  He woke from sleep, the divine voice drifting around him,
+  42  and sat upright, and pulled on his soft tunic,
+  43  fine and new-made, and threw his great cloak around him,
+  44  and beneath his shining feet he bound fair sandals,
+  45  and slung about his shoulders the silver-studded sword,
+  46  and took up the ancestral scepter, imperishable forever,
+  47  and with it went down along the ships of the bronze-shirted Achaeans.
+  48  Now the goddess Dawn went up to high Olympus,
+  49  announcing light to Zeus and the immortals;
+  50  and he ordered the clear-voiced heralds
+  51  to summon the long-haired Achaeans to assembly.
+  52  They made the summons, and the men gathered quickly.
+  53  But first he seated a council of great-hearted elders
+  54  beside the ship of Nestor, the Pylos-born king,
+  55  and calling them together he framed his shrewd plan:
+  56  "Hear me, friends. A divine Dream came to me in sleep
+  57  through the ambrosial night, and in face, in build, in bearing
+  58  it was most like brilliant Nestor.
+  59  It stood above my head, and it said to me:
+  60  'You sleep, son of war-minded Atreus, breaker of horses.[4]
+  61  A man of counsel should not sleep the whole night through,
+  62  a man to whom peoples are entrusted, who has so much to care for.
+  63  Now hear me quickly: I am a messenger of Zeus,
+  64  who far away cares greatly for you, and pities you.
+  65  He bids you arm the long-haired Achaeans
+  66  in full force: for now you might take the wide-wayed city
+  67  of the Trojans. The immortals who keep their homes on Olympus
+  68  are no longer divided; Hera has bent them all
+  69  by her begging, and sorrows are fastened on the Trojans
+  70  from Zeus. Keep this in your mind.' So the Dream spoke
+  71  and flew away, and sweet sleep released me.
+  72  Come then — let us see if we can arm the sons of the Achaeans.
+  73  But first I will test them with words, as is the custom,[5]
+  74  and order them to flee with the many-benched ships;
+  75  and you, from your places, one here, one there, hold them back with words."
+  76  So he spoke and sat down; and among them rose
+  77  Nestor, who was king of sandy Pylos.
+  78  With good will toward them he spoke and addressed them:
+  79  "Friends, leaders and lords of the Argives,
+  80  if any other Achaean had told us this dream,
+  81  we would call it a lie and turn our backs on it;
+  82  but the man who saw it claims to be far the best of the Achaeans.
+  83  Come then — let us see if we can arm the sons of the Achaeans."
+  84  So he spoke, and led the way out of the council,
+  85  and the scepter-holding kings rose and obeyed
+  86  the shepherd of the people; and the troops came streaming.
+  87  As when the tribes of thronging bees come out
+  88  of some hollow rock, always arriving anew,
+  89  and fly in clusters over the flowers of spring,
+  90  and some swarm thick this way, and some that way —
+  91  so the many tribes of men from the ships and huts
+  92  marched in companies along the deep beach
+  93  to the assembly; and among them Rumor blazed like fire,
+  94  Zeus's messenger, driving them on; and they kept gathering.
+  95  The assembly was in turmoil, and the earth groaned beneath
+  96  as the troops sat down, and there was uproar. Nine heralds,
+  97  shouting, tried to hold them back — to stop the clamor
+  98  and make them listen to the Zeus-nurtured kings.
+  99  With effort the people were seated, held in their places,
+ 100  and left off shouting. Then the lord Agamemnon stood up,
+ 101  holding the scepter Hephaestus had labored to make.[6]
+ 102  Hephaestus gave it to lord Zeus, son of Cronos;
+ 103  then Zeus gave it to the guide, the slayer of Argus;
+ 104  lord Hermes gave it to Pelops, driver of horses;
+ 105  Pelops in turn gave it to Atreus, shepherd of the people;
+ 106  Atreus, dying, left it to Thyestes rich in flocks;
+ 107  and Thyestes in turn left it to Agamemnon to carry,
+ 108  to be lord over many islands and all of Argos.
+ 109  Leaning on it, he spoke his words to the Argives:
+ 110  "Friends, Danaan heroes, squires of Ares,
+ 111  Zeus, Cronos' great son, has bound me fast in heavy blindness —[7]
+ 112  the hard god: he promised me once, he bowed his head,
+ 113  that I should sack well-walled Ilion before returning;
+ 114  now he has planned a cruel deceit, and orders me
+ 115  back to Argos in disgrace, with half my people lost.
+ 116  Such, it seems, must be the pleasure of overmastering Zeus,
+ 117  who has undone the crowns of many cities
+ 118  and will undo more yet: his power is the greatest.
+ 119  This is a shameful thing even for men to come to hear of,
+ 120  that so fine an Achaean host, so great,
+ 121  fought a fruitless war and battled
+ 122  fewer men, with no end yet in sight.
+ 123  For if we wished — Achaeans and Trojans both —
+ 124  to swear a solemn truce and count ourselves,
+ 125  the Trojans mustering all who have their hearths in the city,
+ 126  and we Achaeans forming up in tens,
+ 127  and each ten chose one Trojan man to pour its wine,
+ 128  many tens would go without a wine-pourer.
+ 129  By so much, I tell you, the sons of the Achaeans outnumber
+ 130  the Trojans who live in the city. But there are allies,
+ 131  spear-wielding men from many cities,
+ 132  who beat me far off my course and will not let me
+ 133  sack Ilion's well-settled citadel, for all my wanting it.
+ 134  Nine years of great Zeus have gone already,
+ 135  and now the ships' timbers are rotten, the rigging loosed,
+ 136  and our wives, no doubt, and our little children
+ 137  sit in our halls waiting; while the work
+ 138  for which we came here stands as undone as ever.
+ 139  Come then — as I say it, let us all obey:
+ 140  let us flee with the ships to our dear fatherland.
+ 141  We shall not take wide-wayed Troy now."
+ 142  So he spoke, and stirred the heart in the breast
+ 143  of everyone in the crowd who had not heard the council.
+ 144  The assembly moved like the long waves of the sea,
+ 145  the Icarian deep, when East Wind and South Wind together
+ 146  rouse them, rushing down from the clouds of father Zeus;
+ 147  or as when the West Wind comes and moves deep grain,
+ 148  driving hard, and the field bows its ears —
+ 149  so all that assembly was moved. With a roar
+ 150  they rushed for the ships, and under their feet the dust
+ 151  rose and hung; and they shouted to one another
+ 152  to lay hold of the ships and drag them to the bright sea,
+ 153  and they cleared out the launching-channels; the cry went up to the sky
+ 154  as they strained for home; and they pulled the props from under the hulls.
+ 155  Then a homecoming beyond fate would have come to the Argives,
+ 156  if Hera had not spoken a word to Athena:
+ 157  "Shame! Unwearied one, child of aegis-bearing Zeus —[8]
+ 158  is it like this, homeward, to their dear fatherland,
+ 159  that the Argives are to flee over the broad back of the sea,
+ 160  and leave to Priam and the Trojans their boast —
+ 161  Argive Helen, for whose sake so many Achaeans
+ 162  have perished at Troy, far from their dear fatherland?
+ 163  Go now through the host of the bronze-shirted Achaeans;
+ 164  with your gentle words hold back every man;
+ 165  do not let them drag the balanced ships down to the sea."
+ 166  So she spoke, and the goddess grey-eyed Athena did not disobey.
+ 167  Down from the peaks of Olympus she went darting
+ 168  and swiftly came to the Achaeans' swift ships.
+ 169  There she found Odysseus, the equal of Zeus in counsel,[9]
+ 170  standing still: he had not laid a hand on his black
+ 171  well-benched ship, for grief had reached his heart and spirit.
+ 172  Standing close, grey-eyed Athena spoke to him:
+ 173  "Zeus-sprung son of Laertes, Odysseus of many devices,[10]
+ 174  is it like this, homeward, to your dear fatherland,
+ 175  that you will all flee, tumbling into the many-benched ships,
+ 176  and leave to Priam and the Trojans their boast —
+ 177  Argive Helen, for whose sake so many Achaeans
+ 178  have perished at Troy, far from their dear fatherland?
+ 179  Go now through the host of the Achaeans; hold back no longer;
+ 180  with your gentle words hold back every man;
+ 181  do not let them drag the balanced ships down to the sea."
+ 182  So she spoke, and he knew the voice of the goddess speaking.
+ 183  He set off at a run, and threw off his cloak — the herald
+ 184  Eurybates of Ithaca, who attended him, picked it up —
+ 185  and coming face to face with Agamemnon, Atreus' son,
+ 186  he took from him the ancestral scepter, imperishable forever,
+ 187  and with it went along the ships of the bronze-shirted Achaeans.
+ 188  Whenever he met a king, or a man of note,
+ 189  he would stand beside him and hold him back with gentle words:
+ 190  "Friend, it is not right to threaten you like a coward;
+ 191  but sit down yourself, and seat the rest of your people.
+ 192  You do not yet clearly know the mind of Atreus' son:
+ 193  now he is testing, and soon he will bear down on the sons of the Achaeans.[11]
+ 194  Did we not all hear in council what he said?
+ 195  May he not in anger do some harm to the sons of the Achaeans.
+ 196  Great is the anger of Zeus-nurtured kings;
+ 197  their honor is from Zeus, and Zeus the counselor loves them."
+ 198  But whatever man of the people he saw, and found him shouting,
+ 199  him he would drive with the scepter and berate aloud:
+ 200  "Fool — sit still and listen to what others tell you,
+ 201  your betters. You are unwarlike and without strength,
+ 202  never counted, whether in battle or in council.
+ 203  We cannot all be kings here, we Achaeans.
+ 204  The rule of many is no good thing: let there be one ruler,[12]
+ 205  one king, to whom the son of crooked-counseled Cronos gave
+ 206  the scepter and the ordinances, to do the ruling for his people."
+ 207  So, masterfully, he went through the army setting it in order; and they
+ 208  came streaming back to the assembly from the ships and huts
+ 209  with a roar, as when a wave of the loud-roaring sea
+ 210  thunders on a great beach, and the deep crashes in answer.
+ 211  Then the others sat down and were held in their places —
+ 212  all but Thersites, alone, still brawling on, unmeasured in speech,[13]
+ 213  whose mind was full of words, disorderly and many,
+ 214  to quarrel with kings — recklessly, in no kind of order,
+ 215  but with whatever looked likely to raise a laugh
+ 216  among the Argives. And he was the ugliest man who came under Ilion:
+ 217  bandy-legged, lame in one foot, his two shoulders
+ 218  hunched and drawn in over his chest; and above them
+ 219  a head that came to a point, with sparse stubble growing on it.
+ 220  He was hatefullest of all to Achilles and Odysseus,
+ 221  for those two he was forever reviling. But now it was brilliant Agamemnon
+ 222  he went at, shrieking shrill abuse; the Achaeans
+ 223  were furious at him, and indignation rose in every heart.
+ 224  Bawling loudly, he berated Agamemnon:
+ 225  "Son of Atreus, what are you complaining of now? What more do you want?
+ 226  Your huts are full of bronze; there are many women
+ 227  in your huts, choice ones, whom we Achaeans
+ 228  give you first of all whenever we take a town.
+ 229  Or do you still lack gold as well, that some son
+ 230  of the horse-taming Trojans will bring out of Ilion as ransom
+ 231  for a son that I bound and led away — I, or another Achaean?
+ 232  Or a young woman, to lie with in love,
+ 233  one you keep apart for yourself? It is not right
+ 234  for the commander to march the sons of the Achaeans into misery.
+ 235  Soft things! Vile disgraces! Achaean women — Achaean men no longer!
+ 236  Let us go home, home with the ships, and leave this man
+ 237  here in Troy to digest his prizes, so he may learn
+ 238  whether we others are any help to him or not —
+ 239  he who even now dishonored Achilles, a man
+ 240  far better than himself: he has taken and keeps his prize; he seized it himself.
+ 241  But there is no anger in Achilles' heart; he lets it go.
+ 242  Otherwise, son of Atreus, this outrage would be your last."
+ 243  So he spoke, reviling Agamemnon, shepherd of the people —
+ 244  Thersites. But quickly brilliant Odysseus was at his side,
+ 245  and glaring at him darkly he lashed him with hard words:
+ 246  "Thersites — endless babble, clear bawler at assemblies though you are:
+ 247  stop; do not stand up alone to quarrel with kings.
+ 248  I say there is no viler mortal than you
+ 249  of all who came under Ilion with the sons of Atreus.
+ 250  So you had better not take kings into your mouth when you hold forth,
+ 251  hurling insults at them, with one eye on the voyage home.
+ 252  We do not even know clearly yet how these things will end —
+ 253  whether we sons of the Achaeans come home well or badly.
+ 254  So now you sit here reviling Agamemnon, Atreus' son,
+ 255  shepherd of the people, because the Danaan heroes
+ 256  give him so much. You speak in mockery.
+ 257  But I tell you this outright, and it will be accomplished:
+ 258  if I find you playing the fool again as you are now,
+ 259  then may Odysseus' head no longer sit on his shoulders,
+ 260  may I no longer be called the father of Telemachus,
+ 261  if I do not seize you and strip you of your own clothes,
+ 262  the cloak and the tunic that cover your shame,
+ 263  and send you off to the swift ships in tears,
+ 264  whipped out of the assembly with strokes of disgrace."
+ 265  So he spoke, and with the scepter he struck his back
+ 266  and shoulders. Thersites doubled up, and a fat tear fell from him,
+ 267  and a bloody welt rose up out of his back
+ 268  under the golden scepter. He sat down, terrified,
+ 269  and hurting, with a helpless look, he wiped away the tear.
+ 270  And the men, vexed at heart though they were, laughed at him sweetly,
+ 271  and thus one would say, with a glance at his neighbor:
+ 272  "Well now! Odysseus has done ten thousand good things,
+ 273  leading in good counsel, marshaling war;
+ 274  but this is the best thing he has done among the Argives:
+ 275  he has shut this word-slinging insulter out of our debates.
+ 276  That proud heart of his will not send him back again
+ 277  to rail at kings with words of abuse."
+ 278  So spoke the multitude. Then the sacker of cities, Odysseus,
+ 279  stood up with the scepter, and beside him grey-eyed Athena,
+ 280  in the likeness of a herald, called the host to silence,
+ 281  so that near and far the sons of the Achaeans
+ 282  might hear his word alike, and take in his counsel.
+ 283  With good will toward them he spoke and addressed them:
+ 284  "Son of Atreus — now, lord, the Achaeans mean
+ 285  to make you the most despised of mortal men,
+ 286  and they will not fulfill the promise they undertook
+ 287  while still on the way here from horse-pasturing Argos:
+ 288  that you should sack well-walled Ilion before returning.
+ 289  Like little children or widowed women
+ 290  they wail to one another about going home.
+ 291  And truly, there is toil here to send a man home disheartened:
+ 292  a man kept even one month from his wife
+ 293  frets by his many-benched ship when the winter gales
+ 294  and the rising sea shut him in;
+ 295  and for us this is the ninth year, circling round,
+ 296  that we have stayed here. So I cannot blame the Achaeans
+ 297  for fretting beside the beaked ships. But even so —
+ 298  it is shameful to wait so long and then come home empty.
+ 299  Bear up, friends, and stay a while longer, till we learn
+ 300  whether Calchas prophesies truly or not.
+ 301  For this we know well in our hearts, and you are all
+ 302  witnesses — all whom the fates of death have not carried off:
+ 303  only yesterday, it seems, when the Achaean ships were gathering
+ 304  at Aulis, bearing evils for Priam and the Trojans,
+ 305  and we, around a spring, at the holy altars,
+ 306  were offering the immortals perfect hecatombs
+ 307  under a beautiful plane tree, where the bright water ran:
+ 308  there a great sign appeared. A serpent, its back blood-dark,
+ 309  terrible, which the Olympian himself had sent into the light,
+ 310  darted from under the altar and made for the plane tree.
+ 311  There were nestling sparrows there, baby chicks,
+ 312  on the topmost branch, cowering under the leaves —
+ 313  eight of them, and the mother who hatched them made nine.
+ 314  There he devoured them, cheeping piteously,
+ 315  while the mother fluttered around, crying for her dear chicks;
+ 316  and coiling up he caught her by the wing as she shrieked about him.
+ 317  But when he had eaten the sparrow's children and the bird herself,
+ 318  the god who had shown him made him a sign conspicuous:[14]
+ 319  the son of crooked-counseled Cronos turned him to stone,
+ 320  and we stood there marveling at what had happened.
+ 321  So then: since this dread portent entered the gods' hecatombs,
+ 322  Calchas straightway spoke in prophecy:
+ 323  'Why have you fallen silent, long-haired Achaeans?
+ 324  For us Zeus the counselor has shown this great sign,
+ 325  late, late of fulfillment, whose fame will never perish.
+ 326  As this serpent ate the sparrow's children and the bird herself —
+ 327  eight, and the mother who hatched them made nine —
+ 328  so shall we make war here for as many years,
+ 329  and in the tenth we shall take the wide-wayed city.'
+ 330  That is how he spoke; and now it is all being fulfilled.
+ 331  Come then, stay, all of you, strong-greaved Achaeans,
+ 332  right here, until we take the great city of Priam."
+ 333  So he spoke, and the Argives roared aloud — and around them the ships
+ 334  echoed terribly under the shouting of the Achaeans —
+ 335  in praise of the word of godlike Odysseus.
+ 336  And among them spoke the Gerenian horseman Nestor:[15]
+ 337  "Shame! You hold assembly like little boys,
+ 338  infants with no interest in deeds of war.
+ 339  Where then will our compacts go, and our oaths?
+ 340  Into the fire, then, with every counsel and plan of men,
+ 341  the unmixed libations, the right hands we trusted!
+ 342  We are battling with words, and nothing else; a remedy
+ 343  we cannot find, for all our long time here.
+ 344  Son of Atreus — hold your counsel unshaken, as before,
+ 345  and lead the Argives through the strong encounters;
+ 346  and let them rot, the one or two of the Achaeans
+ 347  who take counsel apart — they will accomplish nothing —
+ 348  all for going back to Argos before we know
+ 349  whether the promise of aegis-bearing Zeus is a lie or not.
+ 350  For I say the overmastering son of Cronos bowed his head
+ 351  on that day when the Argives went aboard their swift-faring ships
+ 352  bearing slaughter and doom for the Trojans:
+ 353  lightening on the right, showing signs of good omen.
+ 354  Therefore let no man press to be gone homeward
+ 355  before he has lain beside the wife of some Trojan,
+ 356  and avenged the struggles and groans of Helen.[16]
+ 357  But if any man is wildly set on going home,
+ 358  let him just lay a hand on his black well-benched ship,
+ 359  and before all others he will meet his death and doom.
+ 360  And you, lord — take good counsel yourself, and listen to another;
+ 361  not to be tossed aside is the word I speak:
+ 362  divide the men by tribes and by clans, Agamemnon,
+ 363  so clan may stand by clan, and tribe by tribe.
+ 364  If you do this, and the Achaeans obey,
+ 365  you will know then which of your leaders is a coward, and which of your men,
+ 366  and which is brave: for they will be fighting among their own.
+ 367  And you will know whether it is by the gods' will you fail to take the city,
+ 368  or by men's cowardice and folly in war."
+ 369  Answering him spoke the lord Agamemnon:
+ 370  "Once again, old man, you outdo the sons of the Achaeans in speech.
+ 371  O father Zeus, Athena, Apollo —
+ 372  if I had ten such counselors among the Achaeans,
+ 373  then the city of lord Priam would soon bow its head,
+ 374  taken and sacked beneath our hands.
+ 375  But instead aegis-bearing Zeus, Cronos' son, gives me griefs,
+ 376  throwing me into fruitless quarrels and feuds.
+ 377  I and Achilles fought over a girl
+ 378  with head-on words — and it was I who began the anger.
+ 379  If ever we take counsel as one, then no longer
+ 380  will there be any putting off of evil for the Trojans, not for a moment.
+ 381  Now go to your meal, so we may join battle.
+ 382  Let every man sharpen his spear well, and set his shield right,
+ 383  let him give his swift-footed horses their feed,
+ 384  let him look over his chariot on every side, and put his mind on war,
+ 385  so that all day long we may measure ourselves in hateful battle.
+ 386  For there will be no pause, not the least,
+ 387  until night comes on and parts the fury of men.
+ 388  The strap of the body-covering shield will be sweated through
+ 389  on many a chest, and the hand will ache around the spear,
+ 390  and many a horse will sweat, straining at the polished chariot.
+ 391  And whomever I see minded to hang back from the fighting,
+ 392  lingering by the beaked ships — for him there will be
+ 393  no hope after that of escaping the dogs and the birds."
+ 394  So he spoke, and the Argives roared aloud, like a wave
+ 395  against a high headland when the South Wind comes and drives it
+ 396  on a jutting cliff — the waves never leave it,
+ 397  whatever wind is blowing, whether they rise this side or that.
+ 398  They stood up and scattered, hurrying to the ships,
+ 399  and made their fires smoke among the huts, and took their meal.
+ 400  And each man sacrificed to one of the gods who are forever,
+ 401  praying to escape death and the grind of Ares.
+ 402  But Agamemnon, lord of men, slaughtered an ox,
+ 403  fat, five years old, to the overmastering son of Cronos,
+ 404  and called the elders, the chief men of all the Achaeans:
+ 405  Nestor first of all, and lord Idomeneus,
+ 406  then the two Ajaxes and Tydeus' son,
+ 407  and sixth Odysseus, the equal of Zeus in counsel.
+ 408  And Menelaus, good at the war-cry, came unbidden,[17]
+ 409  for he knew in his heart how his brother labored.
+ 410  They stood around the ox and took up the barley-grains,
+ 411  and praying among them the lord Agamemnon spoke:
+ 412  "Zeus, most glorious, greatest, lord of the dark cloud, dwelling in the sky:
+ 413  let not the sun go down, nor the darkness come,
+ 414  until I have thrown down Priam's hall headlong,
+ 415  blackened with smoke, and burned its doors with hostile fire,
+ 416  and slashed the tunic on Hector's chest to rags
+ 417  with the bronze; and around him may his companions, many of them,
+ 418  fall face-down in the dust and bite the earth."
+ 419  So he spoke; but the son of Cronos would not yet grant it.
+ 420  He accepted the offering — and piled up joyless toil.
+ 421  Then, when they had prayed and thrown the barley-grains,
+ 422  they first drew back the victims' heads, cut their throats, and flayed them,
+ 423  carved out the thigh-pieces and wrapped them in fat,
+ 424  making a double fold, and laid raw flesh upon them;
+ 425  these they burned on dry leafless billets,
+ 426  and spitted the inner parts and held them over the flame of Hephaestus.
+ 427  When the thighs were burned and they had tasted the inner parts,
+ 428  they cut up the rest and threaded it on spits,
+ 429  roasted it with care, and drew it all off.
+ 430  Then when they had finished the work and made the meal ready,
+ 431  they feasted, and no heart lacked a fair share of the feast.
+ 432  And when they had put away desire for eating and drinking,
+ 433  the Gerenian horseman Nestor began to speak among them:
+ 434  "Most glorious son of Atreus, lord of men Agamemnon,
+ 435  let us sit talking here no longer, nor delay
+ 436  any further the work the god is putting in our hands.
+ 437  Come: let the heralds of the bronze-shirted Achaeans
+ 438  make their cry and gather the host along the ships,
+ 439  and let us go down together, as we are, through the wide Achaean camp,
+ 440  to waken sharp Ares the sooner."
+ 441  So he spoke, and the lord of men Agamemnon did not disobey.
+ 442  At once he ordered the clear-voiced heralds
+ 443  to summon the long-haired Achaeans to battle;
+ 444  they made the summons, and the men gathered quickly.
+ 445  The Zeus-nurtured kings around Atreus' son
+ 446  hurried about marshaling them, and among them grey-eyed Athena,
+ 447  holding the aegis — precious, unaging, immortal,[18]
+ 448  from which a hundred tassels of pure gold float free,
+ 449  all finely woven, each worth a hundred oxen.
+ 450  With it she flashed through the Achaean host,
+ 451  driving them on; and in each man's heart she roused strength
+ 452  to war and fight without ceasing.
+ 453  And at once war became sweeter to them than going home
+ 454  in the hollow ships to their dear fatherland.
+ 455  As an annihilating fire blazes up through a boundless forest
+ 456  on the peaks of a mountain, and the glare shows from far away,
+ 457  so, as they marched, from the tremendous bronze
+ 458  a gleam went flashing through the upper air to the sky.
+ 459  And as the many tribes of winged birds —
+ 460  geese, or cranes, or long-necked swans —
+ 461  on the Asian meadow around the streams of Caystrius
+ 462  fly this way and that, glorying in their wings,
+ 463  settling with cries, always advancing, and the meadow rings —
+ 464  so their many tribes from the ships and huts
+ 465  poured out onto the Scamandrian plain, and beneath them the ground
+ 466  thundered terribly under the feet of men and horses.
+ 467  They stood in the flowering Scamandrian meadow,
+ 468  tens of thousands, as many as the leaves and flowers in their season.
+ 469  As the many tribes of thronging flies
+ 470  that swarm through a herdsman's steading
+ 471  in the season of spring, when milk wets the pails,
+ 472  so many were the long-haired Achaeans who stood in the plain
+ 473  facing the Trojans, mad to break them.
+ 474  And as goatherds easily sort out
+ 475  their wide-wandering flocks of goats when they mingle at pasture,
+ 476  so the leaders sorted the men this way and that
+ 477  to go into battle, and among them the lord Agamemnon:
+ 478  in eyes and head like Zeus who delights in thunder,
+ 479  in girdle like Ares, in chest like Poseidon.
+ 480  As a bull stands out far the finest of all in the herd,
+ 481  conspicuous among the gathering cattle,
+ 482  such did Zeus make Atreus' son on that day,
+ 483  conspicuous among many, preeminent among heroes.
+
+ 484  Tell me now, Muses, who keep your homes on Olympus —[19]
+ 485  for you are goddesses, you are present, you know all things,
+ 486  while we hear only the report and know nothing —
+ 487  who were the leaders and lords of the Danaans.
+ 488  The multitude I could not tell nor name,
+ 489  not if I had ten tongues and ten mouths,
+ 490  a voice unbreakable, and a heart of bronze within me,
+ 491  unless the Olympian Muses, daughters of aegis-bearing
+ 492  Zeus, remembered for me all who came under Ilion.
+ 493  But the captains of the ships I will tell, and all the ships.
+
+ 494  Of the Boeotians, Peneleos and Leïtus were leaders,[20]
+ 495  with Arcesilaus and Prothoenor and Clonius:
+ 496  they who dwelt in Hyria and rocky Aulis,
+ 497  in Schoenus and Scolus and Eteonus of the many ridges,
+ 498  Thespeia, Graea, and spacious Mycalessus;
+ 499  who dwelt around Harma and Eilesium and Erythrae;
+ 500  who held Eleon and Hyle and Peteon,
+ 501  Ocalea and Medeon, that well-built citadel,
+ 502  Copae, Eutresis, and Thisbe of the many doves;
+ 503  who held Coroneia and grassy Haliartus;
+ 504  who held Plataea; who dwelt in Glisas;
+ 505  who held Hypothebae, that well-built citadel,
+ 506  and holy Onchestus, Poseidon's shining grove;
+ 507  who held Arne rich in grapes, and Mideia,
+ 508  sacred Nisa, and Anthedon at the land's edge:
+ 509  of these came fifty ships, and in each one
+ 510  a hundred and twenty young men of the Boeotians.
+ 511  And those who lived in Aspledon and Minyan Orchomenus
+ 512  were led by Ascalaphus and Ialmenus, sons of Ares,
+ 513  whom Astyoche bore in the house of Actor, Azeus' son —
+ 514  a modest maiden: she went up to her upper chamber,
+ 515  and mighty Ares lay with her in secret.
+ 516  With them thirty hollow ships sailed in order.
+ 517  And the Phocians were led by Schedius and Epistrophus,
+ 518  sons of great-hearted Iphitus, Naubolus' son:
+ 519  they who held Cyparissus and rocky Pytho,
+ 520  holy Crisa and Daulis and Panopeus;
+ 521  who dwelt around Anemoreia and Hyampolis;
+ 522  who lived along the brilliant river Cephisus;
+ 523  who held Lilaea at the springs of Cephisus.
+ 524  With them followed forty black ships.
+ 525  Their leaders were busy ranging the Phocian ranks,
+ 526  and they armed close beside the Boeotians, on the left.
+ 527  Of the Locrians, swift Ajax led, Oïleus' son —
+ 528  the lesser Ajax, in no way so big as Telamonian Ajax
+ 529  but far smaller: a little man, in a linen corslet,[21]
+ 530  but with the spear he surpassed all Hellenes and Achaeans:
+ 531  they who dwelt in Cynus and Opoeis and Calliarus,
+ 532  Bessa and Scarphe and lovely Augeae,
+ 533  Tarphe and Thronium, around the streams of Boagrius.
+ 534  With him followed forty black ships
+ 535  of the Locrians who live across from holy Euboea.
+ 536  And the Abantes, breathing fury, who held Euboea —
+ 537  Chalcis and Eretria and Histiaea rich in grapes,
+ 538  Cerinthus by the sea and the steep citadel of Dios;
+ 539  who held Carystus; who dwelt in Styra —
+ 540  these were led by Elephenor, scion of Ares,
+ 541  Chalcodon's son, chief of the great-hearted Abantes.
+ 542  With him followed the swift Abantes, hair grown long behind,
+ 543  spearmen eager with outstretched ash-wood spears
+ 544  to tear the cuirasses on the chests of their enemies.
+ 545  With him followed forty black ships.
+ 546  And those who held Athens, that well-built citadel,
+ 547  the district of great-hearted Erechtheus, whom once Athena[22]
+ 548  raised, Zeus's daughter — the grain-giving earth had borne him —
+ 549  and settled in Athens, in her own rich temple,
+ 550  where the young men of the Athenians seek his favor
+ 551  with bulls and rams as the years come round —
+ 552  these were led by Menestheus, son of Peteos.
+ 553  No man on the face of the earth was his equal
+ 554  at marshaling horses and shield-bearing men;
+ 555  Nestor alone rivaled him, for he was older.
+ 556  With him followed fifty black ships.
+ 557  And Ajax led twelve ships from Salamis,[23]
+ 558  and brought them and set them where the Athenian ranks stood.
+ 559  And those who held Argos and walled Tiryns,
+ 560  Hermione and Asine that lie on the deep gulf,
+ 561  Troezen, Eïones, and vine-clad Epidaurus,
+ 562  and the young Achaean men who held Aegina and Mases —
+ 563  these were led by Diomedes, good at the war-cry,
+ 564  and Sthenelus, dear son of famed Capaneus;
+ 565  and with them went a third, Euryalus, a godlike man,
+ 566  son of lord Mecisteus, Talaus' son;
+ 567  but the leader of them all was Diomedes, good at the war-cry.
+ 568  With them followed eighty black ships.
+ 569  And those who held Mycenae, that well-built citadel,
+ 570  and wealthy Corinth and well-built Cleonae;
+ 571  who dwelt in Orneiae and lovely Araethyrea
+ 572  and Sicyon, where Adrastus first was king;
+ 573  who held Hyperesia and steep Gonoessa
+ 574  and Pellene; who dwelt around Aegium
+ 575  and through all Aegialus and around broad Helice —
+ 576  of their hundred ships the leader was the lord Agamemnon,
+ 577  Atreus' son. With him followed by far the most
+ 578  and the best troops; and he among them, clad in gleaming bronze,
+ 579  glorying, stood out preeminent among all the heroes,
+ 580  because he was the best, and led by far the most men.
+ 581  And those who held hollow Lacedaemon full of ravines,
+ 582  Pharis and Sparta and Messe of the many doves;
+ 583  who dwelt in Bryseiae and lovely Augeae;
+ 584  who held Amyclae and Helos, the citadel by the sea;
+ 585  who held Laas and dwelt around Oetylus —
+ 586  these his brother led, Menelaus, good at the war-cry,
+ 587  with sixty ships; and they armed apart.
+ 588  He himself moved among them, trusting his own eagerness,
+ 589  urging them to war; and beyond all others his heart was set
+ 590  on avenging the struggles and groans of Helen.
+ 591  And those who dwelt in Pylos and lovely Arene,
+ 592  Thryon, the ford of Alpheius, and well-built Aepy;
+ 593  who lived in Cyparisseeis and Amphigeneia,
+ 594  Pteleos and Helos and Dorium — where the Muses[24]
+ 595  met Thamyris the Thracian and ended his singing,
+ 596  as he came from Oechalia, from Eurytus the Oechalian:
+ 597  for he had vowed in his boasting that he would win, even if
+ 598  the Muses themselves should sing, the daughters of aegis-bearing Zeus;
+ 599  and in their anger they maimed him: they took away
+ 600  his wondrous song and made him forget his harping —
+ 601  these were led by the Gerenian horseman Nestor.
+ 602  With him ninety hollow ships sailed in order.
+ 603  And those who held Arcadia under the steep mountain of Cyllene,
+ 604  beside the tomb of Aepytus, where men fight hand to hand;
+ 605  who dwelt in Pheneos and Orchomenus rich in flocks,
+ 606  Rhipe and Stratie and windswept Enispe;
+ 607  who held Tegea and lovely Mantinea;
+ 608  who held Stymphelus and dwelt in Parrhasia —
+ 609  these were led by Ancaeus's son, the lord Agapenor,
+ 610  with sixty ships, and in each ship many
+ 611  Arcadian men went aboard, skilled fighters.
+ 612  For the lord of men Agamemnon himself had given them
+ 613  the well-benched ships to cross the wine-dark sea —
+ 614  Atreus' son — since the works of the sea were no concern of theirs.
+ 615  And those who dwelt in Buprasium and brilliant Elis,
+ 616  all that Hyrmine and Myrsinus at the land's edge
+ 617  and the Olenian rock and Alesium enclose between them —
+ 618  of these there were four leaders, and ten swift ships
+ 619  followed each man, with many Epeians aboard.
+ 620  Two of them, Amphimachus and Thalpius, led —
+ 621  sons, one of Cteatus, one of Eurytus, of Actor's line;
+ 622  of the third company strong Diores was leader, Amarynceus' son;
+ 623  and of the fourth godlike Polyxeinus was leader,
+ 624  son of lord Agasthenes, Augeias' son.
+ 625  And those from Dulichium and the holy Echinae,
+ 626  the islands that lie across the sea facing Elis —
+ 627  these were led by Meges, the equal of Ares,
+ 628  Phyleus' son, whom the horseman Phyleus dear to Zeus begot —
+ 629  who once, angered at his father, had moved away to Dulichium.
+ 630  With him followed forty black ships.
+ 631  And Odysseus led the great-hearted Cephallenians,
+ 632  who held Ithaca and Neriton with quivering leaves;
+ 633  who dwelt in Crocyleia and rugged Aegilips;
+ 634  who held Zacynthus; who dwelt around Samos;
+ 635  who held the mainland and dwelt on the facing shores —
+ 636  these Odysseus led, the equal of Zeus in counsel,
+ 637  and with him followed twelve ships with cheeks of vermilion.[25]
+ 638  And the Aetolians were led by Thoas, Andraemon's son:
+ 639  they who dwelt in Pleuron and Olenus and Pylene,
+ 640  Chalcis by the shore and rocky Calydon.
+ 641  For the sons of great-hearted Oeneus were no more,
+ 642  and he himself was no more, and fair-haired Meleager was dead;
+ 643  so on Thoas the whole rule of the Aetolians had been laid.
+ 644  With him followed forty black ships.
+ 645  Of the Cretans, Idomeneus, famed with the spear, was leader:
+ 646  they who held Cnossos and walled Gortyn,
+ 647  Lyctus and Miletus and chalk-white Lycastus,
+ 648  Phaestus and Rhytium, fine cities to live in,
+ 649  and the others who dwelt through hundred-citied Crete.
+ 650  Of these Idomeneus, famed with the spear, was leader,
+ 651  with Meriones, the equal of Enyalius, slayer of men.
+ 652  With them followed eighty black ships.
+ 653  And Tlepolemus, Heracles' son, tall and strong,
+ 654  led nine ships from Rhodes, of the lordly Rhodians,
+ 655  who dwelt through Rhodes in three divisions:
+ 656  Lindus, Ialysus, and chalk-white Cameirus.
+ 657  Their leader was Tlepolemus, famed with the spear,
+ 658  whom Astyocheia bore to the might of Heracles —
+ 659  he brought her out of Ephyra, from the river Selleïs,
+ 660  after sacking many towns of Zeus-nurtured fighting men.
+ 661  Now when Tlepolemus was grown in the well-built hall,
+ 662  he killed, on the instant, his own father's dear uncle,
+ 663  Licymnius, scion of Ares, already growing old;
+ 664  and quickly he built ships, gathered a great following,
+ 665  and fled away over the sea, for the others threatened him —
+ 666  the sons and the grandsons of the might of Heracles.
+ 667  He came at last to Rhodes, a wanderer, a man of sorrows;
+ 668  and there they settled in three parts, tribe by tribe, and were loved
+ 669  by Zeus, who is king over gods and men,
+ 670  and the son of Cronos poured wondrous wealth upon them.
+ 671  And Nireus led three balanced ships from Syme —[26]
+ 672  Nireus, son of Aglaïa and lord Charopus;
+ 673  Nireus, the most beautiful man who came under Ilion
+ 674  of all the Danaans, after the blameless son of Peleus.
+ 675  But he was a slight man, and few people followed him.
+ 676  And those who held Nisyrus and Crapathus and Casus,
+ 677  and Cos, city of Eurypylus, and the Calydnae islands —
+ 678  these were led by Pheidippus and Antiphus,
+ 679  two sons of lord Thessalus, Heracles' son.
+ 680  With them thirty hollow ships sailed in order.
+ 681  Now all those who dwelt in Pelasgian Argos,
+ 682  who lived in Alos and Alope and Trachis;
+ 683  who held Phthia and Hellas of the beautiful women —
+ 684  and they were called Myrmidons, and Hellenes, and Achaeans —
+ 685  of their fifty ships Achilles was captain.
+ 686  But they had no thought of grim-voiced war;[27]
+ 687  there was no one to lead them into the ranks.
+ 688  For swift-footed brilliant Achilles lay among the ships,
+ 689  in wrath over the girl, Briseis of the lovely hair,
+ 690  whom he had taken out of Lyrnessus with great toil,
+ 691  when he sacked Lyrnessus and the walls of Thebe
+ 692  and cut down Mynes and Epistrophus, the spear-mad
+ 693  sons of lord Euenus, Selepius' son.
+ 694  Grieving for her he lay there; but he was soon to rise.
+ 695  And those who held Phylace and flowering Pyrasus,
+ 696  Demeter's precinct, and Iton, mother of flocks,
+ 697  Antron by the sea, and Pteleos deep in meadow-grass —
+ 698  these warlike Protesilaus had led
+ 699  while he lived; but by then the black earth held him under.
+ 700  His wife, cheeks torn with mourning, was left behind in Phylace,
+ 701  his house but half-built: a Dardanian man had killed him[28]
+ 702  as he leapt from his ship, far the first of the Achaeans.
+ 703  Yet the men were not leaderless, though they longed for their leader:
+ 704  Podarces, scion of Ares, set them in order,
+ 705  son of Iphiclus rich in flocks, Phylacus' son,
+ 706  own brother of great-hearted Protesilaus,
+ 707  the younger-born; the elder and the better man
+ 708  was the hero Protesilaus the warlike. So the people
+ 709  lacked no leader, though they longed for the brave man gone.
+ 710  With him followed forty black ships.
+ 711  And those who dwelt in Pherae beside Lake Boebeïs,
+ 712  in Boebe and Glaphyrae and well-built Iolcus —
+ 713  these Admetus' dear son led with eleven ships:
+ 714  Eumelus, whom Alcestis bore to Admetus —
+ 715  brilliant among women, loveliest of the daughters of Pelias.
+ 716  And those who dwelt in Methone and Thaumacia;
+ 717  who held Meliboea and rugged Olizon —
+ 718  these Philoctetes led, the master bowman,[29]
+ 719  with seven ships; and in each one fifty rowers
+ 720  had come aboard, all skilled bowmen, strong fighters.
+ 721  But he lay on an island, suffering hard pains,
+ 722  on sacred Lemnos, where the sons of the Achaeans had left him
+ 723  tormented by the evil wound of the murderous water-snake.
+ 724  There he lay grieving. But soon the Argives by their ships
+ 725  were to remember lord Philoctetes.
+ 726  Yet the men were not leaderless, though they longed for their leader:
+ 727  Medon set them in order, Oïleus' bastard son,
+ 728  whom Rhene bore to Oïleus, sacker of cities.
+ 729  And those who held Tricca and terraced Ithome;
+ 730  who held Oechalia, city of Eurytus the Oechalian —
+ 731  these were led by the two sons of Asclepius,
+ 732  the good healers Podaleirius and Machaon.
+ 733  With them thirty hollow ships sailed in order.
+ 734  And those who held Ormenion and the spring Hypereia;
+ 735  who held Asterium and the white peaks of Titanus —
+ 736  these Eurypylus led, Euaemon's shining son.
+ 737  With him followed forty black ships.
+ 738  And those who held Argissa; who dwelt in Gyrtone,
+ 739  Orthe and Elone and the white city Oloosson —
+ 740  these were led by Polypoetes, steadfast in battle,
+ 741  son of Peirithous, whom immortal Zeus begot;
+ 742  famed Hippodameia bore him to Peirithous
+ 743  on the day he took vengeance on the shaggy beast-men
+ 744  and drove them out of Pelion, and pushed them to the Aethices.
+ 745  Not alone: with him was Leonteus, scion of Ares,
+ 746  son of high-hearted Coronus, Caeneus' son.
+ 747  With them followed forty black ships.
+ 748  And Gouneus led two and twenty ships from Cyphus,
+ 749  and with him followed the Enienes and the battle-steadfast Peraebians,
+ 750  who set their homes around wintry Dodona;
+ 751  who worked the fields around lovely Titaressus,
+ 752  the river that pours his fair-flowing water into Peneius —
+ 753  yet he does not mingle with the silver eddies of Peneius,
+ 754  but flows along on top of him like oil:
+ 755  for he is a branch broken off the water of Styx, the dread oath.
+ 756  And the Magnetes were led by Prothoos, Tenthredon's son:
+ 757  they who dwelt around Peneius and Pelion
+ 758  of the quivering leaves. Swift Prothoos was their leader,
+ 759  and with him followed forty black ships.
+
+ 760  These, then, were the leaders and lords of the Danaans.
+ 761  Now which was far the best of them — tell me, Muse —
+ 762  of the men, and of the horses, that followed the sons of Atreus?
+ 763  Best by far of the horses were the mares of Pheres' line,
+ 764  which Eumelus drove: swift-footed as birds,
+ 765  matched in coat and matched in years, their backs as level as a plumb-line.
+ 766  Apollo of the silver bow had raised them in Pereia,
+ 767  both of them mares, carrying with them the panic of war.
+ 768  And of the men, far the best was Telamonian Ajax —
+ 769  while Achilles kept his wrath: for he was mightiest by far,
+ 770  he, and the horses that carried the blameless son of Peleus.
+ 771  But he lay among his beaked seagoing ships,
+ 772  nursing his rage at Agamemnon, shepherd of the people,
+ 773  Atreus' son; and his men along the surf-line of the sea
+ 774  amused themselves throwing the discus and the hunting-spear,
+ 775  and shooting with bows; and the horses, each beside its chariot,
+ 776  stood cropping lotus and marsh-grown parsley,
+ 777  while the chariots lay well covered in the huts
+ 778  of their lords; and the men, longing for their leader dear to Ares,
+ 779  drifted here and there through the camp, and did not fight.
+
+ 780  On the others came, as if all the land were swept with fire;
+ 781  and the earth groaned beneath them, as under Zeus who delights in thunder
+ 782  in his anger, when he lashes the earth around Typhoeus[30]
+ 783  among the Arimi, where they say Typhoeus has his bed:
+ 784  so the earth groaned greatly under their feet
+ 785  as they came on; and very swiftly they crossed the plain.
+
+ 786  And to the Trojans went wind-footed swift Iris, a messenger[31]
+ 787  from aegis-bearing Zeus, with a grievous message.
+ 788  They were holding assembly at Priam's doors,
+ 789  all gathered together, the young men and the old.
+ 790  Standing close, swift-footed Iris spoke to them,
+ 791  likening her voice to Priam's son Polites,
+ 792  who sat as lookout of the Trojans, trusting the speed of his feet,
+ 793  on the very top of the tomb of old Aesyetes,
+ 794  watching for when the Achaeans should rush out from their ships;
+ 795  in his likeness swift-footed Iris spoke:
+ 796  "Old man, endless talk is always dear to you,
+ 797  as once it was in peacetime; but relentless war is upon us.
+ 798  Truly I have gone into very many battles of men,
+ 799  but never yet have I seen such a host, so great:
+ 800  for like the leaves, like the sands, in their multitude
+ 801  they are coming over the plain to fight for the city.
+ 802  Hector, you above all I charge to do this:
+ 803  there are many allies through Priam's great city,
+ 804  and tongue differs from tongue among men of scattered lands.
+ 805  Let each man give the word to those he rules;
+ 806  let him marshal his own townsmen, and lead them out."
+ 807  So she spoke, and Hector did not fail to know the goddess's voice.
+ 808  At once he dissolved the assembly, and they rushed to arms.
+ 809  All the gates were flung open, and the host streamed out,
+ 810  foot-soldiers and horsemen; and a great din arose.
+
+ 811  There is a steep mound out before the city,
+ 812  apart in the plain, with open ground on every side;
+ 813  men call it Batieia,
+ 814  but the immortals call it the tomb of Myrine, light of step.[32]
+ 815  There the Trojans and their allies formed their divisions.
+
+ 816  The Trojans were led by great Hector of the flashing helmet,[33]
+ 817  Priam's son; with him by far the most and the best
+ 818  troops armed themselves, eager with their spears.
+ 819  The Dardanians were led by the good son of Anchises,
+ 820  Aeneas, whom brilliant Aphrodite bore to Anchises
+ 821  on the spurs of Ida, a goddess bedded with a mortal.
+ 822  Not alone: with him were Antenor's two sons,
+ 823  Archelochus and Acamas, skilled in all fighting.
+ 824  And those who dwelt in Zeleia under the lowest foot of Ida,
+ 825  men of wealth, who drink the dark water of Aesepus,
+ 826  Trojans — these were led by Lycaon's shining son,
+ 827  Pandarus, to whom Apollo himself gave the bow.
+ 828  And those who held Adresteia and the district of Apaesus;
+ 829  who held Pityeia and the steep mount of Tereia —
+ 830  these were led by Adrestus and Amphius of the linen corslet,
+ 831  two sons of Merops of Percote, who beyond all men
+ 832  knew the seer's art, and would not let his sons
+ 833  go to man-destroying war; but the two would not
+ 834  obey him: the fates of black death were leading them on.
+ 835  And those who dwelt around Percote and Practius;
+ 836  who held Sestus and Abydos and brilliant Arisbe —
+ 837  these were led by Hyrtacus' son Asius, marshal of men —
+ 838  Asius, Hyrtacus' son, whom horses carried from Arisbe,
+ 839  tall and fire-colored, from the river Selleïs.
+ 840  And Hippothous led the tribes of the Pelasgian spearmen,
+ 841  those who dwelt in deep-soiled Larisa;
+ 842  these were led by Hippothous and Pylaeus, scion of Ares,
+ 843  two sons of Pelasgian Lethus, Teutamus' son.
+ 844  And the Thracians were led by Acamas and the hero Peiroos —
+ 845  all those the strong-flowing Hellespont encloses.
+ 846  And Euphemus was captain of the Ciconian spearmen,
+ 847  son of Zeus-nurtured Troezenus, Ceas' son.
+ 848  And Pyraechmes led the Paeonians of the curved bows,
+ 849  from far away, from Amydon, from the wide-flowing Axius —
+ 850  Axius, whose water spreads fairest over the earth.
+ 851  And the Paphlagonians were led by Pylaemenes of the shaggy heart,
+ 852  from the Eneti, where the breed of wild mules is born:
+ 853  they who held Cytorus and dwelt around Sesamus,
+ 854  whose famed homes stood around the river Parthenius,
+ 855  Cromna and Aegialus and the heights of Erythini.
+ 856  And the Halizones were led by Odius and Epistrophus,
+ 857  from far away, from Alybe, where silver has its birthplace.
+ 858  And the Mysians were led by Chromis, and Ennomus the bird-reader —
+ 859  but his birds did not save him from black doom:
+ 860  he was broken under the hands of the swift-footed son of Aeacus[34]
+ 861  in the river, where Achilles cut down Trojans and others with them.
+ 862  And Phorcys led the Phrygians, with godlike Ascanius,
+ 863  from far Ascania; and they were eager to fight in the press of battle.
+ 864  And the Maeonians were led by Mesthles and Antiphus,
+ 865  the two sons of Talaemenes, whom the Gygaean lake bore;
+ 866  they led the Maeonians, born under Tmolus.
+ 867  And Nastes was captain of the Carians of barbarous speech,[35]
+ 868  who held Miletus and the mountain of Phthires, dense with leaves,
+ 869  the streams of Maeander and the steep peaks of Mycale;
+ 870  these were led by Amphimachus and Nastes —
+ 871  Nastes and Amphimachus, the shining children of Nomion.
+ 872  And one of them went to war decked in gold, like a girl —
+ 873  the fool: it did not ward off wretched destruction from him;
+ 874  he was broken under the hands of the swift-footed son of Aeacus
+ 875  in the river, and war-minded Achilles carried off the gold.
+ 876  And Sarpedon led the Lycians, with blameless Glaucus,
+ 877  from far Lycia, from the eddying Xanthus.
+
+------------------------------------------------------------
+
+Notes
+
+[1] (2.6) "baneful Dream" (οὖλον ὄνειρον) — Dream is a personified agent
+    here, capitalized accordingly. That Zeus sends a deliberately lying
+    dream scandalized ancient readers (Plato cites this passage
+    disapprovingly, Republic 383a); the poem itself is unembarrassed —
+    the deception is the mechanism of Zeus's promise to Thetis.
+
+[2] (2.11) "long-haired Achaeans" (κάρη κομόωντες Ἀχαιοί) — stock epithet
+    of the army, literally "letting the hair grow long on the head";
+    always so rendered.
+
+[3] (2.23) "breaker of horses" (ἱπποδάμοιο) — here of Atreus; later in
+    the poem it is the standing epithet of the Trojans and of Hector
+    ("horse-taming Trojans," 230). Rendered "breaker(s) of horses" for
+    individuals, "horse-taming" for the people.
+
+[4] (2.60-70) The Dream repeats Zeus's instructions verbatim, and
+    Agamemnon repeats them verbatim again to the council — standard epic
+    messenger technique. Zenodotus' text drastically condensed such
+    repetitions (apparatus, Line 60-70), and he omitted 157-168 below
+    (Hera's speech restated by Athena) entirely, replacing it with a
+    single line (apparatus, Line 156, 157-168). The vulgate keeps the
+    full repetitions; so does this translation, in identical English
+    each time.
+
+[5] (2.73) "I will test them with words, as is the custom" (ἣ θέμις
+    ἐστί) — the "testing" (peira) is one of the poem's strangest plot
+    devices: no custom of testing armies is otherwise known, and the
+    plan nearly destroys the expedition. The phrase may mean only "as
+    is my right." Translated neutrally; the narrative logic is left as
+    the poem leaves it — precarious.
+
+[6] (2.101-108) The scepter's pedigree — Hephaestus, Zeus, Hermes,
+    Pelops, Atreus, Thyestes, Agamemnon — is a title-deed in miniature:
+    Agamemnon's authority is literally handed down from Zeus. "The
+    slayer of Argus" (ἀργεϊφόντης) is Hermes' fixed epithet, of disputed
+    meaning ("Argus-slayer" is the traditional reading and is kept);
+    "the guide" (διάκτορος) is his companion title.
+
+[7] (2.111-118) Zenodotus athetized this opening of the speech
+    (apparatus). Lines 111-118 recur nearly verbatim at 9.18-25, where
+    Agamemnon speaks them in earnest; here they are play-acted despair.
+    Note the vocabulary: Zeus "bound me in heavy blindness" (ἄτη) — the
+    same word Achilles used of him at 1.412, and Agamemnon concedes at
+    378 that "it was I who began the anger."
+
+[8] (2.157) "Unwearied one" (Ἀτρυτώνη) — obscure cult title of Athena,
+    traditionally derived from "not to be worn down"; rendered by that
+    traditional sense.
+
+[9] (2.169) "the equal of Zeus in counsel" (Διὶ μῆτιν ἀτάλαντον) —
+    Odysseus' loftiest epithet, crediting him with mētis, the cunning
+    practical intelligence that is also Zeus's; always so rendered.
+
+[10] (2.173) "Zeus-sprung son of Laertes, Odysseus of many devices"
+     (διογενὲς Λαερτιάδη πολυμήχανʼ Ὀδυσσεῦ) — the full-line address
+     formula used for Odysseus throughout both epics; πολυμήχανος
+     ("of many devices") is kept distinct from πολύμητις ("resourceful").
+
+[11] (2.193-197) Aristarchus athetized these five lines, and they are
+     independently absent from Xenophon's quotation of the passage
+     (Memorabilia 1.2.56) — two converging hints they may not be
+     original (apparatus, Line 193-197; disputed_lines.md #3). Without
+     them, Odysseus' speech to the kings loses its "he is only testing"
+     explanation. Translated as printed; the two-tier treatment of kings
+     and commoners on either side of this line is in any case secure.
+
+[12] (2.204) "The rule of many is no good thing: let there be one ruler"
+     (οὐκ ἀγαθὸν πολυκοιρανίη· εἷς κοίρανος ἔστω) — the most quoted
+     political sentence in Homer (Aristotle cites it in the Metaphysics
+     in defense of monarchy). In context it is crowd-control rhetoric,
+     not constitutional theory.
+
+[13] (2.212-219) Thersites is the only common soldier in the Iliad who
+     is named, described, and given a speech — and the description is a
+     catalogue of deformities, the epic's physiognomic shorthand for
+     baseness (contrast every hero's beauty). His name suggests θέρσος,
+     "audacity." Zenodotus athetized 220-223 (apparatus). Notice that
+     his complaints against Agamemnon are substantively Achilles'
+     complaints from Book 1, voiced one rung down the social ladder —
+     and answered with a beating the assembly applauds.
+
+[14] (2.318-319) "made him a sign conspicuous" — the vulgate reads
+     ἀρίζηλον ("very plain to see"): the petrified serpent becomes a
+     lasting marker of the portent. An ancient variant read ἀΐζηλον
+     ("unseen"): the god made the serpent vanish. Aristarchus athetized
+     319 (the petrification line) outright (apparatus, Line 318, 319).
+     Translated from the printed text: conspicuous, then turned to stone.
+
+[15] (2.336) "the Gerenian horseman Nestor" (Γερήνιος ἱππότα Νέστωρ) —
+     his fixed title henceforth; "Gerenian" was obscure already in
+     antiquity (usually connected with Gerenia in Messenia, where Nestor
+     was said to have been raised). Always so rendered.
+
+[16] (2.356) "the struggles and groans of Helen" (Ἑλένης ὁρμήματά τε
+     στοναχάς τε) — ambiguous since antiquity: either Helen's own
+     strivings and griefs (a Helen carried off unwilling), or the
+     struggles and groans fought and suffered over her. The English
+     keeps the genitive's ambiguity. The line recurs at 590 of Menelaus.
+
+[17] (2.408) "good at the war-cry" (βοὴν ἀγαθός) — fixed epithet of
+     Menelaus and Diomedes: the carrying battlefield voice as a command
+     skill. Always so rendered. Menelaus coming "unbidden" to his
+     brother's feast was proverbial in antiquity.
+
+[18] (2.447-449) The aegis (see Book 1, note [21]) here gets its fullest
+     description: a hundred all-gold tassels, "each worth a hundred
+     oxen" (ἑκατόμβοιος) — value is reckoned in cattle, the Homeric
+     world's standard of price; there is no money in the poem.
+
+[19] (2.484-493) The poet's second and most elaborate invocation of the
+     Muses, marking the Catalogue as a feat of memory beyond unaided
+     human power ("ten tongues, ten mouths"). The Muses know because
+     they are present and see; the poet otherwise has only kleos —
+     "the report" — at second hand.
+
+[20] (2.494-759) The Catalogue of Ships: 29 Achaean contingents, some
+     190 place names, 1,186 ships by the traditional count. It has been
+     argued since antiquity to reflect an originally separate
+     composition (its geography fits mainland Greece of an earlier era
+     better than the poem's own dramatic situation — Boeotia leads,
+     plausibly from the muster at Aulis), and several manuscripts omit
+     the whole span (apparatus, Line 494-877: om.; disputed_lines.md
+     #2). Translated as fully integral, in the same line-for-line verse
+     as the narrative; see commentary.
+
+[21] (2.528-530) The disambiguation of the two Ajaxes. Zenodotus
+     athetized 528 and Aristarchus 529-530 (apparatus) — the "linen
+     corslet" (λινοθώρηξ) bothered critics, linen being light armor at
+     odds with heroic bronze. Kept: the lesser Ajax's smallness and
+     spear-skill are both plot-relevant later.
+
+[22] (2.546-551) Erechtheus, the primeval Athenian king, is "borne by
+     the grain-giving earth" and raised by Athena in her own temple —
+     the earliest statement of the Athenian autochthony myth, and one of
+     the very few references to hero-cult practice (annual bull and ram
+     offerings) in the Iliad.
+
+[23] (2.557-558) The most notorious couplet in the poem. Aristarchus
+     athetized 558, and ancient tradition (Strabo 9.1.10, Diogenes
+     Laertius 1.48) reports that Solon or Pisistratus inserted it to
+     support Athens's claim to Salamis against Megara — the Megarians
+     circulated a rival version continuing Ajax's line with Megarian
+     towns instead (quoted in the apparatus at Line 557-558). Whether
+     or not the accusation is true, Ajax — the war's second-best
+     fighter — receives a strikingly minimal two-line entry. Translated
+     as printed, with the controversy recorded here (disputed_lines.md
+     #2a).
+
+[24] (2.594-600) Thamyris the Thracian bard boasted he could outsing
+     the Muses; they "maimed" him (πηρόν — later tradition specifies
+     blinding, but the word is unspecific), stripped his song, and made
+     him forget his lyre-craft. A dark in-poem parable of song as the
+     Muses' revocable gift, placed pointedly just after the poet's own
+     humble invocation of them.
+
+[25] (2.637) "ships with cheeks of vermilion" (μιλτοπάρῃοι) — Odysseus'
+     ships have bows painted with red ochre; the word transfers the
+     "cheek" of the human face-epithets to the ship's prow.
+
+[26] (2.671-675) The Nireus entry: his name opens three consecutive
+     lines (anaphora unique in the Catalogue) — beautiful, well-born,
+     and militarily negligible. Zenodotus athetized 673-675 and omitted
+     674 (apparatus). The rhetorical polish of the entry made it famous;
+     it is kept at full strength.
+
+[27] (2.686-694) Zenodotus athetized this Achilles-paragraph (apparatus,
+     Line 686-694). It is the Catalogue's load-bearing link to the
+     poem's plot: the fifty ships are mustered, and their leader lies
+     apart "in wrath over the girl" — with the quiet promise "but he
+     was soon to rise."
+
+[28] (2.698-702) Protesilaus, "far the first of the Achaeans" ashore,
+     killed as he leapt from his ship (an oracle had promised death to
+     the first to land — the poem alludes without telling). His "house
+     but half-built" (δόμος ἡμιτελής) is ambiguous: an unfinished hall,
+     or a marriage cut off half-made; the wife with torn cheeks favors
+     hearing both.
+
+[29] (2.716-725) Philoctetes, master of Heracles' bow, abandoned on
+     Lemnos with the festering water-snake wound. "Soon the Argives
+     were to remember" him: prophecy held that Troy could not fall
+     without the bow — the story of Sophocles' Philoctetes. One of the
+     Catalogue's several forward windows beyond the Iliad's own frame.
+
+[30] (2.782-783) Typhoeus, the monstrous challenger of Zeus, lies
+     lashed by his thunderbolts "among the Arimi" (location already
+     disputed in antiquity — Cilicia, Lydia, and volcanic Ischia were
+     all proposed). The marching army makes the earth groan like Zeus's
+     cosmic punishment: the grandest of the muster-similes.
+
+[31] (2.786) "wind-footed swift Iris" (ποδήνεμος ὠκέα Ἶρις) — the
+     rainbow goddess as messenger of Zeus; her fixed epithet, always
+     so rendered.
+
+[32] (2.813-814) Men call the mound Batieia; the gods call it "the tomb
+     of Myrine" (an Amazon, in later tradition). Second instance of
+     divine-versus-human double naming (cf. Briareus/Aegaeon, Book 1
+     note [33]) — the gods' name preserves the older, true history of
+     the landmark.
+
+[33] (2.816) "Hector of the flashing helmet" (κορυθαίολος Ἕκτωρ) — his
+     defining epithet, first appearance in the poem; literally "with
+     glancing/shimmering helm." Always so rendered.
+
+[34] (2.860-861) Aristarchus athetized these lines (and obelized the
+     parallel pair at 874-875): they anticipate, in the future tense of
+     the narrator, Achilles' massacre in the river Scamander — which
+     belongs to Book 21 — and ancient critics disliked the Catalogue
+     "spoiling" it. Kept: the Trojan catalogue's habit of glancing at
+     its captains' deaths is part of its elegiac texture.
+
+[35] (2.867) "Carians of barbarous speech" (βαρβαροφώνων) — the first
+     occurrence in Greek literature of any "barbar-" word. Not yet the
+     later blanket term "barbarian": in the whole poem only the Carians
+     get this label, and the Trojans themselves speak with the Achaeans
+     unhindered. Rendered "of barbarous speech" to keep the word's
+     echoic, language-centered sense.

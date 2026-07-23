@@ -1,0 +1,133 @@
+BOOK 24 — Apparatus Criticus (Monro-Allen, OCT 3rd ed., 1920)
+============================================================
+
+See README.md in this directory for a legend of the critical abbreviations
+(ath., Zen., Ar., Aristoph., vulg., om., codd., cf., Hdn., etc.).
+
+This file is a mechanical extraction from OCR'd scans of the Oxford Classical Text. The Greek text OCR is frequently garbled (diacritics and some letterforms are unreliable); critical sigla and Latin abbreviations are generally more reliable. Entries marked with no line number below could not be confidently tied to a specific Iliad line and are listed at the end as unplaced fragments.
+
+------------------------------------------------------------
+
+Line 20-21: ath. Ar
+Line 20: αἰγίδα... χρυσείην Ar. L4 (uv.) P4 PST καλύπτει g: καλύπτων h Ν᾽ : κάλυψε VIS v
+Line 1: in A
+Line 23-30: ath. Ar. teste g BT
+Line 25-30: teste s A
+Line 25: ev0 aXXois μεν παντες erev- φημησαν Αχαιοι PPS
+Line 26: ποσειδάονι, yp. U4, 1.10 LIT γλαυκὼωπ + 0 + κουρὴν P'* 28 ἀρχῆς Ν1Ὲ W? ν.]. inA=T100 80 ἐρα- τεινήν cf al. : ἥ οἱ κεχαρισμένα δῶρ᾽ ὀνόμηνε Aristoph. alii ant. {τινὲς τῶν πολιτικῶν) v.llinA
+Line 88: κτερίσειαν blne Ν᾽ V82: κτερέουσιν Ὁ). ᾿
+Line 43: εἴξῃσ᾽ v.1. ant
+Line 45: ath. Ar. (= Hes. Op. 318} ἠδ᾽] ν ant. 48 ὀδυρόμενος [Ὁ cehlmnA marg. al
+Line 53: νεμεσσηθέωμεν Ar.: -θῶμεν codd. v. ath ΒΤ
+Line 58: μαζῶ n
+Line 59: γένος ef V82: πάϊς v ant
+Line 63: δαίνυσ᾽ mpqaGe V82
+Line 64: τὴν δὲ μέγ᾽ ὀχθήσας v.l. ant
+Line 71-73: ath. Ar. 1 ἐάσομεν) ἀμήχανον Antim
+Line 72: θρασὺν] νέκυν ἕκτορος v.l T ἢ) εὖ ν ant θέων qu. SA: θέῶν τ
+Line 78: Σάμοιο xa) A ss. W?, Strab. 339, 457
+Line 80: Bvtdvgia 05 ἵκανεν Plat. Ion 538d 81 ἐμμεμαυῖα Plat. o M* O5 Ul! V12 νγδεν A 82 ἐπ᾽ μετ᾽ Plat. κῆρα] πῆμα Plat., v ant. (ἔνιαι τῶν κατὰ πόλει) 85 ὃς τάχ᾽ ΚΗΪ
+Line 86: ath. Ar. gira èvìfghal. 88 ὄρσεο g L!2 L!8 M8 Θέτις τὰ ᾳ 1.15 Pa ἐξαναβᾶσαι Ar. (καὶ αἱ rAetovs) Ang. L!° 171,19 ΝῚ N4 V10 VI V18 ἣν : εἰσαναβᾶσα: vulg 109 ὀτρύνουσιν Mass. Chia : ὀτρύνεσκον codd
+Line 110: προϊάπτω Zen. Ar. b m p [.16 M! M8 ΜῈ U!11 y2 122 ἔνθ᾽ A D L!9 M8 VI VI0 VI: + ἐν δ᾽ vulg
+Line 125: κλισίῃ Ar. codd. : κλισίῃς DE
+Line 130-132: ath. Ar. οιτὸ beh al
+Line 148: οἷος v. l. ant., cf. 177 150 #02) ἥ κε DM!TU4V! v.l. in A 158 ἐσσυμένως N4 m. rec. Pî? ràsc ἐν] ἣ v.l. ant
+Line 165: if] φίλῃσι US U11 V14 V16 y, î in AO Re SE RE REA IT AE II pp ATE
+Line 177: οἷος Θ᾽ Vi? ed. pr. 179 ἠδὲ] ἥ xe PISA ss. DLISMST: ἥ τε h: ne pit
+Line 190: dr hpq IQI κατεδύσετο h
+Line 192: κεχάνδη Av. sA p" m. sec. 1 BC Bm8 L? L3 L12 PO? ὃ VI v6 v20 v25. [. .. Ἰονδει p': κεκεύθει Mass. 24. ἸΛΙΆΔΟΣ Q 198 ἄνωγε Ar. Ο : ἀνώγει codd. 200 ἀνήρετο Ar Τ
+Line 201: περ ye A ss. 202 ἔκλυ᾽ 1.19 PLVI0W4: ἔκλετ᾽ h 205 ἐξήναξε v.l. 8
+Line 205: a ἀθάνατοι ποίησαν ᾿Ολύμπια δώματ᾽ ἔχοντες add. quidam ant. (οἱ οὐρανὸν εὐρὺν ἔχουσιν T) 209 ὥς ποτε Ὁ)"
+Line 210: rex]eu[nr]np 213 ἂν rirà Apoll. Callistr. : ἂν P? 19: ἄντ. cet
+Line 214: Vi v.l. ant. (αἱ κοιναί) P'*
+Line 215: πρὸς pp “ ehmnoN4V1V13V16
+Line 218: κατερύκακε af g VI° V23 ἃ]
+Line 219: sa hlnpAss. 221 ἢ οἵ] οἷοι v ap. Eust. ΡΣ yp. P* 224 ἁλίη 63ds ν.]. ap. Eust. 231 λευκά Pl''cofhi ABC L!°V! al. : καλά vulg 235 ἐξεσίηνδ᾽ e v.l. ap. Eust. 238 ἀνέεργεν ΤῸ N4 VI V82 ν ap. Eust. ἐνίσπων egp: ἐνίπτων Eust. 240 Eveoti) ἐστι P'thi VI! γρ. Ut al. : ἔπεστι PI 241 ὀνόσασθ᾽ Ar. Apoll. lex. in Οὔνεσθε. T: ὀνόσεσθ᾽ Ὁ" m. sec. : οὔνεσθ᾽ (-ασθ᾽, -υσθ᾽) vulg. : ]Jobvo[ Ὁ} ἔθηκε b£ TA ss. al. 251 ἀγαυὸν Vil Vi5 eriderov ST: ὄνομα κύριον Et. Gud. 3. 57: ἄδηλον A Eu.)
+Line 253: κατηφέες Crates, Ὁ m. rec. 267 rpwroray bd hp V®°
+Line 269: om. Zen. ὀμφαλόεν hl m pABCGfN4V!6 Eust.: dk» φαλόεντ᾽ vulg. 270 ἐννεάπηχυν A C N! VI? V18 272 ἕκτορι qu. g Ge, min. E. M. 383.25 274 ἔκαμψαν 1n AT: ἔγναμψαν vulg. 277 ἐντεσιεργούς bh τὰ ABCGfN' VI al. : ἐντεσιουργούς vulg. 279 ἵππους δὲ Tppovs ΒΟ V® W?, cf. Ψ 201 286 ἔπος τέ μιν ἀντίον ηὔδα P°
+Line 292: ταχὺν] ἑὸν P'* Apoll. synt. ii. 113 v.l. ap. Apollon. pron. 48 gAT: τεὸν A 55.) cf. 296, 310
+Line 293: εὖ] οὗ Zen. H! M* P9: οἱ h1p N! μάλιστα be A BC al. 295 ἴῃς χαίρων ἐνὶ θυμῷ v.l. in A
+Line 304: ath. Ar. χέρνιβα Mass. πρόχοόν θ᾽ ἅμα] ταμίη μετὰ Massil
+Line 310: ταχὺν] ἑὸν P!2, v.l. in A
+Line 811: εὖ] οὗ [5 1.8: oi 1p Μ' Μ'3 N! al. μάλιστα A 318 ἐὺ κληῖσ᾽ Trypho: ἐύκλήϊς Ar. Ptol. Asc. Hdn. cosi
+Line 319: τόσσ᾽ ὡς ο1.56 1.5 M! U4 V32
+Line 320: διὰ PI gh: δι᾿ bo yp. A αἱ. : ὑπὲρ vulg
+Line 322: γεραιὸς ἑοῦ «ΑἸ M* M*: teoroî vulg
+Line 328: πόλλ᾽] épwy ° οἴκτρ᾽ Iren. in haer. i. 9 W° yp. N θάνατόν ye cfh N! V®2
+Line 330: twoppov P! U!0 Vil
+Line 331: ud Ar. PE p'ABCT, cf. Θ
+Line 206: E 265
+Line 332: xaraBdvre Chia ΨΥ
+Line 344: om. "5 ἐθέλει Ar. vulg. : τῇ SA (af κοιναῦ ACO? ὕ al
+Line 346: tipa cdehp ABV®2: ἄρ᾽ ἐς vulg
+Line 347: αἰσυμνητῆρι Ar. fhipaBCTVial.: αἰσυητῆρι Apio, vulg
+Line 348: πρώτῳ Ὁ
+Line 354: εὐφραδέος Ν' : ἀφραδέος h
+Line 861: μετέειπε V32, cit. Eust. 367 ἄγοντα) ἔχοντα m N4 VI?
+Line 370: οὐδ᾽ ἄν σε bh BC V®° al. κακὰ Ὁ A L4L5 U4 V10 ; .dy cet. ἠδέ κεν PYiq Ge U?® yp. A al
+Line 373: πῃ) δὴ v.1. ant. ΝΠ: δή πῃ h L!10 374 ἔτι] εἴ bh ABCAal
+Line 376: δέμας μένος P'4 καὶ ἀτειρέα φωνήν h B C L3 V20 382 ἵνα τοι τάδε πε p° cghqaal
+Line 383: καταλείψετε ΟΑ 55. [16 ΜῈΝ}
+Line 387: ζω ἀνθ]ρώπων P'* 388 ὥς c p° πι. sec. ABCL!° L® M!T U!0 V22 ; ὅς vulg
+Line 392: νηυσὶν) vîîas h
+Line 397: δ᾽ ἐμὸς p'* Ὁ ya
+Line 400: τοῖσι δὲ πρῶτον ὑπηνήτης v. l T ἕπεσθαι] ἱκέσθαι h BC L3 VI! m. rec. 411 οὔτοι D yp. 8 U* φάγον κύνες e Ge al. 413 ἠὼς ἥδε P'° ehm o p N! Né Eust. al. : ηδη θ᾽" Οϑ γρ. 9
+Line 414: γρ. ἠδύμω1,5 421 ἐν] ἐπ᾿ P°p'°p'‘icefio BC GIN! Vial, 422 éoîo p L4 P!3: reoîo Ὁ" m. sec. 423 ath. Aristoph. Ar. HOM. IL, 18-24 18
+Line 428: τῶ τῶν v.l T, pàBC L® M!° ΎΡ: Us
+Line 434: κέλεαι Wolf : κέλῃ codd. ᾿Αχιλῇος ἔχεσθαι VS V!8 : Ae: δέχεσθαι fg al
+Line 436: μωμεύειν Ὁ)", 440 ἀναΐξας acfg1BCN'T αἱ. : ἐπαΐξας vulg
+Line 445: rt ᾳ A m. τες, Cal: ὄρεσ(σ)ε g VITE CORTO E, VETTE erre”, RI σε E ET ATO lire ii ili 469 ἄλτο] βαῖνε v.l T 471 ἵππους θ᾽ p® BC Ὁ Μ1ὸτ| 0018 V15 V20 V23
+Line 476: ath. Ar. 477 ἄγχι παραστὰς befal
+Line 479: παιδοφόνους PR m. sec. marg. 482 ἔχεν D° e m al
+Line 476: σοῖο p DO?V?° Amm. diff. νος. in v. : σεῖο Zen., vulg. : ἑοῖο h Gf 18* 488 ἐόντος ν ant., Gf
+Line 489: καὶ λοιγὸν] ἀπὸ οἴκου h
+Line 492: μολόντα P'‘eghq
+Line 499: αὐτός h V!
+Line 502: vio δ᾽ Li6
+Line 710: γογο φέρων τ᾽ DM®
+Line 506: χεῖρας ὀρέξαι ν. Ì. ap. Eust. 512 στεναχὴ Zen. θ᾽
+Line 513: αὐτὰρ ἐπεὶ κλαίων τε κυλινδόμενός 7° ἐκορέσθη Chrysippus ap. Galen. de plac. Hipp. iv. 153
+Line 514: δίῃ, Ar. dtt
+Line 522: καταέζευ yp. U4
+Line 524: πρῆξις] τ᾽ ἄνυσις Bm8 corr. Τὶ v. l. in A 526 ἀχνυμένοις P'4 e n A Ὁ N4 VI: ἀχνυμένους vulg
+Line 528: κηρῶν ἔμπλειοι ὃ μὲν ἐσθλῶν αὐτὰρ ὁ δειλῶν Plat. Rep. 379 d 530 ἐπιμίσ- γεται Pind. Pyth. iii. 141
+Line 544: μακάρων pi τη. sec. h L10 Vi v10 Dio Prus. lxxiv. 13, Plut. de exil. 603 d, Suid. in”Ave, cf. Mela ii. 7. 4: μάκαρος πόλις Strab. 356,
+Line 586: ΝΥ
+Line 546: τῶν τῶ »" ΒΟΥ ΑΌΝ VI V23 v32 Eust. 549 ἄσχεο M1? U4 V11 V18 LS ia
+Line 550: SELE L* uv. : υἱέος αἰνῶς Stob. Flor. 124. 17
+Line 553: μή πώ μ᾽ : μή μέπω vulg
+Line 554: κηται a AT Dcorr
+Line 556-557: ath. Ar
+Line 556: φέρομαι h p v.l. ap. ust. al. 557 ἕασας Did. Hermapias, A : ἐπεί ue πρῶτ᾽ ἐλέησας Dion. Sid
+Line 558: om. |p'*b DGfT US U® Ul νιν VI1 V14 V?8 (οὗτος ὁ στίχος οὐχ εὑρέθη ἐν τῷ παλαιῷ A marg.)
+Line 566: φύλακας Ὁ καὶ BCM! al. oòdé 7° ΑΝ" ὀχῆα Ar. A L!6
+Line 130: M8 N! N4T UU: ὀχῆας- cet
+Line 568: τῶ] τῶν efL8 V4 V82 ἐνὶ φρεσὶ ν. l. in A καὶ Φρυγίη κἀδύπερθς καὶ Ἑλλήσποντος Bre psp het 545 «Loiano A : τε καὶ vulg.: καὶ M® ΜῈΝ} {Π18 V6 576 ἵππους 6° e L*L8 υδγῆνθ 578 ἐδξέστου) ἐὐσσώτρου Ρ" ADTV!A marg. yp. A
+Line 584: κότον οὐ κατερύκοι v.l. ant.: χόλον οὐ κατερύξει Ὁ V!: γόον Hdn.: κόλον Rbhianus : κόπον al. ST 590 ἐύξέστῃ ἀπ᾽ ἀπήνη (sic) A ss
+Line 594-595: ath. Ar
+Line 595: aòlèàvg ὅσσ᾽ ὡς Ὁ" 599 ὡς σὺ κελεύεις e h B C D L® ιν
+Line 604: υἱέες et υἱεῖς Ar. (διχῶς) : υἱέες PS: υἱεῖς codd
+Line 614-617: ath. Aristoph. Ar. 616 ᾿Αχελήϊον v.1. ant., A ss. : ᾿Αχελήσιον T
+Line 636: παυσώμεθα Ar. h A L!° L!° M° Né y1
+Line 642: λαυκανίης P* ehABGfN*Tal.: λευκανίης vulg. 643 ἔειπε Ge VII 646 7° ἐφύπερθεν h V4
+Line 647: δάδας h L10 Μ9 656 ἀγόρευσον hiq al
+Line 658: re μένω] uevéw Apoll. lex, in Τέως 661 ῥέξας fhmal
+Line 663: δὲ} γὰρ Ar. abcdahmN!N* al
+Line 670: τόσσον πόλεμον χρόνον abf 1A Ge Gf ὡς σὺ v ap. Eust. 673 αὐτοῦ Ὁ": αὐτίκα V!
+Line 616: δὲ] δ᾽ ἄρα qA 1.16 Μ8 pis 55,
+Line 681: πυλαουρους P'*
+Line 693: om. θ᾽" Ῥ' δ flo A Ang. GfVI! Vs?
+Line 697: φέρον] ἄγον Ὁ" h A L!6M8
+Line 704: εκτορα διον PPS
+Line 706: πόλι Ar U4 ita Vil
+Line 717: αἀσεσθαι PP*: -ασθαι £ T ἀγάγωμι Ὁ 1.19 Vi? : -ωμαι h: -ou cet. πόλινδε γρ. A
+Line 721: θρήνων ott ui ὯΝ ϑρήνου: vulg. : θρήνου M!! P4 P13 V5
+Line 722: δὴ θρήνεον ehm Ὦ v.l.in A
+Line 724: διτοδάμοιο Ὁ" Ρ" cemr N!VI V?8 al. Matro 81
+Line 725: véov Zen. Gf 726 è ἔτι bhlv.lLinA al. : δέ re vulg
+Line 740: κατὰ] περὶ P'* 752 ὅν τιν᾽ ἕλρσι ν I. in Α : ὅν κε λάβοι Strab. sr
+Line 753: pt eocav Antim. Né corr. : ὀμιχθαλόεσσαν h Aratta δ chv.l.inAal. 760 ἔγειρε P'* p q L!° M! M!? δὲ ὄρουσε V
+Line 761: τῇσιν δ᾽ αὖθ᾽ efgilal. 764 ἄγαγ᾽ ès1BC ἜΝ ὥφελλον ὀλέσθαι Ar. ehi ABCVIV®?: ὥφελλ᾽ ἀπολέσθαι vulg. 768 ἐνίπτοι bhilABCDVial: ἐνίπποι e N: ἐνείποι Gf: ἐνίσσοι v.l. in A: ἐνίσποι vulg
+Line 770: αἰεί ἦεν P'* m sec. hp V!8: εἶεν v.l in A
+Line 171: τόν γ᾽ codd
+Line 773: θ᾽ ἅμα] μάλα h καὶ ἐμὸν μόρον v.l T quidam T

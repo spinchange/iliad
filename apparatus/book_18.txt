@@ -1,0 +1,80 @@
+BOOK 18 — Apparatus Criticus (Monro-Allen, OCT 3rd ed., 1920)
+============================================================
+
+See README.md in this directory for a legend of the critical abbreviations
+(ath., Zen., Ar., Aristoph., vulg., om., codd., cf., Hdn., etc.).
+
+This file is a mechanical extraction from OCR'd scans of the Oxford Classical Text. The Greek text OCR is frequently garbled (diacritics and some letterforms are unreliable); critical sigla and Latin abbreviations are generally more reliable. Entries marked with no line number below could not be confidently tied to a specific Iliad line and are listed at the end as unplaced fragments.
+
+------------------------------------------------------------
+
+Line 39-49: om. Argol. (teste Callistr.) ath. Zen. Ar. 39 ἔνθ᾽ ἄρα Pa ln GeL® M8 ΓλαύκειάΒὩ ἍἍΑλεια Ar. "E hi Pra o gle p" qu. 5 47 ἔνθ᾽ ἄρα ἦν Ῥ''
+Line 52: κασίγητοι vi) ἔπι Aristoph. 63 ἴδωμι or M*M! N4 (uv.) Ul! V10, Pim biV!.: ἴδοιμι vulg
+Line 68: εἰσανέβησαν epA Ἴ1 éoîo] ἑῆος κα V8? 83 ἀπέλυσε v.l. ap. 8 T
+Line 86: αἴθ cp ABCNIV!0: ὡς vulg
+Line 94: τὸν δ᾽ ἠμείβετ᾽ ἔπειτα v.l. in A
+Line 97: τὴν δ᾽ αὖτε προσέειπε ποδάρκης δῖος cit. Aeschin. c. Tim. 150 99 μοι πολὺ φίλτατος (φίλτατον unus cod.) ἔσκεν cit. Aeschin c., qui videtur v
+Line 100: non legisse I00 ἀρῆς v.l. ant. (ἐν τοῖς εἰκαιοτέροις), vulg.: ἄρεω Ar. A ss. yp. P3: ἄρεος qu. g σ΄: ἄρεως qu B
+Line 104: νηυσὶ κορωνίσιν Plat. Apol
+Line 28: d
+Line 107: εκ τ᾽ «+. των ἀνθρωπωὼν PP! 124 ἁδινὰ qu. SA, A ss. r MIT
+Line 125: πεπαύ pro σιν
+Line 127: Θέτις κατὰ δάκρυ χέουσα Ὁ" 1λ6 136 ἠῶθι h N4 corr. 138 ἑῆος P°ipr V16 V82 v.l in A 142 ἀγορεῦσαι Zen. Zen., cf. 176, 177 156 ἐπὶ δὲ i 160 ἰάχων] ἀχέων Zen
+Line 171: Πατρόκλου Ar. b LS L!8 U? U4 VIS 174 ἠνεμόεσσαν αἰπὺ θέλοντες Zen
+Line 176-177: om. hic Zen. (cf. 156)
+Line 180: σοὶ] σὴ M? V*% [82 γάρ] τ᾽ ἄρ Ar. ed. alt. bg
+Line 188: τ᾽ ἄρ᾽ γὰρ i L12 VI2 V16
+Line 192: οὔθην ὁ αὶ 194 ὅ γ᾽ codd. em, Bentl. Τρώεσσι e p ABC L?N!T VI? VI4 νι V82 v, Ἰ, ap. Eust. 197 κλυτὰ] καλὰ v.l. ant. (κατ᾽ ἔνια)
+Line 198: αὐτὸς Zen. Aristoph. h ἀριπρεπὲς Ar. ed. alt. (μεταθέσθαι καὶ γράψαι) teste Dion. Thr
+Line 210: σφετέροιο ΝΜ" V32: ἄστυ ποτὶ σφέτερον Zen. 213 ἄρεω Ar. : ἄρεος ἔ 51: ἄρεως cet. cf. 100
+Line 222: χαλκέην Zen. Αἰακίδαο] αὐδήσαντος Ν᾽ γρ. Ῥϑ: τοῖο ἄνακτος Ν΄ m. rec. 228 ὑπὲκ ἃ ΕΚ 4]. βελέεσσι Zen. 231 ὀχέεσσι] ξιφέεσσι ν in A ἔντεσιν fi al.: ἅρμασιν M1 239 ἤέλιον μὲν ἔπειτα e Δ" ν.]. in A al. 243 ἐπὶ θρωσμῷ πεδίοιο v in A 247 ἔχε] ἕλε i A ss. φόβος Zen
+Line 258: πολεμίζεσθ᾽ g
+Line 285: Πουλυδάμαν Vi VI
+Line 287: κεκόρησθον Zen. ἐεργμένοι ᾳ Mc τες g 317 ἀνδροφόνους Ar. (ἅπασαι), codd. : ἀνδροφόνου v ant. (πᾶσαι), codd. : οὕτως v.l. ant. 347 ἔχεαν) χεῦαν h: ἔχευαν P!! ss. bcp
+Line 356-367: damnat Zenodorus
+Line 356: προσέειπε] ἐκάλεσσε cit. Plut. quaest, conv. ix. I, 2, 3
+Line 357: pena iprACN4VI v12 364 ἔγωγ᾽] ἐγὼν Zen. 367 ῥέξαι ἃ Ge VI4
+Line 373: γὰρ] uèv PI
+Line 376: δύσονται p'egikl v. l. in A al. : δύσωνται bAahpGe: θεῖον κατὰ δῶμα νέονται V ant. (ai εἰκαιότεραι), omisso uv. 377
+Line 381: om. ῬΑ Ge 1} L! N! U? U4 Ul! V10 V16
+Line 385: Θέτις Zen. q L8 Mo V12 τανύπεπλος Zen. ἡμέτερόνδε Zen
+Line 388: πρόσω ἄγε) ἡγήσατο gr
+Line 396: βοώπιδος ν.]. in T
+Line 400: πολλά) πάντα Zen. Aristoph. ἃ L5V1V13: καλά VI? 404 ἤδειν v.l. ant. 406 ἵκετο Mc V!6: ἥκει 5:1 al. χρεὼν e CV32: Χρὴ 1.N4V1V16 HOM. IL, 13-% 10
+Line 424: Θέτις Zen, 1.5 M!? V?2 al. τανύπεπλος Zen. ἡμέτερόνδε Zen. (cf. 385)
+Line 427: om. Ὁ p" ir Ge V10
+Line 441: om. quidam ant., }}}} Ge
+Line 444-456: ath. Ar. 452 ἅμα] ὅγε dfla
+Line 458: υῦ g ἐμῷ gi M!9 Mc Mo: ἐμὠκυμόρῳ Ar. vulg.: υἱειεμωκυμορωι Ὁ 460 ἃ γὰρ ν.] T, M!°
+Line 464: μιν) μοι ᾳ 1.19 US: δὴ M8 V10
+Line 466: παρέξομαι Zen. Aristoph. 10* dhiq
+Line 483-608: ath. Zen. 485 ἐν δέτε h1V! οὐρανὸν ἐστεφάνωκε Ar. : οὐρανὸν ἐστήρικται Zen
+Line 480: οἷος Crates teste Strab. 3 492 ἐς θαλάμους Zen. 499 ἀποκταμένου Zen. (καὶ ἐν ταῖς πλείσταις)
+Line 501: πεῖραν ὁ g σεν" ἀρέσθαι Zen. 502 ἀμφοτέρωθεν Zen. Aristoph. Mass, ἐπίπνυον Mass. (ἐποίπνυον corr. Spitzner) 506 ἀμοιβηδὸν Ar M8 Mc VI! V5 512 ἔεργεν πα AT: ἐέργει vulg
+Line 521: βροτοῖσι ν.]. ap. sch. T, Μῦ Μ8 M? Οὗ US 0093 U10 U13
+Line 526: τερπομένω. Aristoph. W4
+Line 528: πώεα μήλων Apoll. lex. in Τάμνεν : πῶν μέγ᾽ οἰῶν Zen
+Line 531: εἰράων cAfl1 AV!3:; ἰράων vulg
+Line 538: εἶμά τ᾽ ἔχε Mass. 548 ἐμένῃ AU! v, ap, Eust. ἀρηρ
+Line 550: sega p" p°° pis AB ἃ ce N1Vv5v10, v.linh: βαθυλήιον cet. καρπὸν ᾿Ελευσινίης Δημήτερος ἀγλαοδώρον add. qu T Eu
+Line 553: elAedavoîoi h Me M U10 563 ἀργυρέοισιν Zen. σΊᾳ ΟΝ 565 ἐς αὐτήν Zen. p°
+Line 568: πλεκτοῖσιν ταλάροισι Ar. (uv.) f1 al
+Line 570: λίνος Zen
+Line 571: πρήσσοντες fl ἁμαρτῇ A LS VI2 γιὸ; ὁμαρτῇ tale
+Line 576: παραὶ glal.: διὰ Zen. ῥαδαλὺν Zen. v A Eust., Ul; ῥαδαλὸν vel ῥαδινὸν Aristoph. : ῥεδανὸν yp. Mo δονακῆεν ν. I. ant. (teste Dion. Sid.)
+Line 579: kvavéw Zen. δύ᾽ ἐν] δύο Ar. ed. alt.: δύω h Μ8
+Line 581: τὸν] τοὺς Zen. : τὼ f VS VI6
+Line 584: οὕτως Zen
+Line 591-602: damn. Tzetzes alleg. 762 592 ἀριή- δηι Zen. SA: ἁρπήδῃ 5Τ
+Line 595: λεπτὰς] καλὰς ν in A
+Line 596: εἵατ εἶχον Bm4 N4 VI V18
+Line 597-598: om. Aristoph. : ath. Ar
+Line 600: ρηα 3
+Line 601: θέῃσιν ag MABCN'V!V82: θέλῃσιν vulg
+Line 604: τερπό- μενοι Ar, vulg. : τερπόμενος ᾳ 1.5 Athen. 181 b, ἃ post τερπόμενοι verba μετὰ δέ σφιν ἐμέλπετο θεῖος ἀοιδὸς φορμίζων quae exstant è 17, hinc exemit Ar. sec. Diodorum Aristophaneum Ath. 181C 6οῦ ἐξάρ- xovros commendat Athen. 180 d 606a ενδεσΐ Ἰριγγεῖ ]ν κιθαρις τί] και |" Ῥ,, cf. Hes. Scut. 207-213 6II κόρυθα] κυνέην Ὁ Οὔ
+Line 617: Tebe xea καλὰ φέρουσα παρ᾽ Ἡφαίστοιο ἄνακτος P''iL® N4 T VI! V!8 yp. A= 9 ἰότητι] ὑπὸ χειρὶ v.l Τ κατὰ] κλυτὰ cAfklal βλε- 13 ἀνέδραμε φαίδιμα fkq τρόμος] φόβος Zen. IO φάροις dlp q A ss.L!2 ἐξεφάανθεν Ar. vulg.: ἐξεφαάνθη v ant, gilN4V! 18 èy χείρεσσιν ἔχων ὀφθαλμοῖσιν ὁρῶν ν.]. ant. 19 ἐτάρπετο bfkqV®?%: ἐτέρπετο VI? V16
+
+------------------------------------------------------------
+Unplaced fragments (line number not confidently recovered):
+
+[?]: 31 ἑκάστῃ })}} ss. MS P2: φαίδιμα γυῖα Ge 34 ἀπαμήσειε Ar. T V34: ἀποτμήξειε Zen, vulg

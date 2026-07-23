@@ -1,0 +1,88 @@
+BOOK 10 — Apparatus Criticus (Monro-Allen, OCT 3rd ed., 1920)
+============================================================
+
+See README.md in this directory for a legend of the critical abbreviations
+(ath., Zen., Ar., Aristoph., vulg., om., codd., cf., Hdn., etc.).
+
+This file is a mechanical extraction from OCR'd scans of the Oxford Classical Text. The Greek text OCR is frequently garbled (diacritics and some letterforms are unreliable); critical sigla and Latin abbreviations are generally more reliable. Entries marked with no line number below could not be confidently tied to a specific Iliad line and are listed at the end as unplaced fragments.
+
+------------------------------------------------------------
+
+Line 25: abr@ Tyrannio, vulg. : a$ r@ Ptol. Ascal. A Vi? 32 àvoriowy Ar. codd. (àvaor-), cf. 176 38 èrpuvéeis Ar. E4 H! H? L!9 M? pio Pal?: èrpiveis vulg
+Line 41: re 0° ebdovai Bporo) UNXoi e ris] roi i V4: yàp L!8 V!: rev Eust. tera.) ori Dem. Ixion, yp. A: em k nA ss. DL®V!° Eust. 46 dpa) Gua L° VS VI4 V22 ppévas ely fort. Ar. (év Tio: T@vV bmopvapdrwv)
+Line 48: er) èvAr.abagqgTal 5t-52 ath. Aristoph. Ar
+Line 53: Alavre Ar. (auctore Didymo), a U! VI! VI6 Eust. (cf. M
+Line 342: O 301)
+Line 54: mapà Ar. maLSV!!: mepì U!: èrì vulg. 55 1° é0éAnow] ke TiONTAi fikor A MT N4
+Line 57: kelvp befgiqal.: xetvov vulg, mv9olaro e h U! 79 èrérpere Ar. efhrA ss. BCTV!V!° al.: èrérpare vulg
+Line 82: oirw Ang. R3 US V18 tpxerai afhoq al
+Line 84: ath. Ar
+Line 86: ròv 3’ abre mpooéerre chn al
+Line 88: yvérea:] elrea: ch L!4 R° Eust. 94 dAaXbernuai a d e A corr. m. p. T, al.: aAbkrnua: vulg. 98 73€ xal] pi Zen. 105 èé&XSerai A O* Pal! V!3, yp, 0?
+Line 115: mép Ar. vulg.: eat v.1. ant. : ydp L! US veueohoera: yp. A q Ang. LSM! MT Ui0 y3
+Line 74: ve 118 &vexrf CV!: àverrés A marg. M!? (cf. ©
+Line 355: A610)
+Line 124: pd] péy Dem. Ixion. (ufrore è Apiotdpyesos obrws elxev Did.) 127 0@wv] pw Zen. Tyepédeorda: Ar. : iyepéerda: codd
+Line 129: oi Ar. vulg.: ro DU! VI: go C M* PIT, gp LA 130 èrorpivps xal àvdéyns v.l. ant. (uv.) VI v32 146 ére Ar. TV!%: érev vulg
+Line 153: coavpwrijpas Aristoph. 154 &s 7° &oreporà) abdegDT al. : ds dorepor) hR® 159 &ypeo et dpoeo Ar. (ixòs) : Upreo AfiklnogrAN*V!V!*: Eypeo cet. 159a pf ris Go. ebBovri perappérw èv Bépv mhén add. Diog. Laert. vi. 2. 6(=@95)
+Line 161: d' #71) dé re Ar. hL!8 LO MOST: 3’ &md x@pos èépyei v in A L!7 05) : -woiw Apoll. lex. s. v. 185 èr'] évm: in'oN' Igr om. hklnoAN*T P1U? el vulg. 2II re P'hingqATV!V® al. : ye Ang. L®L*L! L!° MeR!U!0: ke vulg. 221 èévrabghA ss. BT al
+Line 223: Tora) éori dho A ss. VIVI 224 épyopévwv v.l. ant., bh Ge Mc N* V10 y16
+Line 225: el mép te Ar. (uv.) vulg. : ef rép ri v.l. ant., chq Ge N4 Ul al
+Line 235: TÒv] r@v cdgilral. 239 éoriv) ln h
+Line 240: om. Zen., ath. Ar
+Line 246: ye omopévowo Ptol Asc. 252 rappywkev Ar. p8 L4 Ls L10 [12 L15 L16 LI? Ul VI6: rrapotxwrev Dorotheus et Apoll. Dysc. g A : Tapd- xero Gc: rapgynxev vulg. mréwr adhi Dal. : wAéoy f al., cit. Rhet. Gr. iii. 103.1: rAéw vulg
+Line 253: om. Zen., ath. Aristoph. Ar
+Line 268: Zkardela mq Bm'Gf (uv.) M*° ss. Mc v. l ap. Eust. 275 TlaXXAàs] rerAòv Zopyrus ap. s B Lp T, Eust. 278 uev] po deio ABCTal
+Line 281: dpixéoda: A
+Line 286: fer] fA0e o P!
+Line 291: rapiorao Zen. Ar. (kal ai mAetovs), A marg. M!? : raploraro codd. xa) mdpe xùdos Zen
+Line 293: rv] Th” bcghTal. 298 èu (&u) vulg.: èvchkmqal. 306 ùpioroi two Ar. a dmaq v. l. in Aal.: &, faoc hU!O; dpiorevwo: vulg. a)Tods o popéovo duiuova TinAeiwva Zen. : kaXods k.7.A. Aristoph
+Line 311: BovAevovra1 bf pa M4V14 V22 HOM. IL, 14
+Line 317: rageyvirorriv Zen. L8 LI VS VV V4
+Line 318: elre rapaords Ge P! Pa U?, L*° mg. al. 321 àvdoyeo Ar. codd
+Line 323: roddrea fmryp. A 332 èrduocre Ar. KA Ang. L34 L!9 U! V27 ; arduore vulg
+Line 334: reAuoîo v.l. ap. Cram. Epim. 334 Et. M. 680. 21: moA- in ras. O° 335 èrì eridénv Ar. mqrABCD: èr' ikridénv cet
+Line 336: wporì A marg. L!° L!* L!I9 NT VI10; sor vulg. : pds £: xarà adlal.: èr) bkpal. -
+Line 341: ris Ar. (kal ai mAetovs Did.), L19, Um. r. : ro cet
+Line 346: rapa- PIaino: Ar. (cxedòv ai rac), vulg. : rapapParno: h 347 èrì Ar
+Line 119: P1P!11UMN ; sorì (rporì) vulg. 349 &s épar’ odd’ àri0Nnce Bo)v aya0ds Aiouhbns, éX0dvres 3’ éxdrepde raptt 6dod èv vexveroi Aristoph. (év ri A. kal UXaus) 354 èredpapérnv Ar. a d e BC N4T V16 V32 al. : emidp. vulg
+Line 358: alfnpà Apoll. lex. s. v. alya
+Line 359: To] rò v.l. in A rév è O? ®xa v. l. in A
+Line 860: xvves o L!0 L!9 N4 U! U? U? ol 7° èr) 0fpns Plut. vit. Hom. 2. 86
+Line 362: re om. Ar. £ VI VI6 32 363 70° 6) dit eq Vi al. 14*
+Line 887: ath. Aristoph. Ar. 389 éri] và foral. avre] dvooye: h 391 #rapev Aristoph
+Line 397-399: ath. Aristoph. Ar
+Line 397: fi) el Ar
+Line 398: BovAesovor + ++ è0éAovoi Ar. dfhaq v.l. in A al.: BovAevovrai L° L4 LIT (cf. 311): BovAedvorre +. . + è0éXorre vulg. 408 è ai) Sal Ar. e VSVI1V15 al.: $) L8P1V4: dé re kK: dè afnoq
+Line 409-411: ath, hic Ar. (= 208-210) 413 &yopevow v ant., o M8 N4 T U? V15
+Line 424: Yàp] Cidp LIU! VIS VIT al, 427 &yò xa) Ar. defhal.: èyé roi vulg. àyopevaw no T al.: ayopevw V!
+Line 431: immbuaxor Ar.hV!V!5: immédapo: vulg
+Line 438: dpua dé oi] dpuara dè hi: bpuara dé ci a e M!0 VU
+Line 445: dè Ar. fhrV! Eust.: # fa cet
+Line 446: rov nueiBer ererra Bonv ayal0os [Bioundns n 449 àroXvoocpa: nè pe0@uai q
+Line 452: Sapels] rurels n Ass. L* 4T U1 V82 al. òMéoras Ar
+Line 457: ALI are Arist. part. an. iii. ro, c L!4 v ap. Eust. 463 eridwadue@ Ar. eg A marg., BCV?? al. : èriBwodue?” plerique
+Line 464: Trrovs] &yvpu v.l. in A
+Line 465: iydo° et ipod Ar. (dix@s): illud codd
+Line 466: uvplenv Ar. (cèv 7 » Did.), codd. Béeroy Ar. vulg.: SieXdvy U®: dfAov Cal Vi? chuat’ A
+Line 469: IlaAXàs "A0fvn qu. $T
+Line 477: o8rds tor Ar. codd. (cf. 341)
+Line 478: oùs Ar. codd. 484 èpudalvero) posviorero schol. Ar. Pac. 302 Suid,
+Line 489: mAftere Ar, codd.: rAftarke v. l. ant. Pal? 493 éuBalvovres h al. : duBal- vovres vulg. aùrbdy v. l. ant,
+Line 497: om. Zen, Aristoph., ath. Ar
+Line 505: iydo’ et ipod Ar. (dixòs): ipod n VIS
+Line 515: dAa)v okori)y Zen. Le! PT: alasriori)v Vi uv.: àAads okomidv Ar., uv. (où TupAòs ès okomias Ariston.), A corr. (e addito a m. sec.)
+Line 522: ante
+Line 520: posuit Zen
+Line 526: Teovro aq LS L° M4 M? M!0 M15 vil
+Line 529: rider] didov v. lin A
+Line 530: frrovs] ’Odvreis be fhar DTv.l. in A, al: èidavm
+Line 531: om. Im A BCGeGfTal,
+Line 534: om. Zen. Pal?
+Line 538: uerà ppeoì Ar. r L!9 T VI V14 V27 V32 539 &pioror Ar
+Line 545: AaBérnv Zen. xaradirre g v.l. sch. T
+Line 546: opwe glor A GfMc: opai Zen. L' corr. : r@àe Dem. Ixion vulg. 548 àvapl- oyopo: Dem. Ixion
+Line 552: o@oe Dem. Ixion, bhmo T al. : opwe g
+Line 557: Swphoarro dpap dé re Apoll. lex. s. v. pap
+Line 561: rerparai- dérarov v.l. ant. si
+Line 579: apvorduero: Ar. eg1l AV!3 al. : dpuoodpuevoi v.l. ant., vulg om. Zen., ath. Aristoph. Ar. (= B 453-454) xarkò Bm* 0°, g ss. Io vépori
