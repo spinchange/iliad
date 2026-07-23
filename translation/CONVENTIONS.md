@@ -167,6 +167,29 @@ the Odyssey project's FORMULAS.md.
 | ἕρκος Ἀχαιῶν (Ajax) | wall of the Achaeans | 3.229 |
 | ἐϋμμελίω (Priam) | of the good ash spear | 4.47 |
 | διοτρεφής | Zeus-nurtured | 1.176 |
+| βροτολοιγός (Ares) | bane of mortals | 5.31 |
+| μιαιφόνος (Ares) | blood-stained | 5.31 |
+| τειχεσιπλήτης (Ares) | stormer of walls | 5.31 |
+| θοῦρος (Ares) | rushing | 5.30 |
+| χάλκεος Ἄρης | brazen Ares | 5.704 |
+| ὄβριμος (Ares) | massive | 5.845 |
+| ἆτος πολέμοιο (Ares) | insatiate of war | 5.388 |
+| ἀλλοπρόσαλλος (Ares) | turncoat | 5.831 |
+| Κύπρις (Aphrodite, Book 5 only) | Cypris (kept) | 5.330 |
+| Ἐνυώ | Enyo ("sacker of cities" 5.333; "the lady Enyo" 5.592) | 5.333 |
+| Κυδοιμός | Tumult (personified) | 5.593 |
+| Παιήων | Paiëon (the gods' healer; distinct from Apollo) | 5.401 |
+| Ὧραι | the Seasons | 5.749 |
+| Διώνη | Dione | 5.370 |
+| ἰοχέαιρα (Artemis) | who showers arrows | 5.53 |
+| χρυσάορος (Apollo) | of the golden sword | 5.509 |
+| Ἀϊδωνεύς | Aïdoneus (kept) | 5.190 |
+| κλυτόπωλος (Hades) | of the famed colts | 5.654 |
+| πρέσβα θεά (Hera) | eldest goddess | 5.721 |
+| ὀβριμοπάτρη (Athena) | she of the mighty father | 5.747 |
+| Ἄϊδος κυνέη | the helmet of Hades | 5.845 |
+| ἰχώρ | ichor | 5.340 |
+| εἴδωλον | phantom | 5.449 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -268,6 +291,12 @@ the Odyssey project's FORMULAS.md.
 | death and doom (θάνατον καὶ πότμον) | 2.359 | πότμος = doom; μοῖρα = fate |
 | Then let the wide earth gape for me. | 4.182 | recurs later (8.150) |
 | glory for him, grief for us. | 4.197 | = 4.207 |
+| over his eyes closed purple death, and fate the overpowering | 5.83 | grand death-formula |
+| such as mortals are now | 5.304 | diminished-present motif; also 12.383, 12.449, 20.287 |
+| Whom first, whom last did they strip of his arms …? | 5.703 | narrator's roll-call; also 8.273, 11.299, 16.692 |
+| And when they were close, advancing on one another, | 3.15 | engagement line; 5.14, 5.630, 5.850 |
+| like more than man (δαίμονι ἶσος) | 5.438 | the three-then-fourth pattern; recurs 16.705, 16.786 |
+| and the two flew, nothing loath | 5.366 | divine horses; 5.768 |
 
 ## Ritual and formal language (set in Book 3)
 
@@ -349,6 +378,23 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 5: Dares, Phegeus, Idaeus (Dares' son — distinct from
+Priam's herald, 3.248), Phaestus, Borus, Scamandrius the hunter (distinct
+from Hector's son, Book 6), Strophius, Phereclus, Tecton, Harmon, Pedaeus,
+Theano, Hypsenor, Dolopion, Astynous, Hypeiron, Abas, Polyidus, Eurydamas,
+Xanthus and Thoon (sons of Phaenops), Echemmon, Chromius (a Priam son;
+same name: a Pylian 4.295, a Lycian 5.677), Deipylus, Cypris, Enyo, Dione,
+Otus, Ephialtes, Aloeus, Eëriboea, Amphitryon, Paiëon, Aegialeia, Adrastus
+of Argos (her father — third bearer of the name), Ganymede, Tros,
+Deicoon, Pergasus, Crethon, Orsilochus, Diocles, Ortilochus (grandfather —
+spelling varies in the Greek; follow the printed text), Pylaemenes,
+Mydon, Atymnius, Menesthes, Anchialus, Amphius son of Selagus (distinct
+from Amphius 2.830), Paesus, Coeranus, Alcandrus, Halius, Noëmon,
+Prytanis, Teuthras, Orestes (Trojan-side; not Agamemnon's son), Trechus,
+Oenomaus, Helenus son of Oenops (distinct from Priam's seer son),
+Oresbius, Hyle, Stentor, Periphas, Ochesius, Tarne, Pherae (Diocles'
+town; also 2.711 Thessalian Pherae).
 
 Added in Book 4: Hebe, Chiron, Antilochus, Echepolus, Agenor, Simoeisios,
 Leucus, Democoon, Diores, Eurymedon, Tydeus, Polyneices, Eteocles, Maeon,

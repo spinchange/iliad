@@ -65,6 +65,11 @@ CHECKS = [
      "shepherd of the people"),
     (["ἑλικώπιδα", "ἑλίκωπες", "ἑλίκωπας"], ["bright-eyed"], "bright-eyed"),
     (["μερόπων ἀνθρώπων", "μερόπεσσι"], ["mortal m"], "mortal men/man"),
+    (["βροτολοιγ"], ["bane of mortals"], "Ares: bane of mortals"),
+    (["μιαιφόν"], ["blood-stained"], "Ares: blood-stained"),
+    (["θοῦρον Ἄρηα", "θοῦρος Ἄρης"], ["rushing Ares"], "Ares: rushing"),
+    (["πορφύρεος θάνατος"], ["purple death"], "purple death"),
+    (["οἷοι νῦν βροτοί"], ["such as mortals are now"], "diminished present"),
 ]
 
 LINE_RE = re.compile(r"^\s{0,5}(\d+)\s\s(.*)$")
