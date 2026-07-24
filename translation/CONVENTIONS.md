@@ -200,6 +200,15 @@ the Odyssey project's FORMULAS.md.
 | πολύδωρος (wife) | richly dowered | 6.394 |
 | χαλκοκορυστής | of the bronze helmet | 6.199 |
 | ἠθεῖος (address to elder brother) | Elder brother | 6.518 |
+| ἐνοσίχθων / ἐννοσίγαιος (Poseidon) | the earth-shaker | 7.445 / 7.455 |
+| εὐρυσθενής (Poseidon) | wide-ruling | 7.455 |
+| ἐρίγδουπος πόσις Ἥρης (Zeus) | the loud-thunderer, Hera's lord | 7.411 |
+| ἠπύτα κῆρυξ | the far-calling herald | 7.384 |
+| χαλκοκνήμιδες (hapax) | bronze-greaved | 7.41 |
+| θεόφιν μήστωρ ἀτάλαντος (Priam) | the equal of the gods in counsel | 7.366 |
+| ῥηξήνωρ (Achilles) | breaker of men | 7.228 |
+| θυμολέων (Achilles, Heracles) | the lion-heart(ed) | 7.228 / 5.639 |
+| χλωρὸν δέος | green fear | 7.479 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -310,6 +319,13 @@ the Odyssey project's FORMULAS.md.
 | the day of freedom / the day of slavery | 6.455 / 6.463 | condition-as-date idiom |
 | the stalled-horse simile (6.506-511) | 6.506 | = 15.263-268 verbatim; English fixed |
 | the day will come when holy Ilion shall perish, / and Priam, and the people of Priam of the good ash spear | 4.164-165 | = 6.448-449; threat in Agamemnon's mouth, knowledge in Hector's |
+| It is good to yield to night as well. | 7.282 | = 7.293 |
+| Later we will fight again, until the god / decides between us, and hands victory to one side or the other. | 7.291-292 | = 7.377-378, 7.396-397 |
+| so I may say what the heart in my chest commands me | 7.68 | = 7.349, 7.369 |
+| out of the fury of war and the dread combat | 7.119 | = 7.174 |
+| Women of Achaea, men of Achaea no longer | 2.235 | = 7.96 (Thersites' taunt in Menelaus's mouth) |
+| and took the gift of sleep | 7.482 | book-close formula |
+| he went into the middle and held back the Trojan lines, / gripping his spear by the middle; and they all sat down | 3.77-78 | = 7.55-56 |
 
 ## Ritual and formal language (set in Book 3)
 
@@ -391,6 +407,12 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 7: Areithous "the Club-man," Menesthius (Areithous's son —
+distinct from the Myrmidon Menesthius, 16.173), Phylomedusa, Eioneus,
+Iphinous, Dexias, Ereuthalion (story told; named 4.319), Lycurgus the
+Arcadian (distinct from the Thracian, 6.130), Celadon, Pheia, Iardanus,
+Tychius, Euneus, Jason, Hypsipyle, Salamis (Ajax's home; cf. 2.557).
 
 Added in Book 6: Axylus, Calesius, Dresus, Opheltius, Aesepus and
 Pedasus (twins — same names as the river 2.825 and the town 6.35),

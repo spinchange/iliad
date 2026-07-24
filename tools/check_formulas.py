@@ -71,6 +71,8 @@ CHECKS = [
     (["πορφύρεος θάνατος"], ["purple death"], "purple death"),
     (["οἷοι νῦν βροτοί"], ["such as mortals are now"], "diminished present"),
     (["δμῳ"], ["slave-wom"], "dmōs policy: slave-women"),
+    (["ἐνοσίχθων", "ἐννοσίγαι"], ["earth-shaker"], "Poseidon: the earth-shaker"),
+    (["χλωρὸν δέος"], ["green fear"], "green fear"),
 ]
 
 LINE_RE = re.compile(r"^\s{0,5}(\d+)\s\s(.*)$")

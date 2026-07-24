@@ -1,0 +1,115 @@
+❯ I was thinking of grabbing a domain to call this project "command line iliad," what do you think of that angle? (we got the domain theclaudyssey.com for our original Odyssey translation)
+
+Fun question. Let me give you a quick take, and I'll check registration status on a couple of candidates while I'm at it.
+
+  Ran 2 shell commands
+
+RDAP redirects to the registry; following the redirect gives the real answer (404 = unregistered):
+
+  Ran 1 shell command
+
+I like the angle — I assume the joke is that "Command Line Iliad" abbreviates to CLI, which is genuinely clever for a translation produced in a terminal. Here's what I found and what I'd weigh:
+
+Availability (via RDAP): commandlineiliad.com, theclaudiad.com, and iliad.sh all appear unregistered. claudiad.com is already taken, so someone's beaten you to the bare Claude pun.
+
+My honest take: the CLI acronym is the strength of "command line iliad," but the domain itself is the weakness — commandlineiliad.com is 16 characters of "wait, how many i's?" when you say it out loud, and that ...lineiliad... letter run is rough. It also breaks the sibling branding with theclaudyssey.com, which is a real asset: two epic translations by the same pipeline deserve names that obviously rhyme with each other.
+
+If it were me, I'd grab theclaudiad.com as the primary — it mirrors theclaudyssey.com exactly (same "the-Claud-" construction, instantly reads as a companion piece) — and keep the CLI joke as the tagline: "The Claudiad: a command-line Iliad." That way you get both jokes instead of choosing. If you're set on the CLI angle as the headline identity, iliad.sh is a fun terminal-flavored alternative that's shorter and spells cleanly.
+
+One caveat: RDAP 404s are a strong signal but not a purchase — check at your registrar before celebrating, and note that unregistered-but-obvious puns like theclaudiad.com are cheap to squat once discussed publicly, so if you want it, grab it soon.
+
+✻ Baked for 1m 20s
+
+❯ I was unfamiliar with the .sh TLD
+
+It's the country-code TLD for Saint Helena, a tiny British territory in the South Atlantic — but developers adopted it because .sh is the shell-script file extension, so it reads as "this thing lives in the terminal." That's exactly why it'd suit a command-line Iliad.
+
+Some names you'd recognize using it: brew.sh (Homebrew), ohmyz.sh (Oh My Zsh), charm.sh (the CLI tooling company). It's firmly established in that niche.
+
+Practical notes:
+
+- Price: typically $30–60/year depending on registrar, versus ~$10–15 for a .com. Not a big deal for a passion project, but it's recurring.
+- No residency requirement — anyone can register one.
+- ccTLD caveat: country-code TLDs are ultimately governed by the territory's registry rather than ICANN's gTLD rules. .sh is administered commercially (Identity Digital) and considered stable, but it's a hair more policy risk than a .com. (The cautionary tale people cite is .io's uncertain future after the Chagos Islands handover — .sh has no equivalent cloud over it.)
+- Bonus party trick: you can name the domain so the whole thing reads as a script — e.g. iliad.sh, or something like sing.sh ("sing, goddess..." as a shell command is a pretty good bit for the landing page).
+
+If the Claudyssey site is a .com, the mismatch between siblings (.com vs .sh) is the only real aesthetic knock. But as a standalone identity for a terminal-born translation, it's about as thematically on-target as a TLD gets.
+
+✻ Brewed for 15s
+
+❯ What other angles could we explore with the theme?
+
+Good excuse for a brainstorm. Let me lay out the angles, and I'll check registration on the standouts as we go.
+
+  Ran 1 shell command
+
+Every one of those came back unregistered (404 from the registry RDAP) — though short generics like sing.sh and rage.sh may be premium-priced, so expect a markup at checkout. Here are the angles I see, roughly grouped:
+
+The first-word angle. The Iliad famously opens on mēnis — wrath/rage — and translators agonize over that word. That gives you wrathofclaude.com (available, and honestly a very funny title for an AI translation), rage.sh, or menin.sh for the deep-cut Greek crowd. "The Wrath of Claude" also sets up endless jokes about the model refusing requests.
+
+The shell-pun angle. This is where .sh earns its keep, because shell itself becomes Homeric vocabula
+- winedark.sh — "the wine-dark shell." I think this is the strongest pure pun on the board. Homer's most famous epithet, and the TLD completes the joke instead of just decorating it.
+- sing.sh — the landing page opens with $ ./sing.sh --goddess and the first lines of the poem scroll out. The domain is the invocation of the Muse.
+- theiliad.sh — plainest possible statement of "the Iliad, but it's a shell script."
+
+The Troy/Trojan angle. troy.sh is available and short, and there's a self-aware bit here — "the only Trojan you'll ever willingly install." It's cute but drifts toward malware-joke territory, which may not be the tone you want for a literary project.
+
+The meter angle. Your pipeline literally measures beats, so dactyl.sh (the metrical foot of epic hexameter) is a nicely nerdy fit — the name is about how it's translated, not just what. More opaque to casual visitors, though.
+
+The umbrella angle. Worth considering before you buy anything: the ancient collection of Trojan-War epics is literally called the Epic Cycle. If you think a third translation might ever happen (Aeneid? Argonautica?), a series brand — "The Claudic Cycle" or similar — with theclaudyssey.com and the new site as chapters might serve you better than two unrelated domains.
+
+My short list: winedark.sh for the best joke, wrathofclaude.com for the best sibling to theclaudysseme, and "The Claudyssey" + "The Wrath of Claude" is a great shelf), theclaudiad.com for the mostconservative pairing. If you want, I can check pricing on the .sh ones — RDAP says unregistered, but the registry's premium tiers only show up at a registrar.
+
+✻ Brewed for 1m 49s
+
+※ recap: We're picking a domain name for your Iliad translation project; top candidates are winedark.sh, wrathofclaude.com, and theclaudiad.com, all unregistered. Next step: pick one and register it, or I can check .sh pricing first. (disable recaps in /config)
+
+❯ Let's think more about the sing.sh one. How could I make an entire simulated terminal UX to read and engage with the work (including footnotes, index usage, etc.)
+
+Great choice to dig into. Let me first look at how the translation is actually structured in the repo, so the UX design maps onto real content rather than hypotheticals.
+
+  Searched for 2 patterns, read 2 files, listed 1 directory, ran 1 shell command
+
+Your repo structure makes this better than I expected — you already have line-for-line Greek/Englishs in [n] format with (book.line) anchors, a critical apparatus keyed to lines, and a conventions filelogging every fixed epithet. That's not just a poem, it's a database, and a terminal UX can expose all of it. Here's how I'd design it.
+
+The core conceit
+
+The site boots into a shell prompt. The poem is a filesystem; Unix commands are the reading interface. Not xterm.js-style real terminal emulation — a fake DOM terminal (monospace layout, styled HTML output, one input line). That distinction matters: with DOM output, footnote markers are real links, text is selectable and screenot fighting a canvas. Real terminal emulators are the wrong tool for prose.
+
+sing.sh — a command-line Iliad
+24 books · 15,693 lines · translated line-for-line from the Greek
+
+$ ls
+book01.txt  book02.txt  ... book24.txt   greek/  apparatus/  notes/
+$ ./sing.sh --goddess
+
+…and that last command starts Book 1 scrolling. The domain completes the invocation of the Muse.
+
+Reading: a less-style pager
+
+The main event. Opening a book drops you into a pager, not a dump of scrolling text:
+
+- j/k/space to move, /wrath to search within the book, :350 to jump to a line, g/G for top/bottom. Marginal line numbers every 5 lines, exactly like your source files.
+- Status bar: book_01.txt · line 350/611 · 57% · [3 notes on screen].
+- Footnotes: [n] markers render as colored superscripts. Pressing n (or clicking) expands the note inline as a dimmed, indented block right under the line — like a diff hunk — rather than teleporting you to the bottom. Your notes already carry (1.350) anchors so this is a pure build-time join.
+- The killer feature — Greek toggle: press g and the pager goes interlinear, Greek line above English line, since your translation is line-for-line with Monro-Allen. No other Iliad site can do this as a single keystroke. Maybe --greek renders side-by-side on wide screens.                                                                                                                                                                                         - a on a line with apparatus data shows the critical apparatus entry — e.g. on 1.350, surface the wi, which is already the star anecdote of your Book 1 commentary. (diff 1.350 as a command form: showvulgate vs. printed reading as an actual diff.)
+
+Commands beyond reading
+
+- man iliad — the translator's introduction formatted as a man page: NAME, SYNOPSIS, DESCRIPTION, CONVENTIONS, SEE ALSO (theclaudyssey.com), BUGS ("wrath persists across sessions"). Your existing translator's commentary per book slots into man iliad.1 … man iliad.24.
+- grep — full-text search across all books, output as book_09.txt:412: … with clickable hits. Support a couple of real flags (-c, -i) and even pipes for the joke that lands with your audience: grep "rosy-fingered" * | wc -l actually counting epithet occurrences is the screenshot people will share.
+- whois achilles — the index, as an identity lookup: epithets (from CONVENTIONS.md), patronymic, first appearance, every appearance by book.line, each one a jump link. who lists the dramatis personae. This is your "index usage" — a compile-time proper-name index dressed as a Unix command.
+- history — the user's actual reading history; bookmark state in localStorage, with the shell prompt showing position like a git branch: [book06:L312] $. Returning visitors get "resume from 6.312?".
+- Tab completion and up-arrow history — non-negotiable; they're what makes it feel like a shell instead of a search box.                                                                                                              - help — always visible hint for non-terminal people, plus a plain hyperlinked table of contents ford.
+
+Two touches that sell the whole bit                                                                                                                                                                                                   
+1. curl sing.sh returns plain text. Detect curl/wget user-agents at the edge (a ~20-line Cloudflare Worker) and serve Book 1 as text/plain, curl sing.sh/9 for Book 9 — like wttr.in. The site's conceit becomes literally true: it works in a real terminal.
+2. Deep links: sing.sh/#1.350 opens the pager at that line. Every line of the poem gets a citable URL, which classicists will genuinely use.
+
+Architecture
+
+All static — no backend. A build script (Python, next to your existing tools/scan.py) parses translation/, books/ (Greek), apparatus/, and CONVENTIONS.md into per-book JSON: lines, notes keyed by line, apparatus keyed by line, and a generated name index. The terminal is one page of vanilla JS (a command registry + virtual filesystem is maybe 500 lines); host on Cloudflare Pages so the curl Worker lives next door. Each book also gets a plain no-JS HTML page (sing.sh/book/1) for SEO, sharing, and accessibility fallback — the terminal is the front door, not s-reduced-motion on any typewriter effects, and give mobile users tap targets for footnotes plus anon-screen hint bar instead of keybindings.
+
+Phasing: MVP is boot screen + ls/help + the pager with inline footnotes and deep links — that alone is shippable and impressive. Phase 2 adds grep, whois/index, and resume-state. Phase 3 adds the Greek toggle, apparatus view, and pipes.
+
+Happy to prototype the pager with real Book 1 data as an artifact if you want to see it move — that's the piece where the feel will make or break it.
