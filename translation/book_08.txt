@@ -1,0 +1,818 @@
+BOOK 8
+
+Zeus bans the gods from the battle; the golden scales tip against the
+Achaeans; the Trojans camp on the plain under a thousand watchfires.
+
+TRANSLATOR'S COMMENTARY
+
+Book 8 exists to reverse the war's flow and set up everything that
+follows: Zeus takes the field-glass seat on Ida, forbids divine
+interference on pain of Tartarus, tips his golden scales, and by
+nightfall the Trojans — for the first time in ten years — are camped in
+the open plain. Ancient critics disliked the book intensely (its
+nickname was "the docked battle"), and the apparatus shows the highest
+athetesis-density of any book so far: the golden-cord boast, Zeus's
+smiling "I am not in earnest," the four named horses, Andromache's
+fodder, the whole Iris relay, the Heracles digression, and even the
+shepherd's gladness in the watchfire simile all drew critical daggers.
+This translation keeps the printed text entire and records each mark;
+what the critics read as padding largely reads now as the book's
+system: everything in it — the cord, the scales, the thunder repeated
+three times, the prophecy — performs Zeus's singular, uncontested weight.
+
+Two disclosures anchor the book. At 475-478 Zeus names the plot of the
+rest of the poem: Hector will not stop "until the swift-footed son of
+Peleus rises beside the ships... over Patroclus fallen" — the first
+explicit statement of Patroclus's death, delivered as decree eight books
+before the event (note [26]). And at 161-166 stands the one passage
+flagged for this book in disputed_lines.md: Hector's taunt to Diomedes
+("you were a woman after all... painted doll"), athetized by
+Aristophanes and Aristarchus, with Zenodotus's variant close (note
+[10]). The book ends on the poem's most famous nocturne — the
+watchfires like stars around the moon, the shepherd glad at heart (a
+gladness Zenodotus deleted), a thousand fires, fifty men at each, and
+the horses waiting for Dawn (notes [30], [31]).
+
+Repetition discipline mattered here: the Athena arming scene reuses
+Book 5's lines and this translation's Book 5 English verbatim; Iris
+relays Zeus's threat word for word and adds one line of her own venom;
+and the Hera-Athena murmuring scene repeats 4.20-24 exactly. New
+register entries: saffron-robed Dawn, "much-enduring brilliant
+Odysseus" (first Iliad occurrence, in the awkward scene where he fails
+to hear Diomedes — note [7]), the golden scales, and "fair-throned
+Dawn" closing the book.
+
+------------------------------------------------------------
+
+   1  Dawn in her saffron robe was spreading over all the earth[1]
+   2  when Zeus who delights in thunder made an assembly of the gods
+   3  on the topmost peak of many-ridged Olympus;
+   4  and he spoke to them himself, and all the gods gave ear:
+   5  "Hear me, all you gods and all you goddesses,
+   6  so I may say what the heart in my chest commands me.
+   7  Let no female god attempt — and no male either —
+   8  to cut across this word of mine: all of you together
+   9  assent to it, so I may bring these things quickly to their end.
+  10  Whomever I mark trying, apart from the gods, by his own choice,
+  11  to go and help either Trojans or Danaans,
+  12  struck out of all order he shall come back to Olympus —
+  13  or I will take and hurl him into misty Tartarus,
+  14  far down, where the deepest pit yawns under the earth,
+  15  where the gates are iron and the threshold bronze,
+  16  as far beneath Hades as heaven is above the earth:[2]
+  17  then he will know how far I am strongest of all gods.
+  18  Or come, try it, gods — so all of you may know:
+  19  hang a golden cord down out of heaven
+  20  and lay hold of it, all you gods and all you goddesses:
+  21  you could not drag out of heaven down to the plain
+  22  Zeus the counselor most high — not if you wore yourselves out.
+  23  But whenever I chose to pull in earnest,
+  24  I would haul you up, and the earth and the sea with you;
+  25  then I would bind the cord around a horn of Olympus,
+  26  and the whole of it would hang in the air.
+  27  By so much am I beyond gods, and beyond men."[3]
+  28  So he spoke, and they all went still in silence,
+  29  marveling at his word: he had spoken with great power.
+  30  At long last the goddess grey-eyed Athena spoke:
+  31  "Father of us all, son of Cronos, highest of the mighty:
+  32  well do we know your strength is not to be bent;
+  33  but even so we grieve for the Danaan spearmen
+  34  who will fill up an evil doom and perish.
+  35  Yes: we will hold back from the war, as you command;
+  36  but we will put counsel into the Argives — such as will help them —
+  37  so they do not all perish under your anger."
+  38  Smiling, Zeus the cloud-gatherer answered her:
+  39  "Take heart, Tritogeneia, dear child: I do not speak
+  40  with a set purpose; and toward you I mean to be gentle."[4]
+  41  So speaking he yoked beneath his car the bronze-hoofed horses,
+  42  swift-flying, with manes streaming gold,
+  43  and clothed himself in gold, and took the whip,
+  44  gold, well-wrought, and mounted the chariot,
+  45  and whipped the horses on; and the two flew, nothing loath,
+  46  between the earth and the starry sky.
+  47  He came to Ida of the many springs, mother of wild things,
+  48  to Gargaron, where his precinct is, and his smoking altar.[5]
+  49  There the father of men and gods halted his horses,
+  50  loosed them from the car, and poured thick mist around them;
+  51  and he sat on the peaks, exulting in his glory,
+  52  looking out at the Trojans' city and the ships of the Achaeans.
+
+  53  Now the long-haired Achaeans took their meal
+  54  quickly through the huts, and armed themselves straight after;
+  55  and the Trojans on their side armed through the city,
+  56  fewer — yet even so they were mad to join battle,
+  57  under hard necessity, for their children and their wives.
+  58  All the gates were flung open, and the host streamed out,
+  59  foot-soldiers and horsemen; and a great din arose.
+  60  And when they had come together into one place,
+  61  they dashed together shields, and spears, and the fury of men
+  62  armored in bronze; the bossed shields
+  63  pressed hard on one another, and a great din arose.
+  64  There rose together the groaning and the boasting of men
+  65  killing and killed, and the earth ran with blood.
+  66  So long as it was morning, and the sacred day still growing,
+  67  so long the missiles of both sides struck home, and the people fell.
+  68  But when the Sun bestrode the middle of heaven,
+  69  then the father stretched out his golden scales,
+  70  and set in them two fates of death that lays men low,
+  71  one for the horse-taming Trojans, one for the bronze-shirted Achaeans,
+  72  and took the middle and pulled; and the Achaeans' day of doom sank.[6]
+  73  The Achaeans' fates settled down on the earth
+  74  that feeds so many, and the Trojans' rose toward the wide sky.
+  75  And he thundered aloud from Ida, and sent a blazing
+  76  flash among the Achaean host; and they saw it
+  77  and were stunned, and green fear took hold of them all.
+  78  Then neither Idomeneus dared stand, nor Agamemnon,
+  79  nor the two Ajaxes hold their ground, squires of Ares:
+  80  Nestor alone stayed, the Gerenian, warden of the Achaeans —
+  81  in no way willing: his horse was failing, shot by an arrow
+  82  from brilliant Alexandros, lovely-haired Helen's husband,
+  83  on the very crown of the head, where a horse's first hairs
+  84  grow on the skull — the deadliest spot of all.
+  85  It reared in agony as the shaft went into the brain,
+  86  and threw the team into chaos, writhing around the bronze.
+  87  And while the old man leapt with his sword to cut away
+  88  the trace-horse, Hector's swift horses came on
+  89  through the rout, carrying their bold driver —
+  90  Hector. And there the old man would have lost his life,
+  91  had not Diomedes, good at the war-cry, been quick to see.
+  92  He shouted terribly, calling Odysseus on:
+  93  "Zeus-sprung son of Laertes, Odysseus of many devices —
+  94  where are you running, your back turned, like a coward in the crowd?
+  95  Take care no one plants a spear in that back as you flee!
+  96  Stand, till we beat this wild man off the old one."
+  97  So he spoke; and much-enduring brilliant Odysseus did not hear,[7]
+  98  but swept on past, toward the hollow ships of the Achaeans.
+  99  Then Tydeus' son, alone as he was, mixed with the front-fighters
+ 100  and made his stand before the horses of the old man, Neleus' son,
+ 101  and speaking winged words he addressed him:
+ 102  "Old man, the young fighters are wearing you hard;
+ 103  your force is unstrung, and hard old age attends you;
+ 104  your aide is feeble now, and your horses slow.
+ 105  Come, mount my car instead, and see
+ 106  what the horses of Tros are like, how they know their plain —[8]
+ 107  how to wheel fast this way and that, in pursuit or flight.
+ 108  I took the pair from Aeneas — those two devisers of rout.
+ 109  Let our aides look after yours; these two
+ 110  we will drive straight at the horse-taming Trojans, so that even Hector
+ 111  may know whether my spear too rages in my hands."
+ 112  So he spoke, and the Gerenian horseman Nestor did not disobey.
+ 113  Then their two aides looked after Nestor's mares,
+ 114  strong Sthenelus, and Eurymedon the kindly;
+ 115  and the two of them mounted Diomedes' chariot.
+ 116  Nestor took the glossy reins into his hands
+ 117  and whipped the horses; and quickly they closed with Hector.
+ 118  Straight at him, as he charged, the son of Tydeus cast:
+ 119  him he missed — but his driver and aide,
+ 120  Eniopeus, son of high-hearted Thebaeus,
+ 121  he struck in the chest by the nipple as he held the reins.
+ 122  He crashed from the car, and the swift-footed horses
+ 123  shied back; and there his life and strength were unstrung.
+ 124  And terrible grief closed over Hector's heart for his driver;
+ 125  but he left him lying there, though grieving for his companion,
+ 126  and went after a bold driver in his place; nor did his horses
+ 127  lack a master long: for soon he found
+ 128  bold Archeptolemus, Iphitus' son, and set him up
+ 129  behind the swift horses, and gave the reins into his hands.
+ 130  And now there would have been ruin, deeds beyond remedy,
+ 131  and they would have been penned in Ilion like lambs,
+ 132  had not the father of men and gods been quick to see.
+ 133  Thundering terribly he let fly a white-hot bolt
+ 134  and dashed it to the ground before the horses of Diomedes;
+ 135  and a terrible flame rose up of burning sulphur,
+ 136  and the two horses, terrified, cowered under the car.
+ 137  The glossy reins slipped out of Nestor's hands,
+ 138  and he was afraid at heart, and said to Diomedes:
+ 139  "Tydeus' son — come, turn the single-hoofed horses to flight.
+ 140  Do you not see? Victory out of Zeus does not go with you.
+ 141  Today it is that man Zeus, Cronos' son, hands the glory —
+ 142  today; later, if he chooses, he will give it
+ 143  to us in turn. No man can fend off the purpose of Zeus,
+ 144  not even the strongest: for he is stronger by far."[9]
+ 145  Then answered him Diomedes, good at the war-cry:
+ 146  "Yes, old man — all this you have said rightly and in due measure.
+ 147  But this bitter grief comes over my heart and spirit:
+ 148  Hector one day will say, speaking among the Trojans:
+ 149  'Tydeus' son ran before me to his ships.'
+ 150  So he will boast one day. Then let the wide earth gape for me."
+ 151  Then answered him the Gerenian horseman Nestor:
+ 152  "Ah me, war-minded Tydeus' son — what a thing to say.
+ 153  Even if Hector calls you coward and weakling,
+ 154  the Trojans will never believe him, nor the Dardanians,
+ 155  nor the wives of the great-hearted Trojan shieldmen
+ 156  whose husbands in their strength you tumbled in the dust."
+ 157  So speaking he turned the single-hoofed horses to flight
+ 158  back through the rout; and the Trojans and Hector after them
+ 159  with unearthly clamor poured their groaning missiles.
+ 160  And over him great Hector of the flashing helmet shouted:
+ 161  "Tydeus' son — the Danaans of swift colts honored you
+ 162  beyond all others, with the seat, the meats, the full cups.
+ 163  Now they will dishonor you: you were a woman after all.
+ 164  Away with you, painted doll! Never, with me not yielding,
+ 165  shall you scale our towers, never carry off our women
+ 166  in your ships: before that, I will deal you your doom."[10]
+ 167  So he spoke; and Tydeus' son was torn two ways,
+ 168  whether to wheel the horses and fight him face to face.
+ 169  Three times he pondered it in mind and heart,
+ 170  and three times from the mountains of Ida Zeus the counselor thundered,
+ 171  giving his sign to the Trojans: victory that turns the battle's tide.[11]
+ 172  And Hector called to the Trojans with a far-carrying shout:
+ 173  "Trojans and Lycians and Dardanians who fight at close quarters —
+ 174  be men, my friends; remember your rushing courage.
+ 175  I know that the son of Cronos has bowed his head and promised me
+ 176  victory and great glory — and grief for the Danaans.
+ 177  The fools! — contriving those walls of theirs,
+ 178  feeble things, not worth a thought: they will not hold my fury,
+ 179  and our horses will lightly leap the ditch they dug.
+ 180  But when I have come among their hollow ships,
+ 181  then let there be some memory of burning fire,
+ 182  so I may fire the ships and kill the men themselves —
+ 183  the Argives by their ships, dazed in the smoke."
+ 184  So speaking he called to his horses, and named them:
+ 185  "Xanthus, and you, Podargus, and Aethon, and brilliant Lampus:[12]
+ 186  now pay me back your keep — all the care and plenty
+ 187  of Andromache, great-hearted Eëtion's daughter,
+ 188  who set the honey-hearted wheat before you first,
+ 189  and mixed wine for you to drink when your hearts commanded —
+ 190  before me, and I claim to be her strong young husband.[13]
+ 191  After them now, at full stretch, so we may take
+ 192  the shield of Nestor, whose fame now reaches heaven —
+ 193  solid gold, they say, the cross-rods and the shield itself —
+ 194  and off the shoulders of Diomedes, breaker of horses,
+ 195  the wrought corslet Hephaestus labored to make.[14]
+ 196  Could we take those two things, I should hope to put the Achaeans
+ 197  aboard their swift ships this very night."
+ 198  So he spoke in his vaunting; and the lady Hera was outraged:
+ 199  she shook on her throne and made high Olympus tremble,
+ 200  and spoke straight out to the great god Poseidon:
+ 201  "Shame, wide-ruling earth-shaker — not even you,
+ 202  in your own chest, grieve for the Danaans as they die.
+ 203  Yet to you, to Helice and Aegae, they bring gifts up,[15]
+ 204  many and pleasing; and you once wished them victory.
+ 205  If only we chose — all of us who stand by the Danaans —
+ 206  to thrust the Trojans back and hold off wide-seeing Zeus,
+ 207  he could sit there and sulk, alone on Ida."
+ 208  Deeply troubled, the lord earth-shaker answered her:
+ 209  "Hera, reckless of tongue — what a word you have spoken!
+ 210  I would not choose to have the rest of us fight
+ 211  Zeus, Cronos' son: for he is stronger by far."
+ 212  So they spoke such things to one another;
+ 213  and all the space the ditch walled off between wall and ships
+ 214  filled with a crush of horses and shield-bearing men
+ 215  penned in: and the penner was Hector, Priam's son,
+ 216  the equal of quick Ares, now that Zeus gave him glory.
+ 217  And he would have burned the balanced ships with blazing fire,
+ 218  had not the lady Hera put it in Agamemnon's mind
+ 219  to bestir himself and rouse the Achaeans, quickly.
+ 220  He went his way along the huts and ships of the Achaeans
+ 221  holding a great purple cloak in his heavy hand,
+ 222  and stood on Odysseus's black ship, huge of hull,
+ 223  which lay midmost, so a shout could carry to both ends,
+ 224  both to the huts of Ajax, Telamon's son,
+ 225  and to Achilles' — for they had drawn their balanced ships up
+ 226  at the ends, trusting their courage and the strength of their hands.[16]
+ 227  There he called to the Danaans, piercing-clear:
+ 228  "Shame, Argives! Vile disgraces — admired only for your looks!
+ 229  Where have the boasts gone, when we said we were the best —
+ 230  the boasts you made on Lemnos, all empty wind,[17]
+ 231  eating your fill of the flesh of straight-horned oxen,
+ 232  drinking the bowls brimmed over with wine:
+ 233  that each of you would stand against a hundred Trojans
+ 234  in battle — two hundred! Now we are not worth one:
+ 235  Hector, who soon will fire the ships with blazing flame.
+ 236  Father Zeus — was there ever another great king
+ 237  you blinded with blindness like this, and stripped of his great glory?
+ 238  And yet I say I never passed one beautiful altar of yours
+ 239  on my luckless way here in my many-benched ship:
+ 240  on every one I burned the fat and the thighs of oxen,
+ 241  in my longing to sack well-walled Troy.
+ 242  But Zeus — grant me at least this wish:
+ 243  let these men at least escape and get away;
+ 244  do not let the Achaeans be broken by the Trojans so."
+ 245  So he spoke; and the father pitied his weeping,
+ 246  and nodded: the host should be saved, and not perish.
+ 247  At once he sent an eagle — surest of omens among birds —
+ 248  holding a fawn in its talons, young of a running deer;
+ 249  beside the beautiful altar of Zeus it dropped the fawn,
+ 250  where the Achaeans made offering to Zeus of All Voices.[18]
+ 251  And when they saw that the bird had come from Zeus,
+ 252  they leapt the more on the Trojans, and remembered their fighting.
+ 253  Then no Danaan there, many as they were, could boast
+ 254  he was before Tydeus' son in holding his swift horses,
+ 255  driving them across the ditch, and fighting face to face:
+ 256  far the first, he took a Trojan armored fighter,
+ 257  Agelaus, Phradmon's son, just wheeling his horses to flight:
+ 258  as he turned, the spear fixed in his back
+ 259  between the shoulders and drove through his chest;
+ 260  he crashed from the car, and his armor clattered upon him.
+ 261  After him came the sons of Atreus, Agamemnon and Menelaus;
+ 262  after them the two Ajaxes, clothed in rushing valor;
+ 263  after them Idomeneus, and Idomeneus' comrade
+ 264  Meriones, the equal of Enyalius, slayer of men;
+ 265  after them Eurypylus, Euaemon's shining son;
+ 266  and ninth came Teucer, bending his back-sprung bow,
+ 267  and took his stand under the shield of Ajax, Telamon's son.
+ 268  Ajax would edge the shield aside; and the hero,
+ 269  when he had scanned his man and shot into the crowd
+ 270  and hit him — the man dropped where he stood and lost his life —
+ 271  then back he would slip, like a child to his mother,[19]
+ 272  to Ajax; and Ajax hid him with the shining shield.
+ 273  Whom first of the Trojans did blameless Teucer take?
+ 274  Orsilochus first, and Ormenus, and Ophelestes,
+ 275  Daetor and Chromius and godlike Lycophontes,
+ 276  and Amopaon, Polyaemon's son, and Melanippus —
+ 277  all these, one on another, he brought down to the earth that feeds so many.
+ 278  And seeing him the lord of men Agamemnon rejoiced
+ 279  as he wrecked the Trojan companies from his strong bow;
+ 280  and he came and stood beside him and spoke his word:
+ 281  "Teucer, dear heart, Telamon's son, marshal of the people:
+ 282  keep shooting like that — and be a light to the Danaans,
+ 283  and to your father Telamon, who reared you when you were little
+ 284  and cared for you in his own house, bastard though you were:
+ 285  set him in the way of glory, far off as he is.
+ 286  And I will tell you outright, and it will be accomplished:
+ 287  if aegis-bearing Zeus and Athena grant me
+ 288  to sack the well-built citadel of Ilion,
+ 289  first after myself I will set a prize of honor in your hands —
+ 290  a tripod, or a pair of horses with their chariot,
+ 291  or a woman, to climb into one bed with you."
+ 292  Answering him spoke blameless Teucer:
+ 293  "Most glorious son of Atreus — why urge me on when I am
+ 294  eager myself? So far as the strength is in me
+ 295  I do not stop: from the hour we pushed them back toward Ilion,
+ 296  from then I have watched with my bow, and killed my men.
+ 297  Eight long-barbed arrows I have loosed by now,
+ 298  and all of them fixed in the flesh of quick young fighters;
+ 299  but this mad dog I cannot hit."
+ 300  He spoke, and shot another arrow from the string
+ 301  straight at Hector, his heart aching to hit him:
+ 302  him he missed — but blameless Gorgythion,
+ 303  Priam's brave son, he struck in the chest with the arrow —
+ 304  the son his wedded mother bore, brought from Aesyme,
+ 305  beautiful Castianeira, in body like the goddesses.
+ 306  And as a poppy in a garden lets its head fall sideways,
+ 307  heavy with its own seed and the rains of spring,
+ 308  so his head bowed to one side under the weight of the helmet.[20]
+ 309  And Teucer shot another arrow from the string
+ 310  straight at Hector, his heart aching to hit him;
+ 311  but this one too he missed — Apollo brushed it wide —
+ 312  and struck bold Archeptolemus, Hector's driver,
+ 313  as he swept into battle, in the chest by the nipple.
+ 314  He crashed from the car, and the swift-footed horses
+ 315  shied back; and there his life and strength were unstrung.
+ 316  And terrible grief closed over Hector's heart for his driver;
+ 317  but he left him lying there, though grieving for his companion,
+ 318  and called to his brother Cebriones, who was near,
+ 319  to take the horses' reins; and he heard, and did not disobey.
+ 320  Hector himself leapt down from the shining chariot
+ 321  with a terrible cry, and caught up a boulder in his hand,
+ 322  and went straight for Teucer, his heart driving him to strike.
+ 323  Teucer had drawn a bitter arrow from the quiver
+ 324  and laid it on the string; and just as he drew, Hector
+ 325  of the flashing helmet struck him with the jagged stone
+ 326  beside the shoulder, where the collarbone parts the neck
+ 327  and chest, the deadliest spot of all, as he aimed at him,
+ 328  and snapped the bowstring; his hand went numb at the wrist;
+ 329  he dropped to his knees and stayed, and the bow fell from his hand.
+ 330  But Ajax did not neglect his fallen brother:
+ 331  running, he stood over him and covered him with the shield.
+ 332  Then two loyal companions stooped beneath him,
+ 333  Mecisteus, Echius' son, and brilliant Alastor,
+ 334  and carried him, groaning heavily, to the hollow ships.
+ 335  And once more the Olympian woke fury in the Trojans,
+ 336  and they pushed the Achaeans straight on the deep ditch;
+ 337  and Hector went among the first, glorying in his strength.
+ 338  As when a hound with quick feet presses a wild boar
+ 339  or a lion from behind, snapping at flank
+ 340  and buttock, and watches for the moment it turns,
+ 341  so Hector pressed the long-haired Achaeans,
+ 342  killing always the hindmost as they fled.
+ 343  But when they had crossed the stakes and the ditch, running,
+ 344  and many were broken under Trojan hands,
+ 345  they halted and held their ground beside the ships,
+ 346  calling to one another, and lifting their hands
+ 347  to all the gods, each man prayed aloud;
+ 348  and Hector wheeled his lovely-maned horses this way and that,
+ 349  with the eyes of the Gorgon, or of Ares bane of mortals.[21]
+ 350  And seeing them the goddess white-armed Hera pitied them,
+ 351  and quickly spoke winged words to Athena:
+ 352  "Shame — child of aegis-bearing Zeus! Shall the two of us
+ 353  no longer care for the Danaans dying, even at the last?
+ 354  They will fill up an evil doom and perish
+ 355  under one man's onset — this Hector, Priam's son,
+ 356  raging now past all bearing; and great evil he has done already."
+ 357  Then the goddess grey-eyed Athena answered her:
+ 358  "That man might well have lost his fury and his life,
+ 359  broken at Argive hands, dead in his own fatherland —
+ 360  but my father rages with no good mind:
+ 361  the hard god, forever the sinner, thwarter of my purposes.
+ 362  He remembers nothing of all the times I saved his son
+ 363  worn to breaking under Eurystheus's labors:
+ 364  he would cry up to heaven, and Zeus would send me
+ 365  down out of heaven to stand by him and help.
+ 366  If my crafty mind had only known all this
+ 367  that time Eurystheus sent him down to the house of Hades the gate-closer,
+ 368  to bring out of Erebus the hound of hateful Hades —
+ 369  he would not have escaped the sheer waters of the Styx.[22]
+ 370  But now Zeus loathes me, and works out the plans of Thetis,
+ 371  who kissed his knees, and took his chin in her hand,
+ 372  begging him to give honor to Achilles, sacker of cities.
+ 373  The day will come when he calls me his dear grey-eyes again.
+ 374  But you — harness the single-hoofed horses for the two of us,
+ 375  while I go down into the house of aegis-bearing Zeus
+ 376  and arm myself in gear for war — so I may see
+ 377  whether Priam's son, Hector of the flashing helmet,
+ 378  will be glad when the two of us appear on the causeways of battle —
+ 379  or whether some Trojan too will glut the dogs and the birds
+ 380  with his fat and his flesh, fallen beside the ships of the Achaeans."
+ 381  So she spoke, and the goddess white-armed Hera did not disobey.
+ 382  Hera went to and fro harnessing the golden-fronted horses —
+ 383  Hera, eldest goddess, daughter of great Cronos;
+ 384  and Athena, daughter of aegis-bearing Zeus,
+ 385  let fall her soft robe on her father's floor,
+ 386  the many-colored robe she herself had made and worked with her hands,
+ 387  and put on the tunic of Zeus the cloud-gatherer,[23]
+ 388  and armed herself in his gear for tearful war.
+ 389  Into the flaming chariot she stepped, and gripped the spear —
+ 390  heavy, huge, compact — with which she breaks the ranks of men,
+ 391  of heroes, when she of the mighty father is angered with them.
+ 392  And Hera swiftly touched the horses with the whip;
+ 393  and self-moved the gates of heaven groaned open, kept by the Seasons,
+ 394  to whom great heaven and Olympus are entrusted,
+ 395  to roll the thick cloud aside, or set it back.
+ 396  There, straight through, they held the goaded horses.
+ 397  But father Zeus, when he saw it from Ida, was terribly angered,
+ 398  and sent Iris of the golden wings to bear his message:
+ 399  "Up, go, swift Iris: turn them back; do not let them
+ 400  come against me. It will be no fair meeting if we join in war.
+ 401  For I say this outright, and it will be accomplished:
+ 402  I will lame their swift horses under the chariot,
+ 403  hurl the two of them from the car, and smash the chariot;
+ 404  and not in ten circling years will they be healed
+ 405  of the wounds the thunderbolt tears — so grey-eyes may learn
+ 406  what it is to fight against her own father.
+ 407  With Hera I am not so indignant, not so angry:
+ 408  it has always been her way to cross whatever I say."
+ 409  So he spoke; and storm-footed Iris rose to bear the message,
+ 410  and went from the mountains of Ida to high Olympus.
+ 411  At the very gates of many-folded Olympus
+ 412  she met them and held them, and told them the word of Zeus:
+ 413  "Where are you two rushing? What is this madness raging in your hearts?
+ 414  The son of Cronos forbids you to stand by the Argives.
+ 415  For thus the son of Cronos threatens — and he will do it:
+ 416  to lame your swift horses under the chariot,
+ 417  hurl the two of you from the car, and smash the chariot;
+ 418  and not in ten circling years will you be healed
+ 419  of the wounds the thunderbolt tears — so you may learn,
+ 420  grey-eyes, what it is to fight against your own father.
+ 421  With Hera he is not so indignant, not so angry:
+ 422  it has always been her way to cross whatever he says.
+ 423  But you — appalling; you shameless dog — if you truly
+ 424  dare to lift your gigantic spear against Zeus."[24]
+ 425  So speaking, swift-footed Iris went her way;
+ 426  and Hera spoke her word to Athena:
+ 427  "Shame — child of aegis-bearing Zeus: I say no longer
+ 428  can the two of us make war on Zeus for the sake of mortals.
+ 429  Of them, let one man perish, and another live,
+ 430  as it may fall; and let him, pondering his own purposes,
+ 431  judge between Trojans and Danaans, as is fitting."[25]
+ 432  So speaking she turned the single-hoofed horses back.
+ 433  The Seasons unyoked their lovely-maned horses for them,
+ 434  and tethered them at the ambrosial mangers,
+ 435  and leaned the chariot against the shining inner wall;
+ 436  and the goddesses sat down on golden chairs
+ 437  among the other gods, their dear hearts sorrowing.
+ 438  And father Zeus drove his strong-wheeled chariot and horses
+ 439  from Ida to Olympus, and came to the sessions of the gods.
+ 440  For him the famed earth-shaker unyoked the horses
+ 441  and set the car on its stand, and spread a cloth across it;
+ 442  and wide-seeing Zeus himself sat down on his golden throne,
+ 443  and great Olympus shook beneath his feet.
+ 444  Apart from Zeus, and alone, sat Athena and Hera,
+ 445  and did not speak to him or question him;
+ 446  but he understood in his heart, and spoke:
+ 447  "Why so stricken, Athena and Hera?
+ 448  Surely you are not worn out with battle where men win glory —
+ 449  with killing Trojans, against whom you have set your dread hatred!
+ 450  Come what may — such is my fury, so untouchable my hands —
+ 451  all the gods there are on Olympus could not turn me.
+ 452  As for you two: trembling took your shining limbs
+ 453  before you ever saw the war, and war's grim works.
+ 454  For I will say this outright — and it would have been accomplished:
+ 455  struck by my thunderbolt, you two would never have come back
+ 456  on your own chariot to Olympus, where the immortals have their seat."
+ 457  So he spoke, and they murmured at it, Athena and Hera,
+ 458  who sat side by side plotting evils for the Trojans.
+ 459  Athena, to be sure, stayed silent and said nothing,
+ 460  sulking at father Zeus, wild anger gripping her;
+ 461  but Hera's breast could not contain her anger, and she spoke:
+ 462  "Most dread son of Cronos, what a word you have spoken!
+ 463  Well do we know your strength is nothing feeble;
+ 464  but even so we grieve for the Danaan spearmen
+ 465  who will fill up an evil doom and perish.
+ 466  Yes: we will hold back from the war, if you command;
+ 467  but we will put counsel into the Argives — such as will help them —
+ 468  so they do not all perish under your anger."
+ 469  Answering her spoke Zeus the cloud-gatherer:
+ 470  "At dawn you will see him — if you have the heart for it,
+ 471  ox-eyed lady Hera — the overmastering son of Cronos
+ 472  wrecking still more of the great host of Argive spearmen.
+ 473  For massive Hector will not stop from the fighting
+ 474  until the swift-footed son of Peleus rises beside the ships,
+ 475  on that day when they fight at the ships' sterns,
+ 476  in the narrowest, most terrible press, over Patroclus fallen.[26]
+ 477  So it is decreed by heaven. And for your anger
+ 478  I care nothing — not if you go to the nethermost limits
+ 479  of earth and sea, where Iapetus and Cronos
+ 480  sit, and take no joy in the rays of Hyperion the Sun,
+ 481  nor in any wind, and deep Tartarus is all around them:
+ 482  not if you reach that place in your wandering do I care
+ 483  for your sulking — since there is nothing more dog-like than you."[27]
+ 484  So he spoke; and white-armed Hera answered him nothing.
+ 485  And the bright light of the sun fell into Ocean,
+ 486  drawing black night across the grain-giving earth.
+ 487  To the Trojans the light sank unwelcome; but to the Achaeans
+ 488  dark night came welcome — thrice prayed for — very welcome.
+
+ 489  Now glorious Hector made an assembly of the Trojans,
+ 490  leading them apart from the ships, by the eddying river,
+ 491  in a clear space, where ground showed empty of the dead.[28]
+ 492  Stepping from their chariots to the earth they listened to the word
+ 493  that Hector spoke, dear to Zeus. In his hand
+ 494  he held a spear eleven cubits long; and before him the bronze
+ 495  point of the shaft shone, and a ring of gold ran round it.
+ 496  Leaning on this, he spoke his words to the Trojans:
+ 497  "Hear from me, Trojans and Dardanians and allies.
+ 498  Just now I said that I should destroy the ships and all
+ 499  the Achaeans, and go back again to windy Ilion;
+ 500  but darkness came too soon. That, above all, has saved
+ 501  the Argives now, and the ships at the surf-line of the sea.
+ 502  So then: for now, let us yield to black night
+ 503  and make our supper ready. The lovely-maned horses —
+ 504  loose them from under the cars, and throw fodder beside them;
+ 505  and bring oxen from the city, and fat sheep,
+ 506  quickly; get honey-hearted wine, and bread
+ 507  from your halls; and gather plenty of wood besides,
+ 508  so that all night long, till early-born Dawn,
+ 509  we may burn fires in plenty, and the glare go up to heaven —
+ 510  lest even by night the long-haired Achaeans
+ 511  make a run for home over the broad back of the sea.
+ 512  Not at their ease, at least! — not unbloodied shall they board:
+ 513  let many a one of them have a shaft to digest at home,
+ 514  struck by an arrow or a sharp spear
+ 515  as he leaps for his ship — so that others too may shudder
+ 516  to bring tearful war on the horse-taming Trojans.
+ 517  And let heralds dear to Zeus announce through the city
+ 518  that boys in first youth and grey-templed old men
+ 519  are to post themselves around the town on the god-built towers;
+ 520  and the women, every one of them, each in her hall,
+ 521  to burn a great fire; and let the watch be kept unbroken,
+ 522  lest a raiding party enter the town while the army is away.
+ 523  So let it be, great-hearted Trojans, as I say it:
+ 524  let the word that serves this night stand as spoken,
+ 525  and the word for dawn I will speak among the horse-taming Trojans tomorrow.
+ 526  I hope — with prayer to Zeus and the other gods —
+ 527  to drive out of here those dogs whom the death-fates carry,[29]
+ 528  whom the fates carried to us on their black ships.
+ 529  So: through the night we will guard ourselves,
+ 530  and early, toward dawn, armed in our gear,
+ 531  we will waken sharp Ares beside the hollow ships.
+ 532  I will know whether Tydeus' son, strong Diomedes,
+ 533  will thrust me from the ships back on their wall — or whether I
+ 534  will break him with the bronze and carry off his bloody spoils.
+ 535  Tomorrow he will find out his own worth — whether he can stand
+ 536  my spear as it comes on. No: among the first, I think,
+ 537  he will lie speared, and many companions around him,
+ 538  as the sun climbs tomorrow. Would that I were as surely
+ 539  deathless and ageless for all my days,
+ 540  and honored as Athena and Apollo are honored,
+ 541  as surely as this day now brings evil to the Argives!"[30]
+ 542  So Hector spoke; and the Trojans roared applause.
+ 543  They loosed their sweating horses from under the yoke
+ 544  and tethered them with straps, each by his own chariot;
+ 545  and they brought oxen from the city, and fat sheep,
+ 546  quickly; got honey-hearted wine, and bread
+ 547  from their halls; and gathered plenty of wood besides;
+ 548  and they offered to the immortals perfect hecatombs.
+ 549  The winds carried the savor from the plain into the sky —
+ 550  sweet savor; but the blessed gods took no share of it;
+ 551  they would not: for holy Ilion was hated in their hearts,[31]
+ 552  and Priam, and the people of Priam of the good ash spear.
+ 553  But they, high in their hopes, on the causeways of battle
+ 554  sat all night long, and their fires burned in multitudes.
+ 555  As when in the sky the stars around the shining moon
+ 556  appear in all their glory, when the air falls windless,
+ 557  and all the lookout-peaks show clear, and the jutting headlands,
+ 558  and the glens; and from heaven the measureless air breaks open,
+ 559  and every star is seen; and the shepherd's heart is glad:[32]
+ 560  so many, between the ships and the streams of Xanthus,
+ 561  shone the fires the Trojans burned before Ilion.
+ 562  A thousand fires burned in the plain, and beside each one
+ 563  sat fifty men in the glare of the blazing fire.
+ 564  And the horses, champing white barley and spelt,
+ 565  stood beside the chariots, and waited for fair-throned Dawn.
+
+------------------------------------------------------------
+
+Notes
+
+[1] (8.1) "Dawn in her saffron robe" (κροκόπεπλος) — a new dawn-formula
+    for the register, distinct from "early-born rosy-fingered Dawn"
+    (1.477); the book will close with a third, "fair-throned Dawn" (565).
+
+[2] (8.13-16) Tartarus mapped: iron gates, bronze threshold, "as far
+    beneath Hades as heaven is above the earth" — the cosmos as three
+    equal stories, with the threat calibrated to the architecture.
+
+[3] (8.18-27) The golden cord: all gods and goddesses on one end, Zeus
+    on the other — and he would reel in "the earth and the sea with
+    you," and hang the whole from a horn of Olympus. Zenodotus athetized
+    25-26 and Aristarchus condemned the sequel (apparatus, Lines 25-26,
+    28-34). Later antiquity allegorized the cord endlessly (the sun,
+    the chain of being); in context it is a weight-boast, and the whole
+    book is its demonstration.
+
+[4] (8.38-40) Zeus smiles: "I do not speak with a set purpose; toward
+    you I mean to be gentle." Aristarchus athetized (= 22.183-184, where
+    the lines recur). The wink complicates the ban — how seriously Zeus
+    means his own decree is exactly what Books 8-15 keep testing.
+
+[5] (8.47-48) Gargaron, Ida's peak, "where his precinct is, and his
+    smoking altar" — Zeus takes his seat above the battle at one of his
+    own cult-sites: spectator's box and shrine in one.
+
+[6] (8.69-74) The golden scales: two "fates of death" weighed, and the
+    Achaeans' day of doom sinks. Aristarchus athetized 73-74
+    (apparatus). Zeus weighs but does not choose — the gesture that
+    poses, without solving, the poem's deepest question about Zeus and
+    fate; it returns, for two men instead of two armies, at 22.209-213.
+
+[7] (8.90-98) Odysseus, called by name to stand for old Nestor, "did
+    not hear" (οὐδʼ ἐσάκουσε) — or did not heed? The Greek permits
+    both, and ancient readers already argued; the poem moves on
+    without comment, and Diomedes goes back alone. First Iliad
+    occurrence of the Odyssey's great epithet "much-enduring brilliant
+    Odysseus" — in the poem's least flattering moment for him.
+
+[8] (8.105-108) Diomedes' offer repeats his own words about the horses
+    of Tros (5.221-223, verbatim in Greek and in this translation) —
+    the captured team already a talking point. (Echo note.)
+
+[9] (8.139-144) Nestor's counsel of retreat: "No man can fend off the
+    purpose of Zeus." The old man articulates the book's rule — divine
+    favor is temporal ("today... later") — and Diomedes' agonized
+    compliance (146-150 reuse the formulas of 1.286 and 4.182) marks
+    the limit of even the best mortal's aristeia.
+
+[10] (8.161-166) Hector's taunt — "you were a woman after all. Away
+     with you, painted doll!" (κακὴ γλήνη, a glass-eyed puppet or
+     doll). Aristophanes and Aristarchus athetized 164-166, and
+     Zenodotus's text read "I will deal you your death" (πότμον
+     ἐφήσω) for "deal you your doom" (δαίμονα δώσω) at 166 —
+     the entry for this book in disputed_lines.md (#4). Kept: the
+     gendered insult answers 163's "you were a woman," and Diomedes'
+     three-fold hesitation at 167-169 shows it landed.
+
+[11] (8.169-171) "Three times he pondered... and three times Zeus
+     thundered" — the three-then-fourth pattern (5.436-438) with the
+     fourth beat removed: against Zeus there is no fourth try, only
+     the sign obeyed.
+
+[12] (8.185) Hector names four horses — Xanthus, Podargus, Aethon,
+     Lampus — but a Homeric chariot is drawn by two, and Aristarchus
+     athetized the line as un-Homeric (apparatus). This Xanthus is not
+     Achilles' immortal horse (19.400) nor the river; the poem's names
+     circulate.
+
+[13] (8.186-190) Andromache fed the horses "before me" — wheat, and
+     wine mixed in — the domestic tenderness of Book 6 recruited into
+     Hector's war-speech (Aristarchus athetized 189). The detail is
+     the marriage in one image; that it surfaces as an argument to
+     horses is Hector all over.
+
+[14] (8.191-195) The fabulous targets: Nestor's shield of solid gold
+     "whose fame now reaches heaven," Diomedes' corslet forged by
+     Hephaestus — neither is mentioned anywhere else in the poem.
+     Rumor-armor, conjured by desire at the moment of imagined
+     victory.
+
+[15] (8.203) Helice and Aegae — Poseidon's great cult-seats on the
+     Achaean gulf; Hera's argument is a priest's ledger: they pay you;
+     act accordingly.
+
+[16] (8.220-226) The camp's geography, stated plainly: Odysseus's ship
+     at the midpoint, where a shout reaches both ends; Ajax and
+     Achilles holding the exposed extremities, "trusting their courage
+     and the strength of their hands." The arrangement (repeated at
+     11.5-9) is the war's org-chart in ship-positions — and explains
+     why Hector's assault will fall where it falls.
+
+[17] (8.228-235) "the boasts you made on Lemnos" — the wine-stop of
+     the outbound voyage (the same Lemnos whose wine-fleet supplied
+     the camp at 7.467-475): each man good for a hundred Trojans, two
+     hundred. Agamemnon's rebuke opens with the same "Shame, Argives!"
+     line as Hera's at 5.787 — the army's leaders now sound like its
+     goddess.
+
+[18] (8.247-252) The eagle drops the fawn beside the altar of "Zeus of
+     All Voices" (Πανομφαῖος — source of every omen): a sign delivered
+     to the address of signs. Zeus grants the prayer's minimum — the
+     host will not perish — while the day's verdict stands.
+
+[19] (8.266-334) Teucer's aristeia: shooting from under Ajax's shield
+     and slipping back "like a child to his mother" — the bastard
+     brother (Agamemnon says the word, 284, in praise) whose skill is
+     framed by dependency; his reward-list runs tripod, horses, "or a
+     woman"; and his day ends with Hector's stone to the collarbone —
+     "the deadliest spot" (326-327, the same anatomical formula as the
+     horse's crown at 83-84).
+
+[20] (8.302-308) Gorgythion: the son of a mother "beautiful as the
+     goddesses," and the poppy heavy with seed and spring rain — the
+     poem's most famous image of a death, a garden conscripted to
+     carry a battlefield. Virgil took it for Euryalus (Aeneid
+     9.435-437). The vignette-technique of 4.473-489 perfected in
+     three lines.
+
+[21] (8.348-349) Hector wheeling "with the eyes of the Gorgon, or of
+     Ares bane of mortals" — the Gorgon-face from Athena's own aegis
+     (5.741) lent to the poem's most human warrior at his most
+     daemonic. The book's Hector is glory running ahead of its limit.
+
+[22] (8.362-369) Athena's grievance: she was Zeus's instrument for
+     saving Heracles through Eurystheus's labors — including the
+     descent "to bring out of Erebus the hound of hateful Hades":
+     Cerberus, present but unnamed, as at Odyssey 11.623. Her wish
+     that he had drowned in Styx is savage even by Olympian standards
+     (Zenodotus omitted, Aristarchus athetized 371-372, the
+     Thetis-supplication reprise).
+
+[23] (8.384-391) Athena's arming repeats 5.733-747 in abridged form —
+     the robe she made herself falling on her father's floor — and
+     Zenodotus/Aristophanes/Aristarchus objected here too (apparatus,
+     Line 385-387). The English repeats the Book 5 rendering verbatim,
+     per the repetition policy.
+
+[24] (8.397-424) The Iris relay: Zeus's threat — lamed horses, smashed
+     chariot, thunderbolt wounds that "not in ten circling years" will
+     heal — delivered word for word, with the messenger's licensed
+     shift of person... and then one line of Iris's own: "you
+     shameless dog" (423, κύον ἀδεές). Aristarchus athetized 420-424;
+     but the herald who adds venom the principal never spoke is a
+     precise, humanized touch. Dogs are this book's insult-currency
+     (299, 423, 483, 527).
+
+[25] (8.427-431) Hera's retreat: "let one man perish, and another
+     live, as it may fall." The coldest couplet in the poem's divine
+     politics — the goddess of the Achaean cause, rebuffed once,
+     reverting to actuarial indifference. It is the exact opposite of
+     the poem's own attention, which never lets a death be "as it may
+     fall."
+
+[26] (8.470-477) The Patroclus prophecy: Hector will not stop "until
+     the swift-footed son of Peleus rises beside the ships, on that
+     day when they fight at the ships' sterns... over Patroclus
+     fallen. So it is decreed" (θέσφατον). The poem's plot through
+     Book 18, announced by Zeus as settled fact — the first time
+     Patroclus's death is spoken. Suspense in Homer is never whether,
+     only how and at what cost.
+
+[27] (8.478-483) "where Iapetus and Cronos sit" — the imprisoned
+     Titans, sunless and windless in deep Tartarus (cf. 5.898, Zeus's
+     threat to Ares; and 14.279). Zeus's rhetoric to his wife reaches
+     for the family's oldest violence — and ends on "nothing more
+     dog-like than you."
+
+[28] (8.489-491) The Trojan assembly "in a clear space, where ground
+     showed empty of the dead" — the plain is now so strewn that open
+     ground needs remarking. Hector's eleven-cubit spear repeats
+     6.318-320 verbatim (English likewise): the domestic Hector of
+     Book 6 and the field-marshal of Book 8 carry the same spear.
+
+[29] (8.526-528) "those dogs whom the death-fates carry, whom the
+     fates carried here on their black ships" — κῆρες as both escort
+     and doom: the Achaeans came shipped by their own deaths. Hector's
+     grimmest wordplay.
+
+[30] (8.538-541) "Would that I were as surely deathless and ageless
+     for all my days... as surely as this day brings evil to the
+     Argives": the adynaton-wish at the peak of Hector's confidence.
+     Zenodotus omitted 535-537 and Aristarchus flagged 538-541 with
+     critical points (apparatus) — ancient discomfort at Hector
+     wishing himself Athena's and Apollo's equal. Kept: the wish
+     measures exactly how far Zeus's one day of favor has carried him;
+     its cadence returns, desperate, at 22.304-305.
+
+[31] (8.548-552) The Trojans sacrifice perfect hecatombs — "but the
+     blessed gods took no share of it; they would not: for holy Ilion
+     was hated in their hearts." Ritual perfectly performed and
+     refused (cf. 6.311): between Athena's turned head and this
+     rejected savor, Troy's fate is already liturgically sealed.
+
+[32] (8.555-565) The watchfires: stars around the moon in windless
+     air, every peak and headland clear, "and the shepherd's heart is
+     glad" — the observer's joy that Zenodotus deleted (apparatus,
+     Line 557-558) and that makes the simile: dread from the Achaean
+     wall is wonder from the hills. A thousand fires, fifty men to
+     each; and the last word of this most martial book belongs to
+     horses champing barley, "waiting for fair-throned Dawn."

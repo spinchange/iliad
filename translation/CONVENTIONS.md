@@ -92,7 +92,7 @@ the Odyssey project's FORMULAS.md.
 | καλλιπάρῃος | fair-cheeked | 1.143 |
 | λευκώλενος (Hera) | white-armed | 1.55 |
 | βοῶπις πότνια Ἥρη | ox-eyed lady Hera | 1.551 |
-| γλαυκῶπις (Athena) | grey-eyed | 1.206 |
+| γλαυκῶπις (Athena) | grey-eyed; standalone substantive (Zeus's familiar use): "grey-eyes" | 1.206 / 8.373 |
 | Παλλάς | Pallas (kept) | 1.200 |
 | ἀγελείη (Athena) | the driver of the spoil | 4.128 |
 | Ἀτρυτώνη (Athena) | Unwearied one | 2.157 |
@@ -209,6 +209,17 @@ the Odyssey project's FORMULAS.md.
 | ῥηξήνωρ (Achilles) | breaker of men | 7.228 |
 | θυμολέων (Achilles, Heracles) | the lion-heart(ed) | 7.228 / 5.639 |
 | χλωρὸν δέος | green fear | 7.479 |
+| κροκόπεπλος Ἠώς | Dawn in her saffron robe | 8.1 |
+| ἐΰθρονος Ἠώς | fair-throned Dawn | 8.565 |
+| πολύτλας δῖος Ὀδυσσεύς | much-enduring brilliant Odysseus | 8.97 |
+| χρυσόπτερος (Iris) | of the golden wings | 8.398 |
+| ἀελλόπος (Iris) | storm-footed | 8.409 |
+| Γερήνιος οὖρος Ἀχαιῶν (Nestor) | the Gerenian, warden of the Achaeans | 8.80 |
+| πολυπίδαξ Ἴδη, μήτηρ θηρῶν | Ida of the many springs, mother of wild things | 8.47 |
+| Πανομφαῖος (Zeus) | Zeus of All Voices | 8.250 |
+| πυλάρτης (Hades) | the gate-closer | 8.367 |
+| τανηλεγὴς θάνατος | death that lays men low | 8.70 |
+| ἀπτοεπές (address) | reckless of tongue | 8.209 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -326,6 +337,10 @@ the Odyssey project's FORMULAS.md.
 | Women of Achaea, men of Achaea no longer | 2.235 | = 7.96 (Thersites' taunt in Menelaus's mouth) |
 | and took the gift of sleep | 7.482 | book-close formula |
 | he went into the middle and held back the Trojan lines, / gripping his spear by the middle; and they all sat down | 3.77-78 | = 7.55-56 |
+| So long as it was morning, and the sacred day still growing, / so long the missiles of both sides struck home, and the people fell. | 8.66-67 | recurs 11.84-85 |
+| So he spoke, and they murmured at it, Athena and Hera, / who sat side by side plotting evils for the Trojans. | 4.20-21 | = 8.457-458 (+ 4.22-24 = 8.459-461) |
+| he held a spear eleven cubits long; and before him the bronze / point of the shaft shone, and a ring of gold ran round it | 6.318-320 | = 8.493-495 |
+| And terrible grief closed over Hector's heart for his driver; / but he left him lying there, though grieving for his companion | 8.124-125 | = 8.316-317 |
 
 ## Ritual and formal language (set in Book 3)
 
@@ -407,6 +422,16 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 8: Eniopeus, Thebaeus, Archeptolemus, Cebriones (Hector's
+brother), Agelaus, Phradmon, Orsilochus (a Trojan — third bearer),
+Ormenus, Ophelestes, Daetor, Chromius (fourth bearer), Lycophontes,
+Amopaon, Polyaemon, Melanippus, Gorgythion, Castianeira, Aesyme,
+Mecisteus son of Echius (distinct from Euryalus's father, 2.566),
+Echius, Alastor (second bearer), Eurystheus, Erebus, Iapetus, Hyperion,
+Gargaron, Helice and Aegae (Poseidon's seats), Hector's horses Xanthus,
+Podargus, Aethon, Lampus (Xanthus also names Achilles' horse and the
+river — distinct).
 
 Added in Book 7: Areithous "the Club-man," Menesthius (Areithous's son —
 distinct from the Myrmidon Menesthius, 16.173), Phylomedusa, Eioneus,

@@ -28,7 +28,9 @@ CHECKS = [
     (["πόδας ὠκὺς", "ποδάρκης"], ["swift-footed"], "swift-footed Achilles"),
     (["ἄναξ ἀνδρῶν"], ["lord of men"], "lord of men"),
     (["νεφεληγερέτα"], ["cloud-gatherer"], "cloud-gatherer Zeus"),
-    (["γλαυκῶπις"], ["grey-eyed"], "grey-eyed Athena"),
+    # with Athena named: "grey-eyed"; standalone substantive (Zeus's
+    # familiar use, 8.373/406/420): "grey-eyes"
+    (["γλαυκῶπις", "γλαυκώπιδα", "γλαυκῶπι "], ["grey-eye"], "grey-eyed Athena / grey-eyes"),
     (["λευκώλεν"], ["white-armed"], "white-armed"),
     (["βοῶπις"], ["ox-eyed"], "ox-eyed Hera"),
     (["κορυθαίολος"], ["flashing helmet"], "Hector of the flashing helmet"),
@@ -73,6 +75,8 @@ CHECKS = [
     (["δμῳ"], ["slave-wom"], "dmōs policy: slave-women"),
     (["ἐνοσίχθων", "ἐννοσίγαι"], ["earth-shaker"], "Poseidon: the earth-shaker"),
     (["χλωρὸν δέος"], ["green fear"], "green fear"),
+    (["κροκόπεπλος"], ["saffron robe"], "Dawn: saffron-robed"),
+    (["πολύτλας"], ["much-enduring"], "Odysseus: much-enduring"),
 ]
 
 LINE_RE = re.compile(r"^\s{0,5}(\d+)\s\s(.*)$")
