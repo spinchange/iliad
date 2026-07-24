@@ -1,0 +1,957 @@
+BOOK 10
+
+The Doloneia: both armies send spies into the same night — Dolon dies
+talking, and Odysseus and Diomedes come home laughing, with the horses
+of Rhesus.
+
+TRANSLATOR'S COMMENTARY
+
+Book 10 is the Iliad's night. Nothing in it happens by daylight rules:
+the arming is in animal skins, the omens are heard rather than seen,
+the fighting is throat-cutting among sleeping men, and the one killing
+that follows a supplication does not even wait for the suppliant to
+finish his sentence. It is also the only book of the Iliad whose right
+to be in the poem has been disputed since antiquity (curated dispute
+#8): a scholion reports that "this rhapsody was arranged separately by
+Homer and not counted part of the Iliad, but was placed into the poem
+by Pisistratus." Aristarchus kept it; Analysts have excised it; its
+defenders answer that the ambush (the lochos) is an ancient heroic
+theme with its own conventions — leaders' fear, borrowed gear, beast-
+skins, two-man teamwork — which this book executes with complete
+control, and that the poem's long day of Books 11-18 needs precisely
+this restorative night between the Embassy's failure and disaster. The
+internal evidence cuts both ways: the diction has an Odyssean cast
+(the bathing-tubs of 576 and the whistle of 502 occur nowhere else in
+the Iliad; Athena tells Diomedes to "think of your return"), and
+nothing in the book — Rhesus, his marvelous horses, Dolon's
+intelligence — is ever mentioned again in the poem. Our policy is
+unchanged: the printed text is translated entire, and the argument
+lives in the notes ([1], [39], [43]).
+
+What the book is, read on its own terms, is a study in symmetry. Two
+sleepless kings; two councils held in the dark, each seated in the
+other's killing-ground (note [13]); two spies sent out in the same
+hour with twinned volunteer-speeches (note [25]) — but one side sends
+its best two men for a black ewe apiece, and the other sends its worst
+man alone, for a promise of Achilles' horses that was never Hector's
+to give. The interrogation runs on the courteous formulas of guest-
+conversation with a corpse at the end of it (note [29]); the thirteenth
+Thracian killed matches the "thirteenth" scout in Odysseus's tally
+(note [42]); and the book ends with the poem's only laughter after
+killing and its only hot bath — the night washed off before rosy-
+fingered dawn restores the day-world's rules.
+
+Register notes: the boar's-tusk helmet pedigree returns the loot of
+Phoenix's father's house (note [19]); "when two go together" enters
+the proverb-stock (note [15]); ἀλαοσκοπιή "no blind man's watch" is
+fixed for Books 13-14; ἄτη "blindness" shrinks to fit Dolon (note
+[30]); and 10.199 reuses our 8.491 verbatim, as the Greek does.
+
+------------------------------------------------------------
+
+   1  The other captains of all the Achaeans by the ships[1]
+   2  slept the whole night through, mastered by soft sleep;[2]
+   3  but not Atreus' son Agamemnon, shepherd of the people —
+   4  sweet sleep did not hold him, his mind churning many things.
+   5  As when the husband of lovely-haired Hera flashes lightning,
+   6  working a huge rain beyond all telling, or hail,
+   7  or a snowstorm, when snow powders over the plowlands,
+   8  or somewhere the great mouth of bitter war,[3]
+   9  so thick and fast came the groans of Agamemnon in his chest,
+  10  from the bottom of his heart; and his mind shook within him.
+  11  Whenever he looked out toward the Trojan plain,
+  12  he marveled at the many fires burning before Ilion,
+  13  at the voice of flutes and pipes, and the din of men;[4]
+  14  but whenever he looked at the ships and the Achaean host,
+  15  he tore the hair from his head out by the roots
+  16  before Zeus on high, and his glorious heart groaned greatly.
+  17  And this to his mind seemed the best counsel:
+  18  to go first of all men to Nestor, Neleus' son,
+  19  and see whether with him he might build some blameless plan
+  20  that would prove a warder-off of evil for all the Danaans.
+  21  He rose upright, and put his tunic on about his chest,
+  22  and beneath his shining feet he bound fair sandals,
+  23  and after that wrapped round him the blood-red hide of a lion,
+  24  fiery, huge, reaching his feet; and he took up a spear.
+  25  In the same way trembling held Menelaus; on his eyelids
+  26  either, sleep would not settle: for fear something befall
+  27  the Argives, who for his sake across so much water
+  28  had come to Troy, nursing their audacious war.
+  29  First he covered his broad back with the skin of a leopard,[5]
+  30  dappled; and then he lifted a rimmed helmet of bronze
+  31  and set it on his head, and took a spear in his thick hand.
+  32  Then he went to rouse his brother, who ruled with might
+  33  over all the Argives, honored by the people like a god.
+  34  He found him putting his fine armor about his shoulders
+  35  by the stern of his ship; and his coming was welcome to him.
+  36  Menelaus, good at the war-cry, spoke to him first:
+  37  "Elder brother, why arm yourself so? Is it to rouse
+  38  some companion to spy upon the Trojans? I am afraid,
+  39  badly afraid, that no one will undertake that work for you —
+  40  to go out alone against the enemy men, and scout them,
+  41  through the ambrosial night. It will need a very bold heart."
+  42  Answering him spoke the lord Agamemnon:
+  43  "There is need of counsel, Zeus-nurtured Menelaus, for me
+  44  and for you — cunning counsel, that will protect and save
+  45  the Argives and the ships; for the mind of Zeus has turned:
+  46  his heart is set now rather on Hector's sacrifices.
+  47  For never have I seen, nor heard a man tell of it,
+  48  one man contriving so much havoc in one day
+  49  as Hector, dear to Zeus, has done against the sons of the Achaeans,
+  50  unaided — no dear son of a goddess or a god.
+  51  He has done deeds that I tell you will be the Argives' concern
+  52  long and lastingly — such evils he has devised against the Achaeans.[6]
+  53  But go now, run beside the ships, and call
+  54  Ajax and Idomeneus; and I will go to brilliant Nestor
+  55  and urge him to rise — to see if he is willing
+  56  to go to the sacred company of the guards, and give the orders.
+  57  They would obey him soonest, for his own son
+  58  is a commander of the guards, with Idomeneus' aide
+  59  Meriones; to them above all others we gave the charge."
+  60  Then answered him Menelaus, good at the war-cry:
+  61  "How do you mean this word of command you give me?
+  62  Do I stay there with them, waiting until you come,
+  63  or run after you again, once I have delivered your orders?"
+  64  Then the lord of men Agamemnon answered him:
+  65  "Stay there, so that we do not miss one another
+  66  as we come and go; there are many paths through the camp.
+  67  Call out, wherever you go, and bid them stay awake,
+  68  naming each man from his father, by his lineage,[7]
+  69  giving every man his honor. Do not be lofty in spirit;
+  70  no, let us do the labor ourselves, we too. This must be
+  71  the heavy misery Zeus laid on us at our very birth."
+  72  So speaking, he sent his brother off with clear instructions,
+  73  and set out himself for Nestor, shepherd of the people.
+  74  He found him beside his hut and his black ship,
+  75  in a soft bed; beside him lay his intricate gear —
+  76  a shield, and two spears, and a shining helmet;
+  77  beside him lay the glittering war-belt the old man girded on
+  78  whenever he armed himself for man-destroying war
+  79  and led out his people; he made no concession to grim old age.
+  80  He raised himself up on his elbow, lifted his head,
+  81  and spoke to Atreus' son, questioning him with a word:
+  82  "Who are you, walking alone through the camp among the ships
+  83  in the murky night, when other mortals are sleeping?
+  84  Seeking one of your mules, or one of your companions?[8]
+  85  Speak — do not come at me silent. What is your need?"
+  86  Then answered him the lord of men Agamemnon:
+  87  "Nestor, Neleus' son, great glory of the Achaeans,
+  88  you will know Atreus' son Agamemnon — the man whom Zeus
+  89  beyond all men has plunged into toils without end, while breath
+  90  remains in my chest and my own knees keep their spring.
+  91  I wander so because sweet sleep will not settle on my eyes;
+  92  the war is my care, and the sufferings of the Achaeans.
+  93  I fear terribly for the Danaans. My heart is not
+  94  steady; I am storm-tossed; the heart leaps out of my chest,
+  95  and my shining limbs tremble beneath me.
+  96  But if you will bestir yourself — since sleep has not come to you either —
+  97  come, let us go down to the guards, and look:
+  98  for fear that, sodden with weariness and with sleep,
+  99  they have dropped off, and forgotten the watch entirely.
+ 100  Enemy men are camped close by, and we know nothing:
+ 101  they might even be minded to fight us in the night."
+ 102  Then answered him the Gerenian horseman Nestor:
+ 103  "Most glorious son of Atreus, lord of men Agamemnon,
+ 104  surely not all of Hector's designs will Zeus the counselor
+ 105  accomplish for him — all he now hopes. I think instead
+ 106  he will sweat under troubles even more than ours, if once Achilles
+ 107  turns his own heart back from its galling anger.
+ 108  And I will follow you, gladly. But let us wake others as well:
+ 109  Tydeus' son, famed with the spear, and Odysseus,
+ 110  and swift Ajax, and the stout son of Phyleus.[9]
+ 111  And if someone would also go and summon the rest —
+ 112  godlike Ajax, and the lord Idomeneus,
+ 113  whose ships are the farthest off of all, nowhere near us.
+ 114  But Menelaus — dear though he is to me, and respected —
+ 115  I will fault him, though you may resent me; I will not hide it:[10]
+ 116  he sleeps, and has left the labor to you alone.
+ 117  Now is when he should be laboring among all the captains,
+ 118  pleading with them; the need that has come will not be borne."
+ 119  Then the lord of men Agamemnon answered him:
+ 120  "Old man, another day I would even bid you blame him;
+ 121  he does often hang back, and is unwilling to labor —
+ 122  not that he yields to sloth or thoughtlessness of mind,
+ 123  but he looks to me, and waits for my lead.
+ 124  This time he woke well before me, and came and stood over me,
+ 125  and I sent him ahead to summon the very men you ask for.
+ 126  Let us go: we shall overtake them before the gates,
+ 127  among the guards; for that is where I told them to gather."
+ 128  Then answered him the Gerenian horseman Nestor:
+ 129  "Then no man of the Argives will resent him
+ 130  or disobey, when he stirs a man on and gives commands."
+ 131  So speaking, he put his tunic on about his chest,
+ 132  and beneath his shining feet he bound fair sandals,
+ 133  and pinned about himself a purple-red cloak,
+ 134  double-folded, full-falling, thick with a nap of wool.
+ 135  And he took up a stout spear, edged with sharp bronze,
+ 136  and went along the ships of the bronze-shirted Achaeans.
+ 137  First it was Odysseus, the equal of Zeus in counsel,
+ 138  that the Gerenian horseman Nestor woke from sleep,
+ 139  calling out; and the voice came quickly about his senses,
+ 140  and he came out of the hut, and spoke to them a word:
+ 141  "Why do you wander alone like this by the ships, through the camp,
+ 142  in the ambrosial night — what need is so great upon you?"
+ 143  Then answered him the Gerenian horseman Nestor:
+ 144  "Zeus-sprung son of Laertes, Odysseus of many devices,
+ 145  do not be angry: such grief has overmastered the Achaeans.
+ 146  Come with us, so we may wake the next man too, one fit
+ 147  to take counsel together, whether to run or fight."
+ 148  So he spoke; and resourceful Odysseus, going into the hut,
+ 149  put his figured shield about his shoulders, and went with them.
+ 150  They went on to Tydeus' son Diomedes, and came upon him
+ 151  outside his hut with his weapons; and around him his companions
+ 152  slept with their shields beneath their heads; their spears
+ 153  stood driven upright on their butt-spikes, and far off the bronze
+ 154  flashed like the lightning of father Zeus. The hero himself
+ 155  slept, the hide of a field-ox spread underneath him
+ 156  and a bright carpet stretched beneath his head.
+ 157  The Gerenian horseman Nestor stood by him and woke him,
+ 158  stirring him with a kick of his heel, and scolded him to his face:
+ 159  "Wake, son of Tydeus! Why doze away the whole night's sleep?[11]
+ 160  Do you not hear how the Trojans, on the swell of the plain,
+ 161  sit close to the ships, and only a little ground still holds them off?"
+ 162  So he spoke; and Diomedes started sharply out of sleep,
+ 163  and speaking winged words he addressed him:
+ 164  "You are a hard one, old man. You never cease from labor.
+ 165  Are there not other, younger sons of the Achaeans,
+ 166  who might go round and wake each of the kings in turn,
+ 167  walking everywhere? You are impossible, old man."
+ 168  Then answered him the Gerenian horseman Nestor:
+ 169  "Yes, friend — all this you have said rightly and in due measure.
+ 170  I have blameless sons of my own, and I have people,
+ 171  plenty of them; one of these might go around and call.
+ 172  But a very great need has overmastered the Achaeans:
+ 173  now for all of us it stands upon the razor's edge —[12]
+ 174  either grim destruction for the Achaeans, or life.
+ 175  Go then and rouse swift Ajax and the son of Phyleus —
+ 176  you are the younger — if you have pity on me."
+ 177  So he spoke; and round his shoulders he wrapped the hide of a lion,
+ 178  fiery, huge, reaching his feet; and he took up a spear.
+ 179  And the hero went, woke those men, and brought them from their places.
+ 180  And when they came among the assembled guards,
+ 181  they did not find the leaders of the watch asleep:
+ 182  all of them sat wide awake with their weapons.
+ 183  As dogs around sheep in a fold keep painful watch,
+ 184  hearing a hard-hearted beast that through the timber
+ 185  comes down among the mountains, and much clamor rises
+ 186  about it from men and dogs, and their sleep is destroyed,
+ 187  so sweet sleep was destroyed from their eyelids
+ 188  as they kept watch through the evil night; toward the plain
+ 189  they were turned always, listening for the Trojans coming.
+ 190  The old man rejoiced to see them, and heartened them with a word,
+ 191  and speaking winged words he addressed them:
+ 192  "Keep your watch like that, dear children. Let no one
+ 193  be taken by sleep — or we become a joy to our enemies."
+ 194  So speaking he swept on across the ditch; and with him followed
+ 195  the kings of the Argives, all who had been summoned to council.
+ 196  With them went Meriones and Nestor's shining son,
+ 197  for the kings themselves had called them in to share the counsels.
+ 198  They crossed the deep-dug ditch and seated themselves
+ 199  in a clear space, where ground showed empty of the dead[13]
+ 200  who had fallen — there where massive Hector had turned back
+ 201  from destroying Argives, when night closed in around them.
+ 202  There they sat down and declared their words to one another,
+ 203  and the Gerenian horseman Nestor began to speak among them:
+ 204  "Friends, will no man put trust enough in his own
+ 205  daring heart to go out among the great-hearted
+ 206  Trojans? He might catch some straggler at the enemy's edge,
+ 207  or he might even gather some rumor among the Trojans —
+ 208  what they are counseling among themselves — whether they mean
+ 209  to stay where they are by the ships, far away, or will withdraw
+ 210  back to the city, since they have beaten down the Achaeans.
+ 211  All that he might learn, and come back to us again
+ 212  unharmed; and great would his fame be under heaven
+ 213  among all men, and a noble gift will be his:
+ 214  for as many of the best men as command the ships,
+ 215  of all of those, each single one will give him a black ewe,
+ 216  a female with lamb at teat — no possession like it —[14]
+ 217  and he will always be included at feasts and banquets."
+ 218  So he spoke, and they all went still in silence.
+ 219  And among them spoke Diomedes, good at the war-cry:
+ 220  "Nestor, my own heart and my proud spirit urge me
+ 221  to enter the camp of the enemy men who lie
+ 222  close by — the Trojans. But if some other man went with me,
+ 223  there would be more comfort in it, and more boldness too.
+ 224  When two go together, one marks before the other[15]
+ 225  where the advantage lies. A man alone may see it,
+ 226  but his wit is slower, and his cunning thin."
+ 227  So he spoke; and many were willing to follow Diomedes.
+ 228  The two Ajaxes were willing, those squires of Ares;
+ 229  Meriones was willing; most willing, Nestor's son;
+ 230  willing was Atreus' son Menelaus, famed with the spear;
+ 231  and willing was hardy Odysseus to slip into the throng
+ 232  of the Trojans — the heart in his chest was always daring.
+ 233  And among them spoke the lord of men Agamemnon:
+ 234  "Diomedes, Tydeus' son, delight of my heart,
+ 235  the companion — you shall choose him yourself, whichever you want,
+ 236  the best of those who offer themselves; many are eager.
+ 237  Do not, from deference in your heart, leave the better man
+ 238  behind, and take the worse to go with you,
+ 239  yielding to respect, eyeing birth — not even if he is the more kingly."
+ 240  So he spoke, and was afraid for tawny-haired Menelaus.[16]
+ 241  And among them spoke again Diomedes, good at the war-cry:
+ 242  "If you truly bid me choose my companion myself,
+ 243  how then could I forget godlike Odysseus,
+ 244  whose heart is forward and whose spirit proud
+ 245  in every kind of labor — and Pallas Athena loves him.
+ 246  With him following me, even out of blazing fire
+ 247  the two of us would come home; he knows beyond all how to think."
+ 248  Then answered him much-enduring brilliant Odysseus:
+ 249  "Tydeus' son, neither praise me overmuch nor blame me;
+ 250  these are things known to the Argives you say them among.
+ 251  Come, let us go. The night is far spent, and dawn is near;
+ 252  the stars have moved far on; and more of the night has passed
+ 253  than two of its parts, and only the third part is left."[17]
+ 254  So the two spoke, and got themselves into their fearsome gear.
+ 255  Thrasymedes, steadfast in battle, gave Tydeus' son
+ 256  a two-edged sword — for his own was left by his ship —
+ 257  and a shield; and about his head he set a helmet
+ 258  of bull's hide, ridgeless, crestless — the kind men call
+ 259  a skull-cap, and it guards the heads of strong young men.[18]
+ 260  And Meriones gave Odysseus a bow and a quiver
+ 261  and a sword; and about his head he set a helmet
+ 262  made of leather; and inside it was strung taut
+ 263  with many thongs; and outside the white teeth
+ 264  of a shining-tusked boar were set close along it, this way and that,
+ 265  well and with skill; and in the middle a cap of felt was fitted.
+ 266  This helmet Autolycus once stole out of Eleon[19]
+ 267  from Amyntor, Ormenus' son, breaking into his close-built house;
+ 268  he gave it at Scandeia to Amphidamas of Cythera;
+ 269  Amphidamas gave it to Molus, to be his guest-gift,
+ 270  and Molus gave it to his son Meriones to wear;
+ 271  and now it was set round the head of Odysseus, and covered it.
+ 272  And when the two had got themselves into their fearsome gear,
+ 273  they set out, and left all the best men there in their places.
+ 274  And close by their road Pallas Athena sent them
+ 275  a heron on the right; their eyes could not see it[20]
+ 276  through the murky night, but they heard it cry aloud.
+ 277  Odysseus rejoiced at the bird-sign, and prayed to Athena:
+ 278  "Hear me, child of aegis-bearing Zeus — you who always
+ 279  stand beside me in every labor, and I do not
+ 280  escape your eye when I move: now again love me best, Athena,
+ 281  and grant that we come back with glory to the ships,
+ 282  having done a great deed, one that will be the Trojans' concern."
+ 283  And second in turn prayed Diomedes, good at the war-cry:
+ 284  "Hear me now also, child of Zeus, Unwearied one.
+ 285  Go with me as once you went with my father, brilliant Tydeus,[21]
+ 286  into Thebes, when he went before the Achaeans as their envoy.
+ 287  He left the bronze-shirted Achaeans there at the Asopus,
+ 288  and himself carried a honeyed word to the Cadmeans
+ 289  there; but on the way back he devised deeds of sheer havoc
+ 290  with you, brilliant goddess, when you stood by him in your kindness.
+ 291  So now again be willing to stand by me, and guard me.
+ 292  And I in return will sacrifice to you a yearling heifer,
+ 293  broad-browed, unbroken, that no man has yet led under the yoke:
+ 294  that I will sacrifice to you, and sheathe her horns in gold."[22]
+ 295  So they spoke in prayer, and Pallas Athena heard them.
+ 296  And when they had prayed to the daughter of great Zeus,
+ 297  they went on their way like two lions through the black night,
+ 298  through the slaughter, through the corpses, through the gear and the black blood.[23]
+ 299  Nor did Hector allow the proud Trojans to sleep
+ 300  either; he called together all their best men,
+ 301  all who were leaders and lords of the Trojans;
+ 302  and calling them together he framed his shrewd plan:
+ 303  "Who will undertake a work for me and bring it through
+ 304  to the end, for a great gift? The wage will be enough:
+ 305  I will give a chariot and two strong-necked horses,
+ 306  the finest that there are beside the swift ships of the Achaeans,
+ 307  to the man who dares — and he will win glory for himself —
+ 308  to go close to the swift-faring ships, and find out
+ 309  whether the swift ships are guarded as before,
+ 310  or whether by now, beaten down under our hands,
+ 311  they are planning flight among themselves, and have no wish
+ 312  to keep watch through the night, sodden with brutal weariness."
+ 313  So he spoke, and they all went still in silence.
+ 314  Now there was among the Trojans one Dolon, the son of Eumedes[24]
+ 315  the sacred herald — rich in gold and rich in bronze —
+ 316  who was ugly to look at, but swift-footed;
+ 317  and he was an only son among five sisters.
+ 318  He then spoke his word to the Trojans and Hector:
+ 319  "Hector, my own heart and my proud spirit urge me[25]
+ 320  to go close to the swift-faring ships, and find out.
+ 321  Come then, lift up your scepter to me, and swear
+ 322  that you will give the horses, and the chariot intricate with bronze,
+ 323  that carry the blameless son of Peleus;
+ 324  and I will not be a vain scout for you, nor fall short of your thought.
+ 325  For I will go straight on through the camp until I come
+ 326  to Agamemnon's ship, where no doubt their best men
+ 327  are taking counsel together, whether to run or fight."
+ 328  So he spoke; and Hector took the scepter in his hand, and swore:
+ 329  "Let Zeus himself now witness it, the loud-thunderer, Hera's lord:
+ 330  no other man of the Trojans shall mount behind those horses;
+ 331  you and none other, I declare, shall glory in them forever."
+ 332  So he spoke, and swore it falsely — and set the man on fire.
+ 333  At once he slung his curved bow over his shoulders,
+ 334  and over it put on the hide of a grey wolf,
+ 335  and on his head a ferret-skin cap; and he took a sharp javelin,[26]
+ 336  and set out from the camp toward the ships — nor was he ever
+ 337  to come back from the ships and carry his word to Hector.
+ 338  But when he had left the crowds of horses and men behind,
+ 339  he went up the road, all eagerness; and Zeus-sprung Odysseus
+ 340  marked him coming on, and said to Diomedes:
+ 341  "Diomedes, here is some man coming out of the camp;
+ 342  I cannot tell if he means to spy upon our ships
+ 343  or to strip one of the corpses of the dead.
+ 344  Let us let him pass us by on the plain
+ 345  a little first; then rushing after we can take him
+ 346  quickly. And if he outruns the two of us on foot,
+ 347  keep crowding him always toward the ships, away from the camp,
+ 348  lunging with your spear, so he cannot slip off to the town."
+ 349  So the two spoke, and they lay down off the road
+ 350  among the corpses; and in his folly he ran quickly past.
+ 351  But when he was as far away as mules plow in one stretch —[27]
+ 352  for mules are better beasts than oxen
+ 353  at dragging the jointed plow through deep fallow land —
+ 354  the two ran after him; and he stopped still at the sound of feet,
+ 355  for he hoped in his heart they were companions coming
+ 356  from the Trojans to turn him back, Hector recalling him.
+ 357  But when they were a spear-throw off, or even less,
+ 358  he knew them for enemy men, and moved his nimble knees
+ 359  in flight; and they leapt quickly into the chase.
+ 360  As when two jag-toothed hounds that know the hunt
+ 361  press hard on a fawn or a hare, unrelenting, always,
+ 362  through wooded country, and it runs crying before them,
+ 363  so Tydeus' son and Odysseus, sacker of cities,
+ 364  cut him off from his people and chased him, unrelenting, always.
+ 365  But when he was on the point of mixing with the guards
+ 366  in his flight toward the ships, then Athena put fury
+ 367  into Tydeus' son, so that no bronze-shirted Achaean
+ 368  might boast that he struck first, with Diomedes coming second.
+ 369  Rushing at him with the spear, strong Diomedes spoke:
+ 370  "Stand — or I reach you with the spear; and I tell you,
+ 371  you will not long escape sheer destruction from my hand."
+ 372  He spoke, and let the spear fly — and missed the man on purpose:[28]
+ 373  over his right shoulder the point of the polished spear
+ 374  stuck fast in the earth. Dolon stood still, terrified,
+ 375  stammering — through his mouth came the chatter of his teeth —
+ 376  green with fear. Panting, the two caught up with him
+ 377  and seized his hands; and he burst into tears and said:
+ 378  "Take me alive, and I will ransom myself: at home there lies
+ 379  bronze, and gold, and iron worked with much labor;
+ 380  out of these my father would gladden you with ransom past counting
+ 381  if he learned I was alive by the ships of the Achaeans."
+ 382  Answering him spoke resourceful Odysseus:
+ 383  "Take heart; and let death be no concern of your mind.[29]
+ 384  But come, tell me this, and recount it truly:
+ 385  where are you going alone to the ships, away from the camp,
+ 386  in the murky night, when other mortals are sleeping?
+ 387  To strip one of the corpses of the dead?
+ 388  Or did Hector send you out to spy on everything
+ 389  at the hollow ships? Or did your own heart drive you?"
+ 390  Then Dolon answered him, his limbs trembling under him:
+ 391  "With many blindnesses Hector led my mind astray:[30]
+ 392  the whole-hoofed horses of the illustrious son of Peleus
+ 393  he promised on his nod to give, and the chariot intricate with bronze,
+ 394  and told me to go on through the swift black night,
+ 395  and get close to the enemy men, and find out
+ 396  whether the swift ships are guarded as before,
+ 397  or whether by now, beaten down under our hands,
+ 398  they are planning flight among themselves, and have no wish
+ 399  to keep watch through the night, sodden with brutal weariness."[31]
+ 400  And resourceful Odysseus answered him, smiling:
+ 401  "Great gifts indeed those were your heart was set on —
+ 402  the horses of the war-minded son of Aeacus. They are hard
+ 403  for mortal men to break or to drive,
+ 404  for any man but Achilles, whom an immortal mother bore.
+ 405  But come, tell me this, and recount it truly:
+ 406  where, when you came here, did you leave Hector, shepherd of the people?
+ 407  Where does his warlike gear lie? Where are his horses?
+ 408  And the other Trojans — how are their watches and sleeping-places?
+ 409  What are they counseling among themselves — whether they mean
+ 410  to stay where they are by the ships, far away, or will withdraw
+ 411  back to the city, since they have beaten down the Achaeans?"
+ 412  Then answered him Dolon, Eumedes' son:
+ 413  "Well then, I will recount all this to you very truly.
+ 414  Hector, with all those men who are counselors,
+ 415  is taking counsel by the tomb of godlike Ilus,[32]
+ 416  apart from the din. But the watches you ask about, hero —
+ 417  no picked guard protects the camp, and none keeps watch.
+ 418  As for the Trojans' watch-fires: the men under necessity,
+ 419  they stay awake beside them, and call to one another
+ 420  to keep the watch. But the allies, called from many lands,
+ 421  are sleeping; they leave the watching to the Trojans,
+ 422  for their own children and wives do not lie near them."
+ 423  Answering him spoke resourceful Odysseus:
+ 424  "Now how is it — do they sleep mingled with the horse-taming
+ 425  Trojans, or apart? Tell me plainly, so I may know."
+ 426  Then answered him Dolon, Eumedes' son:
+ 427  "Well then, I will recount this too to you very truly.
+ 428  Toward the sea lie the Carians and the Paeonians of the curved bows,[33]
+ 429  the Leleges and the Caucones and the brilliant Pelasgians;
+ 430  toward Thymbre fell the lot of the Lycians and the lordly Mysians
+ 431  and horse-fighting Phrygians, and Maeonians, men who fight from chariots.
+ 432  But why do you question me through all this, point by point?
+ 433  If you two are bent on slipping into the Trojans' throng,
+ 434  here, apart, are the Thracians, new-come, outermost of all,
+ 435  and among them their king Rhesus, son of Eïoneus.
+ 436  His horses are the finest I have ever seen, and the biggest:
+ 437  whiter than snow, and like the winds in running.
+ 438  His chariot is finely worked with gold and silver,
+ 439  and the armor he came in is golden, gigantic, a wonder[34]
+ 440  to look at — armor that suits, not mortal men
+ 441  to carry, but the deathless gods.
+ 442  But now, take me with you to the swift-faring ships,
+ 443  or bind me with a pitiless bond and leave me here,
+ 444  until you two have gone and made your trial of me,
+ 445  whether I have spoken to you justly, or not."
+ 446  Glaring at him darkly, strong Diomedes spoke:
+ 447  "Do not put escape into your heart, Dolon,
+ 448  good though your news is, now you have come into our hands.
+ 449  For if we free you now for ransom, or let you go,
+ 450  surely later you will come again to the swift ships of the Achaeans,
+ 451  either spying once more, or fighting us face to face;
+ 452  but if, beaten down under my hands, you lose your life,
+ 453  never again will you be a plague upon the Argives."
+ 454  He spoke; and the man was reaching for his chin with his broad hand,
+ 455  meaning to plead — but the other drove at the middle of his neck,
+ 456  springing with the sword, and sheared through both the tendons;
+ 457  and the head of the still-speaking man was mingled with the dust.[35]
+ 458  From him they took the cap of ferret skin,
+ 459  the grey wolf's hide, the back-bent bow, and the long spear;
+ 460  and these to Athena of the Spoils brilliant Odysseus[36]
+ 461  held up high in his hand, and praying spoke a word:
+ 462  "Rejoice in these, goddess. To you first of all the immortals
+ 463  on Olympus we will give your share. But once again
+ 464  send us on, to the Thracian men's horses and sleeping-places."
+ 465  So he spoke, and lifted the spoils high away from himself
+ 466  and set them on a tamarisk; and he set a mark plain to see,
+ 467  pulling together reeds and the tamarisk's flourishing boughs,
+ 468  so they would not miss it, coming back through the swift black night.
+ 469  The two went forward, through the gear and the black blood,
+ 470  and quickly, pressing on, they reached the company of Thracian men.
+ 471  They were sleeping, sodden with weariness, and their fine gear
+ 472  lay by them on the ground, all in good order,
+ 473  in three rows; and beside each man his yoke-pair of horses.
+ 474  Rhesus slept in the middle, and beside him his swift horses
+ 475  were tethered by the reins to the chariot's outer rail.
+ 476  Odysseus saw him first, and pointed him out to Diomedes:
+ 477  "That is the man, Diomedes; and those are the horses
+ 478  that Dolon marked out for us — the man we killed.
+ 479  Come then, show your great strength. You have no business
+ 480  standing idle in your armor. Untie the horses —
+ 481  or else you kill the men, and the horses will be my care."
+ 482  So he spoke; and grey-eyed Athena breathed fury into him.
+ 483  He killed, wheeling on every side, and a hideous groaning rose
+ 484  from men struck by the sword; and the earth reddened with blood.
+ 485  As a lion coming upon flocks without their herdsman,
+ 486  on goats or on sheep, springs in with evil purpose,
+ 487  so Tydeus' son moved up and down among the Thracian men
+ 488  until he had killed twelve. And resourceful Odysseus —
+ 489  whomever Tydeus' son struck with the sword, standing above him,
+ 490  him Odysseus would seize by the foot from behind and drag aside,
+ 491  with this thought in his mind: that the fair-maned horses
+ 492  might pass through easily, and not shiver in their hearts
+ 493  at stepping on dead men — being still unused to them.
+ 494  But when Tydeus' son came upon the king,
+ 495  he was the thirteenth he robbed of his honey-sweet life,
+ 496  gasping hard: for an evil dream stood at his head
+ 497  that night — the son of Oeneus' son — by the cunning of Athena.[37]
+ 498  All that time hardy Odysseus was untying the whole-hoofed horses;
+ 499  he bound them together with reins and drove them from the crowd,
+ 500  beating them with his bow, because he had not thought[38]
+ 501  to take up in his hands the shining whip from the intricate chariot;
+ 502  then he gave a whistle, his signal to brilliant Diomedes.
+ 503  But Diomedes waited, weighing what boldest thing he might do:
+ 504  whether to seize the chariot where the intricate gear lay
+ 505  and drag it out by the pole, or heave it high and carry it,
+ 506  or take away the life of still more Thracians.
+ 507  While he was turning this over in his mind, Athena
+ 508  came near and stood, and spoke to brilliant Diomedes:
+ 509  "Think of your return now, son of great-hearted Tydeus,[39]
+ 510  back to the hollow ships — or you may go back to them running,
+ 511  and some other god may waken the Trojans too."
+ 512  So she spoke; and he knew the voice of the goddess speaking,
+ 513  and swiftly mounted a horse; and Odysseus struck the pair
+ 514  with his bow, and they flew toward the swift ships of the Achaeans.
+ 515  But Apollo of the silver bow kept no blind man's watch[40]
+ 516  when he saw Athena attending on Tydeus' son:
+ 517  angry with her, he sank into the great throng of Trojans
+ 518  and woke a counselor of the Thracians, Hippocoon,
+ 519  Rhesus' noble kinsman. And he leapt up out of sleep,
+ 520  and when he saw the place empty where the swift horses had stood,
+ 521  and the men gasping amid the grim slaughter,
+ 522  he groaned aloud, and called out the name of his dear companion.
+ 523  And a clamor rose from the Trojans, and measureless uproar,
+ 524  as they rushed together; they gazed at the deeds of havoc —
+ 525  all that the men had done before going to the hollow ships.
+ 526  And when the two came where they had killed Hector's scout,
+ 527  there Odysseus, dear to Zeus, held in the swift horses,
+ 528  and Tydeus' son leapt down, and put the bloody spoils
+ 529  into Odysseus' hands, and mounted up again;
+ 530  and he whipped the horses on, and the two flew, nothing loath,
+ 531  toward the hollow ships; for that way was dear to their hearts.
+ 532  Nestor was the first to hear the drumming of hooves, and spoke:
+ 533  "Friends, leaders and lords of the Argives,
+ 534  shall I be wrong, or right, in what I say? My heart commands it.[41]
+ 535  The drumming of swift-footed horses strikes about my ears.
+ 536  If only it were Odysseus and strong Diomedes
+ 537  driving whole-hoofed horses here, so quickly, out of the Trojans!
+ 538  But terribly I fear in my heart that they have come to harm —
+ 539  the best of the Argives — in the uproar of the Trojans."
+ 540  The whole word was not yet spoken when they came themselves,
+ 541  and stepped down to the ground; and the others, rejoicing,
+ 542  welcomed them with clasped right hands and honeyed words.
+ 543  And first to question them was the Gerenian horseman Nestor:
+ 544  "Come, tell me, Odysseus of the many tales, great glory of the Achaeans:
+ 545  how did you two take these horses? By slipping into the throng
+ 546  of the Trojans? Or did some god meet you, and give them?
+ 547  They are terribly like the rays of the sun.
+ 548  Always I mix with the Trojans; I say I am no lingerer
+ 549  beside the ships, old warrior though I am;
+ 550  but never yet have I seen such horses, or dreamed of them.
+ 551  No — I think some god must have met you and given them,
+ 552  for Zeus the cloud-gatherer loves the two of you,
+ 553  and the daughter of aegis-bearing Zeus, grey-eyed Athena."
+ 554  Answering him spoke resourceful Odysseus:
+ 555  "Nestor, Neleus' son, great glory of the Achaeans,
+ 556  easily could a god, if he wished, give better horses
+ 557  even than these, since the gods are far mightier.
+ 558  But these horses you ask about, old man, are newly come —
+ 559  Thracians; their lord — brave Diomedes killed him,
+ 560  and beside him twelve companions, all their best men.
+ 561  The thirteenth was a scout we took near the ships,[42]
+ 562  a man sent out to be a spy upon our army
+ 563  by Hector and the rest of the illustrious Trojans."
+ 564  So speaking, he drove the whole-hoofed horses across the ditch,
+ 565  laughing aloud; and the other Achaeans followed, rejoicing.
+ 566  And when they reached the well-built hut of Tydeus' son,
+ 567  they tied up the horses with well-cut thongs
+ 568  at the horse-manger, where the horses of Diomedes
+ 569  stood, swift-footed, eating their honey-sweet grain.
+ 570  And on his ship's stern Odysseus laid the bloody spoils
+ 571  of Dolon, till they could make the offering ready for Athena.
+ 572  And the men themselves waded into the sea, and washed away
+ 573  the heavy sweat from their shins and necks and thighs.
+ 574  And when the waves of the sea had washed the heavy sweat
+ 575  from their skin, and the dear heart in them was cooled,
+ 576  they stepped into polished bathing-tubs and bathed.[43]
+ 577  And when the two had bathed and rubbed themselves sleek with oil,
+ 578  they sat down to their meal, and from a brimming mixing-bowl
+ 579  they drew honey-sweet wine and poured it out to Athena.
+
+------------------------------------------------------------
+
+NOTES
+
+[1] (10.1) The Doloneia is the only book of the Iliad whose place in
+    the poem was disputed in antiquity as a whole (curated dispute
+    #8). A scholion preserved in the T manuscript reports: "they say
+    that this rhapsody was arranged separately by Homer and was not
+    counted part of the Iliad, but was placed into the poem by
+    Pisistratus." Aristarchus treated the book as genuine; modern
+    critics have gone both ways, Analysts excising it, defenders
+    reading it as an old ambush-theme (the lochos) integral to the
+    tradition. The internal evidence is genuinely double-edged — see
+    the commentary above and notes [39] and [43]. The apparatus for
+    this book records only line-level variants; the whole-book
+    question lives in the testimonia.
+
+[2] (10.1-2) The opening repeats the shape of Book 2's opening, in
+    our same words ("slept the whole night through"; 2.1-2). The
+    reversal is exact: there all slept but Zeus, who lay awake
+    devising the Achaeans' ruin through a false dream; here all sleep
+    but Agamemnon, who lies awake suffering that ruin — and the night
+    will end with a true nightmare standing over a sleeper's head
+    (note [37]).
+
+[3] (10.5-8) Zeus's lightning as the portent of prodigious rain,
+    hail, snow, "or somewhere the great mouth of bitter war":
+    πευκεδανοῖο (8), a rare word cognate with pine-pitch bitterness,
+    occurs only here in Homer. Agamemnon's groans come as thick as
+    the flashes.
+
+[4] (10.11-13) The many fires are the ones Hector lit at the end of
+    Book 8 (8.553-565): Book 10, like Book 9 (9.77), opens inside the
+    tableau Book 8 left burning. The "flutes and pipes" are the only
+    battlefield music in the Iliad — the sound of an army sure of
+    tomorrow — heard otherwise only in the city at peace on the
+    Shield (18.495).
+
+[5] (10.29) Night gear. This book replaces the formal bronze arming
+    scene with skins: Agamemnon's lion (23-24), Menelaus's leopard
+    and plain bronze cap, Diomedes' lion (177-178), Dolon's wolf-hide
+    and ferret cap (334-335), and the two spies' leather helmets
+    (257-265). Animal dress belongs to the night-world of the ambush,
+    where the day-world's flashing crests would kill their wearer;
+    the poet has an exact costume-vocabulary for it, most of it
+    appearing nowhere else.
+
+[6] (10.51-52) Athetized by Aristophanes of Byzantium and Aristarchus
+    — the hyperbole (one day's work to be the Argives' concern "long
+    and lastingly") judged un-Homeric.
+
+[7] (10.68) "naming each man from his father, by his lineage" —
+    courtesy as night-discipline: a voice in the dark must honor to
+    be trusted. With it goes Agamemnon's "let us do the labor
+    ourselves... Zeus laid this heavy misery on us at our very birth"
+    (70-71): the night-book consistently shows the commanders' fear
+    and drudgery that the day-books dress in ceremony.
+
+[8] (10.84) Athetized by Aristarchus, presumably for the mules:
+    Nestor's guess that a man groping through the camp at midnight is
+    after a strayed mule struck ancient taste as beneath the epic. It
+    is also the poem's one quartermaster's-eye view of its own camp.
+
+[9] (10.110) "swift Ajax" is the Locrian, Oïleus' son (2.527); "the
+    stout son of Phyleus" is Meges (2.627). The greater Ajax is the
+    "godlike Ajax" of 112, paired as usual with Idomeneus.
+
+[10] (10.114-125) Nestor's rebuke of the sleeping Menelaus, and
+    Agamemnon's careful defense — he often hangs back, "not that he
+    yields to sloth... but he looks to me, and waits for my lead" —
+    reverse the Book 1 Agamemnon, who could not take one word of
+    blame. The night steadies him; his fairest self appears at his
+    least kingly hour.
+
+[11] (10.158-159) Nestor wakes Diomedes "with a kick of his heel" —
+    the poem's only comic reveille, answered by the sleeper's growl
+    that the old man is "impossible." After 159 some ancient texts
+    carried an extra line preserved only by Diogenes Laertius (6.53),
+    who has Diogenes the Cynic quote it while prodding a sleeping
+    man: "lest someone plant a spear in your back while you sleep."
+    It is not in the printed text.
+
+[12] (10.173-174) "it stands upon the razor's edge" — ἐπὶ ξυροῦ
+    ἵσταται ἀκμῆς: the earliest surviving occurrence of the idiom
+    English still uses, taken up by Theognis, Sophocles, and
+    Herodotus (6.11).
+
+[13] (10.199-201) The Achaean council convenes beyond the ditch "in a
+    clear space, where ground showed empty of the dead" — line 199
+    repeats 8.491 (our wording kept), where Hector held his night
+    assembly by the river on the same terms. Each army deliberates
+    sitting in the other's killing-ground; the mirrored councils
+    organize the whole book (note [25]).
+
+[14] (10.212-217) The scout's reward: fame "under heaven," plus a
+    black ewe with her lamb from every captain, and a standing place
+    at the feasts. Livestock and a seat at table — the modest,
+    concrete economy of the night-book, set against Book 9's seven
+    tripods, twenty cauldrons, and seven cities.
+
+[15] (10.224-226) "When two go together, one marks before the other /
+    where the advantage lies" — proverbial already in antiquity:
+    Plato has Socrates quote it on the way to the banquet (Symposium
+    174d) and again at Protagoras 348d. The couplet is the book's
+    thesis; the Iliad's only two-man aristeia follows from it.
+
+[16] (10.240) Omitted by Zenodotus, athetized by Aristarchus: the
+    narrator's aside that Agamemnon "was afraid for tawny-haired
+    Menelaus." The aside decodes 237-239 — "do not leave the better
+    man behind... not even if he is the more kingly" is a king's
+    coded plea that his brother not be chosen; the critics apparently
+    preferred the code left unbroken.
+
+[17] (10.252-253) Odysseus tells time by the stars — the working
+    star-clock of a night operation. Line 253 was athetized by
+    Aristophanes and Aristarchus over the arithmetic: if "more of the
+    night has passed than two of its parts," then less than a third
+    should remain — yet Odysseus allows "the third part." The Greek
+    is loose the way spoken time-reckoning is loose ("it's past two
+    in the morning; we have till first light"), and the ancient
+    fussing over it is a small monument of pedantry.
+
+[18] (10.257-259) The καταῖτυξ, "skull-cap": a plain bull's-hide
+    helmet, "ridgeless, crestless," glossed in-line by the poet as if
+    his audience needed the word explained — it occurs nowhere else
+    in Greek literature. Night war strips off whatever catches light.
+
+[19] (10.261-271) The boar's-tusk helmet is a genuine Bronze Age
+    object: rows of sliced boar-tusk plates over felt and leather,
+    known from Mycenaean excavation and art, and centuries obsolete
+    by any plausible date of the poem's composition — the pedigree
+    the poet gives it (stolen by Autolycus, passed via Amphidamas of
+    Cythera to Molus to Meriones) is epic's own memory of the
+    object's antiquity. Two ironies ride with it. Autolycus is
+    Odysseus's maternal grandfather (Od. 19.394-466): the master-
+    thief's loot ends the night on his own grandson's head. And its
+    original owner, "Amyntor, Ormenus' son" of Eleon, is Phoenix's
+    father (9.448) — the house Phoenix fled in Book 9 is burgled
+    again, as it were, in Book 10's props.
+
+[20] (10.274-276) A heron on the right hand is a favorable sign; in
+    the dark the omen is heard, not seen. The entire daylight
+    apparatus of the poem — arming, augury, even prayer-answer — is
+    systematically converted to the ear in this book (cf. the hooves
+    at 532-535, the whistle at 502).
+
+[21] (10.285-290) Tydeus at Thebes for the fourth time in the poem
+    (4.372-398; 5.800-808; cf. 23.679-680): the friendly embassy, the
+    "honeyed word," and on the road home the ambush of fifty men that
+    he destroyed — "deeds of sheer havoc." Diomedes has been measured
+    against his father since Book 4; only here, on a night ambush,
+    does the paternal precedent exactly fit the son's occasion.
+
+[22] (10.292-294) The vow of the unbroken heifer with gilded horns
+    recurs nearly verbatim in the Odyssey (3.382-384) — vowed there
+    too by a Nestor, and fulfilled at 3.430-438, where a goldsmith
+    actually sheathes the horns in gold leaf: the fullest "receipt"
+    for any Homeric vow, and a famous cross-epic pair with this
+    passage.
+
+[23] (10.297-298) The epigraph lines. "Through the slaughter, through
+    the corpses" (ἂμ φόνον, ἂν νέκυας) is the literal ground of the
+    whole night-walk — repeated when they go forward again at 469.
+    The two lions become two hounds on a hare (360-362) and a lion
+    among unshepherded flocks (485-486): the book's men are beasts of
+    prey throughout, and the skins they wear (note [5]) say so.
+
+[24] (10.314-317) Dolon: the name is transparently "Sneak" (from
+    δόλος, "trick"). A rich herald's son, "ugly to look at, but
+    swift-footed" — the poet lends him Achilles' own epithet — and an
+    only son among five sisters: a portrait, unique in the poem, of
+    the spoiled volunteer. He will demand Achilles' horses as his
+    wage (321-323) and be run down on foot.
+
+[25] (10.319-332) Dolon's speech opens word for word as Diomedes' did
+    (220): "my own heart and my proud spirit urge me..." — twinned
+    volunteer-scenes, one issuing in the choice of Odysseus, the
+    other in an empty oath. Hector swears by the scepter that "no
+    other man of the Trojans shall mount behind those horses," and
+    the narrator files his verdict flat: "he swore it falsely" — not
+    because Hector meant to cheat, but because the oath was never his
+    to keep. Coveting the immortal horses of Achilles is this book's
+    measure of delusion (cf. note [30]; at 17.75-78 Hector himself
+    is warned off them).
+
+[26] (10.334-335) The grey wolf's hide and the ferret-skin cap
+    (κτιδέη, marten or weasel): the spy dressed as a small night
+    predator — the bottom rung of the book's ladder of skins (note
+    [5]). Attic vase-painters loved the costume; several show Dolon
+    on all fours in the wolf-suit.
+
+[27] (10.351-353) Distance measured by plowing: "as far as mules plow
+    in one stretch" is the οὖρον, the length of furrow a team draws
+    before turning. The homely aside — mules out-pull oxen in deep
+    fallow — arrives at the moment of highest suspense; the epic
+    measures its night-chase by a farmer's daylight (cf. the
+    fence-post interval of 23.431-432).
+
+[28] (10.372-376) The spear "missed the man on purpose" — thrown to
+    stop, not kill: they need him talking. Dolon's terror is
+    clinically itemized: rooted feet, stammer, teeth chattering
+    audibly, "green with fear" — our fixed color of fear (7.479),
+    here soaked into the man himself.
+
+[29] (10.383) "Take heart; and let death be no concern of your mind"
+    — literally true (his death is already decided, so no longer
+    worth minding) and utterly false as the comfort it pretends to
+    be. The interrogation that follows is the poem's only one: two
+    rounds, each opened with the courteous fixed line "But come, tell
+    me this, and recount it truly" (384 = 405), each answered "Well
+    then, I will recount... very truly" (413, 427) — the formulas of
+    guest-conversation conducted over a man already dead.
+
+[30] (10.391) "With many blindnesses Hector led my mind astray" —
+    ἄτῃσι, the register's "blindness" (1.412): the god-sent delusion
+    by which Agamemnon will explain the whole war in Book 19, here
+    claimed by a small man about a promise of horses. Everyone in
+    this poem accounts for ruin the same way; the poet lets the
+    excuse shrink to the size of its owner.
+
+[31] (10.397-399, 409-411) Both passages were athetized by
+    Aristophanes and Aristarchus. Dolon reports Hector's briefing in
+    Hector's very words (396-399 = 309-312 — kept verbatim in our
+    English, "our hands" and all), and Odysseus's question repeats
+    Nestor's proposal (409-411 = 208-210, flagged in the scholia as
+    a wrongful repeat). The critics disliked the mechanical reuse;
+    but verbatim relay is exactly how a chain of command speaks, and
+    the poem's economy of repeated blocks is nowhere more functional
+    than in a spy's debriefing.
+
+[32] (10.415) The tomb of Ilus, eponym and founder of Ilion, is the
+    plain's standing landmark (11.166, 371-372; 24.349): Hector
+    holds his war-council at the ancestor's grave, as the Achaeans
+    hold theirs among the fresh dead (note [13]).
+
+[33] (10.428-431) A miniature order of battle, complement to the
+    Trojan Catalogue (2.816-877): the same allied peoples, now laid
+    out by billet rather than muster — Carians, Paeonians, Leleges,
+    Caucones, Pelasgians toward the sea; Lycians, Mysians, Phrygians,
+    Maeonians toward Thymbre. The Thracians of Rhesus stand in no
+    catalogue: "new-come, outermost of all" — arrived, and doomed,
+    within the one night.
+
+[34] (10.435-441) Rhesus: horses "whiter than snow, and like the
+    winds in running," a gold-and-silver chariot, and golden armor
+    fit for "the deathless gods." Later tradition — the scholia,
+    Virgil (Aeneid 1.469-473), and the Rhesus transmitted under
+    Euripides' name — knew an oracle that Troy could never fall once
+    Rhesus and his horses had grazed Trojan pasture and drunk of
+    Scamander, making the raid a preemption of fate. Our text knows
+    nothing of it: here the splendor simply dwarfs its owner's
+    one-night part, and the armor "for the deathless gods" lies on
+    the ground at 504 while the gods' own agent decides against
+    taking it.
+
+[35] (10.454-457) Dolon's hand is out for the suppliant's touch of
+    the chin (the gesture of 1.501) when the sword falls: supplication
+    not refused, as Agamemnon refused Adrestus (6.55-65), but
+    forestalled — a beat crueler. "And the head of the still-speaking
+    man was mingled with the dust" (457): Aristotle quotes the line
+    in earnest (Parts of Animals 673a), discussing whether severed
+    heads can speak. The grammar performs the horror: the man is
+    still a speaking subject in mid-construction as his head meets
+    the ground.
+
+[36] (10.460-466) "Athena of the Spoils" (ληῖτις) — an epithet found
+    only here. The trophies are hung on a tamarisk and flagged with
+    reeds and boughs for the return leg: fieldcraft doubling as
+    votive religion, an altar-less offering to match the unseen omen
+    of note [20]. The dedication is completed at 570-571 and the
+    libation of 578-579.
+
+[37] (10.496-497) Rhesus dies "gasping hard: for an evil dream stood
+    at his head / that night — the son of Oeneus' son — by the
+    cunning of Athena." The nightmare stands at the sleeper's head in
+    the regular posture of Homeric dreams (2.20, 23.68) — and the
+    dream is Diomedes himself, Oeneus' grandson, sword in hand: dream
+    and killer are one figure, the boldest compression in the book,
+    closing the frame the false dream of Book 2 opened (note [2]).
+    Zenodotus and Aristophanes omitted 497 and Aristarchus athetized
+    it — flattening the vision back into ordinary death; the printed
+    text keeps it.
+
+[38] (10.498-502) Odysseus improvises: the whip is still lying in the
+    chariot, so he beats the horses with his bow, and signals with a
+    whistle — the only whistle in Homer. Someone did not think of
+    everything: the small unheroic realism the day-books never allow.
+
+[39] (10.509-513) "Think of your return" — νόστου δὴ μνῆσαι: the
+    Odyssey's theme-word sounded by Athena in the Iliad, to the other
+    poem's kind of hero on the other poem's kind of errand; a
+    centerpiece of the book's Odyssean coloring (see commentary). And
+    they escape riding bareback — nearly the only riding of horses in
+    the Iliad (elsewhere a simile, 15.679-684) — because the chariot
+    stayed with the dead.
+
+[40] (10.515) "kept no blind man's watch" — ἀλαοσκοπιή, fixed here at
+    its first occurrence; it recurs of Poseidon at 13.10 and 14.135.
+    Zenodotus read the phrase as two words with a different sense;
+    the printed text follows Aristarchus.
+
+[41] (10.534) "shall I be wrong, or right, in what I say? My heart
+    commands it" — literally "shall I lie, or speak true?": Nestor's
+    strange scruple, omitted by Zenodotus here, recurs in Helen's
+    mouth at Odyssey 4.140. It is the night-book's epistemology in
+    one line: hooves heard in the dark must be guessed at aloud
+    before they can be greeted.
+
+[42] (10.561-565) Odysseus's tally makes Dolon "the thirteenth" —
+    answering Rhesus, the thirteenth Thracian (495): each side's
+    night closes its account in the same figure, and Odysseus books
+    his interrogation-kill as a line-item. Then he drives the ditch
+    "laughing aloud" (565) — no other killing in the Iliad ends in
+    laughter; the book's moral register, and part of what has always
+    made readers uneasy in it, is in that word.
+
+[43] (10.572-579) The close: a wade in the sea, then "polished
+    bathing-tubs" — ἀσάμινθοι, only here in the Iliad against nine
+    occurrences in the Odyssey — oil, a meal, and honey-sweet wine
+    poured to Athena. An Odyssean hospitality-sequence grafted onto
+    the war-camp, and a chief exhibit in the authenticity dossier
+    (note [1]); it is also precisely what the poem's one successful
+    night requires — the blood of 483-484 washed off before
+    rosy-fingered dawn, eight lines into Book 11, restores the rules
+    of the day. In 579 Aristarchus read "drew" (ἀφυσσόμενοι); the
+    vulgate carried a variant of the same sense.

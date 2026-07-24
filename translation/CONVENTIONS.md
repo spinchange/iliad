@@ -228,6 +228,14 @@ the Odyssey project's FORMULAS.md.
 | κλέος ἄφθιτον | imperishable fame | 9.413 |
 | ἄλοχος θυμαρής | bed-dear wife | 9.336 |
 | μύθων τε ῥητῆρα πρηκτῆρά τε ἔργων | a speaker of words, and a doer of deeds | 9.443 |
+| τλήμων (Odysseus) | hardy | 10.231 |
+| ἄλκιμος | stout (spear, man) | 3.338 / 10.110 |
+| ἀγήνωρ | proud (θυμὸς ἀγήνωρ = proud spirit) | 10.220 |
+| ἀγαυός | illustrious | 10.392 |
+| ποδώκης | swift-footed (= πόδας ὠκύς merge; of Dolon 10.316) | 2.860 |
+| Ἀθηναίη ληῖτις | Athena of the Spoils (only 10.460) | 10.460 |
+| ἀλαοσκοπιὴν εἶχε | kept no blind man's watch | 10.515 |
+| μενεπτόλεμος Θρασυμήδης | Thrasymedes, steadfast in battle | 10.255 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -349,6 +357,18 @@ the Odyssey project's FORMULAS.md.
 | So he spoke, and they murmured at it, Athena and Hera, / who sat side by side plotting evils for the Trojans. | 4.20-21 | = 8.457-458 (+ 4.22-24 = 8.459-461) |
 | he held a spear eleven cubits long; and before him the bronze / point of the shaft shone, and a ring of gold ran round it | 6.318-320 | = 8.493-495 |
 | And terrible grief closed over Hector's heart for his driver; / but he left him lying there, though grieving for his companion | 8.124-125 | = 8.316-317 |
+| in a clear space, where ground showed empty of the dead | 8.491 | = 10.199 |
+| my own heart and my proud spirit urge me | 10.220 | = 10.319 (Diomedes/Dolon twinned volunteer-speeches) |
+| to go close to the swift-faring ships, and find out | 10.308 | = 10.320; ≈ 10.395 |
+| whether the swift ships are guarded as before, / or whether by now, beaten down under our hands, / they are planning flight among themselves, and have no wish / to keep watch through the night, sodden with brutal weariness. | 10.309-312 | = 10.396-399 (Dolon relays Hector verbatim) |
+| what they are counseling among themselves — whether they mean / to stay where they are by the ships, far away, or will withdraw / back to the city, since they have beaten down the Achaeans. | 10.208-210 | = 10.409-411 (Odysseus repeats Nestor) |
+| taking counsel together, whether to run or fight | 10.147 | = 10.327 |
+| But come, tell me this, and recount it truly: | 10.384 | = 10.405; Odyssean interrogation formula |
+| Well then, I will recount (all) this (too) to you very truly. | 10.413 | = 10.427 |
+| fiery, huge, reaching his feet; and he took up a spear. | 10.24 | = 10.178 (lion-skin line) |
+| Come, tell me, Odysseus of the many tales, great glory of the Achaeans: | 9.673 | = 10.544 |
+| Nestor, Neleus' son, great glory of the Achaeans | 10.87 | = 10.555 |
+| through the ambrosial night | 10.41 | = 10.142; night-phrase register: δι' ὀρφναίην = "in/through the murky night" (10.83 = 10.386, 10.276), θοὴν διὰ νύκτα μέλαιναν = "through the swift black night" (10.394, 10.468), διὰ νύκτα μέλαιναν = "through the black night" (10.297) |
 
 ## Ritual and formal language (set in Book 3)
 
@@ -430,6 +450,14 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 10: Dolon, Eumedes, Rhesus, Eïoneus, Hippocoon,
+Autolycus (Odysseus's maternal grandfather), Amphidamas of Cythera
+(distinct from the Epeian 2.622 area names; second bearer of the name),
+Molus, Eleon, Scandeia, Cythera, Thymbre, Caucones (first appearance —
+not in the Book 2 catalogue), Ilus (tomb of; the founder-eponym).
+"Thracians of Rhesus" are new-come and stand outside the Book 2
+catalogue.
 
 Added in Book 9: Thrasymedes, Aphareus, Deïpyrus, Lycomedes, Creon,
 Automedon (first active), Phoenix (active; named 9.168), Amyntor, Ormenus
@@ -543,3 +571,17 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   inside note 9.[32]. Line-count checks must expect 709 lines.
 - δμώς/δμῳή "slave" policy becomes live in Book 6 (Hector's household)
   — see the household-terms section above.
+- ἀλαοσκοπιή "kept no blind man's watch" (10.515) recurs at 13.10 and
+  14.135 (Poseidon) — reuse verbatim.
+- The Book 10 interrogation formulas ("But come, tell me this, and
+  recount it truly") recur at 24.380, 24.656 — reuse verbatim.
+- Nestor's "shall I be wrong, or right, in what I say?" (10.534) = Od.
+  4.140 (cross-epic; divergence permitted per policy).
+- γλαφυρός and κοῖλος are both "hollow" (ships) — documented merge,
+  set by Books 1-2 usage.
+- Riding (not driving) horses: 10.513, 10.529 bareback escape; the
+  only other riding is the simile 15.679-684 — keep the distinction
+  visible there.
+- Achilles' horses coveted: Dolon 10.321-323, warned of at 17.75-78 —
+  echo "the horses of the war-minded son of Aeacus" (10.402) when
+  17.76 recurs (ἵππους Αἰακίδαο δαΐφρονος).

@@ -77,6 +77,7 @@ CHECKS = [
     (["χλωρὸν δέος"], ["green fear"], "green fear"),
     (["κροκόπεπλος"], ["saffron robe"], "Dawn: saffron-robed"),
     (["πολύτλας"], ["much-enduring"], "Odysseus: much-enduring"),
+    (["ἀλαοσκοπι"], ["blind man's watch"], "kept no blind man's watch"),
 ]
 
 LINE_RE = re.compile(r"^\s{0,5}(\d+)\s\s(.*)$")
