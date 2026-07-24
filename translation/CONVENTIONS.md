@@ -236,6 +236,17 @@ the Odyssey project's FORMULAS.md.
 | Ἀθηναίη ληῖτις | Athena of the Spoils (only 10.460) | 10.460 |
 | ἀλαοσκοπιὴν εἶχε | kept no blind man's watch | 10.515 |
 | μενεπτόλεμος Θρασυμήδης | Thrasymedes, steadfast in battle | 10.255 |
+| μενεχάρμης | staunch in the fight | 11.122 |
+| ταλασίφρων (Odysseus) | patient-hearted | 11.466 |
+| ποικιλομήτης (Odysseus) | of the subtle wiles | 11.482 |
+| πλήξιππος | lasher of horses | 11.93 |
+| Εἰλείθυιαι μογοστόκοι | the Eileithyiai of hard labor | 11.270 |
+| Γοργώ | the Gorgon | 11.36 |
+| κύανος | (dark) blue enamel | 11.24 |
+| νυκτὸς ἀμολγῷ | in the milking-dark of night | 11.173 |
+| νηλεὲς ἦμαρ | the pitiless day | 11.484 |
+| χάλκεον ὕπνον | a sleep of bronze | 11.241 |
+| κυκειών | posset | 11.624 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -369,6 +380,18 @@ the Odyssey project's FORMULAS.md.
 | Come, tell me, Odysseus of the many tales, great glory of the Achaeans: | 9.673 | = 10.544 |
 | Nestor, Neleus' son, great glory of the Achaeans | 10.87 | = 10.555 |
 | through the ambrosial night | 10.41 | = 10.142; night-phrase register: δι' ὀρφναίην = "in/through the murky night" (10.83 = 10.386, 10.276), θοὴν διὰ νύκτα μέλαιναν = "through the swift black night" (10.394, 10.468), διὰ νύκτα μέλαιναν = "through the black night" (10.297) |
+| Dawn rose from her bed beside illustrious Tithonus / to bring light to the immortals and to mortal men | 11.1-2 | = Od. 5.1-2 (cross-epic) |
+| Troubled, he/she spoke to his/her own great-hearted spirit: | 11.403 | soliloquy frame; recurs 17.90, 18.5, 20.343, 21.53, 22.98 |
+| But why does my own heart debate these things with me? | 11.407 | recurs 17.97, 21.562, 22.122, 22.385 |
+| Dog! Again you have run out from under death — and yet the evil... (11.362-367, six lines) | 11.362 | = 20.449-454 (Achilles); reuse verbatim |
+| He sprang into the chariot and told his charioteer / to drive to the hollow ships; for his heart was heavy. | 11.273-274 | = 11.399-400 |
+| But he kept ranging down the ranks of the other men / with spear and sword and with great stones | 11.264-265 | = 11.540-541 |
+| lie by the ships, hit from afar or stabbed close | 11.659 | = 11.826 |
+| and the wound began to dry, and the blood stopped | 11.267 | = 11.848 (book's ring) |
+| always to be the best, and to hold his head above all others | 6.208 | = 11.784 (Peleus's charge) |
+| Trojans and Lycians and Dardanians who fight at close quarters — / be men, my friends; remember your rushing courage. | 8.173-174 | = 11.286-287; 13.150, 15.425, 15.486, 17.184 |
+| Tell me now, Muses, who keep your homes on Olympus | 2.484 | = 11.218; 14.508, 16.112 |
+| Whom first, whom last did he/they strip of his arms | 5.703 | = 8.273, 11.299, 16.692 |
 
 ## Ritual and formal language (set in Book 3)
 
@@ -450,6 +473,25 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 11: Tithonus, Cinyras, Polydamas (first appearance),
+Bienor, Oïleus the charioteer (distinct from Ajax's father), Isus,
+Antiphus (Priam's son — third bearer: cf. 2.678, 2.864), Peisander
+(a second follows 13.601), Hippolochus (Antimachus's son — same name
+as Glaucus's father, 6.119), Antimachus, Iphidamas, Coon, Cisses,
+Asaeus, Autonous, Opites, Dolops son of Clytius (another Dolops
+15.525), Opheltius (second bearer, cf. 6.20), Agelaus (second, cf.
+8.257), Aesymnus, Orus, Hipponous, Thymbraeus, Molion, Hippodamus,
+Hypeirochus (and Hypeirochus father of Itymoneus, 11.673),
+Agastrophus, Paeon, Deïopites, Thoon (third bearer), Ennomus (second,
+cf. 2.858), Chersidamas, Charops, Socus, Hippasus, Doryclus,
+Pandocus, Lysander, Pyrasus (also a town 2.695), Pylartes (another
+16.696), Apisaon, Phausius, Eurymedon (Nestor's aide — same name as
+Agamemnon's driver 4.228 area), Hecamede, Arsinous, Itymoneus,
+Mulius, Agamede, Augeias, Moliones/Actor's line (Cteatus and Eurytus
+unnamed here), Thryoessa, Alpheius, Minyeïus, Arene, Buprasion,
+Olenian rock, Alesion, Eleians/Epeians, Asclepius, Podaleirius,
+Chiron (named 4.219 first), Pramnian wine, Tenedos.
 
 Added in Book 10: Dolon, Eumedes, Rhesus, Eïoneus, Hippocoon,
 Autolycus (Odysseus's maternal grandfather), Amphidamas of Cythera
@@ -585,3 +627,18 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
 - Achilles' horses coveted: Dolon 10.321-323, warned of at 17.75-78 —
   echo "the horses of the war-minded son of Aeacus" (10.402) when
   17.76 recurs (ἵππους Αἰακίδαο δαΐφρονος).
+- books/book_11.txt lacks 11.543 (numbering jumps 542→544); the
+  translation reproduces the gap, with the Aristotle-quoted line
+  translated in note 11.[35]. Line-count checks must expect 847
+  lines. (book_14.txt similarly lacks 14.269 — handle the same way.)
+- 11.362-367 = 20.449-454: reuse the Book 11 "Dog!" speech verbatim
+  for Achilles in Book 20.
+- 11.794-803 ≈ 16.36-45: Patroclus repeats Nestor's plan — reuse the
+  Book 11 English nearly verbatim at the opening of Book 16 (16.44-45
+  = 11.802-803 exactly).
+- 11.654 "He would quickly blame even the blameless" — Patroclus's
+  fear; its harder twin is 16.29-35.
+- Patroclus is still in Eurypylus's hut at 15.390-404 — continuity.
+- The sunset clause of Zeus's plan (11.193-194 = 11.208-209) is
+  fulfilled at 18.239-242 — echo the wording there.
+- Muse invocations remaining: 14.508, 16.112 — reuse 2.484 line.
