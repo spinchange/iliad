@@ -220,6 +220,14 @@ the Odyssey project's FORMULAS.md.
 | πυλάρτης (Hades) | the gate-closer | 8.367 |
 | τανηλεγὴς θάνατος | death that lays men low | 8.70 |
 | ἀπτοεπές (address) | reckless of tongue | 8.209 |
+| ἄττα (address to aged guardian) | old father | 9.607 |
+| πολύαινος (Odysseus) | of the many tales | 9.673 |
+| γαιήοχος (Poseidon) | the holder of the earth | 9.183 |
+| Λιταί | the Prayers (personified; with Ἄτη "Blindness") | 9.502 |
+| Φύζα | Panic (personified) | 9.2 |
+| κλέος ἄφθιτον | imperishable fame | 9.413 |
+| ἄλοχος θυμαρής | bed-dear wife | 9.336 |
+| μύθων τε ῥητῆρα πρηκτῆρά τε ἔργων | a speaker of words, and a doer of deeds | 9.443 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -423,6 +431,18 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 9: Thrasymedes, Aphareus, Deïpyrus, Lycomedes, Creon,
+Automedon (first active), Phoenix (active; named 9.168), Amyntor, Ormenus
+(Phoenix's grandfather — same name as the victim 8.274), Dolopes,
+Curetes, Althaea, Cleopatra (Meleager's wife — see note 9.[35]),
+Marpessa, Idas, Euenus (her father — same name as Mynes' father, 2.693),
+Alcyone, Phorbas, Diomede (woman of Lesbos), Iphis, Scyros, Enyeus,
+Chrysothemis, Iphianassa, Orestes (Agamemnon's son — a Trojan victim
+5.705 shares the name), Odius the herald (distinct from the Halizone
+captain 2.856), the seven cities (Cardamyle, Enope, Hire, Pherae —
+fourth bearer, Antheia, Aipeia, Pedasus — third bearer), Lesbos,
+Egyptian Thebes ("of the hundred gates").
+
 Added in Book 8: Eniopeus, Thebaeus, Archeptolemus, Cebriones (Hector's
 brother), Agelaus, Phradmon, Orsilochus (a Trojan — third bearer),
 Ormenus, Ophelestes, Daetor, Chromius (fourth bearer), Lycophontes,
@@ -513,7 +533,13 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   (1.327-347); keep in mind for the Book 9 embassy crux.
 - βαρβαρόφωνος "of barbarous speech" (2.867) — "barbarian" reserved
   (anachronistic) throughout.
-- Diomedes' silence under rebuke (4.401-402) pays off at 9.32-49 — echo
-  note due there.
+- Diomedes' silence under rebuke (4.401-402) paid off at 9.32-49 (done).
+- 9.14-15 (dark-spring simile) = 16.3-4 verbatim: reuse the Book 9
+  English for Patroclus's tears.
+- The Meleager/Cleopatra paradigm (9.524-599) is the map of Book 16:
+  the wife's plea comes last and works; keep note 9.[35] in view.
+- books/book_09.txt lacks 9.458-461 (numbering jumps 457→462); the
+  translation reproduces the gap, with the missing lines translated
+  inside note 9.[32]. Line-count checks must expect 709 lines.
 - δμώς/δμῳή "slave" policy becomes live in Book 6 (Hector's household)
   — see the household-terms section above.
