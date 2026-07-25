@@ -277,6 +277,16 @@ the Odyssey project's FORMULAS.md.
 | θρῆνυς ἑπταπόδης | the seven-foot bridge-plank | 15.729 |
 | τὼ ἐν χερσὶ φόως | Our light of safety is in our hands | 15.741 |
 | ἐγέλασσε χείλεσιν... | she laughed with her lips; but the forehead... did not warm | 15.101-103 |
+| αἰναρέτης | cursed in your valor | 16.31 |
+| μέγα νήπιος | the great fool | 16.46 |
+| Πηλιάς μελίη | the Pelian ash (Chiron's spear, "death for heroes") | 16.143 |
+| Σελλοί | the Selloi, interpreters, of unwashed feet, who sleep on the ground | 16.234-235 |
+| τὸ γὰρ γέρας ἐστὶ θανόντων | for that is the honor-right of the dead | 16.457 / 16.675 |
+| Ὕπνος καὶ Θάνατος διδυμάονε | the twin brothers Sleep and Death | 16.672 / 16.682 |
+| κεῖτο μέγας μεγαλωστί | lay mighty in his mightiness (his horsemanship all forgotten) | 16.776 |
+| δαίμονι ἶσος | like more than man | 5.438 / 16.705, 786 |
+| ψυχὴ δʼ ἐκ ῥεθέων πταμένη... (soul-flight couplet) | his soul, flying from his limbs, went down to the house of Hades, / wailing its fate, leaving its manhood and its youth | 16.856-857 = 22.362-363 (reuse verbatim) |
+| ἐν χερσὶ τέλος πολέμου, ἐπέων δʼ ἐνὶ βουλῇ | In hands lies the outcome of war; of words, in council | 16.630 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -503,6 +513,30 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 16: Automedon (active), Xanthus and Balius (the
+horses), Podarge the harpy, Zephyrus (as sire), Pedasus the horse
+(same name as the town and the twin), Spercheius, Polydora, Borus
+son of Perieres (same name as 5.44's Maeonian), Menesthius the
+Myrmidon (distinct from Areithous's son, 7.9), Eudorus, Polymele,
+Phylas, Echecles son of Actor, Peisander son of Maemalus (third
+Peisander), Alcimedon son of Laerces, Dodona, the Selloi,
+Pyraechmes (from 2.848), Amydon, Axius, Areïlycus (the second),
+Amphiclus, Atymnius and Maris sons of Amisodarus (Atymnius also
+5.581), Amisodarus, the Chimaera (from 6.179), Cleobulus, Lycon,
+Erymas (two in this book: 345, 415), Thestor son of Enops (same
+name as Calchas's father and 12.394's Alcmaon's father), Pronous,
+Erylaus, Amphoterus, Epaltes, Tlepolemus son of Damastor (distinct
+from Heracles' son, 2.653), Echius (third bearer), Pyris, Ipheus,
+Euippus, Polymelus son of Argeas, Thrasymelus, Epeigeus son of
+Agacles, Budeum, Sthenelaus son of Ithaemenes, Bathycles son of
+Chalcon, Hellas (as Myrmidon home-district), Laogonus son of Onetor
+(a second Laogonus 20.460), Onetor, Asius son of Dymas (Hecuba's
+brother — third Asius), Dymas, Sangarius (from 3.187), Cebriones
+(dies; first named 8.318), Euphorbus son of Panthous, Adrestus
+(fifth bearer!), Autonous (second), Echeclus (another 20.474),
+Perimus son of Megas, Epistor, Melanippus (fourth!), Elasus,
+Mulius (second, cf. 11.739), Pylartes (second, cf. 11.491).
 
 Added in Book 15: Themis (active), Sphelus, Boucolus, Deiochus,
 Caletor son of Clytius (distinct from Caletor father of Aphareus,
@@ -767,3 +801,18 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   16.122-124 — reuse "the flare of a burning ship" wording.
 - 15.610-614 (Athena speeding Hector's death-day) is the counterpart
   of 22.212-213 (the scales) — keep phrasing in view.
+- 16.856-857 = 22.361-363: reuse the soul-flight couplet verbatim
+  for Hector, and 16.844-854's dying-prophecy frame recurs there.
+- The armor-transfer chain (16.793-804): Achilles' helmet/armor to
+  Hector — stripped at 17.125, worn 17.192-214 (Zeus's comment),
+  reclaimed on Hector's corpse in 22. Echo "and his destruction was
+  near him."
+- Euphorbus dies 17.9-60 (the Graces-hair simile) — keep his resume
+  wording in view; Menelaus's shield-dedication is post-Homeric
+  (Pythagoras legend — noted at 16.[43]).
+- Achilles' cup and Dodona prayer (16.220-248): the prayer-form
+  returns at 24.306ff. The Selloi do not recur.
+- 16.7-11 (little-girl simile) is answered by Achilles' own tears at
+  18.316ff, 23.222ff — keep the tenderness-register.
+- The wrath's formal end-date moved: 16.60-63 ("when the war reached
+  my own ships") supersedes 9.650-655; cite in Book 18-19 notes.
