@@ -263,6 +263,14 @@ the Odyssey project's FORMULAS.md.
 | βουγάϊος | blundering ox of a braggart | 13.824 |
 | κυανοχαίτης (Poseidon) | blue-maned | 13.563 |
 | θυμοραϊστής (θάνατος) | (death) that breaks the spirit | 13.544 |
+| Ὕπνος / Θάνατος | Sleep, the brother of Death | 14.231 |
+| Νὺξ δμήτειρα θεῶν καὶ ἀνδρῶν | Night, subduer of gods and men | 14.259 |
+| κεστὸς ἱμάς | the pierced, embroidered band (the kestos) | 14.214 |
+| Ὠκεανὸς θεῶν γένεσις / μήτηρ Τηθύς | Oceanus, the begetting of the gods / mother Tethys | 14.201 |
+| Τιτῆνες ὑποταρτάριοι | the gods under Tartarus, who are called the Titans | 14.279 |
+| χαλκίς / κύμινδις | the bird the gods call chalkis, and men kymindis | 14.291 |
+| ἀνδράγρια | the bloody spoils of men (hapax) | 14.509 |
+| Πασιθέη | Pasithea (one of the younger Graces) | 14.276 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -490,6 +498,21 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 14: Portheus, Agrius, Melas (Diomedes' great-uncles),
+Rhea (first named), Tethys, Pieria, Emathia, Athos, Pasithea, the
+Graces (Charites, as marriageable persons), Lecton, Gargaron (peak —
+from 8.48), Ixion (via "Ixion's wife"), Danaë, Acrisius, Perseus,
+Europa (as "the daughter of far-famed Phoenix" — Phoenix here the
+Phoenician eponym, not the tutor), Rhadamanthys, Semele, Dionysus,
+Alcmene (first named), Demeter (as love-object), Satnius, Enops
+(same name recurs 16.401, 23.634), Prothoenor (from 2.495),
+Areïlycus (another at 16.308), Archelochus (dies; from 12.100),
+Promachus, Alegenor, Ilioneus, Phorbas (Trojan, Hermes-loved —
+distinct from 9.665's Lesbian Phorbas), Hyrtius, Gyrtius, Mermerus,
+Prothoon, Periphetes (a second, greater Periphetes dies 15.638),
+Hyperenor (recalled 17.24-28), Cos, Styx (as oath-water in full
+ceremony).
+
 Added in Book 13: the Hippemolgoi ("Mare-milkers") and Abioi,
 Samothrace ("Thracian Samos"), Imbros, Imbrius, Mentor (Trojan-side —
 not the Odyssey's), Pedaeum, Medesicaste, Amphimachus son of Cteatus
@@ -704,3 +727,16 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
 - Aeneas's grudge (13.460-461) — cf. 20.178-183, 20.302-308.
 - Pylaemenes contradiction: killed 5.576-579, mourns 13.658-659
   (ath.) — documented in note 13.[29]; do not "fix."
+- books/book_14.txt lacks 14.269 (numbering jumps 268→270); the
+  translation reproduces the gap; the line is translated in note
+  14.[13]. Line-count checks must expect 521 lines. All three known
+  source gaps (9.458-461, 11.543, 14.269) are now handled.
+- 14.433-434 (ford of eddying Xanthus, "whom immortal Zeus begot")
+  ≈ 21.1-2 — reuse the wording at Book 21's opening.
+- Sleep and Death carry Sarpedon at 16.672, 16.682 — echo "Sleep,
+  the brother of Death" (14.231).
+- Hyperenor's death (14.516-519) is retold with added insult at
+  17.24-28 — the ledgers do not reconcile; keep both as printed.
+- Hector returns at 15.239 only by Apollo's intervention — the
+  concussion sequence 14.433-439 is continuous with 15.9-11,
+  15.239-262.
