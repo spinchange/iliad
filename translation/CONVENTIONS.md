@@ -271,6 +271,12 @@ the Odyssey project's FORMULAS.md.
 | χαλκίς / κύμινδις | the bird the gods call chalkis, and men kymindis | 14.291 |
 | ἀνδράγρια | the bloody spoils of men (hapax) | 14.509 |
 | Πασιθέη | Pasithea (one of the younger Graces) | 14.276 |
+| στρεπταὶ μέν τε φρένες ἐσθλῶν | The hearts of the great can turn. | 15.203 |
+| Ἐρινύες (πρεσβυτέροισιν) | the Erinyes (side with the elder-born) | 15.204 |
+| ξυστὸν ναύμαχον | pike for sea-fighting (naval pike) | 15.388 / 15.677 |
+| θρῆνυς ἑπταπόδης | the seven-foot bridge-plank | 15.729 |
+| τὼ ἐν χερσὶ φόως | Our light of safety is in our hands | 15.741 |
+| ἐγέλασσε χείλεσιν... | she laughed with her lips; but the forehead... did not warm | 15.101-103 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -497,6 +503,18 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 15: Themis (active), Sphelus, Boucolus, Deiochus,
+Caletor son of Clytius (distinct from Caletor father of Aphareus,
+13.541), Lycophron son of Mastor (Cytheran exile), Cleitus son of
+Peisenor, Astynous son of Protiaon (second Astynous, cf. 5.144),
+Schedius son of Perimedes (distinct from Schedius son of Iphitus,
+2.517), Laodamas son of Antenor, Otus of Cyllene (distinct from the
+Aload Otus, 5.385), Croesmus, Dolops son of Lampus (distinct from
+Dolops son of Clytius, 11.302), Euphetes of Ephyra, Melanippus son
+of Hicetaon (third bearer), Copreus, Periphetes of Mycenae (the
+greater of the two Periphetes, cf. 14.515), Phylace (Medon's exile
+home; also 2.695).
 
 Added in Book 14: Portheus, Agrius, Melas (Diomedes' great-uncles),
 Rhea (first named), Tethys, Pieria, Emathia, Athos, Pasithea, the
@@ -739,4 +757,13 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   17.24-28 — the ledgers do not reconcile; keep both as printed.
 - Hector returns at 15.239 only by Apollo's intervention — the
   concussion sequence 14.433-439 is continuous with 15.9-11,
-  15.239-262.
+  15.239-262. (Done.)
+- Zeus's plan-speech 15.56-77 is the outline of Books 16-22 and the
+  fall of Troy: echo its wording as each clause is fulfilled (16.
+  Patroclus/Sarpedon; 22. Hector; "through the counsels of Athena").
+- Hector's burial-denial threat (15.348-351) prefigures the corpse-
+  treatment theme of Books 22-24 — echo "portion of fire."
+- The burning-ship flare Zeus waits for (15.599-602) arrives at
+  16.122-124 — reuse "the flare of a burning ship" wording.
+- 15.610-614 (Athena speeding Hector's death-day) is the counterpart
+  of 22.212-213 (the scales) — keep phrasing in view.
