@@ -254,6 +254,15 @@ the Odyssey project's FORMULAS.md.
 | ὀλέθρου πείρατα ἐφῆπται | the cables of destruction are fastened | 7.402 / 12.79 |
 | νήπιος/νήπιοι (narrator's) | the fool / the fools | 2.38 / 12.113 |
 | εἷς οἰωνὸς ἄριστος ἀμύνεσθαι περὶ πάτρης | One bird-sign is best: to fight for your fatherland. | 12.243 |
+| μήστωρες ἀϋτῆς | masters of the war-shout | 13.93 |
+| ἀρίγνωτοι δὲ θεοί περ | the gods are easy to know | 13.72 |
+| ἀκεσταί τοι φρένες ἐσθλῶν | The minds of good men can be healed. | 13.115 |
+| ὀαριστύς (of battle) | trysting-place (front-fighters') | 13.291 |
+| Ζεὺς ξείνιος | Zeus of Guest-right | 13.625 |
+| χρόα λειριόεντα | lily-soft skin | 13.830 |
+| βουγάϊος | blundering ox of a braggart | 13.824 |
+| κυανοχαίτης (Poseidon) | blue-maned | 13.563 |
+| θυμοραϊστής (θάνατος) | (death) that breaks the spirit | 13.544 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -481,6 +490,24 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 13: the Hippemolgoi ("Mare-milkers") and Abioi,
+Samothrace ("Thracian Samos"), Imbros, Imbrius, Mentor (Trojan-side —
+not the Odyssey's), Pedaeum, Medesicaste, Amphimachus son of Cteatus
+(distinct from the Elean 2.620 and the Carian 2.870), Stichius,
+Pleuron, Calydon (from Book 9), Othryoneus, Cabesus, Cassandra
+(first appearance), Deucalion (Idomeneus's father; the flood-hero is
+not in Homer), Minos, Ephyri and Phlegyes, Hypsenor son of Hippasus
+(second Hypsenor, cf. 5.76; second Hippasus, cf. 11.426), Aesyetes
+(the tomb 2.793), Hippodameia (Alcathous's wife — same name as
+Peirithous's, 2.742), Ascalaphus (dies; from 2.512), Aphareus son of
+Caletor (a second Caletor 15.419), Thoon (again), Adamas, Deïpyrus
+(dies; from 9.83), Peisander (Trojan — second bearer, cf. 11.122),
+Harpalion, Euchenor, Polyidus the seer of Corinth (distinct from the
+Trojan Polyidus 5.148), Ionians (only here), Phthians, Pheidas, Bias
+(third bearer), Amphion, Dracius, Medon (= 15.333ff), Eriopis,
+Iphiclus, Podarces (from 2.704), Phalces, Orthaeus, Polyphetes,
+Palmys, Ascanius and Morys sons of Hippotion, Ascania.
+
 Added in Book 12: the eight rivers of Ida (Rhesus — same name as the
 Thracian king of Book 10, Heptaporus, Caresus, Rhodius, Granicus,
 Aesepus — also the twin 6.21, Scamander, Simois), Alcathous (dies
@@ -668,3 +695,12 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   echo "he was not to be broken by the ships' sterns."
 - Asius's death-notice (12.116-117) is paid at 13.384-393.
 - The diver-fall image (12.385-386) recurs at 16.742 (Cebriones).
+- 13.131-133 (phalanx: "buckler pressed on buckler...") = 16.215-217
+  — reuse verbatim for the Myrmidons.
+- 13.389-391 (shipwright tree-fall) = 16.482-484 (Sarpedon) — reuse.
+- 13.694-697 (Medon's exile biography) = 15.333-336 — reuse; Medon
+  dies there.
+- Ascalaphus dead, Ares ignorant (13.518-525) — paid at 15.110-142.
+- Aeneas's grudge (13.460-461) — cf. 20.178-183, 20.302-308.
+- Pylaemenes contradiction: killed 5.576-579, mourns 13.658-659
+  (ath.) — documented in note 13.[29]; do not "fix."
