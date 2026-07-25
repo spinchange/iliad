@@ -247,6 +247,13 @@ the Odyssey project's FORMULAS.md.
 | νηλεὲς ἦμαρ | the pitiless day | 11.484 |
 | χάλκεον ὕπνον | a sleep of bronze | 11.241 |
 | κυκειών | posset | 11.624 |
+| μήστωρ φόβοιο | machine(s) of rout | 5.272 / 12.39 |
+| ἡμιθέων γένος ἀνδρῶν | the race of half-god men (12.23 only) | 12.23 |
+| ἀκόρητος πολέμου | never sated with war | 12.335 |
+| νυκτὶ θοῇ ἀτάλαντος | the very likeness of swift night | 12.463 |
+| ὀλέθρου πείρατα ἐφῆπται | the cables of destruction are fastened | 7.402 / 12.79 |
+| νήπιος/νήπιοι (narrator's) | the fool / the fools | 2.38 / 12.113 |
+| εἷς οἰωνὸς ἄριστος ἀμύνεσθαι περὶ πάτρης | One bird-sign is best: to fight for your fatherland. | 12.243 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -474,6 +481,17 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 12: the eight rivers of Ida (Rhesus — same name as the
+Thracian king of Book 10, Heptaporus, Caresus, Rhodius, Granicus,
+Aesepus — also the twin 6.21, Scamander, Simois), Alcathous (dies
+13.427ff), Asteropaeus (first appearance — the river-duel of Book 21),
+Deucalion (Idomeneus's father), Iamenus, Orestes (Trojan — third
+bearer of the name), Adamas son of Asius, Oenomaus (second bearer,
+cf. 5.706), Damasus, Pylon, Ormenus (third bearer), Hippomachus son
+of Antimachus (brother of 11.122's pair), Antiphates, Menon, Epicles,
+Alcmaon son of Thestor (same name as Calchas's father), Thootes the
+herald, Pandion, Lapiths (as a people in battle).
+
 Added in Book 11: Tithonus, Cinyras, Polydamas (first appearance),
 Bienor, Oïleus the charioteer (distinct from Ajax's father), Isus,
 Antiphus (Priam's son — third bearer: cf. 2.678, 2.864), Peisander
@@ -642,3 +660,11 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
 - The sunset clause of Zeus's plan (11.193-194 = 11.208-209) is
   fulfilled at 18.239-242 — echo the wording there.
 - Muse invocations remaining: 14.508, 16.112 — reuse 2.484 line.
+- Polydamas's four counsels: 12.61 (accepted), 12.211 (rejected),
+  13.726 (accepted), 18.254 (rejected — fatal). Track the pattern;
+  Hector recalls the rejection at 22.99-107.
+- Glaucus's arm wound (12.387-391) is begged healed at 16.508-531.
+- Sarpedon's deferred death (12.402-403) is weighed at 16.433-461;
+  echo "he was not to be broken by the ships' sterns."
+- Asius's death-notice (12.116-117) is paid at 13.384-393.
+- The diver-fall image (12.385-386) recurs at 16.742 (Cebriones).
