@@ -44,7 +44,7 @@ Mechanical formula conformance is not audited by humans — run
 | 18 | 2026-07-26 (full, r1) | book-18-full-r1.md — 3 firm (fixed), 0 parked | 18.285 = 12.231; 18.277/303-304 = 8.530-531; "rushing courage" aligned (7.164, 8.262) |
 | 19 | 2026-07-26 (full, r1) | book-19-full-r1.md — 5 firm (fixed), 1 parked | arming run = 16.131-136; oath = 9.275-276; "war-craft"; Eileithyia epithet (also 16.187); Coon |
 | 20 | 2026-07-26 (full, r1) | book-20-full-r1.md — 7 firm (fixed), 2 parked | great-marvel line four-fold (also 21.54); fourth-charge line (also 5.438); purple-death pair (also 5.83); 429 = 6.143; brain-spatter line (11.98, 12.186); axle-gore = 11.535; stone-line (5.304, 12.449) |
-| 21 | — | — | — |
+| 21 | 2026-07-26 (full, r1) | book-21-full-r1.md — 7 firm (fixed, +2 in Bk 24), 3 parked | 151 = 6.127; 165 = 20.268; 344 = 236; 205 ἱπποκορυστάς mistranslation; 185 ἐρισθενής register; 294 "leveling war"; 420 = 2.157/5.714; 24.677 = 2.1; 24.132 = 16.853 |
 | 22 | 2026-07-26 (full, r1) | book-22-full-r1.md — 0 firm, 1 parked | none required |
 | 23 | 2026-07-26 (full, r1) | book-23-full-r1.md — 0 firm, 1 parked | none required |
 | 24 | 2026-07-26 (full, r1) | book-24-full-r1.md — 0 firm, 2 parked | none required |
@@ -55,6 +55,14 @@ triggered. Fixes applied so far: 4.48-49 = 24.69-70 harmonized
 inversion — the audit's first firm mistranslation); the μήστωρ
 φόβοιο formula harmonized to the registered "machine(s) of rout" at
 6.97, 6.278, 8.108, 23.16; and 8.105 harmonized to the 5.221
-wording. Remaining scope: Books 9-21, to be reviewed in subsequent
-sessions (fresh-context sessions are preferable for the r1 pass on
-books translated long before, and mandatory for any r2).
+wording.
+
+**The r1 pass is complete: all 24 books reviewed (2026-07-26).**
+No CRITICAL or MAJOR findings anywhere; no r2 escalation was ever
+triggered. Total firm findings fixed across the audit: ~60, all
+MINOR — overwhelmingly identical-Greek-line harmonizations between
+books translated far apart, plus two true mistranslations (7.117
+ἀκόρητος inversion; 21.205 ἱπποκορυστάς "horsehair crests") and a
+handful of register-epithet alignments (μήστωρ φόβοιο, θοῦρις ἀλκή,
+ὑπερμενής/ἐρισθενής, μογοστόκος, ὁμοίϊος πόλεμος). Parked
+recommendations live in each book's findings file.

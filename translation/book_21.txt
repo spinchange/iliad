@@ -244,7 +244,7 @@ death-formulas hold their registered forms.
  148  And when they had come close, advancing on each other,
  149  the first to speak was swift-footed brilliant Achilles:
  150  "Who are you — of what men — that you dare come against me?
- 151  It is the children of the unlucky who face my fury."
+ 151  Unhappy are the fathers whose sons face my fury!"
  152  And the shining son of Pelegon answered him:
  153  "Great-hearted son of Peleus, why ask my lineage?
  154  I am from Paeonia of the deep soil — a far country —
@@ -258,7 +258,7 @@ death-formulas hold their registered forms.
  162  the Pelian ash. But the hero Asteropaeus threw
  163  both spears at once — for he was a two-handed fighter.
  164  With the one spear he hit the shield, but did not
- 165  break through: the gold held it, the god's gift;
+ 165  break the shield: the gold held it, the god's gift;
  166  with the other he grazed the elbow of the right arm,
  167  and the dark blood shot out; and the spear, passing over him,
  168  stuck fast in the earth, still craving its fill of flesh.
@@ -278,7 +278,7 @@ death-formulas hold their registered forms.
  182  as he gasped. And Achilles, springing on his chest,
  183  stripped his armor, and spoke his word of triumph:
  184  "Lie there. It is a hard thing to strive with the children[10]
- 185  of Cronos's overmastering son — even for one born of a river.
+ 185  of Cronos's mighty son — even for one born of a river.
  186  You said your birth was from a wide-flowing river;
  187  I claim the lineage of great Zeus.
  188  The man who fathered me is lord of many Myrmidons —
@@ -298,7 +298,7 @@ death-formulas hold their registered forms.
  202  lying in the sands; and the dark water lapped him.
  203  Around him the eels and the fish were busy,
  204  tearing at the fat of his kidneys, plucking it away.
- 205  And Achilles went on after the Paeonians of the horsehair crests,
+ 205  And Achilles went on after the chariot-fighting Paeonians,
  206  who were still running in terror along the eddying river,
  207  since they had seen their best man in the strong encounter
  208  broken by force under the hands and sword of the son of Peleus.
@@ -387,7 +387,7 @@ death-formulas hold their registered forms.
  291  It is not your portion to be broken by a river:
  292  this one will soon give over — you will see it yourself.
  293  And we will give you close counsel, if you will heed it:
- 294  do not rest your hands from the war that levels all
+ 294  do not rest your hands from the leveling war
  295  before you pen the Trojan army inside the famed walls
  296  of Ilion — whoever escapes. And when you have taken Hector's life,
  297  come back to the ships. We give you the glory to carry off."
@@ -436,8 +436,8 @@ death-formulas hold their registered forms.
  340  do not slacken your fury — not until the moment
  341  I shout and call to you: then hold the unwearying fire."
  342  So she spoke; and Hephaestus made ready unearthly fire.[18]
- 343  First the fire blazed on the plain, and burned the many
- 344  dead who crowded it thick — Achilles' killing;
+ 343  First the fire blazed on the plain, and burned
+ 344  the many corpses that crowded it — Achilles' killing;
  345  and the whole plain was dried, and the shining water stopped.
  346  As when in late summer the North Wind quickly dries
  347  a new-watered orchard, and the man who tends it is glad:
@@ -513,7 +513,7 @@ death-formulas hold their registered forms.
  417  and led him off, groaning thick and fast, barely gathering his spirit.
  418  But when the goddess white-armed Hera noticed her,
  419  at once she spoke winged words to Athena:
- 420  "Shame! — child of aegis-bearing Zeus, Unwearied One —
+ 420  "Shame! Unwearied one, child of aegis-bearing Zeus —
  421  there goes the dog-fly again, leading Ares, bane of mortals,
  422  out of the deadly war through the chaos. After her!"
  423  So she spoke; and Athena sped after, glad at heart,
@@ -818,8 +818,8 @@ NOTES
     his eyes.
 
 [10] (21.184-199) The victory-boast is a theology lesson:
-    "It is a hard thing to strive with the children of the
-    overmastering son of Cronos — even for the son of a
+    "It is a hard thing to strive with the children of
+    Cronos's mighty son — even for the son of a
     river." Zeus's line beats water's line; and the ladder
     runs up: "not even Achelous the king is his equal, not
     even the great strength of deep-flowing Ocean, from whom
