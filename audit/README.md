@@ -25,9 +25,9 @@ Mechanical formula conformance is not audited by humans — run
 | Book | Reviewed | Findings filed | Fixes applied |
 |---|---|---|---|
 | 1 | 2026-07-26 (full, r1) | book-01-full-r1.md — 0 firm, 1 parked | none required |
-| 2 | — | — | — |
-| 3 | — | — | — |
-| 4 | — | — | — |
+| 2 | 2026-07-26 (full, r1) | book-02-full-r1.md — 0 firm, 2 parked | none required |
+| 3 | 2026-07-26 (full, r1) | book-03-full-r1.md — 0 firm, 0 parked | none required |
+| 4 | 2026-07-26 (full, r1) | book-04-full-r1.md — 0 firm, 1 parked (fixed) | 4.48-49 = 24.69-70 harmonized |
 | 5 | — | — | — |
 | 6 | — | — | — |
 | 7 | — | — | — |
@@ -50,6 +50,9 @@ Mechanical formula conformance is not audited by humans — run
 | 24 | 2026-07-26 (full, r1) | book-24-full-r1.md — 0 firm, 2 parked | none required |
 
 No CRITICAL or MAJOR findings in any reviewed book; no r2 escalation
-triggered. Remaining scope: Books 2-21, to be reviewed in subsequent
-sessions (fresh-context sessions are preferable for the r1 pass on
-books translated long before, and mandatory for any r2).
+triggered. One fix applied so far (Book 4 tranche): the repeated
+couplet 4.48-49 = 24.69-70 harmonized to one English wording per the
+identical-Greek → identical-English rule. Remaining scope: Books
+5-21, to be reviewed in subsequent sessions (fresh-context sessions
+are preferable for the r1 pass on books translated long before, and
+mandatory for any r2).
