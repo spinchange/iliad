@@ -565,8 +565,9 @@ harvest star (22.26-31); the two springs and the washing-troughs
 (22.147-156); Hesperus (22.317-318); "the day of orphaning"
 (22.490); Astyanax glossed "lord of the city" (22.506-507, as at
 6.402-403). "But why does my own heart argue these things with
-me?" now three-fold: 21.562 (Agenor), 22.122 (Hector), 22.385
-(Achilles) — kept identical; any fourth occurrence must match.
+me?" now four-fold: 11.407 (Odysseus — harmonized from "debate"
+in audit, 2026-07-26), 21.562 (Agenor), 22.122 (Hector), 22.385
+(Achilles) — kept identical; any further occurrence must match.
 
 Added in Book 21: Laothoe (daughter of Altes; mother of Lycaon
 and Polydorus), Altes (lord of the Lelegians; his Pedasus is the
