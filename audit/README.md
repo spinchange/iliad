@@ -38,7 +38,7 @@ Mechanical formula conformance is not audited by humans — run
 | 12 | 2026-07-26 (full, r1) | book-12-full-r1.md — 3 firm (fixed), 0 parked | 12.231-234 = 7.357-360; 12.194 = 8.277; 12.84 = 11.47 |
 | 13 | 2026-07-26 (full, r1) | book-13-full-r1.md — 5 firm (fixed), 0 parked | five single-echo harmonizations (vs 8.43-44, 8.331-333, 12.368-369, 8.541, 8.380) |
 | 14 | 2026-07-26 (full, r1) | book-14-full-r1.md — 3 firm (fixed), 0 parked | rally-formula split harmonized ×5 (12.75, 14.74, 14.370, 15.294, 18.297); 14.69 = 2.116; 14.148-149 = 5.860-861 |
-| 15 | — | — | — |
+| 15 | 2026-07-26 (full, r1) | book-15-full-r1.md — 1 firm (fixed), 0 parked | 15.368-369 = 8.346-347 harmonized (15.294 fixed in Book 14 tranche) |
 | 16 | — | — | — |
 | 17 | — | — | — |
 | 18 | — | — | — |

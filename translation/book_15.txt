@@ -378,7 +378,7 @@ Patroclus's own mouth.
  313  rose shrill from both sides; from the bowstrings the arrows
  314  leapt; and many spears from daring hands
  315  fixed themselves in the flesh of quick young fighters,
- 316  and many, midway, before they could reach the white flesh,
+ 316  and many midway, before they could reach the white flesh,
  317  stood planted in the earth, still hungry to glut themselves on it.
  318  So long as Phoebus Apollo held the aegis unmoving,
  319  so long the missiles of both sides struck home, and the people fell;
@@ -430,8 +430,8 @@ Patroclus's own mouth.
  365  so you, archer Phoebus, poured into ruin the long
  366  labor and misery of the Argives, and drove the panic through them.
  367  So they halted and held their ground beside the ships,
- 368  calling to one another, and every man lifting
- 369  his hands to all the gods, prayed aloud;
+ 368  calling to one another, and lifting their hands
+ 369  to all the gods, each man prayed aloud;
  370  and Nestor above all, the Gerenian, warden of the Achaeans,
  371  prayed, stretching his arms toward the starry heaven:
  372  "Father Zeus — if ever anyone in wheat-rich Argos,[19]
