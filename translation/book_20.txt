@@ -414,7 +414,7 @@ loan of that epithet, as printed.
  341  and quickly scattered the unearthly mist from the eyes
  342  of Achilles; and he stared out hard with his eyes,
  343  and troubled, he spoke to his own great-hearted spirit:
- 344  "Oh shame — here is a great marvel I see with my own eyes:
+ 344  "Shame! — a great marvel is this I see with my eyes:
  345  my spear lying on the ground, and no sight anywhere
  346  of the man I hurled it at, hot to kill him.
  347  So Aeneas really was dear to the immortal gods —
@@ -499,7 +499,7 @@ loan of that epithet, as printed.
  426  who killed my honored companion! No longer now
  427  shall we cower from each other down the lanes of war."
  428  He spoke, and glaring darkly he said to brilliant Hector:
- 429  "Come closer — so you reach the boundary of destruction faster."
+ 429  "Come closer — and come the sooner to the borders of destruction."
  430  And unshaken, Hector of the flashing helmet answered him:
  431  "Son of Peleus — do not hope to frighten me with words,
  432  as if I were a silly child, since I too know well enough
@@ -517,7 +517,7 @@ loan of that epithet, as printed.
  444  easily, as a god does — and hid him in thick mist.
  445  Three times swift-footed brilliant Achilles charged
  446  with his bronze spear, and three times he struck the deep mist.
- 447  But when he came storming on the fourth time, like more than man,
+ 447  But when for the fourth time he came on like more than man,
  448  with a terrible shout he spoke winged words at him:
  449  "Dog! Again you have run out from under death — and yet the evil
  450  came close. Now once more Phoebus Apollo has pulled you out —
@@ -546,8 +546,8 @@ loan of that epithet, as printed.
  473  the spear into his ear, and out through the other ear
  474  the bronze point passed. Then Agenor's son Echeclus:
  475  he struck him full mid-head with the hilted sword,
- 476  and the whole blade grew hot with the blood; and over his eyes
- 477  came purple death, and strong fate took him.
+ 476  and the whole blade ran hot with blood, and down over his eyes
+ 477  came purple death, and fate the overpowering.
  478  Then Deucalion: just where the tendons of the elbow
  479  join, there he pierced him through the arm
  480  with the bronze point; and he stood and waited, his arm hanging heavy,
@@ -570,7 +570,7 @@ loan of that epithet, as printed.
  497  and quickly the grain is husked under the feet of the bellowing oxen:
  498  so under great-hearted Achilles the single-hoofed horses
  499  trampled corpses and shields together; and with blood the axle
- 500  underneath was all spattered, and the rails that ring the chariot,
+ 500  beneath was all spattered, and the rails that ran round the car,
  501  struck by the drops thrown up from the horses' hooves
  502  and from the wheel-rims. And on he pressed to win glory —
  503  the son of Peleus — spattering his invincible hands with gore.
@@ -812,7 +812,7 @@ NOTES
 
 [22] (20.340-352) Achilles' soliloquy over the vanished
     opponent gets his tone exactly: wonder for one breath
-    ("a great marvel I see with my own eyes"), then the shrug
+    ("a great marvel is this I see with my eyes"), then the shrug
     — "Let him go, and good riddance (ἐρρέτω). He will find
     no heart to test me again" — and back to work. The
     aristeia's engine does not idle.
@@ -882,7 +882,7 @@ NOTES
     mist that "poured down over his eyes" is grief doing to
     him what gods do to the doomed — and the exchange is a
     dress rehearsal of Book 22: taunt ("Come closer — so you
-    reach the boundary of destruction faster"), Hector's
+    come the sooner to the borders of destruction"), Hector's
     reply reusing Aeneas's frame verbatim (431-433 = 200-202)
     but adding what Aeneas never said: "I know that you are
     brave, and that I am far weaker than you. But these

@@ -568,7 +568,10 @@ harvest star (22.26-31); the two springs and the washing-troughs
 me?" now five-fold: 11.407 (Odysseus) and 17.97 (Menelaus) — both
 harmonized from "debate" in audit, 2026-07-26 — 21.562 (Agenor),
 22.122 (Hector), 22.385 (Achilles) — kept identical; any further
-occurrence must match.
+occurrence must match. Likewise "Shame! — a great marvel is this I
+see with my eyes" (ὢ πόποι ἦ μέγα θαῦμα τόδʼ ὀφθαλμοῖσιν ὁρῶμαι)
+is four-fold: 13.99, 15.286, 20.344, 21.54 — the latter two
+harmonized to the first-occurrence form in audit, 2026-07-26.
 
 Added in Book 21: Laothoe (daughter of Altes; mother of Lycaon
 and Polydorus), Altes (lord of the Lelegians; his Pedasus is the

@@ -43,7 +43,7 @@ Mechanical formula conformance is not audited by humans — run
 | 17 | 2026-07-26 (full, r1) | book-17-full-r1.md — 6 firm (fixed), 2 parked | heart-soliloquy line is five-fold (17.97 fixed); 17.82, 147-148, 259, 315, 617 harmonized |
 | 18 | 2026-07-26 (full, r1) | book-18-full-r1.md — 3 firm (fixed), 0 parked | 18.285 = 12.231; 18.277/303-304 = 8.530-531; "rushing courage" aligned (7.164, 8.262) |
 | 19 | 2026-07-26 (full, r1) | book-19-full-r1.md — 5 firm (fixed), 1 parked | arming run = 16.131-136; oath = 9.275-276; "war-craft"; Eileithyia epithet (also 16.187); Coon |
-| 20 | — | — | — |
+| 20 | 2026-07-26 (full, r1) | book-20-full-r1.md — 7 firm (fixed), 2 parked | great-marvel line four-fold (also 21.54); fourth-charge line (also 5.438); purple-death pair (also 5.83); 429 = 6.143; brain-spatter line (11.98, 12.186); axle-gore = 11.535; stone-line (5.304, 12.449) |
 | 21 | — | — | — |
 | 22 | 2026-07-26 (full, r1) | book-22-full-r1.md — 0 firm, 1 parked | none required |
 | 23 | 2026-07-26 (full, r1) | book-23-full-r1.md — 0 firm, 1 parked | none required |
