@@ -1,0 +1,286 @@
+THE ILIAD
+
+A verse translation with commentary
+
+
+GENERAL INTRODUCTION
+
+
+I. THE POEM
+
+The Iliad is not the story of the Trojan War. The war is ten years
+long; the poem covers fifty-one days of it, and of those days all
+but a handful pass in a line or two of summary. There is no
+Judgment of Paris in it (one glancing mention, in its last book,
+which ancient critics wanted to cut), no abduction of Helen, no
+sacrifice of Iphigenia, no wooden horse, no fall of the city. The
+poem assumes you know all that the way you know the weather. What
+it narrates is announced in its first word — mēnis, wrath: the
+wrath of Achilles, from the afternoon it is kindled by one man's
+arithmetic of honor to the night, some seven weeks later, when it
+has burned all the way through him and gone out, and he gives a
+dead body back to an old man and agrees that they should both eat
+dinner.
+
+Between those two points the poem's architecture is exact. A king
+confiscates the prize of his best fighter, and the fighter
+withdraws — not merely from battle but from the whole system of
+honor-for-service that the prize embodied; his own goddess mother
+carries his grievance to Zeus, and heaven agrees to make the army
+lose until it learns what he was worth. That is Book 1. The debt
+comes due through the poem's long middle: the army is beaten back
+onto its ships, the king offers restitution and is refused —
+Achilles, given the chance to end his wrath on magnificent terms,
+discovers instead that he can imagine leaving the war altogether —
+and the fire reaches the first ship. Then the poem turns its
+screw: Achilles will not fight, but he lends his armor and his
+dearest companion, and Patroclus dies in his place, wearing his
+bronze, at the hands of Hector. From that point the wrath changes
+object. What was aimed at Agamemnon is aimed at Hector; what was a
+strike becomes a hunt; and the man who would not fight for honor
+now fights past every limit — against rivers, against decency,
+against the plain fact of his own oncoming death, which he knows
+in detail and accepts out loud. He kills Hector, defiles the body,
+and cannot stop; his grief will not close. It closes only in Book
+24, when the gods intervene not with force but with a visit: Priam,
+Hector's father, crosses the plain at night, kneels to the man who
+killed his son, and kisses his hands. The two of them weep — each
+for his own dead — and then, because the poem is wiser than any of
+its readers, they look at each other and marvel, and eat, and
+sleep. The Iliad ends with a burial and a shared meal among
+enemies. The city will still fall; everyone in the poem knows it;
+the poem does not need to show it.
+
+The subject underneath the subject is mortality. Achilles is the
+one figure in the poem who gets to choose — a long obscure life or
+a short one with unwithering fame — and the poem's cruelty and its
+honesty is that it lets him make the choice twice: once in the
+abstract, in Book 9, when he threatens to sail home and calls the
+choice itself into question ("The portion is equal for the man who
+hangs back and the man who fights hard"); and once for real,
+in Book 18, over Patroclus's body, with nothing abstract left
+anywhere. Around that single free choice the poem arranges
+hundreds of unfree ones — minor men, each given a name and a
+father and a home and a widow at the moment of death, each
+"broken" in the poem's flat carpenter's verb — and one great
+counter-figure: Hector, who has no choice at all, who fights
+because a city and a wife and an infant son stand behind him, and
+who is the only person in the poem we watch being loved. The
+Iliad's sympathy does not follow its politics. It is a Greek poem
+in which the most humane scenes belong to Troy — Helen on the
+wall, Hector's helmet frightening his baby, Andromache running for
+the ramparts "like a madwoman" — and its final line of praise is
+for the man its hero killed.
+
+Above the men sit the gods, and the poem uses them with a
+double-entry bookkeeping that no later theology has ever forgiven
+it for. The gods are the audience of the war and its meddlers;
+they feel real grief — Zeus rains blood for Sarpedon, and says of
+mortals, in the poem's shortest theology, "they matter to me, even
+as they perish" — but they cannot die, and so nothing for them is
+ever finally at stake. The poem knows exactly what that means:
+when gods fight gods, in Book 21, it is comedy, boxed ears and a
+laughing father; when men fight men it is everything. Mortality is
+not the men's handicap. It is their seriousness. The gods watch
+the war the way we read the poem — with passionate partisanship
+and perfect safety — and the discomfort of that resemblance is
+intended.
+
+
+II. THE ART OF REPETITION
+
+The Iliad comes out of a tradition of oral composition in
+performance, and its style is built from repeated elements: fixed
+epithets ("swift-footed Achilles," "Hector of the flashing
+helmet"), whole recurring lines ("Then in answer spoke to him..."),
+repeated blocks (a message delivered in the same words it was
+given), and type-scenes (arming, sacrifice, supplication) whose
+skeletons recur with controlled variation. For a nineteenth- or
+twentieth-century aesthetic trained to prize variety, this was an
+embarrassment to be smoothed away; translators varied the epithets
+and paraphrased the repeated speeches so the poem would read like
+a novel. This translation takes the opposite view, and it is the
+single decision from which most of its other decisions follow: the
+repetition is the art. A formula, once fixed, recurs in these
+pages verbatim. When the Greek repeats a whole line, the English
+repeats its own line, word for word; when a messenger relays a
+speech, the relay repeats the original exactly as far as the Greek
+does, shifting person only where the Greek shifts person.
+
+The reason is not fidelity for its own sake. Repetition is how
+this poem thinks. When five different men — Odysseus, Menelaus,
+Agenor, Hector, Achilles — stand alone at their five separate
+crossroads and ask the same line, "But why does my own heart argue
+these things with me?", the line is the point: the poem is showing
+you that the solitary man debating flight is a single recurring
+human situation, and the fifth occurrence carries the weight of
+the other four. When Achilles taunts a Trojan with "Unhappy are
+the fathers whose sons face my fury!" he is repeating, word for
+word, what Diomedes said in Book 6 — a line the audience has heard
+before in a scene that ended, unforgettably, in guest-friendship
+instead of killing; this time no one exchanges armor. When the
+narrator says of Patroclus's arming what he will say of Achilles'
+arming three books later, the identity of the lines is a fuse
+burning between the two scenes. Vary the wording and all of this
+disappears — the echoes, the ironies, the sense that the poem's
+world runs on recurrences the characters cannot see. Keep it, and
+English readers can hear, for once, the machine turning.
+
+The bookkeeping this requires is heavy, and it is done in the
+open: every fixed rendering is logged in a register
+(translation/CONVENTIONS.md) that binds all later books; the
+first English wording of a repeated line is binding on every
+recurrence; conformance is checked mechanically, and the whole
+translation was audited after completion, book by book against the
+Greek, precisely to hunt down places where two occurrences of one
+Greek line had drifted apart in English. Where the register
+deliberately merges two Greek terms under one English word, or
+splits one Greek word by context, the merge is documented. The
+same register conventions are shared, where the poems share
+formulas, with a companion Odyssey built on the same principles.
+
+
+III. THE GREEK TEXT
+
+The translation follows the Oxford text of Monro and Allen, in the
+public-domain digitization that prints the poem at 15,693 lines,
+and it follows it line for line: English line 200 of a book
+renders Greek line 200, so that any line here can be laid beside
+its original — or against any commentary keyed to the standard
+numeration — without arithmetic. Six lines of that numeration (the
+block 9.458-461, and the single lines 11.543 and 14.269) are
+absent from the transmitted source text this project prints; they
+are not silently patched. The gaps are marked where they fall, and
+the missing
+lines — where antiquity preserves them, as Plutarch preserves the
+four suppressed lines of Phoenix's confession — are translated in
+the notes.
+
+Ancient scholarship is part of this poem's transmission, and the
+edition keeps it visible. Lines athetized by the Alexandrian
+critics — marked as spurious by Zenodotus, Aristophanes, or
+Aristarchus — are translated wherever the printed text prints
+them, and the athetesis is recorded in a note, never acted on: so
+the divine singer stays in the dance on the Shield, the Pelian ash
+stays in the arming of Book 19, and the Judgment of Paris stays in
+Book 24 over Aristarchus's objection. Where the printed text
+itself makes an editorial choice against the manuscript majority,
+the note says so — most famously at 1.350, where this text's
+"boundless sea" displaces the vulgate's "wine-dark." And where a
+rejected ancient variant is too interesting to lose, the notes
+keep it: Zenodotus's text in which the corpses of the opening
+lines become a "feast" for the birds; his Book 19, which could not
+bear a seated Agamemnon and made him stand; the reading known to
+Strabo at 20.307 in which the rule of Aeneas's line is over "all,"
+not over the Trojans — the variant Rome preferred, for obvious
+reasons. The apparatus of an ancient poem is not scaffolding to be
+struck; it is the record of twenty-five centuries of readers
+arguing about the same lines, and this translation was made in
+their company.
+
+
+IV. THE ENGLISH LINE
+
+The verse is plain, dignified, modern English free verse — no
+meter, no rhyme — held to a loose five-to-six-beat line that runs
+to a median of thirteen syllables, with better than nine lines in
+ten falling between nine and sixteen. That is not an imitation of
+the hexameter; English cannot sustain one for 15,000 lines without
+stilts. It is a discipline with a different purpose: since the
+translation is line-for-line, the English line must do neither
+more nor less work than the Greek line it faces. It cannot pad,
+because the next Greek line is already waiting; it cannot sprawl,
+because it has to keep step for twenty-four books. What the
+line-for-line rule buys is worth its cost: the poem's pacing
+survives — the single-line death sentences land as single lines,
+the enjambments break where Homer broke them, the long speeches
+are exactly as long as Homer made them — and every sentence of the
+English is checkable against its original by anyone with a
+parallel text and a dictionary.
+
+The diction aims at the register the Greek actually has: formal
+but not antique, plain but not flat. Homer's language was never
+anyone's daily speech — it is a poetic amalgam full of frozen
+archaisms — but it is rapid, direct, and unembarrassed, and the
+worst betrayal of it is fustian. A few English choices carry
+particular weight and are worth declaring at the door. The theme
+word mēnis is "wrath" throughout, never "rage" or "anger" — a
+grudge with divine standing, not a mood. Timē is always "honor";
+geras always "prize," the concrete awarded object in which honor
+is embodied — the quarrel of Book 1 is unintelligible unless those
+two words stay rigid. Atē is "blindness" (capitalized when she
+walks as a goddess): the god-sent delusion Agamemnon pleads in his
+apology, "the eldest daughter of Zeus, who blinds all men." The
+enslaved of the poem are called slaves. Where the Greek says dmōs
+or dmōē this translation does not say "servant" or "maid," because
+the difference between a servant and a slave is the difference
+Briseis and Andromache spend the poem on the wrong side of, and a
+translation that softens the word has taken a side. And the small
+change of the formulas is kept literal where literalness still
+works: words are winged; dawn is rosy-fingered and saffron-robed;
+men glare darkly before they speak; the day of death is "the
+pitiless day."
+
+Proper names use the familiar Latinized forms — Achilles, Ajax,
+Hecuba, Clytemnestra — on the principle that this poem belongs to
+readers, not to systems of transliteration; the register keeps the
+inventory, down to the diaeresis in Eëtion.
+
+
+V. THIS EDITION
+
+Each of the twenty-four books is presented the same way: a
+one-sentence epigraph; a translator's commentary — an essay on
+what the book is and does, where its difficulties lie, and what
+this translation did about them; the verse itself, numbered to the
+Greek; and endnotes, marked in the text by bracketed numbers that
+restart with each book. The notes carry four kinds of freight:
+textual matters (atheteses, variants, disputed lines); formulas,
+flagged at their first occurrence in the whole poem and then
+trusted to the reader's ear; realia — who this minor king is,
+where that river runs, why a boar's-tusk helmet matters; and the
+occasional confession, where the English had to choose one horn of
+an ambiguity and the note preserves the other. A project file of
+disputed lines and a full formula register sit beside the
+translation for anyone who wants the workshop as well as the work.
+After completion, every book was re-read entire against the Greek,
+line against line, and the handful of places where the translation
+had drifted from its own rules were repaired; the record of that
+audit, too, is preserved.
+
+A reader who wants a map before setting out can hold the poem's
+twenty-four books in one hand. Book 1: the quarrel, the plague,
+and Thetis's bargain with Zeus. Book 2: the testing of the army
+and the great catalogue of ships. Books 3-7: the war seen whole,
+as if for the first time — the duel of Paris and Menelaus, Helen
+naming the kings from the wall, the truce broken, Diomedes'
+rampage among gods and men, and, at the center, Hector in Troy
+with Hecuba, Helen, and Andromache — the poem's one visit inside
+the doomed city at peace. Book 8: Zeus bans the gods from the
+field and tilts the day to Troy. Book 9: the embassy — Agamemnon's
+gifts, and Achilles' refusal, the greatest speech in the poem.
+Book 10: the night raid. Books 11-15: the long third day of
+battle — the captains wounded one by one, the wall breached, Hera
+seducing Zeus on Ida, the tide turned twice, until Hector's hand
+is on the first ship. Book 16: Patroclus, in Achilles' armor,
+saves the ships, kills Sarpedon, and dies under the walls. Book
+17: the fight over his body. Book 18: the news; Achilles' choice;
+Thetis; the making of the Shield, on which Hephaestus forges the
+whole living world the poem otherwise excludes. Book 19: the
+wrath against Agamemnon renounced; Blindness anatomized; the
+horse Xanthus prophesies. Books 20-21: Achilles returned —
+against Aeneas, against everyone, against the river itself, with
+the gods loosed into the battle and finally laughing in each
+other's faces. Book 22: Hector alone before the gates; the chase;
+the death; Andromache at the loom. Book 23: the funeral of
+Patroclus and the games — the poem already practicing peace. Book
+24: the gods' verdict, Priam's night journey, the ransom of
+Hector, and the twelve days of truce in which the poem, having
+begun with two men quarreling over what a life is worth, ends with
+two enemies agreeing on what a death is owed.
+
+Read it aloud where you can. The poem was made for the ear, and
+its repetitions — the epithets that toll like bells, the lines
+that return in new mouths, the pitiless day arriving on schedule —
+were composed to be heard coming. This translation has tried to
+keep every one of them audible.
