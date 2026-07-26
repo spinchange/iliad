@@ -523,6 +523,20 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 21: Laothoe (daughter of Altes; mother of Lycaon
+and Polydorus), Altes (lord of the Lelegians; his Pedasus is the
+town on the Satnioeis, 6.34-35), Euneus son of Jason ("the son of
+Jason," 21.41 — named at 7.468), Eëtion of Imbros (a third
+Eëtion), Imbros, Arisbe (from 2.836), Pelegon, Asteropaeus (first
+named 12.102), Axius and Paeonia (from 2.848-850), Periboea,
+Acessamenus, the seven Paeonians (Thersilochus, Mydon — a second
+Mydon, cf. 5.580 — Astypylus, Mnesus, Thrasius, Aenius,
+Ophelestes — a second, cf. 8.274), Achelous, Simoïs (the river as
+combatant; named since 4.475), the Ileian plain (21.558), Agenor
+son of Antenor (active since 4.467). "Dog-fly" (κυνάμυια) for
+Ares' and Hera's insult, 21.394, 421. "Unwearied One" (Ἀτρυτώνη)
+21.420 as registered since 2.157.
+
 Added in Book 20: Callicolone, Erichthonius, Tros the ancestor
 (distinct from Tros son of Alastor, killed 20.463), Assaracus,
 Capys (Ganymede, Ilus, Laomedon, Tithonus, Lampus, Clytius,
@@ -854,8 +868,23 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   Laomedon at 21.441-457 — keep the two wall-stories distinct
   (Heracles' refuge-wall vs the city wall).
 - Refused supplication: Tros son of Alastor (20.463-472) opens
-  the sequence that runs Lycaon (21.64-119) → Hector (22.337-354)
-  — keep "there would be no persuading" in view.
+  the sequence that runs Lycaon (21.64-119, done) → Hector
+  (22.337-354) — keep "there would be no persuading" in view.
+- 14.433-434 = 21.1-2 (ford of eddying Xanthus) — done; the same
+  ford recurs at 24.692-693 on Priam's return — reuse again.
+- The twelve youths taken alive (21.27-32) pay the vow of
+  18.336-337 (done); they are killed at 23.175-176 — reuse
+  "twelve" + "blood-price" wording there.
+- 21.111-113 ("a dawn, or an evening, or a midday") — Achilles'
+  own death-terms; keep in view for 22.359-360 and Thetis's
+  echoes in 24.
+- 21.374-376 = 20.315-317 (Hera's Troy-burning oath-clause,
+  sworn back by the river) — kept verbatim; done.
+- Achilles chased Apollo-as-Agenor (21.599-605); Apollo reveals
+  himself at 22.7-20 — keep "you chased" continuity and the
+  "quick feet" taunt in view.
+- The Theomachy pairings (20.67-74) fought out at 21.383-513 —
+  done. Hermes/Leto and Poseidon/Apollo settled without blows.
 - 18.115-116 ("My own death-spirit I will accept whenever / Zeus
   wills to accomplish it, and the other immortal gods") ≈
   22.365-366 — reuse the Book 18 English verbatim there.
