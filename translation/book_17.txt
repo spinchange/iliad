@@ -131,7 +131,7 @@ narrator's confession at 260-261 are noted in place.
   79  And meanwhile Menelaus, warlike son of Atreus,
   80  standing over Patroclus, has killed the best of the Trojans —
   81  Panthous's son Euphorbus — and stopped his rushing courage."
-  82  So speaking, he went back, a god into the toil of men;
+  82  So speaking, the god went back into the toil of men;
   83  and terrible grief packed Hector's darkened heart.
   84  He peered along the ranks, and knew at once
   85  the one man stripping the famed armor, the other lying
@@ -146,7 +146,7 @@ narrator's confession at 260-261 are noted in place.
   94  But if, in shame, I fight Hector and the Trojans
   95  alone — I fear the many will surround me, one man:
   96  Hector of the flashing helmet is leading all of them here.
-  97  But why does my own heart debate these things with me?
+  97  But why does my own heart argue these things with me?
   98  When a man wills, against the god's face, to fight a man
   99  whom a god honors — a great woe rolls down on him quickly.
  100  So no Danaan who sees me give way before Hector
@@ -196,8 +196,8 @@ narrator's confession at 260-261 are noted in place.
  144  Consider now how you will save your town and citadel
  145  alone — you with the people born in Ilion;
  146  for no Lycian, at least, will go out to fight the Danaans
- 147  for your city, since there was never any thanks
- 148  for battling your enemies without respite, forever.
+ 147  for your city, since there was no thanks, it seems,
+ 148  for battling the enemy without respite, forever.
  149  How would you save a lesser man in the press of war,
  150  hard-hearted one, when Sarpedon — your guest-friend and companion —
  151  you abandoned to the Argives, their prey and their prize:
@@ -308,7 +308,7 @@ narrator's confession at 260-261 are noted in place.
  256  So he spoke; and the swift Ajax, Oïleus' son, heard him sharp,
  257  and came first to meet him, running through the combat,
  258  and after him Idomeneus, and Idomeneus's aide
- 259  Meriones, the equal of Enyalius, slaughterer of men.
+ 259  Meriones, the equal of Enyalius, slayer of men.
  260  But of the rest — who could speak their names out of his own mind,
  261  all who came up behind and woke the Achaean battle?[15]
  262  And the Trojans struck first, massed; Hector led them.
@@ -364,7 +364,7 @@ narrator's confession at 260-261 are noted in place.
  312  And Ajax struck war-minded Phorcys, Phaenops's son,
  313  full in the belly as he bestrode Hippothous,
  314  and burst the plate of his corslet, and the bronze
- 315  drank his bowels through; and falling in the dust he clutched the earth in his palm.
+ 315  spilled his bowels through; and falling in the dust he clutched the earth in his palm.
  316  And the front-fighters gave ground, and glorious Hector;
  317  and the Argives shouted loud, and dragged away the corpses,
  318  Phorcys and Hippothous, and loosed the armor from their shoulders.
@@ -666,7 +666,7 @@ narrator's confession at 260-261 are noted in place.
  614  had not Coeranus driven up fast with the swift horses:
  615  to him he came as light, and beat off the pitiless day —
  616  and lost his own life under man-slaughtering Hector.)
- 617  Him Hector struck under the jaw and the ear, and the spear-butt
+ 617  Him Hector struck below the jaw, under the ear, and the spear-butt
  618  dashed his teeth out at the roots, and cut the tongue through the middle:
  619  he crashed from the chariot, and poured the reins to the ground.
  620  And Meriones stooped and gathered them up off the plain
@@ -867,7 +867,7 @@ NOTES
     overreach, third time offered, never possessed. Menelaus's
     soliloquy that follows is the poem's clearest statement of
     the shame-calculus (fixed frame lines kept: "Troubled, he
-    spoke..."; "But why does my own heart debate..."): abandoning
+    spoke..."; "But why does my own heart argue..."): abandoning
     the body is disgrace, fighting a god-backed man is doom —
     "When a man wills, against the god's face, to fight a man
     whom a god honors, a great woe rolls down on him quickly" —

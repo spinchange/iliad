@@ -40,7 +40,7 @@ Mechanical formula conformance is not audited by humans — run
 | 14 | 2026-07-26 (full, r1) | book-14-full-r1.md — 3 firm (fixed), 0 parked | rally-formula split harmonized ×5 (12.75, 14.74, 14.370, 15.294, 18.297); 14.69 = 2.116; 14.148-149 = 5.860-861 |
 | 15 | 2026-07-26 (full, r1) | book-15-full-r1.md — 1 firm (fixed), 0 parked | 15.368-369 = 8.346-347 harmonized (15.294 fixed in Book 14 tranche) |
 | 16 | 2026-07-26 (full, r1) | book-16-full-r1.md — 6 firm (fixed), 1 parked | six single-echo harmonizations (16.59 = 9.648 etc.; γέρας θανόντων fixed at 23.9) |
-| 17 | — | — | — |
+| 17 | 2026-07-26 (full, r1) | book-17-full-r1.md — 6 firm (fixed), 2 parked | heart-soliloquy line is five-fold (17.97 fixed); 17.82, 147-148, 259, 315, 617 harmonized |
 | 18 | — | — | — |
 | 19 | — | — | — |
 | 20 | — | — | — |
