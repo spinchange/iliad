@@ -573,6 +573,29 @@ see with my eyes" (ὢ πόποι ἦ μέγα θαῦμα τόδʼ ὀφθαλ�
 is four-fold: 13.99, 15.286, 20.344, 21.54 — the latter two
 harmonized to the first-occurrence form in audit, 2026-07-26.
 
+Audit parked-item cleanup (2026-07-26), now legislated:
+Ἐρινύς = "Erinys/Erinyes" everywhere (9.454 and 9.571 brought over
+from "Fury/Furies"); ἠεροφοῖτις = "who walks in mist" (9.571,
+19.87). λιγὺς ἀγορητής = "clear-voiced speaker" even inside abuse
+(2.246, with 1.248, 19.82 — the concessive stays a compliment).
+τὸ γὰρ γέρας ἐστὶ γερόντων = "that is the honor-portion of the
+old" (4.323, 9.422). Αἰακίδης: the fixed epithet formulas keep
+"the swift-footed / war-minded son of Aeacus" and "Aeacus'
+blameless son" (16.140, 16.854); the bare patronymic of Achilles
+is "Aeacus' grandson" (9.184, 9.191, 17.271, 17.426, 17.473,
+18.221, 18.222, 21.178); of Peleus, "Aeacus' son" (16.15, 18.433,
+21.189). ἱπποκορυσταί = "men who fight from chariots" /
+"chariot-fighting" (2.1, 10.431, 16.288, 21.205, 24.677).
+ἑτεραλκὴς νίκη = "victory that turns the battle's tide" (7.26,
+8.171), compressed "tide-turning victory" where the line is full
+(17.627), verbal recast at 16.362; ἑτεραλκέα δῆμον 15.738 = "a
+people to turn the scale." μοῖρα κραταιή is fixed by line-family:
+"fate the overpowering" in the ἔλλαβε/παρέστηκε death-lines (5.83,
+16.334, 16.853, 20.477, 24.132), "strong fate/Fate" in free
+position (19.410, 21.110). ξανθός of hair = a color word: "tawny"
+(23.141). 24.30 ἀλεγεινήν = "grievous" (the raw-eating triplet
+remains 4.35 / 22.347 / 24.213 only).
+
 Added in Book 21: Laothoe (daughter of Altes; mother of Lycaon
 and Polydorus), Altes (lord of the Lelegians; his Pedasus is the
 town on the Satnioeis, 6.34-35), Euneus son of Jason ("the son of

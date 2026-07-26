@@ -297,7 +297,7 @@ is note [23].
  243  So he spoke, reviling Agamemnon, shepherd of the people —
  244  Thersites. But quickly brilliant Odysseus was at his side,
  245  and glaring at him darkly he lashed him with hard words:
- 246  "Thersites — endless babble, clear bawler at assemblies though you are:
+ 246  "Thersites — endless babble, clear-voiced speaker though you are:
  247  stop; do not stand up alone to quarrel with kings.
  248  I say there is no viler mortal than you
  249  of all who came under Ilion with the sons of Atreus.
@@ -1006,6 +1006,12 @@ Notes
      them, Odysseus' speech to the kings loses its "he is only testing"
      explanation. Translated as printed; the two-tier treatment of kings
      and commoners on either side of this line is in any case secure.
+     One crux inside the passage: 194 is printed here as a rhetorical
+     question ("Did we not all hear in council what he said?" — so
+     Lattimore), but Kirk reads it as a statement — "in council we did
+     NOT all hear what he said" — which better explains why the man
+     addressed needs Odysseus's telling. The question-rendering stands;
+     the alternative is recorded.
 
 [12] (2.204) "The rule of many is no good thing: let there be one ruler"
      (οὐκ ἀγαθὸν πολυκοιρανίη· εἷς κοίρανος ἔστω) — the most quoted

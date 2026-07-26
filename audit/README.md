@@ -66,3 +66,12 @@ books translated far apart, plus two true mistranslations (7.117
 handful of register-epithet alignments (μήστωρ φόβοιο, θοῦρις ἀλκή,
 ὑπερμενής/ἐρισθενής, μογοστόκος, ὁμοίϊος πόλεμος). Parked
 recommendations live in each book's findings file.
+
+**Parked-item cleanup complete (2026-07-26)**: every parked item was
+revisited — thirteen fixed (Erinys/Fury unification; λιγὺς ἀγορητής
+2.246; βούλεο 8.204; the γέρας-of-elders line; Αἰακίδης "Aeacus'
+grandson"; ἑτεραλκής 17.627; ἱπποκορυσταί 16.288; the 22.243 dual;
+23.141 "tawny"; 24.30 "grievous"; 7.17 plural; crux-notes added at
+2.194 and 6.519) and the rest closed with rationale. Full
+disposition table: `findings/parked-cleanup.md`; register decisions
+legislated in `translation/CONVENTIONS.md`.

@@ -562,7 +562,7 @@ value and flagged in note [3], where the interpretive dispute belongs.
  516  from the place where he had talked with his wife.
  517  Godlike Alexandros spoke to him first:
  518  "Elder brother — surely I have held you back in your hurry,
- 519  lingering so long; I did not come promptly, as you asked."
+ 519  lingering so long; I did not come promptly, as you asked.[36]"
  520  Answering him spoke Hector of the flashing helmet:
  521  "Strange man — no fair-minded man could disparage
  522  your work in battle: you have your courage.
@@ -792,3 +792,9 @@ Notes
      Hector returning to battle; the same simile serving vanity there
      and heroism here is a masterclass in how formulas mean by
      placement. English fixed for the recurrence.
+
+[36] (6.519) The OCT punctuates Paris's close as a question — "and
+     did I not come in due time, as you bade?" — a touch of fishing
+     for reassurance. Printed here as a flat admission (a reading
+     with editorial standing), which suits Hector's mollified reply;
+     the crux is recorded.
