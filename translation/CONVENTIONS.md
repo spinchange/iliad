@@ -247,7 +247,7 @@ the Odyssey project's FORMULAS.md.
 | νηλεὲς ἦμαρ | the pitiless day | 11.484 |
 | χάλκεον ὕπνον | a sleep of bronze | 11.241 |
 | κυκειών | posset | 11.624 |
-| μήστωρ φόβοιο | machine(s) of rout | 5.272 / 12.39 |
+| μήστωρ φόβοιο | machine(s) of rout | 5.272 / 6.97 / 6.278 / 8.108 / 12.39 / 23.16 (6/8/23 harmonized in audit, 2026-07-26) |
 | ἡμιθέων γένος ἀνδρῶν | the race of half-god men (12.23 only) | 12.23 |
 | ἀκόρητος πολέμου | never sated with war | 12.335 |
 | νυκτὶ θοῇ ἀτάλαντος | the very likeness of swift night | 12.463 |
