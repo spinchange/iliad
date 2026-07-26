@@ -115,7 +115,7 @@ Ate is "Blindness" per 9.502-512; the gift-catalogue matches
   50  and they went and sat down in the front of the assembly.
   51  And last of all came the lord of men Agamemnon,
   52  carrying his wound: for he too, in the strong encounter,
-  53  was stabbed by Coön, Antenor's son, with a bronze-fitted spear.
+  53  was stabbed by Coon, Antenor's son, with a bronze-fitted spear.
   54  And when all the Achaeans were gathered together,
   55  swift-footed Achilles rose up among them and spoke:
   56  "Son of Atreus — was this, then, in any way the better for us both,[6]
@@ -165,7 +165,7 @@ Ate is "Blindness" per 9.502-512; the gift-catalogue matches
  100  For Zeus spoke out in triumph among all the gods:
  101  'Hear me, all you gods and all you goddesses,
  102  while I say what the heart in my chest commands me.
- 103  Today Eileithyia of the birth-pangs will bring
+ 103  Today Eileithyia of hard labor will bring
  104  into the light a man who shall rule all who dwell around him —
  105  of the race of men who are of my own blood.'
  106  And scheming lady Hera answered him:
@@ -181,7 +181,7 @@ Ate is "Blindness" per 9.502-512; the gift-catalogue matches
  116  the sturdy wife of Sthenelus, Perseus's son.
  117  She was pregnant with a dear son, and her seventh month was standing;
  118  and Hera brought him out into the light before his month,
- 119  and stayed Alcmene's labor, and held back the Eileithyiae.
+ 119  and stayed Alcmene's labor, and held back the Eileithyiai.
  120  Then she herself brought the news, and said to Zeus, Cronos's son:
  121  'Father Zeus of the bright bolt — I will put a word in your mind.
  122  Already a fine man is born who shall rule the Argives:
@@ -210,7 +210,7 @@ Ate is "Blindness" per 9.502-512; the gift-catalogue matches
  145  Then in answer spoke to him swift-footed Achilles:
  146  "Most glorious son of Atreus, lord of men Agamemnon:[12]
  147  the gifts — furnish them if you wish, as is proper,
- 148  or keep them with you. But now let us remember our battle-joy,
+ 148  or keep them with you. But now let us remember our war-craft,
  149  at once. There is no need to sit here bandying words,
  150  no need for delay: a great work is still undone —
  151  so that men may see Achilles once again among the front-fighters,
@@ -238,8 +238,8 @@ Ate is "Blindness" per 9.502-512; the gift-catalogue matches
  173  bring them into the middle of the assembly, so all the Achaeans
  174  may see them with their eyes, and your heart be warmed.
  175  And let him stand up among the Argives and swear you an oath
- 176  that he never went up into her bed, and never lay with her,
- 177  as is the way, my lord, of human kind, of men and women;
+ 176  that he never went up into her bed, he never lay with her,
+ 177  as is the way, lord, of men and women;
  178  and let the heart in your own chest be gracious.
  179  And then let him appease you with a rich feast
  180  in his hut, so you may lack nothing of your due.
@@ -432,10 +432,10 @@ Ate is "Blindness" per 9.502-512; the gift-catalogue matches
  367  sank grief past bearing. Raging against the Trojans,
  368  he put on the gifts of the god that Hephaestus had labored to forge.
  369  First he set the greaves along his shins,
- 370  beautiful, fitted with silver ankle-pieces;
- 371  second he put the corslet around his chest;
- 372  and around his shoulders he slung the sword, silver-studded,
- 373  bronze; and then the shield, great and heavy,
+ 370  fine greaves, fitted with silver ankle-pieces;
+ 371  second, he put the corslet about his chest;
+ 372  and around his shoulders he threw the sword, silver-studded,
+ 373  bronze; and after that the shield, great and heavy,
  374  he took up, and its light went out far, like the moon's.
  375  As when out at sea a light shows to sailors,
  376  the glare of a burning fire, that burns high in the mountains
@@ -590,7 +590,7 @@ NOTES
 
 [10] (19.95-133) The parable of Ate: even Zeus was blinded —
     on the day of Heracles' birth, when Hera extracted the
-    unguarded oath, held back the Eileithyiae to delay Alcmene,
+    unguarded oath, held back the Eileithyiai to delay Alcmene,
     and rushed Eurystheus into the light at seven months: the
     poem's most consequential act of obstetric sabotage,
     making the strongest man ever born the servant of the

@@ -42,7 +42,7 @@ Mechanical formula conformance is not audited by humans — run
 | 16 | 2026-07-26 (full, r1) | book-16-full-r1.md — 6 firm (fixed), 1 parked | six single-echo harmonizations (16.59 = 9.648 etc.; γέρας θανόντων fixed at 23.9) |
 | 17 | 2026-07-26 (full, r1) | book-17-full-r1.md — 6 firm (fixed), 2 parked | heart-soliloquy line is five-fold (17.97 fixed); 17.82, 147-148, 259, 315, 617 harmonized |
 | 18 | 2026-07-26 (full, r1) | book-18-full-r1.md — 3 firm (fixed), 0 parked | 18.285 = 12.231; 18.277/303-304 = 8.530-531; "rushing courage" aligned (7.164, 8.262) |
-| 19 | — | — | — |
+| 19 | 2026-07-26 (full, r1) | book-19-full-r1.md — 5 firm (fixed), 1 parked | arming run = 16.131-136; oath = 9.275-276; "war-craft"; Eileithyia epithet (also 16.187); Coon |
 | 20 | — | — | — |
 | 21 | — | — | — |
 | 22 | 2026-07-26 (full, r1) | book-22-full-r1.md — 0 firm, 1 parked | none required |
