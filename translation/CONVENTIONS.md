@@ -523,6 +523,25 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 24: Mestor and Troilus (Priam's dead sons, named
+only here), Agathon, Pammon, Antiphonus, Dius (the nine-son
+roll-call, 24.249-252; Helenus, Paris, Polites, Deiphobus,
+Hippothous already registered — this Hippothous distinct from
+the Pelasgian, 2.840), Polyctor (Hermes' fictional father),
+Niobe, Sipylus, Macar of Lesbos (24.544), Cassandra (her one
+living appearance; first named 13.366), the Mysians as
+mule-givers (24.278). Closed threads: the raw-eating triplet
+(4.35, 22.346, 24.212); the ford of Xanthus (14.433-434 =
+21.1-2 = 24.692-693, third and last); the supplication arc
+(Tros → Lycaon → Hector refused; Priam accepted, 24.477-570);
+Priam's father-argument (22.416-428 → 24.486-506); "your heart
+must be iron" (24.205 = 24.521); Iris's message = Zeus's
+verbatim (24.146-158 ≈ 175-187, one line shorter as in the
+Greek); Andromache's paired laments (22.477-514 bodiless,
+24.725-745 at the bier); "man-slaughtering" given last to
+Hector's own head (24.724); Briseis restored (24.676). The
+poem ends on the registered "Hector, the tamer of horses."
+
 Added in Book 23: Amphidamas (of Opoeis — his son the boy
 Patroclus killed over dice; a third Amphidamas, cf. 10.268-270),
 Aethe (Agamemnon's mare) and Podargus (Menelaus's horse — same
