@@ -523,6 +523,22 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 20: Callicolone, Erichthonius, Tros the ancestor
+(distinct from Tros son of Alastor, killed 20.463), Assaracus,
+Capys (Ganymede, Ilus, Laomedon, Tithonus, Lampus, Clytius,
+Hicetaon already registered), Otrynteus, Iphition, Hyde, Hyllus
+(river), Demoleon, Hippodamas, Polydorus son of Priam (by
+Laothoe — named 21.84-91, 22.46-53), Dryops (victim; the name
+only here in the poem), Demuchus son of Philetor, Philetor, Laogonus and Dardanus sons of Bias (a
+third Bias; Laogonus a second — cf. 16.604), Alastor (a third
+bearer), Mulius (a second — cf. the Epeian, 11.739), Echeclus
+son of Agenor (a second — cf. 16.694), Deucalion (Trojan victim
+— same name as Idomeneus's father, 13.451), Rhigmus son of
+Peiros (= Peiroos of 2.844, 4.520; "Peiros" as printed here),
+Areithous the aide (a third bearer — cf. the club-fighter and
+his line, 7.8-10), the Heliconian lord (Poseidon of Helice —
+cult title, 20.404).
+
 Added in Book 19: Eileithyia / the Eileithyiae (birth-goddesses,
 19.103, 119), Alcmene, Eurystheus, Sthenelus son of Perseus
 (distinct from Sthenelus son of Capaneus, 2.564), Perseus,
@@ -799,7 +815,7 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   translated in note 11.[35]. Line-count checks must expect 847
   lines. (book_14.txt similarly lacks 14.269 — handle the same way.)
 - 11.362-367 = 20.449-454: reuse the Book 11 "Dog!" speech verbatim
-  for Achilles in Book 20.
+  for Achilles in Book 20. (Done.)
 - 11.794-803 ≈ 16.36-45: Patroclus repeats Nestor's plan — reuse the
   Book 11 English nearly verbatim at the opening of Book 16 (16.44-45
   = 11.802-803 exactly).
@@ -826,6 +842,20 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   dies there.
 - Ascalaphus dead, Ares ignorant (13.518-525) — paid at 15.110-142.
 - Aeneas's grudge (13.460-461) — cf. 20.178-183, 20.302-308.
+  (Done: Poseidon's rescue and dynastic prophecy, 20.300-308.)
+- The Theomachy pairings (20.67-74) are fought out at 21.383-513
+  — keep the pairing-list wording when each match is called.
+- Polydorus dies clutching his bowels (20.413-418); he and Lycaon
+  are Laothoe's sons — the debt is completed at 21.34-135
+  (Lycaon) and mourned at 22.46-53 (Priam names the pair). Echo
+  "clutching his bowels" when Priam imagines his sons' deaths.
+- The wall of Heracles and the sea-monster (20.144-148) is the
+  Hesione backstory: Poseidon recalls building Troy's wall for
+  Laomedon at 21.441-457 — keep the two wall-stories distinct
+  (Heracles' refuge-wall vs the city wall).
+- Refused supplication: Tros son of Alastor (20.463-472) opens
+  the sequence that runs Lycaon (21.64-119) → Hector (22.337-354)
+  — keep "there would be no persuading" in view.
 - 18.115-116 ("My own death-spirit I will accept whenever / Zeus
   wills to accomplish it, and the other immortal gods") ≈
   22.365-366 — reuse the Book 18 English verbatim there.
