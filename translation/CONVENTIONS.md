@@ -523,6 +523,23 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 23: Amphidamas (of Opoeis — his son the boy
+Patroclus killed over dice; a third Amphidamas, cf. 10.268-270),
+Aethe (Agamemnon's mare) and Podargus (Menelaus's horse — same
+name as Hector's horse, 8.185), Echepolus son of Anchises of
+Sicyon (distinct from the Trojan victim, 4.458), Arion (Adrastus's
+divine horse), Amarynceus and Buprasium (from 2.615-624),
+Clytomedes son of Enops (a third Enops), Ancaeus of Pleuron,
+Iphiclus, Phyleus and Polydorus as Nestor's rivals (a third
+Polydorus), the Actor-sons / Molione twins (cf. 2.621, 11.709-752),
+Epeius son of Panopeus, Euryalus's Theban games for "fallen
+Oedipus" (the poem's only Oedipus), Thoas of Lemnos (the king —
+distinct from the Aetolian), Noëmon (Antilochus's companion —
+same name as the Lycian victim, 5.678), Sidon / Sidonian
+craftsmen (cf. 6.290-291). The mare-for-mule prize list, the
+twelve-oxen tripod and four-oxen woman (23.703-705) — keep these
+valuations if echoed.
+
 Added in Book 22: no new named persons — the poem's cast is
 closed for its climax. New fixed items: the Dog of Orion /
 harvest star (22.26-31); the two springs and the washing-troughs
@@ -900,7 +917,25 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   one register ("raw" + "hack/devour").
 - The funeral-games inversion (22.159-166: they ran "for the
   life of Hector") is answered by the real games of Book 23 —
-  echo "a tripod, or a woman" in the prize-lists.
+  done (the prize-lists; the turn-post as an old grave-mark,
+  23.331-333).
+- The twelve youths: vow 18.336-337 → taken 21.27-32 → killed
+  23.175-176 with the narrator's verdict ("evil was the work his
+  heart intended") — thread closed.
+- Achilles' fast/wash vow (19.208-210) honored at 23.42-48 —
+  done. The shared-urn instruction (23.83-92, 243-245) and the
+  double mound (23.126, 245-248) are the poem's forward pointer
+  beyond itself (cf. Od. 24.71-84).
+- Aphrodite's rose-oil and Apollo's cloud over Hector
+  (23.184-192) begin Book 24's corpse-preservation — continue
+  the wording at 24.18-21, 24.411-423.
+- Achilles' only smile: 23.556 (at Antilochus) — as registered
+  from the 17.698-701 pointer on Antilochus's gentleness.
+- The Book 1 inversions of Book 23 (Achilles as peacemaker
+  23.492-498; the prize freely given to Agamemnon 23.890-897;
+  Talthybius receiving 23.897 vs taking Briseis 1.320-348) —
+  cite in Book 24's commentary if the reconciliation-arc is
+  summarized.
 - 14.433-434 = 21.1-2 (ford of eddying Xanthus) — done; the same
   ford recurs at 24.692-693 on Priam's return — reuse again.
 - The twelve youths taken alive (21.27-32) pay the vow of
