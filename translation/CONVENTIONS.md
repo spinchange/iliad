@@ -523,6 +523,15 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 22: no new named persons — the poem's cast is
+closed for its climax. New fixed items: the Dog of Orion /
+harvest star (22.26-31); the two springs and the washing-troughs
+(22.147-156); Hesperus (22.317-318); "the day of orphaning"
+(22.490); Astyanax glossed "lord of the city" (22.506-507, as at
+6.402-403). "But why does my own heart argue these things with
+me?" now three-fold: 21.562 (Agenor), 22.122 (Hector), 22.385
+(Achilles) — kept identical; any fourth occurrence must match.
+
 Added in Book 21: Laothoe (daughter of Altes; mother of Lycaon
 and Polydorus), Altes (lord of the Lelegians; his Pedasus is the
 town on the Satnioeis, 6.34-35), Euneus son of Jason ("the son of
@@ -869,7 +878,29 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   (Heracles' refuge-wall vs the city wall).
 - Refused supplication: Tros son of Alastor (20.463-472) opens
   the sequence that runs Lycaon (21.64-119, done) → Hector
-  (22.337-354) — keep "there would be no persuading" in view.
+  (22.337-354, done: the raw-flesh wish). The sequence is
+  answered — supplication finally accepted — at 24.477-570.
+- 16.856-857 = 22.361-363 soul-flight couplet: done, verbatim.
+  16.441-443 = 22.179-181 (the rescue-rebuke): done, verbatim.
+  18.115-116 = 22.365-366: done. 22.99-107 answers 18.249-313
+  (Polydamas shame): done.
+- Corpse-preservation: Hector dragged (22.395-404); Aphrodite
+  and Apollo protect the body at 23.184-191; the gods' debate
+  and the ransom at 24 — keep "defiled in his own fatherland"
+  and "portion of fire" wording in view.
+- Priam's plan announced at 22.416-428 ("He too has a father —
+  Peleus") is executed at 24.159ff; reuse the father-argument
+  wording at 24.486-506.
+- Andromache's headdress flung off (22.468-472, Aphrodite's
+  wedding veil) — the wedding at Eëtion's house; cf. her Book 6
+  biography; her final lament at 24.723-745 completes the pair
+  (this one bodyless, that one at the bier).
+- Achilles' "eat it raw" (22.346-347) caps Hera's 4.35-36 and
+  Hecuba's 24.212-213 raw-eating wishes — keep the three in
+  one register ("raw" + "hack/devour").
+- The funeral-games inversion (22.159-166: they ran "for the
+  life of Hector") is answered by the real games of Book 23 —
+  echo "a tripod, or a woman" in the prize-lists.
 - 14.433-434 = 21.1-2 (ford of eddying Xanthus) — done; the same
   ford recurs at 24.692-693 on Priam's return — reuse again.
 - The twelve youths taken alive (21.27-32) pay the vow of
