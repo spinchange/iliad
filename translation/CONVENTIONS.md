@@ -523,6 +523,15 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 19: Eileithyia / the Eileithyiae (birth-goddesses,
+19.103, 119), Alcmene, Eurystheus, Sthenelus son of Perseus
+(distinct from Sthenelus son of Capaneus, 2.564), Perseus,
+Neoptolemus (named only here in the poem, 19.327), Scyros (cf.
+9.668), Alcimus (19.392 — the short form of Alcimedon, 16.197;
+both forms kept as printed), Mynes (Briseis's husband, 19.296;
+his city cf. 2.690-693), Hyperion (as the shining sun, 19.398 —
+cf. 8.480).
+
 Added in Book 18: the thirty-three Nereids (18.39-49): Glauce,
 Thaleia, Cymodoce, Nesaea, Speio, Thoë, Halië, Cymothoë, Actaea,
 Limnoreia, Melite, Iaera, Amphithoë, Agave, Doto, Proto, Pherousa,
@@ -832,7 +841,7 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
 - Book 19 opens with the armor laid down clashing (19.12-13);
   the marvel-formula of 18.466-467 ("any man of the many who see
   it hereafter will marvel") is answered by the Myrmidons' fear
-  to look at 19.14-15.
+  to look at 19.14-15. (Done.)
 - Pylaemenes contradiction: killed 5.576-579, mourns 13.658-659
   (ath.) — documented in note 13.[29]; do not "fix."
 - books/book_14.txt lacks 14.269 (numbering jumps 268→270); the
@@ -881,6 +890,17 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
 - Antilochus runs unarmed and weeping (17.698-701) → Book 18 opens
   with his arrival; his gentleness is recalled at 23.556.
 - The weeping horses (17.426-440) speak at 19.404-417 (Xanthus's
-  prophecy) — keep "their charioteer" wording in view.
+  prophecy) — done; the mane-to-the-ground bow renders the
+  17.437-440 grief-posture.
 - 17.454-455 reuses the sunset clause (= 11.193-194) — third
   statement; fulfilled 18.239-242.
+- Xanthus's "by a god, and by a man" (19.416-417, ath. Ar.) is
+  specified at 22.359-360 (Paris and Phoebus Apollo) — echo the
+  wording in Hector's dying prophecy.
+- Ate is "Blindness" (9.502-512, 19.85-136 both) — Book 9 gives
+  her sound feet, Book 19 soft ones; both portraits kept, note
+  19.[9] documents the pair. Any later ἄτη-personification stays
+  "Blindness."
+- Achilles' fast (19.208-210, 19.305-308) continues into Book 23:
+  at 23.42-53 he yields to the meal but refuses to wash before
+  the pyre is built — keep the vow's wording in view there.
