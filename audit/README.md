@@ -24,7 +24,32 @@ Mechanical formula conformance is not audited by humans — run
 
 | Book | Reviewed | Findings filed | Fixes applied |
 |---|---|---|---|
-| 1 | — | — | — |
+| 1 | 2026-07-26 (full, r1) | book-01-full-r1.md — 0 firm, 1 parked | none required |
 | 2 | — | — | — |
 | 3 | — | — | — |
 | 4 | — | — | — |
+| 5 | — | — | — |
+| 6 | — | — | — |
+| 7 | — | — | — |
+| 8 | — | — | — |
+| 9 | — | — | — |
+| 10 | — | — | — |
+| 11 | — | — | — |
+| 12 | — | — | — |
+| 13 | — | — | — |
+| 14 | — | — | — |
+| 15 | — | — | — |
+| 16 | — | — | — |
+| 17 | — | — | — |
+| 18 | — | — | — |
+| 19 | — | — | — |
+| 20 | — | — | — |
+| 21 | — | — | — |
+| 22 | 2026-07-26 (full, r1) | book-22-full-r1.md — 0 firm, 1 parked | none required |
+| 23 | 2026-07-26 (full, r1) | book-23-full-r1.md — 0 firm, 1 parked | none required |
+| 24 | 2026-07-26 (full, r1) | book-24-full-r1.md — 0 firm, 2 parked | none required |
+
+No CRITICAL or MAJOR findings in any reviewed book; no r2 escalation
+triggered. Remaining scope: Books 2-21, to be reviewed in subsequent
+sessions (fresh-context sessions are preferable for the r1 pass on
+books translated long before, and mandatory for any r2).
