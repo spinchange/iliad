@@ -134,7 +134,7 @@ Menestheus's message is relayed by the herald almost word for word
   81  and at once he leapt with his weapons from the chariot to the ground.
   82  Nor did the other Trojans stay massed on their chariots:
   83  they all sprang down, when they saw brilliant Hector do it.
-  84  Then each man gave his own charioteer the order
+  84  Then each man gave his charioteer the order
   85  to hold the horses in good order there at the ditch;
   86  and they divided, formed themselves in companies,
   87  and marshaled in five bodies they followed their leaders.
@@ -244,7 +244,7 @@ Menestheus's message is relayed by the herald almost word for word
  191  he sprang through the crowd and struck Antiphates first,
  192  close-in, hand to hand; he crashed on his back on the ground;
  193  and after him Menon, and Iamenus, and Orestes —
- 194  all of them, one on another, he brought down to the earth that feeds so many.
+ 194  all these, one on another, he brought down to the earth that feeds so many.
  195  While they were stripping the glittering armor from these,
  196  the young men who followed Polydamas and Hector,
  197  who were the most and the best, and were most determined
@@ -281,10 +281,10 @@ Menestheus's message is relayed by the herald almost word for word
  228  So a reader of gods' signs would interpret, one whose heart
  229  truly knew the portents, and the people would believe him."
  230  Glaring at him darkly, Hector of the flashing helmet answered:
- 231  "Polydamas, what you say is no longer to my liking;
- 232  you know how to think of a better speech than this one.
- 233  But if you truly say this in earnest,
- 234  then the gods themselves have destroyed your wits outright —
+ 231  "Polydamas, this talk of yours pleases me no longer;
+ 232  you know how to think another word, better than this one.
+ 233  But if you truly say this thing in earnest,
+ 234  then the gods themselves have destroyed your wits —
  235  you who tell me to forget the counsels of loud-thundering
  236  Zeus, which he himself promised me, and bowed his head;
  237  you who tell me to put my faith in birds

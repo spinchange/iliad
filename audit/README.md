@@ -35,7 +35,7 @@ Mechanical formula conformance is not audited by humans — run
 | 9 | 2026-07-26 (full, r1) | book-09-full-r1.md — 0 firm, 0 parked | none required |
 | 10 | 2026-07-26 (full, r1) | book-10-full-r1.md — 1 firm (fixed), 0 parked | 10.90 = 9.610 harmonized |
 | 11 | 2026-07-26 (full, r1) | book-11-full-r1.md — 2 firm (fixed), 0 parked | 11.407 "argue" harmonized; 11.435-436 = 3.357-358 harmonized |
-| 12 | — | — | — |
+| 12 | 2026-07-26 (full, r1) | book-12-full-r1.md — 3 firm (fixed), 0 parked | 12.231-234 = 7.357-360; 12.194 = 8.277; 12.84 = 11.47 |
 | 13 | — | — | — |
 | 14 | — | — | — |
 | 15 | — | — | — |
