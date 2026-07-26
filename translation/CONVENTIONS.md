@@ -523,6 +523,18 @@ name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
 
+Added in Book 18: the thirty-three Nereids (18.39-49): Glauce,
+Thaleia, Cymodoce, Nesaea, Speio, Thoë, Halië, Cymothoë, Actaea,
+Limnoreia, Melite, Iaera, Amphithoë, Agave, Doto, Proto, Pherousa,
+Dynamene, Dexamene, Amphinome, Callianeira, Doris, Panope,
+Galateia, Nemertes, Apseudes, Callianassa, Clymene (a second
+bearer — same name as Helen's attendant, 3.144), Ianeira, Ianassa,
+Maera, Oreithyia, Amatheia. Also: Charis (Hephaestus's wife here;
+the Odyssey gives him Aphrodite — cross-epic divergence permitted),
+Eurynome daughter of Ocean, Opoeis (Menoetius's home; recurs
+23.85), Daedalus, Ariadne, Knossos, the Linos-song (λίνος, the
+harvest lament).
+
 Added in Book 17: Phrontis (Euphorbus's mother), Mentes of the
 Cicones (not the Odyssey's Taphian), Hippothous son of Pelasgian
 Lethus (dies; from 2.840-843), Lethus, Larisa (from 2.841),
@@ -785,12 +797,14 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
 - 11.654 "He would quickly blame even the blameless" — Patroclus's
   fear; its harder twin is 16.29-35.
 - Patroclus is still in Eurypylus's hut at 15.390-404 — continuity.
-- The sunset clause of Zeus's plan (11.193-194 = 11.208-209) is
-  fulfilled at 18.239-242 — echo the wording there.
+- The sunset clause of Zeus's plan (11.193-194 = 11.208-209) —
+  fulfilled (done, 18.239-242: Hera sends the unwilling Sun into
+  Ocean).
 - Muse invocations remaining: 14.508, 16.112 — reuse 2.484 line.
 - Polydamas's four counsels: 12.61 (accepted), 12.211 (rejected),
-  13.726 (accepted), 18.254 (rejected — fatal). Track the pattern;
-  Hector recalls the rejection at 22.99-107.
+  13.726 (accepted), 18.254 (rejected — fatal; done). Hector
+  recalls the rejection at 22.99-107 — keep the 18.311-314 wording
+  ("whose counsels were ruinous") in view there.
 - Glaucus's arm wound (12.387-391) is begged healed at 16.508-531.
 - Sarpedon's deferred death (12.402-403) is weighed at 16.433-461;
   echo "he was not to be broken by the ships' sterns."
@@ -803,6 +817,22 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   dies there.
 - Ascalaphus dead, Ares ignorant (13.518-525) — paid at 15.110-142.
 - Aeneas's grudge (13.460-461) — cf. 20.178-183, 20.302-308.
+- 18.115-116 ("My own death-spirit I will accept whenever / Zeus
+  wills to accomplish it, and the other immortal gods") ≈
+  22.365-366 — reuse the Book 18 English verbatim there.
+- The vow of the twelve Trojan youths (18.336-337) is repeated
+  nearly verbatim at 23.22-23 ("and before your pyre I will cut
+  the throats of twelve / shining children of the Trojans") —
+  reuse; paid at 21.27-32 (the taking) and 23.175-176 (the
+  killing).
+- Thetis's sapling lament 18.56-62 = 18.437-443 — kept verbatim
+  (internal; done).
+- Hephaestus's guest-greeting 18.386-387 = 18.424-425 (Charis,
+  then Hephaestus) — kept verbatim (internal; done).
+- Book 19 opens with the armor laid down clashing (19.12-13);
+  the marvel-formula of 18.466-467 ("any man of the many who see
+  it hereafter will marvel") is answered by the Myrmidons' fear
+  to look at 19.14-15.
 - Pylaemenes contradiction: killed 5.576-579, mourns 13.658-659
   (ath.) — documented in note 13.[29]; do not "fix."
 - books/book_14.txt lacks 14.269 (numbering jumps 268→270); the

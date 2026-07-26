@@ -1,0 +1,1097 @@
+BOOK 18
+
+The news reaches Achilles: the scream, the choice of death — and on
+the anvil of Hephaestus a whole world of peace, hammered onto the
+shield he will carry to kill Hector.
+
+TRANSLATOR'S COMMENTARY
+
+Book 18 is built from three scenes of making and unmaking: a man
+unmade by four lines of news; a night of vows over a washed body;
+and a god at his anvil making a world. The unmaking first: Antilochus
+delivers the catastrophe in the poem's most economical sentence —
+"Patroclus lies dead... naked; and Hector of the flashing helmet has
+the armor" — and Achilles pours soot on his head and lies down in
+the dust "mighty in his mightiness," the epitaph-line of Cebriones
+(16.776) settling on a living man, while Antilochus holds his hands
+"for fear he would cut his throat with the iron": the Iliad's only
+suicide watch (notes [2], [3]). Thetis rises with all the Nereids —
+the catalogue of sea-names the ancients athetized and this
+translation keeps (note [4]) — to mourn a son still alive; and in
+their exchange the poem reaches its hinge: "quick-fated then you
+shall be, child" — "Then let me die at once, since I could not
+defend my companion." Plato put the exchange at the center of the
+Apology; Socrates chose his death by quoting this one (note [8]).
+With it comes the wrath's own retraction: "may strife perish from
+among gods and men, and anger — sweeter far than dripping honey, it
+swells like smoke in men's chests" (note [9]).
+
+The middle movement belongs to voice and light: the unarmed Achilles
+at the ditch, flame streaming from his head like the beacon of a
+besieged island city — the Achaeans' own situation made into his
+halo — killing twelve men with three shouts (note [11]); Hera
+forcing the sun into Ocean to end the longest day of the poem (note
+[13]); and, in the standing Trojan assembly, Polydamas's fourth and
+fatal counsel rejected — "Enyalius is impartial: he kills the
+would-be killer" — with the narrator's civic verdict on the applause
+(notes [14]-[16]).
+
+Then the Shield (478-608), which Zenodotus athetized entire and
+which is the reason the book is immortal: the cosmos; the city at
+peace with its weddings and its trial — where the blood-price for a
+killed man is argued before elders, the very ποινή Achilles refused
+in Book 9, shown working (note [26]); the city at war fighting this
+poem's own battle in miniature, Fate dragging the dead by the feet
+(note [27]); the plowland turning black behind the plow "though it
+was made of gold" (note [28]); the harvest, the vineyard with the
+boy singing the Linos-song, the lions on the bull, the dancing
+floor of Daedalus with its potter's-wheel simile and — kept in our
+printed text against Aristarchus's deletion — the divine singer
+himself, the poet inside his own artifact (note [33]); and Ocean
+round the rim. A world of peace is forged as the equipment of
+revenge: the poem's whole argument, carried on one arm.
+
+Register notes: 18.21 reuses 17.693; 18.200-201 reuse 16.42-43;
+Thetis's sapling-lament (56-62) recurs verbatim at 437-443, both
+kept identical; "quick-fated" continues 1.417; the slave-women, the
+fixed soliloquy frames, and the Book 1 "Most dread son of Cronos"
+line all recur in their registered forms.
+
+------------------------------------------------------------
+
+   1  So they fought on, like blazing fire;
+   2  and Antilochus came to Achilles, a swift-footed messenger.
+   3  He found him in front of his ships with their upright horns,
+   4  brooding in his heart on what was already done;
+   5  and troubled, he spoke to his own great-hearted spirit:
+   6  "Ah me — why are the long-haired Achaeans again[1]
+   7  being driven in rout across the plain, back on the ships?
+   8  Let the gods not now accomplish the evil griefs of my heart,
+   9  as my mother once set out for me plainly, and told me
+  10  that the best of the Myrmidons, while I still lived,
+  11  would leave the light of the sun at Trojan hands.
+  12  Surely he is dead already — Menoetius's stout son.
+  13  Stubborn man! I ordered him: beat off the enemy fire,
+  14  then back to the ships — do not fight Hector strength to strength."
+  15  While he was turning this over in mind and heart,
+  16  the son of illustrious Nestor came up close to him,
+  17  shedding hot tears, and spoke the grievous message:
+  18  "Ah me, son of war-minded Peleus — it is very hard news[2]
+  19  you must hear now: a thing that should never have happened.
+  20  Patroclus lies dead. They are fighting over the body —
+  21  naked: for Hector of the flashing helmet has the armor."
+  22  So he spoke; and the black cloud of grief covered Achilles.
+  23  With both hands he took up the sooty dust[3]
+  24  and poured it down over his head, and defiled his gracious face;
+  25  and on his nectar-fragrant tunic the black ash settled.
+  26  And he himself, in the dust, lay stretched out —
+  27  mighty in his mightiness — with his own hands he tore and fouled his hair.
+  28  And the slave-women Achilles and Patroclus had won as plunder
+  29  shrieked aloud in the grief of their hearts, and ran
+  30  out of the doors around war-minded Achilles, and all of them
+  31  beat their breasts with their hands, and the limbs of each went slack.
+  32  And Antilochus on the other side mourned, shedding tears,
+  33  holding the hands of Achilles as his glorious heart groaned —
+  34  for he feared he might cut his own throat with the iron.
+  35  Then he cried out, terribly; and his lady mother heard him
+  36  where she sat in the depths of the sea beside her aged father,
+  37  and wailed in answer; and the goddesses gathered around her,
+  38  all the Nereids who were in the depths of the sea.
+  39  There were Glauce and Thaleia and Cymodoce,[4]
+  40  Nesaea and Speio and Thoë and ox-eyed Halië,
+  41  Cymothoë and Actaea and Limnoreia
+  42  and Melite and Iaera and Amphithoë and Agave,
+  43  Doto and Proto and Pherousa and Dynamene,
+  44  Dexamene and Amphinome and Callianeira,
+  45  Doris and Panope and far-famed Galateia,
+  46  Nemertes and Apseudes and Callianassa;
+  47  and there were Clymene and Ianeira and Ianassa,
+  48  Maera and Oreithyia and lovely-braided Amatheia,
+  49  and the other Nereids who were in the depths of the sea.
+  50  The silver-shining cave was filled with them; and all together
+  51  they beat their breasts, and Thetis led the lament:
+  52  "Hear me, sister Nereids, so that all of you
+  53  may know well, hearing it, what griefs are in my heart.
+  54  Ah me, unhappy! Ah me — mother of the best of men, and cursed in it![5]
+  55  For I bore a son, blameless and powerful,
+  56  first among heroes; and he shot up like a sapling.
+  57  I reared him like a young tree on the orchard's slope
+  58  and sent him out with the beaked ships to Ilion
+  59  to fight the Trojans; and I shall never receive him again,
+  60  never coming home again to the house of Peleus.
+  61  And while he still lives, and looks on the light of the sun,
+  62  he grieves; and I can do nothing to help him, though I go to him.
+  63  But go I will, to see my dear child, and to hear
+  64  what grief has come to him as he waits out of the fighting."
+  65  So speaking she left the cave; and they went with her,
+  66  weeping; and around them the wave of the sea
+  67  broke apart. And when they came to deep-soiled Troy
+  68  they stepped up onto the beach, one after another, where the ships
+  69  of the Myrmidons were drawn up close around swift Achilles.
+  70  And his lady mother came and stood by him as he groaned heavily,[6]
+  71  and with a sharp wail she took her son's head in her arms,
+  72  and mourning him she spoke winged words:
+  73  "Child, why do you weep? What grief has come to your heart?
+  74  Speak out; hide nothing. All of it has been accomplished
+  75  by Zeus, exactly as you prayed with lifted hands:
+  76  that the sons of the Achaeans be penned against the sterns,
+  77  in desperate need of you, and suffer shameful things."
+  78  Then, groaning heavily, swift-footed Achilles answered her:
+  79  "Mother — yes: the Olympian has accomplished all of it.[7]
+  80  But what pleasure is it to me, when my dear companion has perished —
+  81  Patroclus — whom I honored beyond all companions,
+  82  equal to my own head? I have lost him; and the armor
+  83  Hector has stripped from his kill — the gigantic armor, a wonder
+  84  to see, beautiful: the shining gifts the gods gave Peleus
+  85  on the day they threw you into the bed of a mortal man.
+  86  If only you had stayed there among the immortal women of the sea,
+  87  and Peleus had brought home a mortal wife!
+  88  But now — so that for you too there might be grief past measure
+  89  for a child destroyed, whom you will never receive again,
+  90  never coming home — since my own heart forbids me
+  91  to live on and remain among men, unless Hector
+  92  first, beaten under my spear, loses his life
+  93  and pays for making Patroclus, Menoetius's son, his spoil."
+  94  Then Thetis answered him, shedding tears:
+  95  "Quick-fated then you shall be, child, by what you say:
+  96  for straight after Hector your own doom stands ready."
+  97  Then, deeply troubled, swift-footed Achilles answered her:
+  98  "Then let me die at once, since I was not to help[8]
+  99  my companion at his killing. Far from his fatherland
+ 100  he perished, and had need of me to be his warder-off of ruin.
+ 101  Now — since I shall not come home to my dear fatherland,
+ 102  since I proved no light of safety to Patroclus, nor to my other
+ 103  companions, all the many broken by brilliant Hector,
+ 104  but sit here by the ships, a useless weight on the plowland —
+ 105  I, who am such as no other of the bronze-shirted Achaeans
+ 106  in war, though in assembly there are others better —
+ 107  may strife perish from among gods and men,[9]
+ 108  and anger, that drives even the prudent man to harshness:
+ 109  sweeter by far than honey dripping down,
+ 110  it swells like smoke in the chests of men —
+ 111  as the lord of men Agamemnon angered me now.
+ 112  But we will let that be — a thing done and past, for all our grief,
+ 113  beating down the heart in our chests because we must.
+ 114  Now I will go, to find the killer of the dear head —
+ 115  Hector. My own death-spirit I will accept whenever
+ 116  Zeus wills to accomplish it, and the other immortal gods.
+ 117  For not even the might of Heracles escaped his doom —
+ 118  and he was dearest of all to lord Zeus, Cronos's son —
+ 119  but fate broke him, and the grinding anger of Hera.
+ 120  So I too, if a like fate is built for me,
+ 121  shall lie still when I die. But now let me win great fame:
+ 122  let me drive some deep-girdled woman of Troy
+ 123  or Dardania to wipe with both her hands the tears
+ 124  from her soft cheeks, sobbing without pause,
+ 125  and let them know how long I have been out of the war.
+ 126  Do not hold me from the fighting, though you love me. You will not persuade me."
+ 127  Then answered him the goddess, silver-footed Thetis:
+ 128  "Yes, child — all this is true. It is no bad thing
+ 129  to beat sheer destruction away from worn companions.
+ 130  But your fine armor is held among the Trojans,
+ 131  the glittering bronze; and Hector of the flashing helmet
+ 132  glories in it on his own shoulders. Yet I promise you
+ 133  he will not glory in it long: his killing is close to him.
+ 134  So do not go down into the grind of the war-god yet —
+ 135  not before your own eyes see me come back here.
+ 136  At dawn I will return, with the rising of the sun,
+ 137  bringing fine armor from the lord Hephaestus."
+ 138  So speaking she turned away from her son,
+ 139  and turning spoke to her sisters of the sea:
+ 140  "Sink now, all of you, into the broad fold of the sea,
+ 141  to see the old man of the sea and our father's house,
+ 142  and tell him everything. I go to high Olympus,
+ 143  to Hephaestus famed for craft, to see if he is willing
+ 144  to give my son famed armor, shining bright."
+ 145  So she spoke; and they sank at once beneath the wave of the sea,
+ 146  and the goddess, silver-footed Thetis, went on
+ 147  to Olympus, to bring famed armor to her dear son.
+ 148  So her feet carried her toward Olympus. And the Achaeans,
+ 149  fleeing with unearthly clamor before man-slaughtering Hector,
+ 150  came to the ships and the Hellespont;
+ 151  nor could the strong-greaved Achaeans drag the corpse
+ 152  of Patroclus, Achilles' aide, out of the missiles:
+ 153  for the army overtook it again, and the horses,
+ 154  and Hector, Priam's son, like flame in his fury.
+ 155  Three times glorious Hector seized him from behind by the feet,
+ 156  straining to drag him off, calling loud on the Trojans;
+ 157  and three times the two Ajaxes, clothed in rushing courage,
+ 158  beat him back from the corpse. But he, steady, sure of his strength,
+ 159  now charged into the crush, and now again
+ 160  stood and shouted his great shout; and he gave back not one step.
+ 161  As shepherds in the field can in no way drive
+ 162  a fire-colored lion from a carcass, when his hunger is huge,
+ 163  so the two Ajaxes, helmed for war, could not
+ 164  frighten Hector, Priam's son, away from the corpse.
+ 165  And now he would have dragged it off, and won unspeakable glory,
+ 166  had not wind-footed swift Iris come running[10]
+ 167  from Olympus with a message for Peleus' son — to arm —
+ 168  in secret from Zeus and the other gods: for Hera sent her.
+ 169  And standing close she spoke winged words:
+ 170  "Rise, son of Peleus — most terrifying of all men!
+ 171  Defend Patroclus, for whose sake the dread struggle
+ 172  stands before the ships. They are killing one another —
+ 173  the one side fighting for the dead man's body,
+ 174  the other, the Trojans, storming to drag him off
+ 175  to windy Ilion; and glorious Hector above all
+ 176  is wild to haul him away: his heart is set on cutting
+ 177  the head from the soft neck, and fixing it on the palisade.
+ 178  Up — lie there no longer! Let awe come into your heart
+ 179  that Patroclus should be sport for the dogs of Troy.
+ 180  Yours is the disgrace, if the corpse comes back defiled."
+ 181  Then answered her swift-footed brilliant Achilles:
+ 182  "Goddess Iris — which of the gods sent you to me with this message?"
+ 183  Then answered him wind-footed swift Iris:
+ 184  "Hera sent me, the honored wife of Zeus;
+ 185  and the high-throned son of Cronos does not know it, nor any other
+ 186  of the immortals who live on snow-capped Olympus."
+ 187  Answering her spoke swift-footed Achilles:
+ 188  "And how am I to go into the grind? They have my armor —
+ 189  those men; and my dear mother forbade me to arm
+ 190  before my own eyes see her come back here:
+ 191  she promised to bring fine armor from Hephaestus.
+ 192  I know no other man whose famed gear I could put on —
+ 193  unless it were the shield of Ajax, Telamon's son;
+ 194  and he himself, I trust, is out among the front-fighters,
+ 195  wreaking havoc with his spear for dead Patroclus."
+ 196  Then answered him wind-footed swift Iris:
+ 197  "We know it well — yes, they hold your famed armor.
+ 198  But go to the ditch, just as you are, and show yourself to the Trojans:
+ 199  in dread of you the Trojans may hold back
+ 200  from the fighting, and the warlike sons of the Achaeans catch their breath,
+ 201  worn as they are; for the breathing-spaces of war are few."
+ 202  So speaking, swift-footed Iris went her way;
+ 203  and Achilles, dear to Zeus, rose up. And around
+ 204  his powerful shoulders Athena threw the tasseled aegis,
+ 205  and around his head the brilliant goddess set a crown
+ 206  of golden cloud, and out of it lit a flame, blazing bright.[11]
+ 207  As when smoke rises from a city into the upper air,
+ 208  far off, from an island that enemies have surrounded,
+ 209  where all day long the men are put to the test of hateful war
+ 210  from their own city walls; and then, with the setting sun,
+ 211  beacon-fires blaze up one after another, and the glare
+ 212  shoots high for the neighboring islanders to see,
+ 213  in hope that they may come with ships as warders-off of ruin:
+ 214  so from the head of Achilles the light went up to the upper air.
+ 215  He went from the wall and stood at the ditch; nor did he mix
+ 216  with the Achaeans, for he heeded his mother's strict command.
+ 217  There he stood, and shouted; and apart, Pallas Athena
+ 218  gave voice; and among the Trojans he stirred unspeakable tumult.
+ 219  As piercing-clear as the voice of the trumpet, when it screams
+ 220  around a city ringed by life-breaking enemies,
+ 221  so piercing-clear then was the voice of Aeacus' grandson.
+ 222  And when they heard the brazen voice of Aeacus' grandson,
+ 223  the heart in every man was shaken; and the fair-maned horses
+ 224  wheeled the chariots backward: they smelled sorrows coming.
+ 225  And the charioteers were struck out of their wits, seeing
+ 226  the unwearying fire, terrible, over the head
+ 227  of great-hearted Peleus' son: grey-eyed Athena made it blaze.
+ 228  Three times over the ditch brilliant Achilles gave his great shout,
+ 229  and three times the Trojans and their famed allies were thrown into confusion;
+ 230  and there and then twelve of their best men perished
+ 231  on their own chariots and their own spears. And the Achaeans,
+ 232  glad at heart, drew Patroclus out from under the missiles
+ 233  and laid him on a bier; and his dear companions stood around him
+ 234  mourning; and among them followed swift-footed Achilles,
+ 235  shedding hot tears, when he saw his trusted companion
+ 236  lying on the litter, torn by the sharp bronze —[12]
+ 237  the man he had sent out with horses and chariot
+ 238  into the war, and never received again at his homecoming.
+ 239  And the ox-eyed lady Hera sent the unwearied Sun,[13]
+ 240  much against his will, into the streams of Ocean;
+ 241  and the Sun set, and the brilliant Achaeans rested
+ 242  from the strong struggle and the leveling war.
+ 243  And the Trojans on the other side, back from the strong encounter,
+ 244  loosed their swift horses from under the chariots
+ 245  and gathered in assembly before they thought of supper.
+ 246  The assembly was held standing: no man dared[14]
+ 247  sit, for trembling held them all — because Achilles
+ 248  had appeared, who had long stayed out of the grievous fighting.
+ 249  Among them the level-headed Polydamas began to speak,
+ 250  Panthous's son: he alone looked before and behind.
+ 251  He was Hector's companion, born in the one night with him;
+ 252  but one was far the better in words, the other with the spear.
+ 253  With good will toward them he spoke and addressed them:
+ 254  "Weigh both sides well, my friends. For my part I command us:
+ 255  go to the city now — do not wait for the brilliant dawn
+ 256  on the plain beside the ships. We are far from our wall.
+ 257  So long as that man raged against brilliant Agamemnon,
+ 258  so long the Achaeans were easier men to fight —
+ 259  I too was glad to camp beside their swift ships,
+ 260  hoping we should take the double-ended vessels.
+ 261  But now I dread the swift-footed son of Peleus, terribly.
+ 262  So violent is that man's heart, he will not be willing
+ 263  to stay on the plain, where Trojans and Achaeans
+ 264  share between them the middle ground and the fury of the war-god:
+ 265  it is for our city he will fight, and for our women.
+ 266  Let us go to the town. Trust me: for so it will be.
+ 267  For now, the ambrosial night has stopped the swift-footed
+ 268  son of Peleus; but if he finds us here tomorrow
+ 269  when he comes out armed, then a man will know him
+ 270  well enough: gladly will he reach holy Ilion,
+ 271  whoever escapes; and dogs and vultures will eat many
+ 272  of the Trojans. May such a tale stay far from my hearing!
+ 273  But if we do as I say — though it grieves us —
+ 274  tonight we keep our force in the meeting-place, and the city
+ 275  is guarded by its towers and high gates and the tall
+ 276  polished doors, fitted close, bolted fast, that shut them;
+ 277  and at first light, armed in our gear,
+ 278  we take our stand along the towers. The worse for him then,
+ 279  if he wants to come from the ships and fight us for the wall:
+ 280  back to the ships he must go, when he has worn out his strong-necked
+ 281  horses with every kind of running, driving them under the town.
+ 282  Inside it his heart will not let him charge;
+ 283  never will he sack it: sooner the running dogs will eat him."
+ 284  Glaring at him darkly, Hector of the flashing helmet answered:[15]
+ 285  "Polydamas, what you say is no longer to my liking —
+ 286  you who command us to run back and be penned in the city.
+ 287  Have you not all had your fill of being cooped inside those towers?
+ 288  In the days before, all mortal men would tell of
+ 289  Priam's city as rich in gold, rich in bronze;
+ 290  but now the fine heirlooms are gone out of our houses:
+ 291  sold off, our treasures have long since passed to Phrygia
+ 292  and lovely Maeonia, since great Zeus turned his wrath on us.
+ 293  And now — now, when the son of crooked-counseled Cronos has granted me
+ 294  to win glory at the ships, and pen the Achaeans against the sea —
+ 295  fool, do not lay such counsels open before the people!
+ 296  No Trojan will obey you: I will not allow it.
+ 297  Come then, let us all do as I say.
+ 298  Take your supper now, through the army, by companies;
+ 299  remember the watch; and let every man stay wakeful.
+ 300  And any Trojan whose goods torment him beyond measure —
+ 301  let him gather and give it to the people to consume in common:
+ 302  better any of ours enjoy them than the Achaeans.
+ 303  And at first light, armed in our gear,
+ 304  we wake the sharp war-god beside the hollow ships.
+ 305  If it is true that brilliant Achilles has risen by the ships,
+ 306  the worse for him, if that is what he wants. I at least
+ 307  will not run from him out of the harsh-sounding war: I will stand
+ 308  against him, face to face — whether he carries off the great triumph,
+ 309  or I carry it. Enyalius is impartial: he kills the would-be killer."
+ 310  So Hector spoke; and the Trojans roared applause —[16]
+ 311  the fools: for Pallas Athena had taken their wits from them.
+ 312  To Hector they gave their praise, whose counsels were ruinous;
+ 313  to Polydamas no man's, who had devised the good counsel.
+ 314  Then they took their supper through the army. But the Achaeans
+ 315  all night long mourned Patroclus with wails and groans;
+ 316  and Peleus' son led the thick lament among them,[17]
+ 317  laying his man-slaughtering hands on his companion's chest,
+ 318  groaning again and again — like a bearded lion
+ 319  whose cubs a deer-hunter has snatched away
+ 320  out of the thick wood; and he comes back too late, and grieves,
+ 321  and goes down glen after glen tracking the man's footprints,
+ 322  hunting him out — for bitter anger takes hold of him:
+ 323  so, groaning heavily, Achilles spoke among the Myrmidons:
+ 324  "Shame! It was an empty word I let fall on that day
+ 325  when I reassured the hero Menoetius in his halls:
+ 326  I said I would bring back his far-famed son to Opoeis
+ 327  with his share of the spoils, when he had sacked Ilion.
+ 328  But Zeus does not accomplish all the designs of men:
+ 329  for the two of us are fated to redden the same earth
+ 330  here in Troy — since I too will not come home
+ 331  to be received in his halls by the old horseman Peleus,
+ 332  nor by Thetis my mother: the earth will hold me here.
+ 333  But now, Patroclus, since I go under the earth after you,
+ 334  I will not give you burial before I bring here
+ 335  the armor and the head of Hector, your great-hearted killer;
+ 336  and before your pyre I will cut the throats of twelve
+ 337  shining children of the Trojans, in my rage at your slaying.
+ 338  Until then, you shall lie just so by the beaked ships,
+ 339  and around you the deep-girdled women of Troy and Dardania
+ 340  shall mourn you night and day, shedding tears —
+ 341  the women we two labored to win, by strength and the long spear,
+ 342  sacking the rich cities of mortal men."
+ 343  So speaking, brilliant Achilles ordered his companions
+ 344  to set a great tripod over the fire, so that with all speed
+ 345  they might wash the clotted blood from Patroclus.
+ 346  And they set the bath-water tripod on the blazing fire
+ 347  and poured the water in, and took wood and lit it beneath;
+ 348  and the fire wrapped the tripod's belly, and the water warmed.
+ 349  And when the water boiled in the glittering bronze,
+ 350  they washed him then, and anointed him richly with oil,
+ 351  and filled his wounds with unguent nine years old;
+ 352  and laying him on the bier they covered him with soft linen
+ 353  from head to foot, and over that a white cloak.
+ 354  Then all night long, around swift-footed Achilles,
+ 355  the Myrmidons mourned Patroclus with wails and groans.
+ 356  And Zeus spoke to Hera, his sister and his wife:[18]
+ 357  "So you have managed it after all, ox-eyed lady Hera —
+ 358  you have roused swift-footed Achilles. Truly they must be
+ 359  your own children, these long-haired Achaeans — born from you!"
+ 360  Then ox-eyed lady Hera answered him:
+ 361  "Most dread son of Cronos, what a word you have spoken!
+ 362  Even a man, I suppose, will do what he can for a man,
+ 363  though he is mortal, and knows no such counsels as ours.
+ 364  How then should I — who claim to be the best of goddesses,
+ 365  doubly: by birth, and because I am called your wife,
+ 366  and you are king over all the immortals —
+ 367  how should I not stitch evils for the Trojans in my anger?"
+ 368  So the two of them spoke such things to one another.
+ 369  And silver-footed Thetis came to the house of Hephaestus,[19]
+ 370  imperishable, starry, shining out among the immortals'
+ 371  houses, built of bronze — the crook-footed god had made it himself.
+ 372  She found him sweating, wheeling about his bellows,
+ 373  hard at his hurry: for he was forging tripods, twenty
+ 374  in all, to stand around the wall of his well-built hall,
+ 375  and under the base of each he had set golden wheels,
+ 376  so that self-moved they might enter the assembly of the gods
+ 377  and come home to his house again — a wonder to see.
+ 378  So much was finished; but the intricate handles were not yet
+ 379  fitted on: these he was preparing, and hammering their rivets.
+ 380  While he labored at this with his knowing craft,
+ 381  the goddess, silver-footed Thetis, came near him;
+ 382  and Charis of the shining veil saw her and came forward —[20]
+ 383  the beautiful Charis, whom the famed crook-footed god had married —
+ 384  and clung to her hand, and spoke a word, and named her:
+ 385  "Thetis of the trailing robe — why have you come to our house,
+ 386  honored guest and dear? Before now you have not come often.
+ 387  Come further in with me, and let me set the guest-fare before you."
+ 388  So speaking, the brilliant goddess led her forward,
+ 389  and seated her on a chair, silver-studded,
+ 390  beautiful, intricate, with a footstool under her feet;
+ 391  and she called to Hephaestus famed for craft, and said:
+ 392  "Hephaestus — come out here: Thetis has need of you."
+ 393  And the famed crook-footed god answered her:
+ 394  "Then a dread goddess is inside my house — one I revere:
+ 395  she saved me when the pain came over me after my great fall,
+ 396  by the will of my own bitch-faced mother, who wanted
+ 397  to hide me away for being lame. My heart would have suffered then,
+ 398  had not Eurynome and Thetis caught me to their laps —
+ 399  Eurynome, daughter of back-flowing Ocean.
+ 400  Nine years I forged intricate things beside them —
+ 401  brooches, and curved spiral-bracelets, and rosette-cups, and necklaces —
+ 402  there in the hollow cave; and around us the stream of Ocean
+ 403  ran on forever, murmuring with foam. And no one knew —
+ 404  not one of the gods, not one of mortal men:
+ 405  only Thetis knew, and Eurynome — the two who saved me.
+ 406  Now she has come to our house; and so I am bound
+ 407  to pay fair-braided Thetis the whole ransom of my life.
+ 408  Set out the fine guest-fare before her now,
+ 409  while I put away my bellows and all my tools."
+ 410  He spoke, and heaved his monstrous bulk up from the anvil-block,[21]
+ 411  limping; and beneath him his slender legs moved quickly.
+ 412  He set the bellows away from the fire, and gathered
+ 413  all the tools of his labor into a silver chest;
+ 414  and with a sponge he wiped his face and both his hands,
+ 415  his massive neck and his shaggy chest,
+ 416  and put on a tunic, and took up a thick staff, and came out
+ 417  limping; and there moved quickly, supporting their lord,
+ 418  attendants made of gold, in the likeness of living girls:
+ 419  in them is mind, in their breasts, and voice,
+ 420  and strength; and they know handiwork from the immortal gods.
+ 421  These moved bustling at their lord's side; and he, laboring on
+ 422  to where Thetis was, sat down on a shining chair,
+ 423  and clung to her hand, and spoke a word, and named her:
+ 424  "Thetis of the trailing robe — why have you come to our house,
+ 425  honored guest and dear? Before now you have not come often.
+ 426  Say what is in your mind. My heart bids me do it,
+ 427  if do it I can — if it is a thing that can be done."
+ 428  Then Thetis answered him, shedding tears:[22]
+ 429  "Hephaestus — is there any goddess, of all on Olympus,
+ 430  who has endured so many bitter griefs in her heart,
+ 431  as many as the sorrows Zeus, Cronos's son, has given me beyond all?
+ 432  Out of all the sisters of the sea he broke me to a man,
+ 433  to Peleus, Aeacus' son; and I endured a man's bed,
+ 434  much against my will. That man lies in his halls now
+ 435  worn out with wretched old age. But there is more for me:
+ 436  he gave me a son to bear and to rear,
+ 437  first among heroes; and he shot up like a sapling.
+ 438  I reared him like a young tree on the orchard's slope
+ 439  and sent him out with the beaked ships to Ilion
+ 440  to fight the Trojans; and I shall never receive him again,
+ 441  never coming home again to the house of Peleus.
+ 442  And while he still lives, and looks on the light of the sun,
+ 443  he grieves; and I can do nothing to help him, though I go to him.
+ 444  The girl the sons of the Achaeans picked out as his prize —
+ 445  her the lord Agamemnon took back out of his hands;
+ 446  and grieving for her he was eating his own heart out. Then the Trojans
+ 447  penned the Achaeans against the sterns, and would not let them
+ 448  come out; and the elders of the Argives begged him,
+ 449  naming over the many glorious gifts.
+ 450  He refused, then, to beat off the ruin himself;
+ 451  but he put his own armor on Patroclus
+ 452  and sent him into the war, and a great force with him.
+ 453  All day they fought around the Scaean Gates,
+ 454  and would have sacked the city that same day — had not Apollo
+ 455  killed the stout son of Menoetius in the front ranks,
+ 456  Patroclus who had wrought so much harm, and handed the glory to Hector.
+ 457  So now I come to your knees: will you give my son —
+ 458  quick-fated as he is — a shield and a helmet,
+ 459  and fine greaves fitted with ankle-pieces,
+ 460  and a corslet? What he had, his trusted companion lost
+ 461  when the Trojans broke him; and my son lies on the ground, eating his heart out."
+ 462  Then the famed crook-footed god answered her:[23]
+ 463  "Take heart. Do not let these things trouble your mind.
+ 464  Would that I could hide him away from harsh-sounding death
+ 465  as surely — when the terrible doom comes for him —
+ 466  as fine armor shall be his: armor such that any man
+ 467  of the many who see it hereafter will marvel."
+ 468  So speaking he left her there and went to his bellows,
+ 469  and turned them toward the fire and bade them work.
+ 470  And the bellows — twenty in all — blew on the crucibles,[24]
+ 471  sending out their blast at every strength:
+ 472  now to serve him pressing hard, and now the opposite,
+ 473  however Hephaestus willed it and the work required.
+ 474  And he threw unwearying bronze on the fire, and tin,
+ 475  and precious gold, and silver; and next he set
+ 476  the great anvil on the anvil-block, and took up in one hand
+ 477  the massive hammer, and in the other took the tongs.
+ 478  And he made first of all a shield, great and heavy,
+ 479  working the whole of it with cunning; and around it he threw a rim,
+ 480  bright, triple, glittering; and from it a silver strap.
+ 481  Five were the layers of the shield itself; and on its face
+ 482  he wrought many intricate things with his knowing craft.
+ 483  On it he made the earth, and the heaven, and the sea,[25]
+ 484  the unwearied sun and the moon at her full,
+ 485  and on it all the constellations with which heaven is crowned —
+ 486  the Pleiades and the Hyades, and the strength of Orion,
+ 487  and the Bear, which men also call by the name of the Wagon,
+ 488  who turns in her own place, keeping watch on Orion,
+ 489  and alone has no share in the baths of Ocean.
+ 490  And on it he made two cities of mortal men,[26]
+ 491  beautiful. In the one there were weddings and feasts:
+ 492  brides were being led from their chambers under blazing torches
+ 493  up through the town, and loud rose the wedding-song;
+ 494  and young men whirled in the dance, and among them
+ 495  flutes and lyres kept up their cry; and the women,
+ 496  standing each at her door, looked on and marveled.
+ 497  And the people were gathered in the meeting-place, where a quarrel
+ 498  had risen: two men quarreling over the blood-price
+ 499  of a man who was killed. The one claimed he had paid all,
+ 500  declaring it to the people; the other refused to take anything;
+ 501  and both were eager to take an end of it before an arbiter.
+ 502  And the people cheered for both, supporters of either side,
+ 503  and the heralds held the crowd in check; and the elders
+ 504  sat on polished stones in the sacred circle,
+ 505  the scepters of the clear-voiced heralds in their hands;
+ 506  with these they rose, and gave judgment each in turn.
+ 507  And in the middle lay two talents of gold,
+ 508  to be given to the one who spoke the straightest judgment.
+ 509  But around the other city two armies of fighting men were lying[27]
+ 510  blazing in their armor; and their counsel was divided —
+ 511  whether to sack it outright, or to divide in two
+ 512  all the wealth the lovely town held inside it.
+ 513  But the besieged were not yielding: they had armed in secret for an ambush.
+ 514  Their dear wives and little children stood on the wall
+ 515  and guarded it, with the men whom old age held;
+ 516  and the rest went out. And Ares led them, and Pallas Athena,
+ 517  both of gold, and golden the clothes they wore,
+ 518  beautiful and great in their armor — like the gods they were,
+ 519  conspicuous on every side; and the people under them were smaller.
+ 520  And when they came to the place that suited their ambush,
+ 521  by a river, where there was a watering-place for all the herds,
+ 522  there they settled themselves, wrapped in blazing bronze.
+ 523  And two scouts sat apart from the army,
+ 524  waiting to sight the sheep and the twist-horned cattle.
+ 525  And these came on soon, and two herdsmen followed with them,
+ 526  delighting in their pipes: the trap they never guessed.
+ 527  And the men in ambush saw them and ran out, and swiftly
+ 528  cut off the herds of cattle and the fine flocks
+ 529  of white-shining sheep, and killed the herdsmen over them.
+ 530  But the besiegers, when they heard the great noise among the cattle
+ 531  from where they sat before the assembly-ground, mounted at once
+ 532  behind their high-stepping horses and came on fast, and reached them.
+ 533  And they formed up and fought their battle on the river-banks,
+ 534  striking one another with the bronze-fitted spears.
+ 535  And Strife was joining the crowd, and Tumult, and deadly Fate,
+ 536  holding one man fresh-wounded and alive, another
+ 537  unwounded, another dead, dragging him by the feet through the fighting;
+ 538  and the cloak on her shoulders was red with the blood of men.
+ 539  They closed and fought like living mortals,
+ 540  and dragged away each other's dead.
+ 541  And on it he set a fallow field, soft, rich plowland,[28]
+ 542  wide, thrice-turned; and on it many plowmen
+ 543  wheeled their teams and drove them this way and that;
+ 544  and whenever they turned and came to the field's edge,
+ 545  a man would come and put in their hands a cup
+ 546  of honey-sweet wine; and they would turn back down the furrows,
+ 547  straining to reach the deep fallow's edge again.
+ 548  And the field grew black behind them, like earth the plow has turned,
+ 549  though it was made of gold: that was the very wonder of the work.
+ 550  And on it he set a king's estate, where laborers[29]
+ 551  were reaping, with sharp sickles in their hands.
+ 552  Some handfuls were falling to the ground in rows along the swath,
+ 553  and others the sheaf-binders were tying with twisted straw:
+ 554  three binders stood at their work, and behind them
+ 555  boys gathered the handfuls and carried them in their arms,
+ 556  keeping them supplied without pause. And the king among them,
+ 557  in silence, staff in hand, stood at the swath, glad at heart.
+ 558  And heralds apart, beneath an oak, were laying out the feast,
+ 559  dressing the great ox they had slaughtered; and the women
+ 560  sprinkled the meal with white barley in plenty, for the laborers' dinner.
+ 561  And on it he set a vineyard, heavy-laden with grape-clusters,[30]
+ 562  beautiful, golden: the grapes along it were black,
+ 563  and it stood staked from end to end on silver poles.
+ 564  And around it he drove a ditch of blue enamel, and about that a fence
+ 565  of tin; and one single path led in,
+ 566  by which the carriers passed whenever they gathered the vintage.
+ 567  And girls and young men, hearts light as children's,
+ 568  carried the honey-sweet fruit in woven baskets;
+ 569  and in the middle of them a boy with a clear-toned lyre
+ 570  played longingly, and sang the beautiful Linos-song
+ 571  in his delicate voice; and they, stamping in time,
+ 572  followed with song and cries, skipping on their feet.
+ 573  And on it he made a herd of straight-horned cattle:[31]
+ 574  the cows were wrought of gold and of tin,
+ 575  and streamed lowing from the farmyard toward their pasture
+ 576  beside a murmuring river, beside the waving reeds.
+ 577  And golden herdsmen walked along with the cattle,
+ 578  four of them, and nine quick-footed dogs came after.
+ 579  But two terrible lions, in among the leading cattle,
+ 580  had hold of a bellowing bull; and he, roaring loud,
+ 581  was dragged away; and the dogs and the young men went after him.
+ 582  The two lions, ripping open the great bull's hide,
+ 583  were gulping the entrails and the black blood; and the herdsmen
+ 584  urged their swift dogs in vain, setting them on:
+ 585  the dogs kept shying back from sinking teeth in the lions,
+ 586  but stood in close and barked, and leapt away.
+ 587  And on it the famed crook-footed god made a pasture[32]
+ 588  in a beautiful glen, a great pasture of white-shining sheep,
+ 589  with steadings and roofed huts and pens.
+ 590  And on it the famed crook-footed god wrought a dancing floor,[33]
+ 591  like the one that Daedalus once fashioned
+ 592  in wide Knossos for lovely-haired Ariadne.
+ 593  There young men and girls whose bride-price is many oxen
+ 594  were dancing, holding one another's hands at the wrist.
+ 595  The girls wore fine linen, and the young men tunics
+ 596  well-woven, glistening softly with oil;
+ 597  and the girls wore beautiful garlands, and the young men carried
+ 598  golden daggers hanging from silver belts.
+ 599  And now they would run on skillful feet,
+ 600  lightly, easily — as when a potter, seated, tries
+ 601  the wheel fitted to his hands, to see if it will spin —
+ 602  and now again they would run in lines toward one another.
+ 603  And a great crowd stood around the lovely dance,
+ 604  delighting; and among them a divine singer made music,
+ 605  playing the lyre; and two acrobats, leading the measure,
+ 606  whirled through the middle of them.
+ 607  And on it he set the great strength of the river Ocean,[34]
+ 608  along the outermost rim of the strong-built shield.
+ 609  And when he had made the shield, great and heavy,[35]
+ 610  he made him a corslet brighter than the blaze of fire,
+ 611  and he made him a heavy helmet, fitted to his temples,
+ 612  beautiful, intricate, and set upon it a crest of gold,
+ 613  and he made him greaves of pliant tin.
+ 614  And when the famed crook-footed god had labored out all the armor,
+ 615  he took it up and laid it before the mother of Achilles;
+ 616  and she like a hawk plunged down from snow-capped Olympus,
+ 617  carrying the glittering armor from Hephaestus.
+
+------------------------------------------------------------
+
+NOTES
+
+[1] (18.1-14) Achilles reads the rout before the message arrives,
+    through a prophecy remembered: "the best of the Myrmidons,
+    while I still lived, would leave the light of the sun." His
+    mother's oracles (cf. 17.408-411) work in him as dread; the
+    fixed soliloquy frame ("troubled, he spoke...") carries the
+    poem's most fearful private arithmetic. His last clause before
+    the news is a rebuke to the dead man — "I ordered him: beat
+    off the fire, then back" — the conditions of 16.87-96,
+    recited by the man who set them, to no one.
+
+[2] (18.15-21) The delivery: four lines, weeping, with the fixed
+    formula shared by Menelaus's instructions (17.685-693) —
+    "Patroclus lies dead... naked: for Hector of the flashing
+    helmet has the armor" (the line reused verbatim). Nothing
+    softened, nothing arranged: the worst news in the poem is
+    also its shortest speech.
+
+[3] (18.22-35) The unmaking: the black cloud; both hands pouring
+    soot over the head; the "nectar-fragrant tunic" fouled with
+    ash; and the fallen line — "in the dust he lay stretched
+    out, mighty in his mightiness" — the epitaph of Cebriones
+    (16.776, register kept), now describing a living man
+    performing his own burial. The slave-women's shrieking
+    (δμῳαί, the register's word) makes the hut a house of
+    mourning; and Antilochus holds Achilles' hands "for fear he
+    might cut his own throat with the iron" — Aristarchus's
+    reading, and the Iliad's only suicide watch: the poem
+    considers, for one line, that its hero might end it here.
+    Then the scream that a goddess hears through the sea.
+
+[4] (18.35-49) The Nereid catalogue: thirty-three names of the
+    sea's daughters, athetized by Zenodotus and Aristarchus and
+    omitted in the Argolic edition — and kept here, because the
+    list is the point: an entire society of the sea rises
+    keening. The names are transparent sea-poetry — Glauce
+    (Grey-green), Cymodoce and Cymothoë (Wave-gatherer,
+    Wave-swift), Nemertes and Apseudes (Truthful and Unlying),
+    Pherousa and Dynamene (Carrier and Capable), Galateia of the
+    milk-white calm — Hesiod's Theogony shares many. Grief
+    summons the whole element: when Achilles screams, the
+    Mediterranean answers by name.
+
+[5] (18.50-64) Thetis leads the lament (ἐξῆρχε γόοιο — the
+    ritual term for the chief mourner) for a son not yet dead,
+    and coins for herself the poem's most desolate word:
+    δυσαριστοτόκεια — "unhappy in the best of sons": mother of
+    the best, and cursed by the superlative itself. The sapling
+    lines — "he shot up like a sapling; I reared him like a
+    young tree on the orchard's slope" — recur verbatim in her
+    petition to Hephaestus (437-443): a mother's lament already
+    hardened into liturgy.
+
+[6] (18.65-77) The Nereids beach at Troy; Thetis "took her son's
+    head in her arms" — the position of the chief mourner at a
+    corpse's head (cf. 24.724): she mourns him alive, enacting
+    the funeral she will not attend. Her comfort is the poem's
+    bitterest arithmetic: all this "has been accomplished by
+    Zeus, exactly as you prayed" — the Book 1 petition returned
+    with interest.
+
+[7] (18.78-93) Achilles' answer: the prayer granted, "but what
+    pleasure is it to me?" Patroclus "equal to my own head" —
+    self and friend one body — and the armor's loss traced to
+    its origin: the gods' wedding-gift "on the day they threw
+    you into the bed of a mortal man." The logic runs backward
+    from grief to his own conception: better his mother had
+    stayed in the sea, better he had never been. Then the vow
+    that closes the argument of the whole poem's first movement:
+    no life "unless Hector first, beaten under my spear, loses
+    his life."
+
+[8] (18.94-116) The choice. Thetis: "Quick-fated then you shall
+    be, child" (ὠκύμορος — her word for him since 1.417);
+    "straight after Hector your own doom stands ready." Achilles:
+    "Then let me die at once (αὐτίκα τεθναίην), since I was not
+    to help my companion at his killing." Plato set this
+    exchange at the center of the Apology (28c-d): Socrates,
+    refusing to abandon his post for fear of death, cites
+    Achilles despising danger "when the alternative was to live
+    a coward who does not avenge his friends" — the pagan
+    scripture of principled dying, quoted by philosophy at its
+    own martyrdom. (Aeschines quoted the neighboring lines in
+    court in 345 BC, reading the friendship as love — the
+    ancient debate about what Patroclus was to Achilles begins
+    in the orators.) The self-portrait that follows is pitiless:
+    "a useless weight on the plowland" — the best of the
+    Achaeans as unharvested ground.
+
+[9] (18.107-126) The wish against strife: "may strife perish
+    from among gods and men, and anger, that drives even the
+    prudent man to harshness: sweeter by far than honey dripping
+    down, it swells like smoke in the chests of men." The wrath
+    of the poem's first word is renounced by its owner in its
+    most quoted self-description — anger as honey and smoke,
+    pleasure and suffocation in one body. Then the turn: "done
+    is done"; death accepted "whenever Zeus wills"; the Heracles
+    precedent (even Zeus's dearest died); and the terrible new
+    economy of fame — to make "some deep-girdled woman of Troy
+    or Dardania wipe with both her hands the tears from her soft
+    cheeks": his glory henceforth denominated in enemy grief.
+    Thetis does not argue; she schedules the armor.
+
+[10] (18.148-202) Hera's covert operation: Iris sent "in secret
+    from Zeus," finding Achilles weaponless — and Iris's answer
+    to "how am I to go?" is the poem's discovery about presence:
+    "go to the ditch, just as you are, and show yourself." The
+    reuse of 16.42-43 (our English kept: "catch their breath...
+    for the breathing-spaces of war are few") makes the point
+    formally: what Patroclus's borrowed armor did in Book 16,
+    Achilles' bare appearance will do now. The disguise-plot
+    ends: the man himself is the weapon.
+
+[11] (18.203-231) The epiphany at the ditch: aegis, golden
+    cloud, and flame from the head — and the great simile turns
+    the Achaean camp inside out: the light is like smoke and
+    beacon-fires "from an island that enemies have surrounded...
+    in hope that neighbors may come with ships as warders-off of
+    ruin." The besieged fleet's distress-signal is Achilles
+    himself: he is the rescue the beacons pray for. The trumpet
+    simile (a city ringed by "life-breaking" enemies) keeps the
+    siege inverted; Athena's voice doubles his; and the toll is
+    the poem's most economical: twelve men dead "on their own
+    chariots and their own spears" — killed by sound. He never
+    crosses the ditch; his mother's command holds even here.
+
+[12] (18.232-239) The body received: Achilles walking behind the
+    bier "shedding hot tears, when he saw his trusted companion
+    lying on the litter, torn by the sharp bronze — the man he
+    had sent out with horses and chariot into the war, and never
+    received again at his homecoming." The verb is Thetis's (59,
+    89, 440): the failed reception, parent's and friend's, is
+    now the poem's defining gesture of loss.
+
+[13] (18.239-242) Hera sends the unwearied Sun into Ocean
+    "much against his will": the goddess closes by force the day
+    that began at 11.1 — the longest day in poetry, eight books
+    long — and with it expires Hector's warrant, which ran
+    "until the sun goes down" (11.193-194). The astronomical
+    order itself is bent to end a battle: nothing in the poem
+    says more economically how much the gods now need Achilles
+    on the field tomorrow.
+
+[14] (18.243-284) The standing assembly ("no man dared sit"):
+    fear given a posture. Polydamas — introduced with his full
+    credentials: born the same night as Hector, "one far the
+    better in words, the other with the spear," the man who
+    "alone looked before and behind" — gives the fourth and last
+    of his counsels (12.61 accepted; 12.211 rejected; 13.726
+    accepted; now this): into the city tonight, fight from the
+    towers at dawn. Every clause is correct, and the poem lets
+    him paint the alternative exactly as Book 22 will stage it:
+    the horses worn out "with every kind of running, driving
+    them under the town... sooner the running dogs will eat
+    him."
+
+[15] (18.285-310) Hector's answer — the register's darkly-
+    glaring formula for the first time turned on his own
+    counselor since 12.230. Its center is the war's balance-
+    sheet: Priam's city, once "rich in gold, rich in bronze,"
+    stripped — "sold off, our treasures have long since passed
+    to Phrygia and lovely Maeonia" — ten years of attrition in
+    four lines, the clearest economics in the poem. Then the
+    fatal logic: Zeus has granted me glory at the ships —
+    "I will not allow" retreat; and the creed: "I will stand
+    against him, face to face — whether he carries off the
+    great triumph, or I. Enyalius is impartial: he kills the
+    would-be killer" (ξυνὸς Ἐνυάλιος — war the commons, shared
+    ground where the hunter is hunted). Magnificent, and the
+    exact miscalculation: the last time Hector trusted a grant
+    of Zeus, it expired at sundown (note [13]). It has.
+
+[16] (18.310-314) The narrator's civic verdict: the Trojans
+    applaud — "the fools: for Pallas Athena had taken their
+    wits from them. To Hector they gave their praise, whose
+    counsels were ruinous; to Polydamas no man's, who had
+    devised the good counsel." The poem's one explicit theory
+    of collective political failure: the assembly's judgment
+    itself god-damaged. Hector will remember this night with
+    these very terms at 22.99-107 ("Polydamas will be first to
+    heap reproach on me"); the applause the Trojans give here
+    is the shame that keeps him outside the wall to die.
+
+[17] (18.314-355) The wake. Achilles leads the lament with
+    "man-slaughtering hands" laid on his companion's chest —
+    the poem's fixed epithet for Hector's hands (ἀνδροφόνος)
+    transferred once, here, to Achilles' (ancient copies read
+    it either way; the transfer is the point). The lion robbed
+    of his cubs "goes down glen after glen tracking the man's
+    footprints... for bitter anger takes hold of him": grief as
+    pursuit — the simile knows revenge is a species of
+    mourning. The speech makes the broken promise to Menoetius
+    explicit (Opoeis, the share of spoils), accepts the shared
+    grave ("the two of us are fated to redden the same earth
+    here in Troy"), and then makes the poem's darkest vow:
+    Hector's armor and head; "and before your pyre I will cut
+    the throats of twelve shining children of the Trojans" —
+    human sacrifice, promised in cold blood and later paid
+    (21.27-32; 23.175-176). The poem neither softens nor
+    condemns it; it sets it beside the tenderness of the
+    washing — the boiled water, oil, nine-year unguent, soft
+    linen, white cloak — one night containing both.
+
+[18] (18.356-368) Zeus and Hera, dry as a domestic ledger:
+    "So you have managed it... Truly they must be your own
+    children, these long-haired Achaeans — born from you!" Her
+    answer scales godhead by analogy from below: even a mortal
+    man does what he can for a friend — how should the best of
+    goddesses "not stitch evils for the Trojans in my anger?"
+    (κακὰ ῥάψαι — mischief as needlework: the craft-verb of the
+    book, on the eve of its greatest crafting.) An ancient
+    critic (Zenodorus) condemned the exchange; it is the
+    Olympian marriage in equilibrium — the quarrel of Books 1
+    and 15 subsided into married irony.
+
+[19] (18.369-381) The house of Hephaestus, "imperishable,
+    starry... he had made it himself" — and the first wonder:
+    twenty tripods with golden wheels under their bases, "so
+    that self-moved (αὐτόματοι) they might enter the assembly
+    of the gods and come home to his house again." The first
+    self-propelled machines in literature, unfinished on the
+    workbench — their intricate handles still to be riveted —
+    when the biggest commission of the poem walks in. The god
+    of craft is discovered mid-project, sweating: labor is
+    labor even on Olympus.
+
+[20] (18.382-409) Charis — "Grace of the shining veil" — is
+    Hephaestus's wife here (in the Odyssey it is Aphrodite:
+    the poem marries the craftsman to the quality of his own
+    work). Her hospitality frames the god's great autobiography:
+    thrown from heaven by "my own bitch-faced mother," who
+    wanted the lame child hidden; caught in the laps of Thetis
+    and Eurynome; nine years in the sea-cave forging "brooches,
+    and curved spiral-bracelets, and rosette-cups, and
+    necklaces" while Ocean foamed around and no one knew. (At
+    1.590-594 he tells of a different fall — hurled by Zeus,
+    landing on Lemnos: two falls, unreconciled; a god may have
+    more than one myth.) The debt is named in the language of
+    ransom: ζῳάγρια, "the whole ransom of my life" — the shield
+    of Achilles will be forged as the repayment of a rescue,
+    the poem's economy of obligation reaching into heaven.
+
+[21] (18.410-421) The god at rest: the "monstrous bulk" heaving
+    up from the anvil-block, the sponge over face and hands and
+    "shaggy chest" — divine labor with human sweat — and then
+    the second wonder: "attendants made of gold, in the likeness
+    of living girls: in them is mind, in their breasts, and
+    voice, and strength; and they know handiwork from the
+    immortal gods." Artificial intelligence, three millennia
+    early: the lame god has built himself helpers with minds.
+    The poem presents them without astonishment — in this house,
+    the made and the living have equal standing.
+
+[22] (18.428-461) Thetis's petition: her own biography first —
+    married off "out of all the sisters of the sea... and I
+    endured a man's bed, much against my will," Peleus now
+    "worn out with wretched old age" (the wedding the gods
+    attended, reduced to a widowhood-in-waiting); the sapling
+    lines repeated verbatim from her lament (note [5]); and
+    then the entire Iliad summarized in thirteen lines — the
+    prize taken, the wrath, the embassy's gifts refused, the
+    borrowed armor, Apollo's kill, Hector's glory — the poem
+    retold inside the poem as one mother's grievance
+    (Aristarchus athetized the summary as needless; it is the
+    story's shape seen from the sea: this is what the epic
+    looks like to a bereaved immortal). The request itself is
+    a plain equipment-list: shield, helmet, greaves with
+    ankle-pieces, corslet — for a son she names with her own
+    epithet for him: "quick-fated."
+
+[23] (18.462-467) Hephaestus's answer measures exactly what
+    craft can and cannot do: "Would that I could hide him away
+    from harsh-sounding death as surely... as fine armor shall
+    be his." He can make anything except the one thing wanted.
+    The armor is promised not as protection but as marvel —
+    "any man of the many who see it hereafter will wonder" —
+    art's honest offer: not to save, but to amaze.
+
+[24] (18.468-482) The forge in motion: twenty bellows blowing
+    "at every strength... however Hephaestus willed it and the
+    work required" — automated, responsive tools; the four
+    metals; anvil, hammer, tongs. The shield: five layers,
+    triple shining rim, silver strap — and the maker's formula
+    that will govern everything on it: "he wrought many
+    intricate things with his knowing craft" (ἰδυίῃσι
+    πραπίδεσσιν — with knowing wits: intelligence in the
+    hands).
+
+[25] (18.483-489) The cosmos first: earth, heaven, sea, sun,
+    full moon, "all the constellations with which heaven is
+    crowned" — Pleiades, Hyades, Orion's strength, and the
+    Bear-also-called-Wagon "who turns in her own place, keeping
+    watch on Orion, and alone has no share in the baths of
+    Ocean": the circumpolar star that never sets, described
+    with precise naked-eye astronomy (the same lines steer
+    Odysseus at Od. 5.272-275). The shield begins where Genesis
+    begins; everything human on it will happen under this
+    permanent sky.
+
+[26] (18.490-508) The city at peace: weddings first — torchlit
+    processions, the hymenaios, whirling dancers, "the women,
+    standing each at her door, looked on and marveled" (the
+    audience inside the artwork, marveling as we do). Then the
+    trial: two men quarreling "over the blood-price of a man
+    who was killed" — one claiming full payment made, one
+    refusing to accept — both eager for an arbiter; the elders
+    in the sacred circle with the heralds' scepters, judging in
+    turn; two talents of gold for "the straightest judgment."
+    The most-argued lines in Greek legal history (already in
+    antiquity) — and, in this poem, the shield's quiet answer
+    to its bearer: in the city at peace, a killing becomes a
+    procedure; ποινή can be paid, accepted, judged. Ajax said
+    it to Achilles' face (9.632-636): a man accepts the price
+    even for a slain brother. Achilles carries into battle a
+    picture of the settlement he refused — and will, in Book
+    24, at last enact.
+
+[27] (18.509-540) The city at war fights this poem's own war in
+    miniature: the divided counsel of the besiegers (sack, or
+    take half the wealth — the very offer Hector floated at
+    22.111-121's rehearsal); the wall held by wives, children,
+    and old men (Troy's exact demography, 8.518-522); the
+    ambush at the watering-place; the herdsmen killed
+    "delighting in their pipes: the trap they never guessed"
+    (the shield's one unbearable clause — music as the last
+    sound of the unsuspecting); and the river-bank battle
+    joined by Strife, Tumult, and deadly Fate dragging a dead
+    man by the feet, "and the cloak on her shoulders was red
+    with the blood of men. They closed and fought like living
+    mortals" — the highest compliment art pays itself in the
+    poem: the made men fight like real ones. What Hephaestus
+    forges here is the Iliad.
+
+[28] (18.541-550) The plowing: thrice-turned fallow, the teams
+    wheeling, and at every turn "a man would come and put in
+    their hands a cup of honey-sweet wine" — labor's rhythm
+    marked in refreshment. Then the master-stroke: "the field
+    grew black behind them, and looked like earth that the
+    plow has turned, though it was made of gold: that was the
+    very wonder of the work." Gold made to look like soil —
+    the poem names realism itself as the miracle: not the
+    precious material but its perfect surrender to truth.
+
+[29] (18.551-561) The king's estate: reapers, binders, boys
+    with armfuls, the slaughtered ox under the oak, women and
+    barley — and at the center, the poem's image of right
+    lordship: "the king among them, in silence, staff in hand,
+    stood at the swath, glad at heart." A king whose joy is
+    watching his people's work — the anti-Agamemnon: no prize
+    taken, nothing seized; the staff (σκῆπτρον, the quarrel's
+    own prop in Book 1) held in stillness over harvest instead
+    of strife. (Some ancient copies added a line naming the
+    grain "Eleusinian Demeter's" — the apparatus records the
+    pious insertion.)
+
+[30] (18.562-573) The vineyard: gold vines, black grapes,
+    silver poles, enamel ditch, tin fence, "and one single path
+    led in" — the picture composed like the object it is. At
+    its heart the poem's most haunting music: the boy with the
+    clear lyre singing "the beautiful Linos-song in his
+    delicate voice" while the pickers stamp and skip in time.
+    The Linos-song was the ancient harvest-lament — grief for
+    the dying year sung inside abundance (Herodotus 2.79 found
+    its double in Egypt) — so even the shield's happiest panel
+    keeps one thread of mourning, in a boy's voice, at the
+    vintage.
+
+[31] (18.574-587) The cattle and the lions: the herd streaming
+    out "beside a murmuring river, beside the waving reeds" —
+    and then the shield's only irruption of the wild: two
+    lions on the bellowing bull, "gulping the entrails and the
+    black blood," the dogs barking close and shying back. The
+    countryside's one violence is the oldest kind — predation,
+    not war: on the shield as in the poem's similes, the lion
+    is what battle keeps trying to look like.
+
+[32] (18.588-590) The sheep pasture: glen, steadings, huts,
+    pens — three lines with no event at all: the shield's one
+    panel of pure peace, and the shortest.
+
+[33] (18.591-607) The dancing floor "like the one that Daedalus
+    once fashioned in wide Knossos for lovely-haired Ariadne" —
+    Homer's only Daedalus, invoked as the craftsman's own
+    benchmark: Hephaestus outdoing the human master. Young men
+    and much-wooed girls ("whose bride-price is many oxen"),
+    hand on wrist; linen and oiled tunics; garlands, gold
+    daggers on silver belts; and the wheeling runs compared to
+    a potter testing his wheel — a craft simile inside the
+    craftwork, the second artisan invoked within the artifact.
+    Then the line with the great textual history: "among them
+    a divine singer made music, playing the lyre." Aristarchus
+    deleted the singer (Athenaeus 180-181 preserves the
+    surgery), claiming the verse was imported from Odyssey
+    4.17-18 — but our printed text keeps him, and rightly: the
+    shield's final human figure is the poet, singing inside
+    the world he is part of, while two acrobats lead the
+    measure. The Iliad's maker signs the work — inside it.
+
+[34] (18.607-608) Ocean at the rim: the river that circles the
+    world circles the shield — the cosmos of line 483 closed
+    by its own boundary; the object is finished as the world
+    is, edged with water. On this disk Achilles will carry the
+    entire ordered world — seasons, courts, weddings, harvests,
+    the dance — into a battle where he intends to die.
+
+[35] (18.610-618) The rest, in one breath each: corslet
+    "brighter than the blaze of fire," helmet with golden
+    crest, greaves of pliant tin; and the delivery — Thetis
+    "like a hawk plunged down from snow-capped Olympus,
+    carrying the glittering armor." The book that began with a
+    scream ends with a stoop of wings: the mother diving
+    seaward-fast out of heaven, bringing her quick-fated son
+    the most beautiful object in literature, so that he can go
+    and be killed in it gloriously. Book 19 opens with the
+    armor laid down clashing before him.
