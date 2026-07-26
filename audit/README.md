@@ -32,7 +32,7 @@ Mechanical formula conformance is not audited by humans — run
 | 6 | 2026-07-26 (full, r1) | book-06-full-r1.md — 0 firm at review, 1 upgraded + fixed, 1 parked | μήστωρ φόβοιο harmonized (6.97/278, with 8.108, 23.16) |
 | 7 | 2026-07-26 (full, r1) | book-07-full-r1.md — 1 firm (fixed), 1 parked | 7.117 ἀκόρητος inversion fixed |
 | 8 | 2026-07-26 (full, r1) | book-08-full-r1.md — 2 firm (fixed), 1 parked | 8.105 = 5.221 harmonized; μήστωρ φόβοιο register fix |
-| 9 | — | — | — |
+| 9 | 2026-07-26 (full, r1) | book-09-full-r1.md — 0 firm, 0 parked | none required |
 | 10 | — | — | — |
 | 11 | — | — | — |
 | 12 | — | — | — |
