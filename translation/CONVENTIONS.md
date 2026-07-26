@@ -287,6 +287,15 @@ the Odyssey project's FORMULAS.md.
 | δαίμονι ἶσος | like more than man | 5.438 / 16.705, 786 |
 | ψυχὴ δʼ ἐκ ῥεθέων πταμένη... (soul-flight couplet) | his soul, flying from his limbs, went down to the house of Hades, / wailing its fate, leaving its manhood and its youth | 16.856-857 = 22.362-363 (reuse verbatim) |
 | ἐν χερσὶ τέλος πολέμου, ἐπέων δʼ ἐνὶ βουλῇ | In hands lies the outcome of war; of words, in council | 16.630 |
+| ῥεχθὲν δέ τε νήπιος ἔγνω | When the thing is done, even the fool learns. | 17.32 |
+| θεῶν ἐν γούνασι κεῖται | these things lie on the knees of the gods | 17.514; also 20.435 |
+| οὐ κατὰ κόσμον | not by right | 17.205 |
+| ἐν δὲ φάει καὶ ὄλεσσον | and in the light — kill us | 17.647 |
+| θρέπτρα | the price of his rearing | 17.302 (cf. 4.478) |
+| μαλθακὸς αἰχμητής | a soft spearman | 17.588 |
+| εἰλαπιναστής | companion at the feast | 17.577 |
+| ἀτρύγετος (of αἰθήρ) | barren (air) — sea formula lent to the ether | 17.425 |
+| οὐ μὲν γάρ τί πού ἐστιν ὀϊζυρώτερον ἀνδρός... | there is nothing anywhere more pitiful than man, / of all things that breathe and creep upon the earth | 17.446-447 |
 
 ### Things, places, seascape
 | Greek | English | First |
@@ -513,6 +522,23 @@ Polydeuces (not "Pollux"), Otreus, Mygdon, Lycaon (Paris's brother — same
 name as Pandarus's father, 2.826), Dardanus ("Dardanus' descendant" for
 Δαρδανίδης Priam). Scaean Gates. Kranae. Sangarius (river). Phrygia,
 Maeonia, Lacedaemon.
+
+Added in Book 17: Phrontis (Euphorbus's mother), Mentes of the
+Cicones (not the Odyssey's Taphian), Hippothous son of Pelasgian
+Lethus (dies; from 2.840-843), Lethus, Larisa (from 2.841),
+Schedius son of Iphitus (dies; the 2.517 Phocian — distinct from
+Schedius son of Perimedes, 15.515), Panopeus, Phorcys son of
+Phaenops (dies; from 2.862), Periphas the herald son of Epytus
+(distinct from the Aetolian Periphas, 5.842), Epytus, Leiocritus
+son of Arisbas, Arisbas, Apisaon son of Hippasus (second Apisaon,
+cf. 11.578; fourth Hippasus), Paeonia, Aretus (dies), Podes son of
+Eëtion (Hector's feast-companion; the name Eëtion again),
+Phaenops son of Asius of Abydos (Hector's guest-friend — same name
+as 5.152's Phaenops; the Asius name a fourth time), Coeranus of
+Lyctus (dies; distinct from the Lycian Coeranus, 5.677), Lyctus,
+Alectryon (Leïtus's father), Laodocus (Antilochus's companion —
+distinct from 4.87's Laodocus), Dioreus/Diores (Automedon's
+father — distinct from the Epeian 2.622 and the victim 4.517).
 
 Added in Book 16: Automedon (active), Xanthus and Balius (the
 horses), Podarge the harpy, Zephyrus (as sire), Pedasus the horse
@@ -816,3 +842,15 @@ fingers of rose" ("rosy-fingered Dawn"); "Odysseus of the many designs"
   18.316ff, 23.222ff — keep the tenderness-register.
 - The wrath's formal end-date moved: 16.60-63 ("when the war reached
   my own ships") supersedes 9.650-655; cite in Book 18-19 notes.
+- Hector's beheading intent (17.125-127) is the corpse-outrage
+  baseline for Books 22-24; Glaucus's corpse-exchange proposal
+  (17.160-163) prefigures the ransom of Book 24.
+- Zeus's ποινή speech (17.198-208): Andromache and the armor —
+  echo at 22.437ff (Andromache weaving, unaware) and at the
+  armor's recovery in 22.
+- Antilochus runs unarmed and weeping (17.698-701) → Book 18 opens
+  with his arrival; his gentleness is recalled at 23.556.
+- The weeping horses (17.426-440) speak at 19.404-417 (Xanthus's
+  prophecy) — keep "their charioteer" wording in view.
+- 17.454-455 reuses the sunset clause (= 11.193-194) — third
+  statement; fulfilled 18.239-242.

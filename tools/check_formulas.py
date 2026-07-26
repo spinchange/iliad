@@ -60,7 +60,7 @@ CHECKS = [
     (["δολιχόσκιον"], ["long-shadowed"], "long-shadowed spear"),
     (["νηλέϊ χαλκῷ"], ["pitiless bronze"], "pitiless bronze"),
     (["πολυφλοίσβοιο"], ["loud-roaring"], "loud-roaring sea"),
-    (["ἀτρυγέτοιο"], ["barren sea"], "barren sea"),
+    (["ἁλὸς ἀτρυγέτοιο", "ἀτρύγετον πόντον"], ["barren sea"], "barren sea"),
     (["ἐὺ φρονέων ἀγορήσατο"], ["With good will toward them"], "eu phroneon line"),
     (["ἔκ τʼ ὀνόμαζε"], ["named h"], "spoke a word, and named"),
     (["ποιμένα λαῶν", "ποιμένι λαῶν", "ποιμὴν λαῶν"], ["shepherd of the people"],
