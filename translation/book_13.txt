@@ -76,8 +76,8 @@ tree-fall for 16.482-484, and Medon's biography for 15.333-336.
   22  golden, glittering, is built for him, imperishable forever.
   23  There he came, and yoked beneath his chariot the bronze-hoofed horses,
   24  swift-flying, with manes streaming gold,
-  25  and clothed his own body in gold, and caught up the whip,
-  26  well-wrought, golden, and mounted his chariot,
+  25  and clothed himself in gold, and took the whip,
+  26  gold, well-wrought, and mounted the chariot,
   27  and drove out over the waves. And the sea-beasts gamboled beneath him,
   28  coming from every hollow, and did not fail to know their lord;
   29  and the sea in its joy stood apart; and the horses flew on
@@ -471,9 +471,9 @@ tree-fall for 16.482-484, and Medon's biography for 15.333-336.
  417  So he spoke, and grief came over the Argives at his vaunting,
  418  and most of all he stirred the heart of war-minded Antilochus;
  419  yet grieved as he was, he did not forget his companion:
- 420  he ran and stood over him, and covered him with his shield,
- 421  and two loyal companions stooped beneath the body,
- 422  Mecisteus, Echius's son, and brilliant Alastor,
+ 420  running, he stood over him and covered him with the shield,
+ 421  and two loyal companions stooped beneath him,
+ 422  Mecisteus, Echius' son, and brilliant Alastor,
  423  and carried him, groaning heavily, to the hollow ships.
  424  And Idomeneus did not slacken his great fury: he strained
  425  always either to wrap some Trojan in blinding night
@@ -803,8 +803,8 @@ tree-fall for 16.482-484, and Medon's biography for 15.333-336.
  749  and at once he leapt with his weapons from the chariot to the ground,
  750  and speaking winged words he addressed him:
  751  "Polydamas — you hold all our best men here,
- 752  while I go over there and face the fighting;
- 753  I will come back quickly, when I have given them their orders."
+ 752  I will go over there and take my share of the fighting,
+ 753  and come back quickly, when I have given them their orders."
  754  He spoke, and set off — like a snow-shining mountain —[36]
  755  screaming, and flew through the Trojans and the allies.
  756  And they all surged toward Panthous's son, gracious Polydamas,
@@ -839,7 +839,7 @@ tree-fall for 16.482-484, and Medon's biography for 15.333-336.
  785  and we will follow you, and gladly; nor do I think
  786  you will find us short of courage, so far as the strength is in us.
  787  Beyond his strength no man can fight, however hot he burns."
- 788  So speaking, the hero turned his brother's mind.
+ 788  So speaking the hero turned his brother's mind.
  789  They set off for where the battle and struggle burned thickest,
  790  around Cebriones, and blameless Polydamas,
  791  and Phalces, and Orthaeus, and godlike Polyphetes,
@@ -879,11 +879,11 @@ tree-fall for 16.482-484, and Medon's biography for 15.333-336.
  825  I wish I were as surely, all my days, the son
  826  of aegis-bearing Zeus, and the lady Hera had borne me,
  827  and I were honored as Athena and Apollo are honored,
- 828  as surely as this day is bringing evil on the Argives —
+ 828  as surely as this day now brings evil to the Argives —
  829  all of them; and you will be killed among them, if you dare
  830  stand against my long spear, which will tear open
  831  your lily-soft skin; and you will glut the dogs and birds of Troy[38]
- 832  with your fat and your flesh, fallen by the ships of the Achaeans."
+ 832  with your fat and your flesh, fallen beside the ships of the Achaeans."
  833  So speaking he led the way, and they followed him
  834  with a prodigious roar, and the army screamed behind him.
  835  And the Argives on the other side raised their cry, and did not forget
