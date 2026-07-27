@@ -1,0 +1,946 @@
+A CATALOG OF SIMILES
+
+A companion to the translation
+
+
+FOREWORD
+
+The extended simile is Homer's signature instrument, and the Iliad
+is its greatest gallery: some three hundred and forty comparisons,
+nearly two hundred of them developed past a single line — little
+poems set into the poem, each opening on a world the narrative
+itself is forbidden to visit. For the strange fact about the
+Iliad's similes is that almost none of them are about war. They
+are about weather, herdsmen, harvests, insects, children, women
+working wool for a pitiful wage; the war is the tenor, but the
+vehicle is peace. The poem of fifty-one days on a single plain
+keeps, in its similes, a second poem — of seasons, of the whole
+Mediterranean year, of ordinary work and ordinary grief — and it
+is through that second poem that the deaths of the first one
+land. A boy's head drops like a garden poppy heavy with rain; an
+army holds its line the way a spinner holds her scales level; a
+king's grief at a pyre is a father's at his son's. The simile is
+where the Iliad admits what the world is otherwise like, and how
+much of it the war is costing.
+
+Technically the Homeric simile runs long past the point of
+comparison. It begins from one shared feature — speed, noise,
+stubbornness — and then keeps going, accreting detail the
+narrative does not need: the shepherd who hears the torrents from
+far off, the sailors who will never profit from the beacon they
+see, the boys whose strength is "a child's strength." Critics
+once treated the overflow as decoration. It is the opposite: the
+overflow is the meaning, the place where the poem's attention
+escapes the battlefield and dwells, for four or five lines, on
+the world that is not fighting. Then the pivot — "so," the
+hinge-word — swings shut, and we are back on the plain.
+
+This catalog is a showcase, not a census. It gathers the similes
+of this translation that seemed most worth setting side by side —
+including, without apology, a few formal comparisons and outright
+metaphors, and one great inversion — arranged by theme rather
+than by book, so that the poem's families of images can be seen
+as families: the lions together, the fires together, the mothers
+together. Every quotation is verbatim from the translation and
+cited by the Greek line numbers the translation shares; where a
+quoted sentence runs on past its excerpt, the quotation ends at a
+line-break and the ellipsis is the reader's to imagine. Notes on
+recurrence are added where the poem repeats an image across
+books, because that too is part of the art.
+
+
+I. LIONS, WOLVES, AND THE BEASTS OF PREY
+
+The predators are the war-poem's native heraldry, but Homer's are
+never mere emblems: they are hungry, harried, often failing, and
+the poem's sympathy drifts between the lion and the herdsman with
+perfect impartiality.
+
+11.548-557 · Ajax forced back from the ships
+
+    As a fiery lion from a yard of cattle
+    is driven off by dogs and countrymen,
+    who will not let him take the fat of the herd,
+    watching all night long; and he, craving the meat,
+    charges in but gets nowhere, for javelins thick and fast
+    fly out to meet him from daring hands,
+    and burning brands besides, and he flinches at those for all his fury,
+    and at dawn he goes off apart, sullen at heart;
+    so Ajax then, sullen at heart, fell back from the Trojans,
+    much against his will; for he feared for the Achaeans' ships.
+
+  The greatest of the defeated-lion similes: all night's hunger,
+  and nothing for it but dawn and sullenness.
+
+16.156-163 · The Myrmidons arming
+
+    And they, like wolves
+    that eat flesh raw, hearts full of unspeakable courage,
+    who have brought down a great antlered stag in the mountains
+    and tear it, and every muzzle among them is red with blood;
+    and in a pack they go to a spring of dark water
+    to lap with their thin tongues the black surface-water,
+    belching up clotted gore; and the heart in their chests
+    is fearless still, though every belly is stretched:
+
+  Homer's most physical pack-image — the thin tongues, the black
+  water — for an army that has been starved of war for weeks.
+
+18.318-323 · Achilles begins the lament
+
+    like a bearded lion
+    whose cubs a deer-hunter has snatched away
+    out of the thick wood; and he comes back too late, and grieves,
+    and goes down glen after glen tracking the man's footprints,
+    hunting him out — for bitter anger takes hold of him:
+    so, groaning heavily, Achilles spoke among the Myrmidons:
+
+  Grief rendered as a predator's grief: too late, and already
+  turning into pursuit. The whole last third of the poem is in
+  this simile.
+
+20.164-173 · Achilles comes out to meet Aeneas
+
+    And the son of Peleus rose from the other side to meet him like a lion,
+    a raider, whom men are wild to kill —
+    a whole district, gathered; and at first he comes on
+    heedless of them, but when one of the battle-quick young men
+    hits him with a spear, he crouches, jaws gaping, foam
+    gathering on his teeth, and the brave heart in him groans,
+    and with his tail he lashes his ribs and flanks
+    on both sides, and whips himself on to fight,
+    and glaring he drives straight in, to see whether he will kill
+    some man, or die himself in the front of the crowd:
+
+  The lion literally whips himself into battle — the tail on the
+  flanks — as though even fury had to be goaded.
+
+21.573-580 · Agenor stands alone at the gates
+
+    As a leopard comes out of deep brush
+    to face the huntsman, and her heart neither
+    fears nor thinks of flight when she hears the baying —
+    for even if he is quicker, and stabs or hits her with a cast,
+    still, run through on the very spear, she does not leave off
+    her valor, until she closes with him or goes down:
+    so the son of proud Antenor, brilliant Agenor,
+    refused to run before he had put Achilles to the test.
+
+  Courage defined from inside the doomed animal: run through on
+  the very spear, she does not leave off.
+
+22.93-97 · Hector waits for Achilles
+
+    And as a mountain snake at his hole waits for a man,
+    fed full of evil poisons, and the terrible anger has entered him,
+    and he glares dreadfully, coiling around his hole:
+    so Hector, holding his fury unquenchable, would not give way,
+    his shining shield propped on the jut of the tower;
+
+  The hole is the point: the snake defends the one place it
+  cannot leave. Hector's hole is Troy.
+
+22.308-311 · Hector's last charge
+
+    like the high-flying eagle
+    that drops to the plain through the lowering clouds
+    to snatch a soft lamb or a cowering hare:
+    so Hector swooped, shaking his sharp sword.
+
+  For his final act the poem lends the dying man its supreme
+  predator — and lets the softness of the prey say the rest.
+
+21.22-26 · Achilles in the river
+
+    As before a huge-mawed dolphin the other fish
+    flee and fill the inlets of a fair-anchoring harbor,
+    terrified — for he devours whatever he catches:
+    so the Trojans down the channels of the terrible river
+    cowered under the overhangs.
+
+  The one marine predator in the poem, produced at the exact
+  moment the battlefield turns to water.
+
+
+II. THE SMALL, THE STUBBORN, AND THE SWARM
+
+Homer will compare heroes to anything that has the required
+virtue — including vermin. The insect similes are among the
+poem's proudest: smallness observed without condescension.
+
+11.558-565 · Ajax again — the donkey
+
+    As when a donkey going past a cornfield masters the boys who drive him,
+    a slow one, on whose ribs many sticks have been broken,
+    and he gets in and crops the deep grain, while the boys
+    beat him with sticks — but their strength is a child's strength —
+    and only just drive him out when he has eaten his fill,
+    so then great Ajax, Telamon's son, was harried
+    by the high-hearted Trojans and their allies called from many lands,
+
+  Back-to-back with the lion (11.548-557) for the same retreat:
+  first the noble reading, then the true one. No other ancient
+  poet would have dared the pairing; none ever honored an army's
+  best defensive fighter with a beaten donkey who wins.
+
+16.259-267 · The Myrmidons pour out
+
+    At once they came pouring out like roadside wasps
+    that boys are forever provoking, forever tormenting —
+    wasps with their nests along the road — as boys will,
+    the little fools: they make a common evil for many.
+    If some traveling man going by then stirs the wasps
+    without meaning it, out they come with fearless hearts,
+    every one flying at him, defending their young:
+
+  The Trojans are the boys who kept poking; the innocent
+  passer-by gets the war. Few similes carry so much quiet blame.
+
+17.570-573 · Athena puts courage into Menelaus
+
+    and set in his chest the boldness of the fly,
+    which — beaten off again and again from a man's skin —
+    persists in biting; and human blood is sweet to it:
+    with boldness like that she filled his darkened heart,
+
+  A goddess's gift, and the poem chooses the fly: the least
+  dignified and most indestructible courage there is.
+
+16.641-644 · Around the body of Sarpedon
+
+    And they crowded round the corpse always — as flies
+    in a farmstead buzz about the brimming milk-pails
+    in the season of spring, when the milk wets the vessels:
+    so they crowded round the corpse.
+
+  The spring milking (first heard at 2.469-471, of armies
+  mustering) returns over a dead son of Zeus: abundance and
+  carrion in a single image.
+
+21.12-16 · The rout driven into Xanthus
+
+    As when locusts rise on the air before the rush of fire
+    and flee toward a river: the unwearying flame burns on,
+    leaping up suddenly, and they cower down in the water:
+    so before Achilles the sounding stream of Xanthus,
+    the deep-eddying, was choked with horses and men together.
+
+  Fire driving living things into water — the simile knows, three
+  hundred lines early, exactly how this book will end for the
+  river himself.
+
+3.2-7 · The Trojan advance
+
+    like the clamor of cranes that rises against the sky,
+    when they flee the winter and the measureless rain
+    and fly clamoring toward the streams of Ocean,
+    bearing slaughter and doom to the Pygmy men,
+    and out of the morning air they carry their evil strife —
+
+  The poem's first marching simile reaches to the edge of the
+  known world — and against it, in the next line, the Achaeans
+  come on in silence.
+
+2.459-466 · The muster on the plain
+
+    And as the many tribes of winged birds —
+    geese, or cranes, or long-necked swans —
+    on the Asian meadow around the streams of Caystrius
+    fly this way and that, glorying in their wings,
+    settling with cries, always advancing, and the meadow rings —
+    so their many tribes from the ships and huts
+    poured out onto the Scamandrian plain, and beneath them the ground
+    thundered terribly under the feet of men and horses.
+
+  From the great chain of five similes that heralds the Catalogue
+  of Ships: the army as wildfowl, glorying in sheer number.
+
+3.151-153 · The old men on the wall
+
+    but speakers
+    of quality, like cicadas that in the woods
+    perch on a tree and send out their lily-thin voice:
+
+  Age done in six words: lily-thin voice.
+
+8.306-308 · The death of Gorgythion
+
+    And as a poppy in a garden lets its head fall sideways,
+    heavy with its own seed and the rains of spring,
+    so his head bowed to one side under the weight of the helmet.
+
+  Perhaps the most beautiful death in the poem — a boy nobody
+  remembers, given the one flower-simile in the Iliad.
+
+
+III. FIRE, WEATHER, AND THE SEA
+
+The poem's largest family. Armies are weather in the Iliad —
+they gather, darken, break, and pass — and the men inside them
+are the farmers and sailors the weather happens to.
+
+2.455-458 · The bronze of the advancing army
+
+    As an annihilating fire blazes up through a boundless forest
+    on the peaks of a mountain, and the glare shows from far away,
+    so, as they marched, from the tremendous bronze
+    a gleam went flashing through the upper air to the sky.
+
+4.422-428 · The Danaan companies move
+
+    As when on a booming beach the swell of the sea
+    rises, wave on wave, under the West Wind's driving:
+    out on the deep it first rears its crest, and then
+    breaking on the land it thunders aloud, and around the headlands
+    it arches and comes to a peak and spits out the salt foam:
+    so wave on wave the companies of the Danaans moved
+    without pause into war;
+
+4.452-456 · The armies meet
+
+    As when winter torrents pouring down the mountains
+    hurl together their weight of water at a meeting of glens
+    out of great springs, deep in a hollow ravine,
+    and far off in the mountains a shepherd hears the thunder of it:
+    such was the roar and the toil of them as they came together.
+
+  The shepherd is the surplus that makes it Homer: someone
+  harmless, far away, hearing the collision he is spared.
+
+14.16-20 · Nestor's indecision
+
+    As when the great open sea darkens with soundless swell,
+    boding the quick paths of the shrill winds —
+    only boding: it neither rolls forward nor to either side,
+    until some deciding blast comes down from Zeus:
+    so the old man weighed it, his heart torn two ways —
+
+  A state of mind as a state of water: the swell before the wind
+  chooses. Homer's psychology is meteorological.
+
+15.618-622 · The Danaan line holds
+
+    they held, locked like a tower — like a rock-face,
+    sheer and huge, hard by the grey salt water,
+    that abides the quick paths of the shrill winds
+    and the swollen waves belching against it:
+    so the Danaans stood the Trojans, steady, and did not run.
+
+15.624-628 · Hector falls on them
+
+    and fell on them as a wave falls on a swift ship,
+    wind-fed, ravening, out of the clouds: and the whole ship
+    is buried in spray, and the terrible blast of the wind
+    roars in the sail, and the sailors tremble at heart,
+    terrified: for they are carried only just out from under death:
+
+  Cliff and wave, back to back, for the same collision — then the
+  poem goes below decks to the sailors, where the fear lives.
+
+13.137-143 · Hector charges
+
+    like a boulder off a cliff-face
+    that a river swollen with winter shoves down the ledge,
+    breaking with prodigious rain the shameless rock's moorings;
+    bounding high it flies, and the timber crashes
+    under it; and it runs on unswerving, steady, until it reaches
+    the level plain — and there it rolls no more, for all its rush:
+    so Hector for a while threatened to sweep clean to the sea,
+
+  The simile promises the stop before the narrative delivers it:
+  the plain is already waiting for the boulder.
+
+14.414-418 · Hector felled by the stone
+
+    As when an oak goes down under the stroke of father Zeus,
+    torn out by the roots, and the terrible smell of sulphur
+    rises off it, and courage fails whoever sees it
+    from close by — for hard is the bolt of great Zeus:
+    so Hector's fury dropped in an instant to the dust.
+
+  You can smell this simile — the sulphur of the split oak is the
+  only odor in all the poem's weather.
+
+12.278-289 · The stones fly thick as snow
+
+    And as flakes of snow fall thick and fast on a winter's day,
+    when Zeus the counselor has bestirred himself to snow
+    on mankind, and shows them what his missiles are,
+    and lulling the winds he pours it down steadily, until he has covered
+    the peaks of the high mountains, and the jutting headlands,
+    and the clover meadows, and men's rich worked fields;
+    and it is poured out over the harbors and shores of the grey sea,
+    and only the wave, breaking on it, keeps it off; but all things else
+    are wrapped from above, when the storm of Zeus drives down upon it:
+    so from both sides their stones flew thick and fast,
+
+  The gentlest storm in the poem, spread over eight lines for a
+  hail of stones: the world silenced and whitened down to the one
+  black edge of sea that will not take the snow.
+
+16.384-392 · The Trojan mares in rout
+
+    And as the whole black earth is weighed down under a storm
+    on a day of harvest-season, when Zeus pours down
+    his most violent water, when in rage he turns bitter
+    against men who by force render crooked judgments in the assembly
+    and drive justice out, careless of the gods' vengeance:
+    all their rivers rise in flood as they run,
+    and the torrents cut the hillsides into gullies,
+    and down to the darkening sea they roar headlong
+    from the mountains, groaning huge, and the works of men are diminished:
+
+  The one simile in the Iliad where Zeus's weather is moral — the
+  flood sent against crooked judges — set, with terrible tact, in
+  the middle of a rout the gods engineered.
+
+20.490-494 · The aristeia begins to burn
+
+    As unearthly fire rages through the deep glens
+    of a parched mountain, and the deep forest burns,
+    and the wind, driving it everywhere, whirls the flame around:
+    so everywhere he stormed with his spear, like more than man,
+    harrying the men he killed; and the black earth ran with blood.
+
+3.221-223 · Odysseus speaking
+
+    But when he let the great voice out of his chest,
+    and the words came like snowflakes in winter,
+    then no other mortal could rival Odysseus.
+
+  Words as weather: dense, continuous, covering everything.
+
+19.357-361 · The army pours out for the last battle
+
+    As when thick snowflakes flutter down from Zeus,
+    cold under the blast of Boreas born in the clear sky,
+    so thick then the helmets, glittering bright,
+    streamed out of the ships, and the bossed shields,
+    the strong-plated corslets and the ash-wood spears.
+
+
+IV. STARS, FIRE-LIGHT, AND SMOKE
+
+Light in the Iliad is almost always a warning. The loveliest
+lights in the poem — stars, beacons, harvest-fires — mark
+watchfires of the enemy, armor coming to kill, cities already
+burning.
+
+8.555-561 · The Trojan watchfires
+
+    As when in the sky the stars around the shining moon
+    appear in all their glory, when the air falls windless,
+    and all the lookout-peaks show clear, and the jutting headlands,
+    and the glens; and from heaven the measureless air breaks open,
+    and every star is seen; and the shepherd's heart is glad:
+    so many, between the ships and the streams of Xanthus,
+    shone the fires the Trojans burned before Ilion.
+
+  The most famous night in Greek poetry. The glad shepherd looks
+  up at a thousand fires that mean, for the Achaeans below them,
+  that tomorrow may be the end. (The clear-air lines return,
+  verbatim as the Greek returns them, at 16.297-300 — where the
+  sky that "breaks open" is relief itself, the fire thrust back
+  from the ships.)
+
+22.26-32 · Achilles first seen from the wall
+
+    streaking across the plain, blazing like the star
+    that rises at harvest-time, and its rays shine clear
+    among many stars in the milking-dark of night —
+    the star men call by name the Dog of Orion.
+    Brightest of all it is; and it is made an evil sign,
+    and brings great fever down on wretched mortals:
+    so shone the bronze on his chest as he ran.
+
+  Priam watches beauty and pestilence arrive as one thing. The
+  whole tragedy of Achilles is in the astronomy: brightest of
+  all, and an evil sign.
+
+22.317-321 · The point of the spear
+
+    And as a star moves among stars in the milking-dark of night —
+    Hesperus, the most beautiful star that stands in heaven —
+    so the light went from the keen point that Achilles
+    balanced in his right hand, purposing evil for brilliant Hector,
+    searching the beautiful flesh for where it would yield the most.
+
+  The evening star, the most beautiful in heaven, is the last
+  light Hector sees: the poem's cruelest gift of loveliness.
+
+18.207-214 · The fire over Achilles' head
+
+    As when smoke rises from a city into the upper air,
+    far off, from an island that enemies have surrounded,
+    where all day long the men are put to the test of hateful war
+    from their own city walls; and then, with the setting sun,
+    beacon-fires blaze up one after another, and the glare
+    shoots high for the neighboring islanders to see,
+    in hope that they may come with ships as warders-off of ruin:
+    so from the head of Achilles the light went up to the upper air.
+
+  The besieged island calling for rescue — a signal of hope in
+  the narrative, and pure terror to those it faces.
+
+19.374-379 · The light of the new shield
+
+    he took up, and its light went out far, like the moon's.
+    As when out at sea a light shows to sailors,
+    the glare of a burning fire, that burns high in the mountains
+    at a lonely steading — while the storm-winds carry them,
+    unwilling, over the fish-filled sea away from their dear ones:
+    so from Achilles' shield the light went up to the upper air,
+
+  The counter-image to the rescue-beacon of Book 18: this time
+  the sailors see the light and are blown away from it, from home
+  and their dear ones — Achilles' own future, glimpsed in his own
+  armor.
+
+21.522-525 · Achilles at the walls
+
+    As when smoke rises and reaches the wide heaven
+    from a burning city — the wrath of the gods has sent it up,
+    and it lays labor on all, and grief on many:
+    so Achilles laid labor and grief on the Trojans.
+
+  A simile that is also a prophecy: Troy's actual smoke, held one
+  book beyond the poem's edge, rises here on loan.
+
+
+V. THE WORLD OF WORK
+
+The Iliad's peacetime world survives chiefly here: the whole
+economy of field, byre, workshop, and kitchen, carried into the
+battle one simile at a time.
+
+5.499-503 · The armies whitened with dust
+
+    As the wind carries chaff across the sacred threshing-floors
+    when men are winnowing, and tawny-haired Demeter
+    in the driving wind divides the grain from the husks,
+    and the chaff-heaps whiten: so the Achaeans then
+    turned white from above with dust,
+
+13.588-592 · An arrow glances off
+
+    As off a broad winnowing-shovel, on a great threshing-floor,
+    the dark-skinned beans or the chickpeas jump
+    under the shrill wind and the winnower's swing,
+    so from the corslet of glorious Menelaus
+    the bitter arrow glanced far off, turned hard away.
+
+  Death deflected into the kitchen-garden: the arrow becomes a
+  bean off the shovel.
+
+13.703-708 · The two Ajaxes
+
+    but as in fallow land two wine-dark oxen strain
+    at the jointed plow with one and the same heart, and around
+    the roots of their horns the sweat wells up in streams,
+    and only the polished yoke holds the two apart
+    as they drive down the furrow, and the plow cuts to the field's edge:
+    so the two of them took their stand, shoulder to shoulder.
+
+  Wine-dark, elsewhere the sea's word, given to two oxen: the
+  poem's highest compliment to teamwork.
+
+17.742-746 · Carrying the body of Patroclus
+
+    And they — like mules who have thrown their great strength into the work,
+    dragging down from the mountain along a rugged track
+    a roof-beam or a huge ship-timber, and inside them the heart
+    is worn with weariness and sweat together as they strain:
+    so the two of them, straining, carried the body.
+
+  Grief as haulage. The dead friend has the weight of a
+  roof-beam, and the poem does not flinch from saying so.
+
+12.421-423 · Fighting across the breastwork
+
+    But as two men quarrel over boundary-stones,
+    measuring-rods in hand, in a common field,
+    who in a little strip of ground contend over the fair share:
+
+  The wall of the Achaeans reduced to a farmers' property-line
+  dispute — war seen suddenly from very high up.
+
+12.433-435 · The battle in balance
+
+    as an honest working woman holds the scales,
+    who with the weight in one pan and the wool in the other
+    draws them level, to win a pitiful wage for her children:
+
+  The famous spinner: the exact center of the poem's compassion.
+  Two armies hang level in the scales of a woman working piece-
+  rates to feed her children.
+
+15.410-413 · Deadlock at the ships
+
+    But as a chalk-line trues a ship-timber straight
+    in the hands of a skilled carpenter, who knows
+    his whole craft well by the promptings of Athena,
+    so their battle and their war were drawn even and taut.
+
+18.600-601 · The dancers on the Shield
+
+    as when a potter, seated, tries
+    the wheel fitted to his hands, to see if it will spin —
+
+  The craftsman's simile inside the craftsman's masterpiece:
+  Hephaestus's dancers spin like the wheel a potter tests.
+
+17.389-393 · The tug-of-war over the corpse
+
+    As when a man gives his people the hide of a great bull
+    to stretch, soaked through with fat:
+    they take it and stand in a circle and stretch it
+    outward; and quickly the moisture goes, and the fat sinks in
+    with so many pulling, and the whole hide is stretched taut through:
+
+  The most unsparing simile in the poem: Patroclus's body as the
+  hide in the tanners' circle. Homer honors the dead man by
+  refusing to look away from what a body is.
+
+16.406-410 · Patroclus hooks a man from his chariot
+
+    and hauled him by the spear-shaft over the chariot-rail — as a man
+    sitting on a jutting rock hauls a sacred fish
+    out of the sea with his line and his glittering bronze:
+    so he hauled him gaping from the chariot on the shining spear
+    and tumbled him down on his face; and the life left him as he fell.
+
+  Gruesome and delicate at once — the gaping mouth belongs to
+  both halves of the comparison.
+
+21.257-264 · The river gains on Achilles
+
+    As when a ditch-tending man leads a stream of water
+    from a dark spring down through his plantings and gardens,
+    mattock in hand, knocking the clogs from the channel,
+    and as it flows all the pebbles are rolled and tumbled
+    under it, and it runs murmuring quickly down
+    the sloping ground, and outruns the very man who guides it:
+    so the wave of the current forever caught Achilles,
+    fast as he was: gods are stronger than men.
+
+  The fastest man alive outrun by garden irrigation. The simile's
+  last clause is the whole theology of the poem in six words.
+
+15.679-684 · Ajax defends the decks
+
+    And as a man well skilled in trick-riding,
+    who has yoked together four horses picked from many
+    and comes sweeping in from the plain toward the great city
+    along the public road — and many marvel at him,
+    men and women both — while he, steady, sure, and always
+    leaping, changes from horse to horse as they fly along:
+
+  A circus act at the poem's most desperate hour: Ajax leaping
+  ship to ship becomes the stunt-rider the whole town turns out
+  to watch.
+
+23.760-763 · Odysseus runs a close second
+
+    and brilliant Odysseus drove in
+    close behind — close as the weaving-rod to the breast
+    of a fair-girdled woman, when she pulls it deftly in her hands,
+    drawing the spool out along the warp, and holds the rod
+    near her breast: so close Odysseus ran,
+
+  Distance measured in the most intimate unit the poem knows: the
+  space between a weaving-woman's rod and her breast.
+
+24.80-82 · Iris dives into the sea
+
+    Down she shot to the bottom like the lead sinker
+    that rides the horn of a field-ox down the line
+    and goes among the ravening fish, carrying death.
+
+  A god's descent weighted with fishing-tackle — and even here,
+  in three lines, the little engine ends on death.
+
+4.141-147 · The wound of Menelaus
+
+    As when some woman of Maeonia or Caria stains
+    ivory with crimson, to be a cheek-piece for horses;
+    it lies in a treasure-room, and many horsemen
+    have prayed to carry it; but it lies there, a king's treasure,
+    both ornament for the horse and glory for the driver:
+    so, Menelaus, your shapely thighs were stained
+    with blood, your shins, and your fine ankles beneath.
+
+  Blood on skin as craft — the craftswoman, the treasure-room,
+  the waiting buyers — for the wound that nearly ends the war.
+
+5.902-904 · Ares healed
+
+    As when fig-juice thickens the white milk at a stir,
+    liquid before, and it curdles fast as a man turns it,
+    so quickly he healed rushing Ares.
+
+  Divine medicine as cheese-making: the homeliest miracle in the
+  poem.
+
+21.362-365 · The river boils
+
+    As a cauldron boils within, hurried by a great fire,
+    melting down the lard of a fatted hog,
+    bubbling up on every side, with dry split wood beneath it:
+    so his beautiful streams blazed with the fire, and the water boiled,
+
+  A god cooked in his own bed like Sunday lard: the Theomachy's
+  comedy at full heat.
+
+15.362-366 · Apollo kicks down the wall
+
+    as when a boy by the sea
+    heaps sand into shapes in his childish play,
+    and then, still playing, scatters them again with his feet and hands:
+    so you, archer Phoebus, poured into ruin the long
+    labor and misery of the Argives,
+
+  The most frightening simile in the Iliad, precisely because
+  nothing in it is frightening: the Achaean wall — books of
+  labor, blood, and prayer — is a child's sandcastle to a god.
+
+
+VI. TREES
+
+Men fall like trees in every epic; Homer planted a whole forest
+first, so each felling costs something particular.
+
+6.146-149 · Glaucus to Diomedes
+
+    As the generation of leaves, so is the generation of men.
+    The wind pours some leaves to the ground, and others the forest
+    grows in their fullness when the season of spring comes on:
+    so with the generations of men — one grows, one dies away.
+
+  The most quoted lines in the poem, and the only simile spoken
+  as an argument: asked for his lineage before combat, Glaucus
+  answers that lineage is foliage. (Apollo repeats the thought
+  from above at 21.464-466, as contempt; Glaucus made it
+  dignity.)
+
+4.482-487 · The death of Simoeisius
+
+    and he fell to the ground in the dust
+    like a poplar that has grown up in the wet meadow
+    of a great marsh — smooth, with the branches growing
+    at its very top — and a chariot-maker with the bright iron
+    fells it, to bend a wheel-rim for a beautiful car,
+    and it lies there seasoning along the river bank:
+
+  The poem's first great tree-death. The boy becomes timber
+  before our eyes — felled for someone else's beautiful car, left
+  seasoning by the river where he was born.
+
+16.482-486 · The death of Sarpedon
+
+    He fell as an oak falls, or a white poplar,
+    or a towering pine, that carpenters up in the mountains
+    cut down with fresh-whetted axes to be a ship's timber:
+    so he lay stretched out before his horses and chariot,
+    bellowing, clawing at the blood-soaked dust.
+
+  Zeus's own son gets all three trees at once — and then the
+  simile hands him back, not timber after all but a man
+  clawing the dust.
+
+17.53-58 · The death of Euphorbus
+
+    As a man rears a flourishing olive sapling
+    in a lonely place, where water wells up in plenty —
+    a fair shoot, and a thriving; and the breathing of every
+    wind rocks it, and it breaks thick with white blossom;
+    but suddenly a wind comes with a great squall
+    and wrenches it out of its trench and lays it flat on the earth:
+
+  The tenderest of the tree-deaths: not wild growth but a
+  nursling, somebody's cherished planting, taken by the same
+  element that rocked it.
+
+
+VII. THE HUMAN HEART
+
+The similes that reach past nature into the household: mothers,
+children, labor-pangs, dreams. Here the war-poem keeps its
+tenderness, and pays for it.
+
+4.130-131 · Athena deflects the arrow
+
+    She brushed it back from the skin just so far as a mother
+    brushes a fly from her child when he lies in sweet sleep,
+
+  War-goddess as nursery-mother, for exactly one and a half
+  lines.
+
+16.7-10 · Achilles to the weeping Patroclus
+
+    like a little girl
+    running at her mother's side, begging to be carried,
+    clutching her skirt, dragging at her hurrying steps,
+    and looking up at her in tears until she lifts her:
+
+  Teasing on the surface, and underneath it the poem's whole
+  reading of the friendship: Patroclus will get what the child
+  gets — to be lifted and carried — but not alive.
+
+9.323-327 · Achilles on his years of war
+
+    As a bird carries to her unfledged chicks
+    every morsel she takes, and it goes hard with herself,
+    so I have lain awake through many an unsleeping night
+    and fought through bloody days of battle,
+    contending with men for the sake of their women.
+
+  Achilles' own simile for himself: not lion or fire but a mother
+  bird going hungry. It is the strangest self-portrait in Greek
+  poetry, and it is spoken in anger.
+
+11.269-272 · Agamemnon's wound
+
+    As when the sharp shaft of labor seizes a woman in her pangs,
+    the piercing shaft the Eileithyiai of hard labor send,
+    Hera's daughters, keepers of the bitter pangs,
+    so sharp pains sank into the strength of Atreus' son.
+
+  The king of men measured against childbirth — the one pain the
+  heroic world concedes it cannot rank above its own.
+
+17.4-6 · Menelaus over the body
+
+    as a mother-cow, lowing,
+    stands over her first calf, who never knew birth before:
+    so tawny-haired Menelaus stood over Patroclus.
+
+  First calf: the inexperience is the tenderness. The poem's
+  gentlest fighter gets its gentlest animal.
+
+23.222-224 · Achilles at the pyre
+
+    As a father mourns, burning the bones of his son,
+    a bridegroom, whose death has grieved his unhappy parents:
+    so Achilles mourned, burning the bones of his companion,
+
+  No animal, no weather — by Book 23 the only adequate comparison
+  for grief is other grief.
+
+9.14-15 · Agamemnon before the assembly
+
+    letting fall tears like a spring of dark water
+    that pours its black stream down a goat-proof cliff.
+
+  The image returns at 16.3-4 for Patroclus's tears — the poem's
+  two great weepings, king and friend, drawn from one spring.
+
+15.80-83 · Hera flies to Olympus
+
+    As when the mind of a man darts, who has traveled
+    over much country, and thinks in his quick wits
+    "would I were here, or there," and wishes himself many places,
+    so swiftly, straining, flew the lady Hera;
+
+  The speed of thought, discovered eight centuries before it
+  became a cliché — and given, precisely, to the traveled mind:
+  you can only wish yourself where you have been.
+
+6.506-511 · Paris comes down from the citadel
+
+    As when a stalled horse, corn-fed at the manger,
+    breaks his tether and gallops drumming across the plain,
+    used to bathing in the fair-flowing river,
+    glorying: he holds his head high, and the mane
+    streams along his shoulders; sure of his own splendor,
+    his knees carry him lightly to the haunts and pastures of horses:
+
+  Pure animal joy, morally weightless — which is the judgment:
+  this is Paris. When the same lines return at 15.263-268 they
+  describe Hector, and mean courage. One simile, two verdicts;
+  the poem trusts placement to tell them apart.
+
+17.434-438 · The horses of Achilles weep
+
+    As a grave-stone stands unmoving, set on the barrow
+    of a dead man or a woman,
+    so they stood, unstirring, with the beautiful chariot,
+    drooping their heads to the earth; and hot tears
+    ran from their eyelids to the ground as they mourned
+
+  Immortal horses compared to the stillest human thing there is —
+  a grave-marker: the deathless standing as monument to the dead.
+
+23.598-600 · Menelaus forgives Antilochus
+
+    And that man's heart
+    was warmed like the dew about the ears of ripening corn,
+    when the fields are bristling:
+
+  The one simile in the poem for reconciliation — and it is
+  harvest dew: quiet, early, and brief.
+
+22.158-165 · The chase
+
+    a brave man fled in front — but a far better one pursued him —
+    fast: since it was no beast of sacrifice, no ox-hide,
+    they strove for — the prizes given for men's running:
+    they ran for the life of Hector, the tamer of horses.
+    As when prize-winning single-hoofed horses wheel round the turn-posts
+    at full gallop, and a great prize is set out —
+    a tripod, or a woman — in the games for a man who has died:
+    so the two of them whirled three times around Priam's city
+
+  The negative simile, Homer's rarest device: he names the normal
+  prizes only to strike them out. And inside the comparison, the
+  funeral games have already begun — a great prize is set out,
+  for a man who has died.
+
+22.199-201 · The chase, unending
+
+    And as in a dream a man cannot catch one who runs —
+    the one cannot escape him, nor the other catch —
+    so he could not run him down, nor the other get away.
+
+  Two lines of pure nightmare-mechanics, three thousand years
+  before anyone else wrote down what dreams do.
+
+16.745-750 · Patroclus mocks the falling Cebriones
+
+    "Well, well — how nimble the man is! What easy tumbling!
+    If ever he found himself on the fish-teeming sea,
+    this man could feed a whole crew, diving for oysters,
+    leaping overboard even in rough weather —
+    as easily as he tumbles now from his chariot onto the plain.
+    So: there are acrobats among the Trojans too."
+
+  A simile inside a taunt inside a killing: the dying charioteer
+  becomes an oyster-diver in the mouth of a man who will himself
+  be dead within two hundred lines. The gallows-humor is part of
+  the record; the poem does not prettify what battle does to the
+  living, either.
+
+24.317-319 · The omen for Priam
+
+    Wide as the door of some rich man's high-roofed
+    treasure-chamber stands, a door well fitted with bolts,
+    so wide his wings spread out on either side.
+
+  An eagle's wingspan measured by a doorway — the domestic scale
+  reclaiming even the sky, in the poem's last hours.
+
+24.480-484 · Priam appears before Achilles
+
+    As when thick blindness takes a man, who in his own country
+    kills another, and comes among a different people,
+    to a rich man's house, and wonder holds all who see him:
+    so Achilles wondered, seeing godlike Priam;
+    and the others wondered too, and looked at one another.
+
+  The last great simile of the Iliad, and its most audacious: the
+  roles run backward. It is the suppliant king who is compared to
+  a killer arriving out of nowhere, and the killer of his sons
+  who feels the wonder. In the poem's final reckoning, guilt and
+  grief have changed places so completely that only an inverted
+  simile can describe the room. Everything the catalog holds —
+  the beasts, the storms, the harvests, the mothers — narrows at
+  the end to this: two men looking at each other, and wonder.
