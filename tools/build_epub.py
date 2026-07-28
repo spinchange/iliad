@@ -37,6 +37,11 @@ verse anchor, exactly as in the Odyssey build.
 Usage:
     python tools/build_epub.py                 # all 24 books
     python tools/build_epub.py --books 1       # Book 1 proof of concept
+
+Derived formats (Calibre, matching the Odyssey edition's A5 PDF trim):
+    ebook-convert epub-build/iliad.epub epub-build/iliad.azw3
+    ebook-convert epub-build/iliad.epub epub-build/iliad.pdf \
+        --paper-size a5 --pdf-page-numbers
 """
 from __future__ import annotations
 import argparse, os, re, shutil, subprocess, sys
@@ -272,6 +277,45 @@ def index_page(present_books: set[int]) -> str:
     return header + body + "\n\n</div>\n\n"
 
 
+def further_reading_page() -> str:
+    """further_reading.txt as a back-matter chapter.
+
+    Format: a two-line masthead, then paragraphs separated by blank lines.
+    Three paragraph shapes: a section head (single all-caps line, optionally
+    roman-numbered); an entry (a title line containing " · " separators —
+    which may WRAP onto further non-indented lines — followed by a 2-space
+    indented body); and plain prose (the foreword and closing note bodies).
+    """
+    src = ROOT / "further_reading.txt"
+    if not src.exists():
+        return ""
+    text = src.read_text(encoding="utf-8")
+    # Drop the masthead (title + subtitle); the chapter heading replaces it.
+    paras = [p.splitlines() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    paras = paras[1:] if paras and paras[0][0].strip() == "FOR FURTHER READING" else paras
+
+    HEAD_RE = re.compile(r"^(?:[IVX]+\.\s+)?[A-Z][^a-z]*$")
+    out = ["# For Further Reading {.unnumbered #further-reading}", "",
+           "*The Iliad’s ancient company: a guide*", ""]
+    for para in paras:
+        first = para[0]
+        if len(para) == 1 and HEAD_RE.match(first.strip()):
+            out += [f"## {first.strip()} {{.unnumbered}}", ""]
+        elif " · " in first and not first.startswith(" "):
+            # Title = the leading run of non-indented lines (wrapped titles).
+            i = 0
+            while i < len(para) and not para[i].startswith(" "):
+                i += 1
+            title = " ".join(l.strip() for l in para[:i])
+            body = [l.strip() for l in para[i:]]
+            out += [f"**{title}**", ""]
+            if body:
+                out += [" ".join(body), ""]
+        else:
+            out += ["\n".join(para), ""]
+    return "\n".join(out) + "\n"
+
+
 def build(book_nums: list[int]) -> Path:
     if WORK.exists():
         shutil.rmtree(WORK)
@@ -309,6 +353,12 @@ def build(book_nums: list[int]) -> Path:
         tn = WORK / "98-tnotes.md"
         tn.write_text(tnotes_page(commentaries), encoding="utf-8")
         inputs.append(tn)
+
+    fr_md = further_reading_page()
+    if fr_md:
+        fr = WORK / "99-further.md"
+        fr.write_text(fr_md, encoding="utf-8")
+        inputs.append(fr)
 
     idx_md = index_page(set(book_nums))
     if idx_md:
