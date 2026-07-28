@@ -160,6 +160,15 @@ REGISTRY = [
       "the Achaeans' bulwark; unqualified 'Ajax' means him unless the line marks the other"),
     E("Ajaxes", "MORTAL", ["Ajaxes"], "the two Ajaxes (Αἴαντε)",
       "the dual: Telamonian Ajax and Ajax son of Oïleus fighting as a unit"),
+    E("Ajax son of Oïleus", "MORTAL", [], "swift Ajax; the lesser Ajax; Oïleus' son",
+      "the Locrian leader, promised his own headword by canon.md's alias table but "
+      "missed when the registry was seeded — found in the 2026-07-28 review pass. "
+      "tokens is deliberately empty: his name IS 'Ajax', and that token stays with "
+      "the Telamonian per canon's default rule, so his citations all come from "
+      "shared-token lines and the merge flags every one (documented in _flags-01.md). "
+      "NB: added after make_slices ran; his worklist block was inserted by hand into "
+      "_worklist-01.md — rerunning make_slices would reshuffle every slice boundary "
+      "and misalign all eight entries files. Do not rerun it without rewriting them."),
     E("Diomedes", "MORTAL", ["Diomedes"], "Tydeus' son; good at the war-cry",
       "the aristeia of Book 5; wounds Aphrodite and Ares"),
     E("Menelaus", "MORTAL", ["Menelaus"], "dear to Ares; tawny-haired; good at the war-cry; Atreus' son",

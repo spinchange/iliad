@@ -22,7 +22,7 @@ fill the silver-shining cave, beat their breasts, and follow Thetis ashore;
 Thetis addresses them as "sister Nereids" and leads the lament.
 *Kin:* daughters of the old man of the sea; sisters of Thetis.
 **Refs:** 18.38, 18.49, 18.52. Book 18.
-*See also:* Thetis, Achilles, Nereus.
+*See also:* Thetis, Achilles.
 
 ---
 
@@ -393,8 +393,7 @@ burial in Book 23, and his bones are to lie in one jar with Achilles'.
 *Killed by:* Hector, with Apollo and Euphorbus (16.783–822).
 **Refs:** 1.337, 11.602, 16.2, 16.49, 16.480, 16.787, 16.822, 23.65 …and
 throughout. Books 1, 8, 9, 11, 15–19, 21–24.
-*See also:* Achilles, Menoetius, Hector, Sarpedon, Euphorbus, Nestor, Opoeis,
-Automedon.
+*See also:* Achilles, Menoetius, Hector, Sarpedon, Euphorbus, Nestor, Opoeis, Automedon.
 
 ---
 
@@ -409,7 +408,7 @@ as he was, kept pace with immortal horses"; Sarpedon's cast kills him. A man of
 the name, twin of Aesepus, is killed by Euryalus at 6.21.
 **Refs:** 6.21, 6.35, 9.152, 9.294, 16.152, 16.467, 20.92, 21.87.
 Books 6, 9, 16, 20, 21.
-*See also:* Altes, Laothoe, Satnioeis, Achilles, Xanthus, Balius, Sarpedon.
+*See also:* Altes, Laothoe, Satnioeis, Achilles, Xanthus (horse), Sarpedon.
 
 ---
 

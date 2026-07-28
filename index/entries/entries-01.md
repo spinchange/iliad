@@ -81,8 +81,7 @@ Priam, having been argued out of his rage by an old man who kisses his hands.
 Neoptolemus, reared on Scyros. Companion of Patroclus; foster-son of Phoenix.
 **Refs:** 1.1, 1.58, 1.348, 9.199, 16.2, 18.22, 22.330, 24.596 …and throughout.
 Books 1–2, 4–24.
-*See also:* Patroclus, Hector, Agamemnon, Thetis, Peleus, Aeacus, Briseis, Priam,
-Phoenix.
+*See also:* Patroclus, Hector, Agamemnon, Thetis, Peleus, Aeacus, Briseis, Priam, Phoenix.
 
 ---
 
@@ -275,6 +274,26 @@ other.
 **Refs:** 2.557, 3.229, 7.183, 7.219, 9.622, 15.727, 17.132 …and throughout.
 Books 1–18, 23.
 *See also:* Ajax son of Oïleus, Ajaxes, Telamon, Teucer, Hector, Achilles.
+
+---
+
+**Ajax son of Oïleus** (Αἴας Ὀϊλῆος υἱός) · MORTAL
+Leader of the Locrians with forty ships: "the lesser Ajax, in no way so big as
+Telamonian Ajax / but far smaller: a little man, in a linen corslet, / but with
+the spear he surpassed all Hellenes and Achaeans" (2.528–530). He is the fastest
+Achaean in the chase — most of the kills in the Book 14 rout are his, "for there
+was no one like him for speed of foot" when men broke and ran — and the savage
+half of the pair: it is he who cuts off Imbrius' head in wrath for Amphimachus
+and sends it "rolling like a ball through the crowd" to fall at Hector's feet
+(13.202–205). In the footrace of the games Athena trips him at a dead run into
+the cattle-dung, and he stands spitting it out while the Argives laugh at him
+(23.774–784).
+*Also called:* swift Ajax; the lesser Ajax; Oïleus' son. Unqualified "Ajax" is
+the Telamonian — see `canon.md`.
+*Kin:* son of Oïleus; half-brother of Medon, Oïleus' bastard son (13.694–695).
+**Refs:** 2.527, 13.203, 13.701, 14.520, 23.473, 23.754, 23.774. Books 2, 13–14,
+23.
+*See also:* Ajax, Ajaxes, Oïleus, Locrians, Medon.
 
 ---
 

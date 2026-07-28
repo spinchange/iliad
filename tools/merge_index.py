@@ -153,6 +153,29 @@ def main():
         body.append(block)
         body.append("\n---\n")
     OUT.write_text("\n".join(body).rstrip() + "\n", encoding="utf-8")
+
+    # Advisory: report *See also:* targets that are neither a headword nor an
+    # occurrence token. Forward references into the unwritten tail are expected
+    # (they are listed in index/tail-referenced.md); a target that exists nowhere
+    # is unresolvable forever — a folded alias or a typo — and must be rewritten.
+    # Added after the 2026-07-28 review found twelve such refs, including one to
+    # a headword canon.md promised but the registry never created.
+    occ_path = ROOT / "index" / "occurrences.json"
+    occ = json.loads(occ_path.read_text(encoding="utf-8")) if occ_path.exists() else {}
+    headset = set(merged) | {"Xanthus (horse)"}
+    never = {}
+    for hw, block in merged.items():
+        m = re.search(r"\*See also:\*(.+?)(?:\n\n|$)", block, re.S)
+        if not m:
+            continue
+        for t in (x.strip().rstrip(".") for x in m.group(1).replace("\n", " ").split(",")):
+            if t and t not in headset and t not in occ:
+                never.setdefault(t, []).append(hw)
+    if never:
+        print(f"\n[!] {len(never)} never-resolvable See-also target(s) to rewrite:")
+        for t, srcs in sorted(never.items()):
+            print(f"    {t!r} <- {', '.join(srcs)}")
+
     unpron = sorted(h for h in merged if h not in pron)
     print(f"\nOK — wrote {OUT} with {len(merged)} entries"
           + (f" ({len(problems)} advisory citation flags to review)" if problems else ""))

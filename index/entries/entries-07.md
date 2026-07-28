@@ -6,7 +6,7 @@ and Artemis while a phantom of him fights on below, and sits on its height to
 send Ares after Diomedes. Paris comes down "from the height of Pergamos, blazing
 in his armor like the beaming sun" to rejoin Hector at 6.513.
 **Refs:** 4.508, 5.446, 5.460, 6.513, 7.21. Books 4–7.
-*See also:* Troy, Ilion, Apollo, Aeneas, Paris.
+*See also:* Troy, Apollo, Aeneas, Paris.
 
 ---
 
@@ -47,7 +47,7 @@ Hector for flinching from Menelaus.
 *Kin:* father of Xanthus and Thoon (5.152); father of Phorcys (17.312); the
 guest-friend is Asius' son.
 **Refs:** 5.152, 17.312, 17.583. Books 5, 17.
-*See also:* Xanthus, Phorcys, Asius, Abydos, Apollo, Hector.
+*See also:* Xanthus (horse), Phorcys, Asius, Abydos, Apollo, Hector.
 
 ---
 
@@ -181,7 +181,7 @@ to pay him back for the honey-hearted wheat Andromache set before them. The
 second is Menelaus' own trace-horse in the chariot race at Patroclus' funeral,
 yoked beside Aethe, Agamemnon's mare.
 **Refs:** 8.185, 23.295. Books 8, 23.
-*See also:* Hector, Menelaus, Aethe, Xanthus, Andromache.
+*See also:* Hector, Menelaus, Aethe, Xanthus (horse), Andromache.
 
 ---
 
@@ -315,7 +315,7 @@ including Laothoe; father of Hector, Paris, Helenus, Deiphobus, Polydorus,
 Lycaon, Polites and the rest, and of Laodice and Cassandra.
 **Refs:** 1.19, 2.37, 3.105, 3.303, 4.47, 6.242, 7.366, 22.25, 24.160, 24.477
 …and throughout. Books 1–9, 11–24.
-*See also:* Hector, Hecuba, Laomedon, Troy, Ilion, Achilles, Hermes, Dardanus.
+*See also:* Hector, Hecuba, Laomedon, Troy, Achilles, Hermes, Dardanus.
 
 ---
 
@@ -504,7 +504,7 @@ the place where Paris and Apollo will destroy Achilles.
 *Also called:* the Scaean Gates.
 **Refs:** 3.145, 3.149, 3.263, 6.237, 6.307, 6.393, 9.354, 11.170, 16.712,
 18.453, 22.6, 22.360. Books 3, 6, 9, 11, 16, 18, 22.
-*See also:* Troy, Ilion, Hector, Andromache, Priam, Achilles.
+*See also:* Troy, Hector, Andromache, Priam, Achilles.
 
 ---
 
@@ -524,7 +524,7 @@ separate river of Lycia (2.877, 6.172, 12.313).
 *Kin:* "eddying Xanthus, whom immortal Zeus begot" (21.2).
 **Refs:** 5.36, 5.78, 7.330, 11.499, 12.21, 20.74, 21.15, 21.223, 21.305, 22.148
 …and throughout. Books 5–8, 11–12, 14, 20–22, 24.
-*See also:* Simois, Achilles, Hephaestus, Hera, Xanthus, Troy.
+*See also:* Simois, Achilles, Hephaestus, Hera, Xanthus (horse), Troy.
 
 ---
 

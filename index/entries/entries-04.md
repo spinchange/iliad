@@ -115,7 +115,8 @@ his birth" is said of Achilles by Zeus (20.127–128) and of Hector by Hecuba
 (24.209–210), in the same wording. Agamemnon names her with Zeus and the Erinys as
 the causes of his blindness, and the horse Xanthus names "a great god, and strong
 Fate" as the killers of Patroclus.
-*See also:* Strife, Blindness, Erinys, Xanthus, Zeus, Hecuba.
+**Refs:** 18.535, 19.87, 19.410, 20.127, 24.209. Books 18, 19, 20, 24.
+*See also:* Strife, Blindness, Erinyes, Xanthus (horse), Zeus, Hecuba.
 
 ---
 
@@ -240,8 +241,7 @@ Amphimachus, Schedius, Asaeus, Autonous and many more.
 *Killed by:* Achilles (22.326–330).
 **Refs:** 1.242, 2.816, 3.38, 6.390, 6.440, 7.38, 12.445, 16.818, 18.284, 22.326,
 24.724, 24.804 …and throughout. Books 1–24.
-*See also:* Achilles, Priam, Andromache, Astyanax, Polydamas, Patroclus, Ajax,
-Apollo, Deiphobus.
+*See also:* Achilles, Priam, Andromache, Astyanax, Polydamas, Patroclus, Ajax, Apollo, Deiphobus.
 
 ---
 

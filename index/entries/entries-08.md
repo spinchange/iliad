@@ -362,7 +362,7 @@ and in Book 13 Antilochus catches one as he turns and severs the vein that runs 
 length of the back to the neck.
 *Killed by:* Diomedes (5.152–155); Odysseus (11.422); Antilochus (13.545–548).
 **Refs:** 5.152, 11.422, 12.140, 13.545. Books 5, 11–13.
-*See also:* Phaenops, Xanthus, Diomedes, Odysseus, Antilochus, Asius.
+*See also:* Phaenops, Xanthus (horse), Diomedes, Odysseus, Antilochus, Asius.
 
 ---
 
@@ -374,7 +374,7 @@ watches the war from Samothrace over the heads of the Thracians. Rhesus' late-co
 contingent and Rhigmus come from there, and the cup Priam takes to Achilles among
 his ransom was a Thracian gift.
 **Refs:** 9.5, 9.72, 11.222, 13.301, 20.485, 24.234. Books 9, 11, 13, 20, 24.
-*See also:* Thracians, Rhesus, Iphidamas, Rhigmus, Hellespont, Samothrace.
+*See also:* Thracians, Rhesus, Iphidamas, Rhigmus, Hellespont, Samos.
 
 ---
 
@@ -440,7 +440,7 @@ side.
 is "breaker of horses."
 **Refs:** 1.152, 2.123, 3.2, 4.509, 8.173, 12.440, 18.243, 22.1 …and throughout.
 Books 1–24.
-*See also:* Troy, Ilion, Hector, Priam, Dardanians, Lycians, Achaeans.
+*See also:* Troy, Hector, Priam, Dardanians, Lycians, Achaeans.
 
 ---
 
@@ -459,8 +459,7 @@ and great-grandfather of Priam; the victim is Alastor's son.
 *Killed by:* the victim, by Achilles (20.463–472).
 **Refs:** 5.222, 5.265, 8.106, 20.230, 20.231, 20.463, 20.468, 23.291, 23.377.
 Books 5, 8, 20, 23.
-*See also:* Dardanus, Erichthonius, Ilus, Assaracus, Ganymede, Aeneas, Achilles,
-Lycaon, Hector.
+*See also:* Dardanus, Erichthonius, Ilus, Assaracus, Ganymede, Aeneas, Achilles, Lycaon, Hector.
 
 ---
 
@@ -478,7 +477,7 @@ built for Laomedon, and its wall is what Hector must come outside of to die.
 Pergamos.
 **Refs:** 1.71, 1.129, 2.113, 2.141, 4.46, 4.164, 6.315, 7.20, 21.544, 22.411
 …and throughout. Books 1–24.
-*See also:* Ilion, Trojans, Priam, Hector, Pergamos, Scaean Gates, Laomedon.
+*See also:* Troy, Trojans, Priam, Hector, Pergamos, Scaean, Laomedon.
 
 ---
 
@@ -514,8 +513,7 @@ Scamander; see `canon.md`'s homonym register.
 *Kin:* offspring of Podarge and the West Wind; yoked with Balius, and with the
 mortal Pedasus in the side-traces.
 **Refs:** 16.149, 19.400. Books 16, 19.
-*See also:* Balius, Podarge, Achilles, Automedon, Pedasus, Scamander, Erinyes,
-Zephyrus.
+*See also:* Podarge, Achilles, Automedon, Pedasus, Scamander, Erinyes, Zephyrus.
 
 ---
 
@@ -540,7 +538,7 @@ harpy Podarge (16.150), and in Xanthus' own boast that the two of them could run
 with its breath (19.415).
 *Kin:* father of Xanthus and Balius by Podarge (named there as "the West Wind").
 **Refs:** 23.195, 23.200, 23.208. Book 23.
-*See also:* Boreas, Iris, Achilles, Patroclus, Xanthus (horse), Balius, Podarge.
+*See also:* Boreas, Iris, Achilles, Patroclus, Xanthus (horse), Podarge.
 
 ---
 
@@ -573,5 +571,4 @@ Father of Athena, of Apollo and Artemis by Leto, of Ares and Hebe by Hera, of
 Aphrodite by Dione, of Hermes, of Heracles by Alcmene, and of Sarpedon.
 **Refs:** 1.5, 1.503, 1.528, 8.5, 15.187, 16.431, 22.209, 24.103 …and throughout.
 Books 1–24.
-*See also:* Hera, Thetis, Achilles, Poseidon, Athena, Apollo, Sarpedon, Hector,
-Cronos, Tartarus, Fate.
+*See also:* Hera, Thetis, Achilles, Poseidon, Athena, Apollo, Sarpedon, Hector, Cronos, Tartarus, Fate.

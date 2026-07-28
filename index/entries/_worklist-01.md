@@ -106,6 +106,12 @@ Each block gives you everything you need: the canonical headword, its category, 
 - **hits:** 166  ·  **books:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23
 - **refs:** 1.138, 1.145, 2.527, 2.528, 2.557, 2.768, 3.225, 3.229, 4.473, 4.479, 4.480, 4.488, 5.610, 5.615, 5.617, 6.5, 7.179, 7.183, 7.187, 7.188, 7.203, 7.206, 7.211, 7.219, 7.224, 7.234, 7.245, 7.249, 7.260, 7.266, 7.268, 7.283, 7.288, 7.305, 7.309, 7.311, 7.321, 8.224, 8.267, 8.268, 8.272, 8.330, 9.169, 9.223, 9.622, 9.644, 9.689, 10.54, 10.110, 10.112  (+114 more; see index/registry.json)
 
+### Ajax son of Oïleus  ·  MORTAL
+- **aliases / epithets:** swift Ajax; the lesser Ajax; Oïleus' son
+- **note:** the Locrian leader; his token is shared with the Telamonian, so all citations are shared-token lines
+- **hits:** (shared token)  ·  **books:** 2, 13, 14, 23
+- **refs:** 2.527, 13.203, 13.701, 14.520, 23.473, 23.754, 23.774
+
 ### Ajaxes  ·  MORTAL
 - **aliases / epithets:** the two Ajaxes (Αἴαντε)
 - **note:** the dual: Telamonian Ajax and Ajax son of Oïleus fighting as a unit

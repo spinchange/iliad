@@ -217,7 +217,7 @@ fight in front (12.310–321). Sleep and Death carry Sarpedon's body back to "th
 rich country of wide Lycia" for burial (16.683).
 **Refs:** 2.877, 5.105, 5.479, 6.168, 6.172, 6.225, 12.312, 12.319, 16.437, 16.673,
 16.683. Books 2, 5–6, 12, 16–17.
-*See also:* Lycians, Sarpedon, Glaucus, Bellerophon, Xanthus, Hippolochus.
+*See also:* Lycians, Sarpedon, Glaucus, Bellerophon, Hippolochus.
 
 ---
 

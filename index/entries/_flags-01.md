@@ -33,3 +33,14 @@ The nine below are correct as written.
 | Entry | Cited | Why it is not an occurrence |
 |---|---|---|
 | Simoeisios | 4.473 | opening line of his death-scene; names Ajax and "Anthemion's son", the patronymic — Simoeisios is named at 4.474 |
+
+## Addendum (2026-07-28): Ajax son of Oïleus
+
+Added in the review pass — canon.md's alias table promised him "a separate
+headword" and the registry never created one, so the poem's second Ajax had no
+entry. His registry row deliberately claims no token: his name IS "Ajax," and
+that token stays with the Telamonian per canon's default rule. Every citation
+in his entry is therefore flagged; all are lines where "Ajax" or "Oïleus' son"
+is the Locrian, verified individually: 2.527 (Catalogue), 13.203 (Imbrius'
+head), 13.701 (the plow-oxen simile), 14.520 (the rout), 23.473, 23.754,
+23.774 (the games).

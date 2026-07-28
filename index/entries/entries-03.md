@@ -144,7 +144,7 @@ paired with Troy as the home of the women who will mourn: Achilles means to make
 "some deep-girdled woman of Troy or Dardania" wipe the tears from her cheeks, and
 promises the same women will keen night and day around Patroclus' body.
 **Refs:** 18.123, 18.339, 20.216. Books 18, 20.
-*See also:* Dardanus, Dardanians, Troy, Ilion, Ida, Aeneas.
+*See also:* Dardanus, Dardanians, Troy, Ida, Aeneas.
 
 ---
 
@@ -521,7 +521,7 @@ and the Erinys who walks in mist. They are witnesses under the earth in his oath
 *Epithets:* "who walks in mist" (ἠεροφοῖτις, 9.571).
 **Refs:** 9.454, 9.571, 15.204, 19.87, 19.259, 19.418, 21.412.
 Books 9, 15, 19, 21.
-*See also:* Phoenix, Amyntor, Althaea, Meleager, Agamemnon, Blindness, Xanthus.
+*See also:* Phoenix, Amyntor, Althaea, Meleager, Agamemnon, Blindness, Xanthus (horse).
 
 ---
 

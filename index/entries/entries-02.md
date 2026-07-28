@@ -16,7 +16,7 @@ the bow" (κλυτότοξος, 4.101); "of the golden sword" (χρυσάορο�
 *Kin:* son of Zeus and Leto; brother of Artemis.
 **Refs:** 1.36, 1.43, 1.370, 1.479, 4.101, 5.437, 16.788, 21.545, 22.213, 24.18
 …and throughout. Books 1–2, 4–5, 7–13, 15–18, 20–24.
-*See also:* Phoebus, Chryses, Artemis, Leto, Patroclus, Hector, Aeneas.
+*See also:* Chryses, Artemis, Leto, Patroclus, Hector, Aeneas.
 
 ---
 
@@ -67,7 +67,7 @@ men" for Meriones (2.651).
 *Kin:* son of Zeus and Hera; father of Ascalaphus and Ialmenus by Astyoche.
 **Refs:** 5.30, 5.31, 5.385, 5.859, 13.521, 15.113, 21.391, 21.406 …and
 throughout. Books 2–13, 15–24.
-*See also:* Enyalius, Athena, Diomedes, Ascalaphus, Aphrodite, Zeus.
+*See also:* Athena, Diomedes, Ascalaphus, Aphrodite, Zeus.
 
 ---
 
@@ -233,7 +233,7 @@ translated, not transliterated; "she of the mighty father" (ὀβριμοπάτ�
 *Kin:* daughter of Zeus.
 **Refs:** 1.194, 1.200, 2.156, 4.73, 5.1, 5.856, 21.406, 22.214 …and throughout.
 Books 1–11, 13–24.
-*See also:* Pallas, Zeus, Hera, Diomedes, Achilles, Hector, Ares.
+*See also:* Zeus, Hera, Diomedes, Achilles, Hector, Ares.
 
 ---
 
@@ -290,7 +290,7 @@ back to the war in Book 19 and helps serve Priam his supper in Book 24.
 *Kin:* son of Diores (17.429, 17.474).
 **Refs:** 9.209, 16.145, 16.864, 17.429, 17.459, 17.474, 19.396, 24.574.
 Books 9, 16–17, 19, 23–24.
-*See also:* Achilles, Patroclus, Alcimedon, Alcimus, Xanthus, Balius.
+*See also:* Achilles, Patroclus, Alcimedon, Alcimus, Xanthus (horse).
 
 ---
 
@@ -313,7 +313,7 @@ own place, keeping watch on Orion, and alone has no share in the baths of Ocean"
 the imperative "Bear up."
 *Also called:* the Wagon.
 **Refs:** 18.487. Book 18.
-*See also:* Orion, Ocean, Shield of Achilles, Hephaestus.
+*See also:* Orion, Ocean, Achilles, Hephaestus.
 
 ---
 
@@ -330,8 +330,7 @@ Glaucus and Diomedes from fighting.
 *Kin:* son of Glaucus, grandson of Sisyphus; father of Isander, Hippolochus and
 Laodameia; grandfather of Glaucus and, through Laodameia and Zeus, of Sarpedon.
 **Refs:** 6.155, 6.162, 6.190, 6.196, 6.200, 6.217, 6.220. Book 6.
-*See also:* Glaucus, Hippolochus, Sarpedon, Proetus, Anteia, Chimaera, Oeneus,
-Diomedes.
+*See also:* Glaucus, Hippolochus, Sarpedon, Proetus, Anteia, Chimaera, Oeneus, Diomedes.
 
 ---
 

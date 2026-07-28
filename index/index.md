@@ -85,8 +85,7 @@ Priam, having been argued out of his rage by an old man who kisses his hands.
 Neoptolemus, reared on Scyros. Companion of Patroclus; foster-son of Phoenix.
 **Refs:** 1.1, 1.58, 1.348, 9.199, 16.2, 18.22, 22.330, 24.596 …and throughout.
 Books 1–2, 4–24.
-*See also:* Patroclus, Hector, Agamemnon, Thetis, Peleus, Aeacus, Briseis, Priam,
-Phoenix.
+*See also:* Patroclus, Hector, Agamemnon, Thetis, Peleus, Aeacus, Briseis, Priam, Phoenix.
 
 ---
 
@@ -279,6 +278,26 @@ other.
 **Refs:** 2.557, 3.229, 7.183, 7.219, 9.622, 15.727, 17.132 …and throughout.
 Books 1–18, 23.
 *See also:* Ajax son of Oïleus, Ajaxes, Telamon, Teucer, Hector, Achilles.
+
+---
+
+**Ajax son of Oïleus** (Αἴας Ὀϊλῆος υἱός) · MORTAL — *Say:* AY-jaks, son of oh-EYE-lyoos
+Leader of the Locrians with forty ships: "the lesser Ajax, in no way so big as
+Telamonian Ajax / but far smaller: a little man, in a linen corslet, / but with
+the spear he surpassed all Hellenes and Achaeans" (2.528–530). He is the fastest
+Achaean in the chase — most of the kills in the Book 14 rout are his, "for there
+was no one like him for speed of foot" when men broke and ran — and the savage
+half of the pair: it is he who cuts off Imbrius' head in wrath for Amphimachus
+and sends it "rolling like a ball through the crowd" to fall at Hector's feet
+(13.202–205). In the footrace of the games Athena trips him at a dead run into
+the cattle-dung, and he stands spitting it out while the Argives laugh at him
+(23.774–784).
+*Also called:* swift Ajax; the lesser Ajax; Oïleus' son. Unqualified "Ajax" is
+the Telamonian — see `canon.md`.
+*Kin:* son of Oïleus; half-brother of Medon, Oïleus' bastard son (13.694–695).
+**Refs:** 2.527, 13.203, 13.701, 14.520, 23.473, 23.754, 23.774. Books 2, 13–14,
+23.
+*See also:* Ajax, Ajaxes, Oïleus, Locrians, Medon.
 
 ---
 
@@ -558,7 +577,7 @@ the bow" (κλυτότοξος, 4.101); "of the golden sword" (χρυσάορο�
 *Kin:* son of Zeus and Leto; brother of Artemis.
 **Refs:** 1.36, 1.43, 1.370, 1.479, 4.101, 5.437, 16.788, 21.545, 22.213, 24.18
 …and throughout. Books 1–2, 4–5, 7–13, 15–18, 20–24.
-*See also:* Phoebus, Chryses, Artemis, Leto, Patroclus, Hector, Aeneas.
+*See also:* Chryses, Artemis, Leto, Patroclus, Hector, Aeneas.
 
 ---
 
@@ -609,7 +628,7 @@ men" for Meriones (2.651).
 *Kin:* son of Zeus and Hera; father of Ascalaphus and Ialmenus by Astyoche.
 **Refs:** 5.30, 5.31, 5.385, 5.859, 13.521, 15.113, 21.391, 21.406 …and
 throughout. Books 2–13, 15–24.
-*See also:* Enyalius, Athena, Diomedes, Ascalaphus, Aphrodite, Zeus.
+*See also:* Athena, Diomedes, Ascalaphus, Aphrodite, Zeus.
 
 ---
 
@@ -775,7 +794,7 @@ translated, not transliterated; "she of the mighty father" (ὀβριμοπάτ�
 *Kin:* daughter of Zeus.
 **Refs:** 1.194, 1.200, 2.156, 4.73, 5.1, 5.856, 21.406, 22.214 …and throughout.
 Books 1–11, 13–24.
-*See also:* Pallas, Zeus, Hera, Diomedes, Achilles, Hector, Ares.
+*See also:* Zeus, Hera, Diomedes, Achilles, Hector, Ares.
 
 ---
 
@@ -832,7 +851,7 @@ back to the war in Book 19 and helps serve Priam his supper in Book 24.
 *Kin:* son of Diores (17.429, 17.474).
 **Refs:** 9.209, 16.145, 16.864, 17.429, 17.459, 17.474, 19.396, 24.574.
 Books 9, 16–17, 19, 23–24.
-*See also:* Achilles, Patroclus, Alcimedon, Alcimus, Xanthus, Balius.
+*See also:* Achilles, Patroclus, Alcimedon, Alcimus, Xanthus (horse).
 
 ---
 
@@ -855,7 +874,7 @@ own place, keeping watch on Orion, and alone has no share in the baths of Ocean"
 the imperative "Bear up."
 *Also called:* the Wagon.
 **Refs:** 18.487. Book 18.
-*See also:* Orion, Ocean, Shield of Achilles, Hephaestus.
+*See also:* Orion, Ocean, Achilles, Hephaestus.
 
 ---
 
@@ -872,8 +891,7 @@ Glaucus and Diomedes from fighting.
 *Kin:* son of Glaucus, grandson of Sisyphus; father of Isander, Hippolochus and
 Laodameia; grandfather of Glaucus and, through Laodameia and Zeus, of Sarpedon.
 **Refs:** 6.155, 6.162, 6.190, 6.196, 6.200, 6.217, 6.220. Book 6.
-*See also:* Glaucus, Hippolochus, Sarpedon, Proetus, Anteia, Chimaera, Oeneus,
-Diomedes.
+*See also:* Glaucus, Hippolochus, Sarpedon, Proetus, Anteia, Chimaera, Oeneus, Diomedes.
 
 ---
 
@@ -1240,7 +1258,7 @@ paired with Troy as the home of the women who will mourn: Achilles means to make
 "some deep-girdled woman of Troy or Dardania" wipe the tears from her cheeks, and
 promises the same women will keen night and day around Patroclus' body.
 **Refs:** 18.123, 18.339, 20.216. Books 18, 20.
-*See also:* Dardanus, Dardanians, Troy, Ilion, Ida, Aeneas.
+*See also:* Dardanus, Dardanians, Troy, Ida, Aeneas.
 
 ---
 
@@ -1617,7 +1635,7 @@ and the Erinys who walks in mist. They are witnesses under the earth in his oath
 *Epithets:* "who walks in mist" (ἠεροφοῖτις, 9.571).
 **Refs:** 9.454, 9.571, 15.204, 19.87, 19.259, 19.418, 21.412.
 Books 9, 15, 19, 21.
-*See also:* Phoenix, Amyntor, Althaea, Meleager, Agamemnon, Blindness, Xanthus.
+*See also:* Phoenix, Amyntor, Althaea, Meleager, Agamemnon, Blindness, Xanthus (horse).
 
 ---
 
@@ -1762,7 +1780,8 @@ his birth" is said of Achilles by Zeus (20.127–128) and of Hector by Hecuba
 (24.209–210), in the same wording. Agamemnon names her with Zeus and the Erinys as
 the causes of his blindness, and the horse Xanthus names "a great god, and strong
 Fate" as the killers of Patroclus.
-*See also:* Strife, Blindness, Erinys, Xanthus, Zeus, Hecuba.
+**Refs:** 18.535, 19.87, 19.410, 20.127, 24.209. Books 18, 19, 20, 24.
+*See also:* Strife, Blindness, Erinyes, Xanthus (horse), Zeus, Hecuba.
 
 ---
 
@@ -1887,8 +1906,7 @@ Amphimachus, Schedius, Asaeus, Autonous and many more.
 *Killed by:* Achilles (22.326–330).
 **Refs:** 1.242, 2.816, 3.38, 6.390, 6.440, 7.38, 12.445, 16.818, 18.284, 22.326,
 24.724, 24.804 …and throughout. Books 1–24.
-*See also:* Achilles, Priam, Andromache, Astyanax, Polydamas, Patroclus, Ajax,
-Apollo, Deiphobus.
+*See also:* Achilles, Priam, Andromache, Astyanax, Polydamas, Patroclus, Ajax, Apollo, Deiphobus.
 
 ---
 
@@ -2498,7 +2516,7 @@ fight in front (12.310–321). Sleep and Death carry Sarpedon's body back to "th
 rich country of wide Lycia" for burial (16.683).
 **Refs:** 2.877, 5.105, 5.479, 6.168, 6.172, 6.225, 12.312, 12.319, 16.437, 16.673,
 16.683. Books 2, 5–6, 12, 16–17.
-*See also:* Lycians, Sarpedon, Glaucus, Bellerophon, Xanthus, Hippolochus.
+*See also:* Lycians, Sarpedon, Glaucus, Bellerophon, Hippolochus.
 
 ---
 
@@ -2878,7 +2896,7 @@ fill the silver-shining cave, beat their breasts, and follow Thetis ashore;
 Thetis addresses them as "sister Nereids" and leads the lament.
 *Kin:* daughters of the old man of the sea; sisters of Thetis.
 **Refs:** 18.38, 18.49, 18.52. Book 18.
-*See also:* Thetis, Achilles, Nereus.
+*See also:* Thetis, Achilles.
 
 ---
 
@@ -3249,8 +3267,7 @@ burial in Book 23, and his bones are to lie in one jar with Achilles'.
 *Killed by:* Hector, with Apollo and Euphorbus (16.783–822).
 **Refs:** 1.337, 11.602, 16.2, 16.49, 16.480, 16.787, 16.822, 23.65 …and
 throughout. Books 1, 8, 9, 11, 15–19, 21–24.
-*See also:* Achilles, Menoetius, Hector, Sarpedon, Euphorbus, Nestor, Opoeis,
-Automedon.
+*See also:* Achilles, Menoetius, Hector, Sarpedon, Euphorbus, Nestor, Opoeis, Automedon.
 
 ---
 
@@ -3265,7 +3282,7 @@ as he was, kept pace with immortal horses"; Sarpedon's cast kills him. A man of
 the name, twin of Aesepus, is killed by Euryalus at 6.21.
 **Refs:** 6.21, 6.35, 9.152, 9.294, 16.152, 16.467, 20.92, 21.87.
 Books 6, 9, 16, 20, 21.
-*See also:* Altes, Laothoe, Satnioeis, Achilles, Xanthus, Balius, Sarpedon.
+*See also:* Altes, Laothoe, Satnioeis, Achilles, Xanthus (horse), Sarpedon.
 
 ---
 
@@ -3424,7 +3441,7 @@ and Artemis while a phantom of him fights on below, and sits on its height to
 send Ares after Diomedes. Paris comes down "from the height of Pergamos, blazing
 in his armor like the beaming sun" to rejoin Hector at 6.513.
 **Refs:** 4.508, 5.446, 5.460, 6.513, 7.21. Books 4–7.
-*See also:* Troy, Ilion, Apollo, Aeneas, Paris.
+*See also:* Troy, Apollo, Aeneas, Paris.
 
 ---
 
@@ -3465,7 +3482,7 @@ Hector for flinching from Menelaus.
 *Kin:* father of Xanthus and Thoon (5.152); father of Phorcys (17.312); the
 guest-friend is Asius' son.
 **Refs:** 5.152, 17.312, 17.583. Books 5, 17.
-*See also:* Xanthus, Phorcys, Asius, Abydos, Apollo, Hector.
+*See also:* Xanthus (horse), Phorcys, Asius, Abydos, Apollo, Hector.
 
 ---
 
@@ -3599,7 +3616,7 @@ to pay him back for the honey-hearted wheat Andromache set before them. The
 second is Menelaus' own trace-horse in the chariot race at Patroclus' funeral,
 yoked beside Aethe, Agamemnon's mare.
 **Refs:** 8.185, 23.295. Books 8, 23.
-*See also:* Hector, Menelaus, Aethe, Xanthus, Andromache.
+*See also:* Hector, Menelaus, Aethe, Xanthus (horse), Andromache.
 
 ---
 
@@ -3733,7 +3750,7 @@ including Laothoe; father of Hector, Paris, Helenus, Deiphobus, Polydorus,
 Lycaon, Polites and the rest, and of Laodice and Cassandra.
 **Refs:** 1.19, 2.37, 3.105, 3.303, 4.47, 6.242, 7.366, 22.25, 24.160, 24.477
 …and throughout. Books 1–9, 11–24.
-*See also:* Hector, Hecuba, Laomedon, Troy, Ilion, Achilles, Hermes, Dardanus.
+*See also:* Hector, Hecuba, Laomedon, Troy, Achilles, Hermes, Dardanus.
 
 ---
 
@@ -3922,7 +3939,7 @@ the place where Paris and Apollo will destroy Achilles.
 *Also called:* the Scaean Gates.
 **Refs:** 3.145, 3.149, 3.263, 6.237, 6.307, 6.393, 9.354, 11.170, 16.712,
 18.453, 22.6, 22.360. Books 3, 6, 9, 11, 16, 18, 22.
-*See also:* Troy, Ilion, Hector, Andromache, Priam, Achilles.
+*See also:* Troy, Hector, Andromache, Priam, Achilles.
 
 ---
 
@@ -3942,7 +3959,7 @@ separate river of Lycia (2.877, 6.172, 12.313).
 *Kin:* "eddying Xanthus, whom immortal Zeus begot" (21.2).
 **Refs:** 5.36, 5.78, 7.330, 11.499, 12.21, 20.74, 21.15, 21.223, 21.305, 22.148
 …and throughout. Books 5–8, 11–12, 14, 20–22, 24.
-*See also:* Simois, Achilles, Hephaestus, Hera, Xanthus, Troy.
+*See also:* Simois, Achilles, Hephaestus, Hera, Xanthus (horse), Troy.
 
 ---
 
@@ -4336,7 +4353,7 @@ and in Book 13 Antilochus catches one as he turns and severs the vein that runs 
 length of the back to the neck.
 *Killed by:* Diomedes (5.152–155); Odysseus (11.422); Antilochus (13.545–548).
 **Refs:** 5.152, 11.422, 12.140, 13.545. Books 5, 11–13.
-*See also:* Phaenops, Xanthus, Diomedes, Odysseus, Antilochus, Asius.
+*See also:* Phaenops, Xanthus (horse), Diomedes, Odysseus, Antilochus, Asius.
 
 ---
 
@@ -4348,7 +4365,7 @@ watches the war from Samothrace over the heads of the Thracians. Rhesus' late-co
 contingent and Rhigmus come from there, and the cup Priam takes to Achilles among
 his ransom was a Thracian gift.
 **Refs:** 9.5, 9.72, 11.222, 13.301, 20.485, 24.234. Books 9, 11, 13, 20, 24.
-*See also:* Thracians, Rhesus, Iphidamas, Rhigmus, Hellespont, Samothrace.
+*See also:* Thracians, Rhesus, Iphidamas, Rhigmus, Hellespont, Samos.
 
 ---
 
@@ -4414,7 +4431,7 @@ side.
 is "breaker of horses."
 **Refs:** 1.152, 2.123, 3.2, 4.509, 8.173, 12.440, 18.243, 22.1 …and throughout.
 Books 1–24.
-*See also:* Troy, Ilion, Hector, Priam, Dardanians, Lycians, Achaeans.
+*See also:* Troy, Hector, Priam, Dardanians, Lycians, Achaeans.
 
 ---
 
@@ -4433,8 +4450,7 @@ and great-grandfather of Priam; the victim is Alastor's son.
 *Killed by:* the victim, by Achilles (20.463–472).
 **Refs:** 5.222, 5.265, 8.106, 20.230, 20.231, 20.463, 20.468, 23.291, 23.377.
 Books 5, 8, 20, 23.
-*See also:* Dardanus, Erichthonius, Ilus, Assaracus, Ganymede, Aeneas, Achilles,
-Lycaon, Hector.
+*See also:* Dardanus, Erichthonius, Ilus, Assaracus, Ganymede, Aeneas, Achilles, Lycaon, Hector.
 
 ---
 
@@ -4452,7 +4468,7 @@ built for Laomedon, and its wall is what Hector must come outside of to die.
 Pergamos.
 **Refs:** 1.71, 1.129, 2.113, 2.141, 4.46, 4.164, 6.315, 7.20, 21.544, 22.411
 …and throughout. Books 1–24.
-*See also:* Ilion, Trojans, Priam, Hector, Pergamos, Scaean Gates, Laomedon.
+*See also:* Troy, Trojans, Priam, Hector, Pergamos, Scaean, Laomedon.
 
 ---
 
@@ -4488,8 +4504,7 @@ Scamander; see `canon.md`'s homonym register.
 *Kin:* offspring of Podarge and the West Wind; yoked with Balius, and with the
 mortal Pedasus in the side-traces.
 **Refs:** 16.149, 19.400. Books 16, 19.
-*See also:* Balius, Podarge, Achilles, Automedon, Pedasus, Scamander, Erinyes,
-Zephyrus.
+*See also:* Podarge, Achilles, Automedon, Pedasus, Scamander, Erinyes, Zephyrus.
 
 ---
 
@@ -4514,7 +4529,7 @@ harpy Podarge (16.150), and in Xanthus' own boast that the two of them could run
 with its breath (19.415).
 *Kin:* father of Xanthus and Balius by Podarge (named there as "the West Wind").
 **Refs:** 23.195, 23.200, 23.208. Book 23.
-*See also:* Boreas, Iris, Achilles, Patroclus, Xanthus (horse), Balius, Podarge.
+*See also:* Boreas, Iris, Achilles, Patroclus, Xanthus (horse), Podarge.
 
 ---
 
@@ -4547,7 +4562,6 @@ Father of Athena, of Apollo and Artemis by Leto, of Ares and Hebe by Hera, of
 Aphrodite by Dione, of Hermes, of Heracles by Alcmene, and of Sarpedon.
 **Refs:** 1.5, 1.503, 1.528, 8.5, 15.187, 16.431, 22.209, 24.103 …and throughout.
 Books 1–24.
-*See also:* Hera, Thetis, Achilles, Poseidon, Athena, Apollo, Sarpedon, Hector,
-Cronos, Tartarus, Fate.
+*See also:* Hera, Thetis, Achilles, Poseidon, Athena, Apollo, Sarpedon, Hector, Cronos, Tartarus, Fate.
 
 ---
