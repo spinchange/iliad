@@ -125,7 +125,7 @@ the Odyssey project's FORMULAS.md.
 | περικλυτός | famed | 1.607 |
 | ῥοδοδάκτυλος Ἠώς | rosy-fingered Dawn | 1.477 |
 | ἠριγένεια | early-born | 1.477 |
-| χρυσόθρονος | of the golden throne | 1.611 |
+| χρυσόθρονος (Hera) | of the golden throne | 1.611 |
 | φιλομειδὴς Ἀφροδίτη | laughter-loving Aphrodite | 3.424 |
 | ἀργεϊφόντης (Hermes) | the slayer of Argus | 2.103 |
 | διάκτορος (Hermes) | the guide | 2.103 |
@@ -572,6 +572,15 @@ occurrence must match. Likewise "Shame! — a great marvel is this I
 see with my eyes" (ὢ πόποι ἦ μέγα θαῦμα τόδʼ ὀφθαλμοῖσιν ὁρῶμαι)
 is four-fold: 13.99, 15.286, 20.344, 21.54 — the latter two
 harmonized to the first-occurrence form in audit, 2026-07-26.
+
+Register correction (2026-07-27, found while writing the name index):
+χρυσόθρονος "of the golden throne" was listed at 1.611 immediately below the
+two Dawn epithets, which read as attributing it to Dawn. It is **Hera's**. All
+four occurrences in the committed text are Hera's throne or Zeus's — 1.611,
+14.153 and 15.5 are "Hera of the golden throne," and 8.442 is Zeus's own seat;
+the translation never attaches it to Dawn. The row is now tagged "(Hera)". The
+translation itself was correct throughout; only the register's grouping was
+misleading.
 
 Audit parked-item cleanup (2026-07-26), now legislated:
 Ἐρινύς = "Erinys/Erinyes" everywhere (9.454 and 9.571 brought over
