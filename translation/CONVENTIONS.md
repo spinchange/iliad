@@ -105,7 +105,7 @@ the Odyssey project's FORMULAS.md.
 | ὑψιβρεμέτης | who thunders on high | 1.354 |
 | ὑψίζυγος | high-throned | 4.166 |
 | εὐρύοπα | wide-seeing | 1.498 |
-| Κρονίδης / Κρονίων | son of Cronos | 1.397 |
+| Κρονίδης / Κρονίων | son of Cronos | 1.398 |
 | ἀγκυλομήτεω Κρόνου | crooked-counseled Cronos | 2.205 |
 | πατὴρ ἀνδρῶν τε θεῶν τε | father of men and gods | 1.544 |
 | ταμίης πολέμοιο (Zeus) | the dispenser of war | 4.84 |

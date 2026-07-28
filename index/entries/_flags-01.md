@@ -27,3 +27,9 @@ The nine below are correct as written.
 | Alpheius | 5.541 | the twins of his line whom Aeneas kills; genealogy runs 5.541–560 |
 | Andromache | 22.437 | "the wife of Hector had not yet heard" — periphrasis, no name |
 | Aphrodite | 24.29 | the judgment of Paris; she is "the one who fed his grievous lust" |
+
+## Addendum (2026-07-27)
+
+| Entry | Cited | Why it is not an occurrence |
+|---|---|---|
+| Simoeisios | 4.473 | opening line of his death-scene; names Ajax and "Anthemion's son", the patronymic — Simoeisios is named at 4.474 |

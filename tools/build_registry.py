@@ -97,13 +97,17 @@ REGISTRY = [
     E("Hades", "GOD", ["Hades"], "", "lord of the dead; the underworld itself by metonymy"),
     E("Cronos", "GOD", ["Cronos"], "crooked-counseled",
       "Zeus's father; the token is overwhelmingly the patronymic 'Cronos' son' = Zeus"),
-    E("Hebe", "GOD", ["Hebe"], "the lady Hebe", "Hera's cup-bearer and Ares' nurse"),
+    E("Hebe", "GOD", ["Hebe"], "the lady Hebe",
+      "pours the gods' nectar (4.2), sets the wheels on Hera's chariot (5.722), and bathes "
+      "and dresses Ares after Paieon heals him (5.905). NB not 'Ares' nurse' — the poem "
+      "does not say that"),
     E("Dione", "GOD", ["Dione"], "", "Aphrodite's mother in this poem (5.370-417)"),
     E("Ocean", "GOD", ["Ocean", "Oceanus"], "Oceanus",
       "the encircling stream and the god; with Tethys 'the begetting of the gods' (14.201)"),
     E("Tethys", "GOD", ["Tethys"], "", "Ocean's consort, named in the Deception of Zeus"),
-    E("Dawn", "GOD", ["Dawn"], "rosy-fingered; early-born; of the golden throne",
-      "personified; her formulas open days throughout"),
+    E("Dawn", "GOD", ["Dawn"], "rosy-fingered; early-born; in her saffron robe; fair-throned",
+      "personified; her formulas open days throughout. NB 'of the golden throne' "
+      "(χρυσόθρονος) is Hera's, not hers — CONVENTIONS.md corrected 2026-07-27"),
     E("Sleep", "GOD", ["Sleep"], "", "personified; Hera's accomplice in Book 14"),
     E("Death", "GOD", ["Death"], "", "personified; with Sleep carries Sarpedon home (16.681-683)"),
     E("Strife", "GOD", ["Strife"], "", "Ἔρις personified, capitalized per CONVENTIONS.md"),
@@ -125,8 +129,12 @@ REGISTRY = [
     E("Asclepius", "GOD", ["Asclepius"], "", "healer; father of Machaon and Podaleirius"),
     E("Boreas", "GOD", ["Boreas"], "", "the north wind, personified and genealogically active"),
     E("Zephyrus", "GOD", ["Zephyrus"], "", "the west wind"),
-    E("Scamander", "PLACE", ["Scamander", "Xanthus"], "Xanthus (the gods' name for it, 20.74)",
-      "Troy's river and its god, who fights Achilles in Book 21; NB 'Xanthus' also names Achilles' horse and a Trojan"),
+    E("Scamander", "PLACE", ["Scamander"], "Xanthus (the gods' name for it, 20.74)",
+      "Troy's river and its god, who fights Achilles in Book 21. The token 'Xanthus' is "
+      "NOT folded in: it is four different things in this poem — this river, the Lycian "
+      "river (2.877, 5.479, 6.172, 12.313), Achilles' immortal horse (16.149, 19.400ff) "
+      "and a Trojan killed by Diomedes (5.152). Folding it made Scamander's hit-count and "
+      "ref-list wrong; see the Xanthus headword"),
     E("Simois", "PLACE", ["Simois"], "", "Troy's second river; joins Scamander against Achilles"),
     E("Spercheius", "PLACE", ["Spercheius"], "", "river of Phthia; Achilles' vowed hair is cut for Patroclus instead"),
     E("Tartarus", "PLACE", ["Tartarus"], "", "the pit below Hades; Zeus's standing threat (8.13-16)"),
@@ -225,7 +233,9 @@ REGISTRY = [
     E("Laomedon", "MORTAL", ["Laomedon"], "", "Priam's father, who cheated Poseidon and Apollo of their wages"),
     E("Tros", "MORTAL", ["Tros"], "", "eponym of the Trojans; also a victim killed at 20.463"),
     E("Dardanus", "MORTAL", ["Dardanus"], "", "founder of the Trojan line; Zeus's son"),
-    E("Ilus", "MORTAL", ["Ilus"], "", "eponym of Ilion; his tomb is a landmark on the plain"),
+    E("Ilus", "MORTAL", ["Ilus"], "",
+      "son of Tros, father of Laomedon (20.231-236); his tomb is a landmark on the plain. "
+      "The poem never glosses his name against Ilion — do not assert the etymology"),
     E("Anchises", "MORTAL", ["Anchises"], "", "Aeneas' father, by Aphrodite"),
     E("Panthous", "MORTAL", ["Panthous"], "", "Trojan elder; father of Polydamas, Euphorbus, Hyperenor"),
     E("Hippolochus", "MORTAL", ["Hippolochus"], "", "Glaucus' father, son of Bellerophon"),
@@ -258,7 +268,9 @@ REGISTRY = [
     E("Ascalaphus", "MORTAL", ["Ascalaphus"], "", "son of Ares, killed in Book 13"),
     E("Amphimachus", "MORTAL", ["Amphimachus"], "", "Epeian leader, killed by Hector in Book 13"),
     E("Protesilaus", "MORTAL", ["Protesilaus"], "",
-      "the first Achaean ashore and the first to die; his ship is the fighting's focus in Books 15-16"),
+      "the first Achaean ashore and the first to die; his ship is the fighting's focus in "
+      "Books 15-16. His killer is withheld: 2.701 says only 'a Dardanian man had killed him', "
+      "so do not credit Hector"),
     E("Dolon", "MORTAL", ["Dolon"], "",
       "the Trojan scout caught and killed by Odysseus and Diomedes in Book 10"),
     E("Rhesus", "MORTAL", ["Rhesus"], "", "Thracian king killed asleep in the Doloneia"),
@@ -456,9 +468,12 @@ REGISTRY = [
       "Altes' town on the Satnioeis; also the name of Achilles' mortal trace-horse (16.152)"),
 
     # ==================== ANIMALS, OBJECTS & THE SKY =======================
-    E("Xanthus_horse", "OTHER", ["Balius"], "Xanthus and Balius",
-      "Achilles' immortal horses; Xanthus speaks and is silenced by the Erinyes (19.404-424). "
-      "The token 'Xanthus' is counted under the river Scamander — see canon.md's homonym register"),
+    E("Xanthus_horse", "OTHER", ["Balius", "Xanthus"], "Xanthus and Balius",
+      "Achilles' immortal horses, sired by the West Wind on the harpy Podarge; Xanthus speaks "
+      "and is silenced by the Erinyes (19.404-424). The shared token 'Xanthus' is claimed here "
+      "rather than by the river, because the horse is the only one of its four referents that "
+      "is a character. NB the count therefore includes the river's and the Lycian river's hits; "
+      "the writer must cite only 16.149 and 19.400ff. See canon.md's homonym register"),
     E("Aethe", "OTHER", ["Aethe"], "", "Agamemnon's mare, lent to Menelaus for the Book 23 race"),
     E("Podargus", "OTHER", ["Podargus"], "",
       "Menelaus's horse (23.295); also the name of one of Hector's horses (8.185)"),
