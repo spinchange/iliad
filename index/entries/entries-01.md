@@ -143,9 +143,11 @@ two men distinct whom one spelling would merge; see `canon.md`.
 Three Trojan-side men bear this spelling. One leads the contingent from Adresteia
 and Apaesus with his brother Amphius, sons of Merops of Percote, who foresaw their
 deaths and could not keep them home. The second is the suppliant of Book 6, thrown
-from a bolting chariot, who clasps Menelaus' knees and offers ransom; Menelaus is
-willing until Agamemnon shames him out of it and stabs him in the flank. A third
-falls to Patroclus. The translation reserves *Adrastus* for the Sicyon king.
+from a bolting chariot, who clasps Menelaus' knees and offers ransom. Menelaus is
+on the point of granting it when Agamemnon runs up and shames him — "Soft-hearted
+Menelaus!" — so that Menelaus pushes the man back with his hand and Agamemnon
+does the killing (6.62–65). A third falls to Patroclus. The translation reserves
+*Adrastus* for the Sicyon king.
 *Kin:* the Percotian Adrestus is Merops' son and Amphius' brother.
 *Killed by:* Agamemnon (6.63–65); the third by Patroclus (16.694).
 **Refs:** 2.830, 6.37, 6.45, 6.63, 16.694. Books 2, 6, 16.
