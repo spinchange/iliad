@@ -7,9 +7,15 @@ It is a port of the companion Odyssey project's pipeline (`..\odyssey\index`),
 kept deliberately parallel so the two indexes read as one work and shared names
 are pronounced the same way in both.
 
-**Status: pipeline complete and validated end-to-end; Phase 3 (entry-writing) not
-started.** The scaffolding, the editorial spine, the pronunciations, and the
-registry all exist and are checked; what remains is writing the 301 entries.
+**Status: complete for the 301 classified headwords.** `index.md` is built —
+301 entries with pronunciations injected. What remains is the 735-name tail in
+`tail-unclassified.md`, which is a separate scoping decision (see below).
+
+Phase 3 was written by eight parallel writers, one per slice, each required to
+read the cited lines before making any claim rather than writing from knowledge
+of Homer. That rule earned its cost: it caught roughly forty factual errors at
+write time, and it exposed four defects in files that were supposed to be
+authoritative — see "What the entry-writing found upstream" below.
 
 ## The phases
 
@@ -42,8 +48,15 @@ python tools\merge_index.py           # validate + assemble index.md
   where the printed Greek is genuinely short. A boundary regression fails loudly
   rather than silently producing a wrong index.
 - **1,064 candidate tokens** after the function-word stoplist.
-- **301 classified headwords** — Mortals 174, Gods 41, Peoples 27, Places 51,
-  Animals/objects/sky 8. Nothing above 4 hits is unclassified.
+- **301 classified headwords, all written** — Mortals 174, Gods 41, Peoples 27,
+  Places 51, Animals/objects/sky 8. Nothing above 4 hits is unclassified.
+- **275 of 301 entries carry a pronunciation.** The 26 without are correctly
+  row-less: transparent English (Troy, Crete, Sparta, Hector, Paris) and the
+  personifications (Dawn, Sleep, Strife, Panic, Fate, the Muses).
+- **161 citation flags**, every one reviewed against the text and recorded with a
+  justification in `entries/_flags-NN.md`. They are advisory by design: most are
+  epithet-register first-refs where the line carries the epithet substantively and
+  never the name, or death-blows that name the killer rather than the victim.
 - **735 real names still unclassified**, listed in `tail-unclassified.md`. Every
   token in the tail was reviewed by hand (2026-07-26): 167 were non-names and are
   now stoplisted, recorded in `noise-stoplist.md`. Of the 735, **535 occur exactly
@@ -53,6 +66,30 @@ python tools\merge_index.py           # validate + assemble index.md
 - **403 pronunciation rows**, of which 191 are inherited verbatim from the Odyssey
   project. Names correctly carrying no row: transparent English (Troy, Crete,
   Thebes) and the personifications (Dawn, Sleep, Strife, the Muses).
+
+## What the entry-writing found upstream
+
+Writing an index entry forces a line-by-line reconciliation of the registers
+against the text, which is why this phase found bugs that the audit passes did
+not. All four were confirmed against the poem before being fixed:
+
+- **`CONVENTIONS.md` attributed χρυσόθρονος "of the golden throne" to Dawn.** It
+  is Hera's — all four occurrences are hers or Zeus's. The row sat directly below
+  two Dawn epithets, which is what misled. Now tagged `(Hera)`.
+- **`CONVENTIONS.md` filed the patronymic Κρονίδης/Κρονίων at 1.397.** It falls on
+  1.398.
+- **The registry folded the token `Xanthus` into Scamander.** That one spelling is
+  four things: Troy's river, the Lycian river, Achilles' immortal horse, and a man
+  Diomedes kills. The fold made Scamander's hit-count and ref-list wrong.
+- **Three registry notes asserted what the poem does not say** — that Hebe is
+  "Ares' nurse", that Ilus is glossed as Ilion's eponym, and that Hector killed
+  Protesilaus. The text withholds Protesilaus' killer ("a Dardanian man had
+  killed him", 2.701); the other two are simply absent from it.
+
+The writers also found homonyms `canon.md` had not registered (Eurypylus of Cos;
+a third Thoas; three Echius, Epistrophus and Enops each) and, where the poem
+declines to say whether two bearers of a name are one man, left them unmerged and
+said so.
 
 ## Design notes worth knowing
 
