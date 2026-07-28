@@ -251,3 +251,10 @@ h1.hidden-title { display: none; }
 /* The *Say:* / *Epithets:* / *See also:* labels are emphasis; keep them
    readable but quiet. */
 .name-index em { color: inherit; }
+
+/* --- Iliad additions (2026-07-28 restructure) --- */
+p.argument { font-style: italic; text-align: center; margin: 1.2em 2em 0.2em; }
+p.tnote-link { text-align: center; font-size: 0.85em; margin: 0.2em 0 1.6em; }
+p.tnote-link a { text-decoration: none; }
+p.absent { font-style: italic; text-align: center; font-size: 0.9em; opacity: 0.75; margin: 0.8em 0; }
+.tnotes h2 { margin-top: 1.6em; }

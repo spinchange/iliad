@@ -87,14 +87,19 @@ def parse_book(text: str):
     return book_no, epigraph, commentary, verse, notes
 
 
-def convert_book(text: str) -> str:
+def convert_book(text: str) -> tuple[str, int, str]:
+    """Return (chapter_md, book_no, commentary_md).
+
+    The commentary is NOT emitted into the chapter: the poem should open with
+    the poem. It is returned separately and collected into a back-matter
+    chapter ("The Translator's Notes on the Books"); the chapter carries a
+    one-tap link to its section there, under the argument line.
+    """
     b, epigraph, commentary, verse, notes = parse_book(text)
     tag = f"b{b:02d}"
     out = [f"# Book {b} {{#book-{b}}}", "",
-           f'<p class="argument">{epigraph}</p>', ""]
-
-    if commentary:
-        out += ["## Translator's Note {.unnumbered}", "", commentary, ""]
+           f'<p class="argument">{epigraph}</p>', "",
+           f'<p class="tnote-link">[Translator’s note →](#tnote-{b})</p>', ""]
 
     out += ['<div class="verse">', ""]
     for idx, line in enumerate(verse):
@@ -128,6 +133,49 @@ def convert_book(text: str) -> str:
                 line = DEF_RE.sub(rf"[^{tag}-{dm.group(1)}]: ", line, count=1)
             out.append(line)
         out.append("")
+    return "\n".join(out) + "\n", b, commentary
+
+
+def intro_page() -> str:
+    """translation/introduction.txt as front matter.
+
+    The file is clean flowing prose under five roman-numeral section heads
+    ("I. THE POEM"); we drop its own three-line masthead (the chapter heading
+    replaces it) and promote the section heads to level-2 headings.
+    """
+    src = ROOT / "translation" / "introduction.txt"
+    if not src.exists():
+        return ""
+    lines = src.read_text(encoding="utf-8").splitlines()
+    # Drop everything up to and including the "GENERAL INTRODUCTION" masthead.
+    for i, ln in enumerate(lines):
+        if ln.strip() == "GENERAL INTRODUCTION":
+            lines = lines[i + 1:]
+            break
+    out = ["# General Introduction {.unnumbered}", ""]
+    for ln in lines:
+        if re.match(r"^[IVX]+\.\s+[A-Z][A-Z ]+$", ln.strip()):
+            out += ["", f"## {ln.strip()} {{.unnumbered}}", ""]
+        else:
+            out.append(ln)
+    return "\n".join(out) + "\n"
+
+
+def tnotes_page(commentaries: list[tuple[int, str]]) -> str:
+    """Back-matter chapter collecting the per-book translator's commentaries.
+
+    Kept as 24 discrete headed sections rather than merged into an essay: the
+    probe that motivated this layout showed they are book-specific (only 5 of
+    24 restate policy), and the General Introduction already does the
+    synthesis. Each section heading links back to its book.
+    """
+    out = ['# The Translator’s Notes on the Books {.unnumbered .tnotes #tnotes}',
+           "",
+           "The note on each book, collected here so the poem itself reads "
+           "clean. Each heading links back to its book; in the text, the line "
+           "under every book’s argument links here.", ""]
+    for b, commentary in commentaries:
+        out += [f"## [Book {b}](#book-{b}) {{#tnote-{b}}}", "", commentary, ""]
     return "\n".join(out) + "\n"
 
 
@@ -143,7 +191,7 @@ def title_page() -> str:
         '<p class="tp-role">from the Greek of</p>\n\n'
         '<p class="tp-name">Homer</p>\n\n'
         '<p class="tp-role">translated by</p>\n\n'
-        '<p class="tp-name">Claude</p>\n\n'
+        '<p class="tp-name">Claude <span class="tp-small">(Fable 5)</span></p>\n\n'
         '<p class="tp-role">edited and produced by</p>\n\n'
         '<p class="tp-name">Chris Duffy</p>\n\n'
         '</div>\n\n'
@@ -170,10 +218,11 @@ def source_page() -> str:
         "the printed text is followed throughout — including three passages "
         "the printed Greek lacks (9.458–461, 11.543, 14.269), which are "
         "marked in place rather than supplied.\n\n"
-        "Each book opens with the translator's note on that book and closes "
-        "with its endnotes. In the text a raised numeral marks a note; tap it "
-        "to jump to the note, and tap the return arrow (↩) to come back "
-        "to your place in the verse.\n\n"
+        "Each book closes with its endnotes: a raised numeral in the text "
+        "marks a note; tap it to jump there, and tap the return arrow (↩) to "
+        "come back to your place in the verse. The translator's notes on the "
+        "several books are collected at the back, one tap from each book's "
+        "opening.\n\n"
         "Monro and Allen's 1920 text is in the public domain. Polytonic Greek "
         "is set in Gentium Plus (SIL Open Font License).\n\n"
     )
@@ -232,9 +281,15 @@ def build(book_nums: list[int]) -> Path:
         shutil.copy(ASSETS / f, WORK / "fonts" / f)
 
     inputs: list[Path] = []
-    for name, content in [("00-title.md", title_page()),
-                          ("00-epigraph.md", epigraph_page()),
-                          ("01-note.md", source_page())]:
+    commentaries: list[tuple[int, str]] = []
+
+    front = [("00-title.md", title_page()),
+             ("00-epigraph.md", epigraph_page())]
+    intro = intro_page()
+    if intro:
+        front.append(("01-intro.md", intro))
+    front.append(("02-note.md", source_page()))
+    for name, content in front:
         p = WORK / name
         p.write_text(content, encoding="utf-8")
         inputs.append(p)
@@ -243,10 +298,17 @@ def build(book_nums: list[int]) -> Path:
         src = SRC / f"book_{n:02d}.txt"
         if not src.exists():
             sys.exit(f"missing {src}")
+        chapter, book_no, commentary = convert_book(src.read_text(encoding="utf-8"))
         dst = WORK / f"{n:02d}-book.md"
-        dst.write_text(convert_book(src.read_text(encoding="utf-8")),
-                       encoding="utf-8")
+        dst.write_text(chapter, encoding="utf-8")
         inputs.append(dst)
+        if commentary:
+            commentaries.append((book_no, commentary))
+
+    if commentaries:
+        tn = WORK / "98-tnotes.md"
+        tn.write_text(tnotes_page(commentaries), encoding="utf-8")
+        inputs.append(tn)
 
     idx_md = index_page(set(book_nums))
     if idx_md:
@@ -263,7 +325,7 @@ def build(book_nums: list[int]) -> Path:
         "subtitle: A line-for-line translation\n"
         "creator:\n"
         "  - role: aut\n    text: Homer\n"
-        "  - role: trl\n    text: Claude\n"
+        "  - role: trl\n    text: Claude (Fable 5)\n"
         "  - role: edt\n    text: Chris Duffy\n"
         "language: en\n"
         "rights: >-\n"
@@ -289,11 +351,12 @@ def build(book_nums: list[int]) -> Path:
         "--metadata=lang:en",
         "-o", str(out),
     ]
-    # No cover art exists yet for the Iliad — a v1 decision. Add it here when
-    # assets/cover.jpg lands; pandoc builds fine without one.
-    cover = ASSETS / "cover.jpg"
-    if cover.exists():
-        cmd.insert(-2, f"--epub-cover-image={cover}")
+    # Cover: assets/cover.png is the hybrid design (art/iliad-cover-hybrid.png).
+    # Falls back to cover.jpg; builds fine with neither.
+    for cov in (ASSETS / "cover.png", ASSETS / "cover.jpg"):
+        if cov.exists():
+            cmd.insert(-2, f"--epub-cover-image={cov}")
+            break
     print("running pandoc...")
     subprocess.run(cmd, check=True, cwd=WORK)
     print(f"\nwrote {out}  ({out.stat().st_size:,} bytes)")
