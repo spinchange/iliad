@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The text as data — the Iliad, Wrath, Sing, Goddess</title>
+<meta name="description" content="The full translation, CC0, structured for machines: a Greek-English parallel corpus of the Iliad in JSONL, all 15,687 lines aligned to the Monro-Allen numbering, plus the name index as JSON.">
+<link rel="canonical" href="https://wrath-sing-goddess.com/api/">
+<meta property="og:title" content="The text as data — the Iliad, Wrath, Sing, Goddess">
+<meta property="og:description" content="A Greek-English parallel corpus of the Iliad in JSONL, all 15,687 lines aligned to the Monro-Allen numbering, CC0, plus the name index as JSON. No key, no auth: static files.">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="The Iliad — Wrath, Sing, Goddess">
+<meta property="og:url" content="https://wrath-sing-goddess.com/api/">
+<meta property="og:image" content="https://wrath-sing-goddess.com/social.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="../read/read.css?v=04865187">
+<style>
+  pre{background:rgba(30,11,21,.55); border:1px solid rgba(201,155,63,.3);
+      border-radius:6px; padding:12px 14px; overflow-x:auto;
+      font-size:.82rem; line-height:1.5}
+  code{font-size:.9em}
+  h2{font-weight:normal; font-variant:small-caps; letter-spacing:.06em;
+     margin:34px 0 10px; color:var(--gold)}
+  dl.files dt{font-family:ui-monospace,Consolas,monospace; margin-top:14px}
+  dl.files dd{margin:2px 0 0 0; opacity:.9; font-size:.95rem}
+  .lede{font-size:1.05rem}
+</style>
+</head>
+<body>
+<div class="meander"></div>
+<div class="wrap">
+<p class="site"><a href="../">The Iliad · wrath, sing, goddess</a></p>
+<header class="bookhead"><h1>The text as data</h1>
+<p class="argument">the full translation, CC0, structured for machines</p></header>
+
+<p class="lede">Everything on this page is a stable, fetchable URL: a complete
+Greek-English parallel corpus of the Iliad (15,687 verse lines, aligned
+one-to-one on the numbering of the Monro-Allen Oxford text), the full
+translation source with its 829 scholarly notes and the translator's
+commentary on each book, and an index of the poem's principal persons, gods,
+peoples, and places. The English is public domain (CC0). No key, no tracking,
+no limits of ours: it is a directory of static files.</p>
+
+<h2>The files</h2>
+<dl class="files">
+<dt><a href="manifest.json">manifest.json</a></dt>
+<dd>describes everything below: per-book URLs, line counts, note counts,
+book arguments, licensing. Start here if you are a script.</dd>
+<dt><a href="aligned-06.jsonl">aligned-01.jsonl … aligned-24.jsonl</a></dt>
+<dd>the parallel corpus, one book per file: one JSON object per verse line,
+Greek and English paired.</dd>
+<dt><a href="book-06.txt">book-01.txt … book-24.txt</a></dt>
+<dd>the full translation source, one book per file: the argument, the
+translator's commentary, the numbered verse, and the endnotes keyed to
+line numbers.</dd>
+<dt><a href="registry.json">registry.json</a></dt>
+<dd>the name index: 302 entries with category, aliases, a gloss, and every
+line citation.</dd>
+</dl>
+
+<h2>The aligned corpus</h2>
+<p>One JSON object per line, in the printed order. From
+<a href="aligned-06.jsonl">aligned-06.jsonl</a>, Glaucus to Diomedes on the
+generations of men:</p>
+<pre>{"book": 6, "line": 146, "greek": "οἵη περ φύλλων γενεὴ τοίη δὲ καὶ ἀνδρῶν.", "en": "As the generation of leaves, so is the generation of men."}</pre>
+<p>The alignment is exact and complete: every English line was translated
+from, and verified one-to-one against, the Greek line it sits beside. The
+numbering is Monro and Allen's own. Their printed text lacks six lines that
+the traditional numbering counts (9.458–461, 11.543, 14.269), and the
+translation marks those places rather than supplying them; both files
+simply skip the numbers. That is why the poem's 24 books sum to 15,687
+lines, not 15,693.</p>
+
+<h2>The name index</h2>
+<p>The poem's principal figures, with their citations. From
+<a href="registry.json">registry.json</a>:</p>
+<pre>{"headword": "Abantes", "cat": "PEOPLE", "aliases": "",
+ "note": "Euboean contingent under Elephenor",
+ "count": 4, "books": [2, 4], "refs": ["2.536", "2.541", "2.542", "4.464"]}</pre>
+
+<h2>Citing and linking</h2>
+<p>Cite passages as <code>book.line</code> (e.g. <code>6.146</code>). Every
+line of the reading edition has a stable anchor, so any citation can become
+a link: <a href="../read/book-06.html#L146">wrath-sing-goddess.com/read/book-06.html#L146</a>.</p>
+
+<h2>Examples</h2>
+<p>Fetch one book's alignment and pull out one line:</p>
+<pre>curl -s https://wrath-sing-goddess.com/api/aligned-06.jsonl | grep '"line": 146'</pre>
+<p>Load the whole poem as a dataset:</p>
+<pre>import json, urllib.request
+rows = []
+for n in range(1, 25):
+    url = f"https://wrath-sing-goddess.com/api/aligned-{n:02d}.jsonl"
+    with urllib.request.urlopen(url) as f:
+        rows += [json.loads(line) for line in f]
+assert len(rows) == 15687</pre>
+
+<h2>Licensing</h2>
+<p>Three layers, cleanly separated. The <strong>English translation</strong>
+(every <code>en</code> field, and the verse in <code>book-NN.txt</code>) is
+dedicated to the public domain under
+<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>:
+use it for anything, including commercially, with no permission or credit
+required. The <strong>Greek</strong> is the Oxford Classical Text of Monro
+and Allen (3rd edition, 1920), in the public domain. The <strong>notes, the
+translator's commentary, and the name index</strong> are © 2026 Chris Duffy,
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+
+<h2>Provenance</h2>
+<p>The translation was produced by a language model (Claude) from the Greek,
+line by line, and edited by a human; the method and the full revision
+history are public in <a href="https://github.com/spinchange/iliad">the repository</a>. If you use this
+corpus to train or evaluate models, the alignment and the numbering are the
+contract: report passages as <code>book.line</code> and they will be
+checkable against any edition of the Greek. The same project's Odyssey,
+with the same machine-readable layer, is at
+<a href="https://theclaudyssey.com/api/">theclaudyssey.com/api/</a>.</p>
+
+</div>
+<div class="meander"></div>
+<footer><a href="../read/index.html">Contents</a> · <a href="../">About &amp; downloads</a></footer>
+</body>
+</html>

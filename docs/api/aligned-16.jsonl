@@ -1,0 +1,867 @@
+{"book": 16, "line": 1, "greek": "ὣς οἳ μὲν περὶ νηὸς ἐϋσσέλμοιο μάχοντο·", "en": "So they fought on around the well-benched ship;"}
+{"book": 16, "line": 2, "greek": "Πάτροκλος δʼ Ἀχιλῆϊ παρίστατο ποιμένι λαῶν", "en": "and Patroclus stood beside Achilles, shepherd of the people,"}
+{"book": 16, "line": 3, "greek": "δάκρυα θερμὰ χέων ὥς τε κρήνη μελάνυδρος,", "en": "letting fall hot tears like a spring of dark water"}
+{"book": 16, "line": 4, "greek": "ἥ τε κατʼ αἰγίλιπος πέτρης δνοφερὸν χέει ὕδωρ.", "en": "that pours its black stream down a goat-proof cliff."}
+{"book": 16, "line": 5, "greek": "τὸν δὲ ἰδὼν ᾤκτιρε ποδάρκης δῖος Ἀχιλλεύς,", "en": "And swift-footed brilliant Achilles saw him, and pitied him,"}
+{"book": 16, "line": 6, "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·", "en": "and speaking winged words he addressed him:"}
+{"book": 16, "line": 7, "greek": "τίπτε δεδάκρυσαι Πατρόκλεες, ἠΰτε κούρη", "en": "\"Why are you in tears, Patroclus — like a little girl"}
+{"book": 16, "line": 8, "greek": "νηπίη, ἥ θʼ ἅμα μητρὶ θέουσʼ ἀνελέσθαι ἀνώγει", "en": "running at her mother's side, begging to be carried,"}
+{"book": 16, "line": 9, "greek": "εἱανοῦ ἁπτομένη, καί τʼ ἐσσυμένην κατερύκει,", "en": "clutching her skirt, dragging at her hurrying steps,"}
+{"book": 16, "line": 10, "greek": "δακρυόεσσα δέ μιν ποτιδέρκεται, ὄφρʼ ἀνέληται·", "en": "and looking up at her in tears until she lifts her:"}
+{"book": 16, "line": 11, "greek": "τῇ ἴκελος Πάτροκλε τέρεν κατὰ δάκρυον εἴβεις.", "en": "that is you, Patroclus — spilling soft tears just so."}
+{"book": 16, "line": 12, "greek": "ἠέ τι Μυρμιδόνεσσι πιφαύσκεαι, ἢ ἐμοὶ αὐτῷ,", "en": "Have you some news for the Myrmidons, or for me myself?"}
+{"book": 16, "line": 13, "greek": "ἦέ τινʼ ἀγγελίην Φθίης ἐξέκλυες οἶος;", "en": "Some message out of Phthia that you alone have heard?"}
+{"book": 16, "line": 14, "greek": "ζώειν μὰν ἔτι φασὶ Μενοίτιον Ἄκτορος υἱόν,", "en": "They say Menoetius, Actor's son, is still living,"}
+{"book": 16, "line": 15, "greek": "ζώει δʼ Αἰακίδης Πηλεὺς μετὰ Μυρμιδόνεσσι;", "en": "and Peleus, Aeacus' son, lives among his Myrmidons —"}
+{"book": 16, "line": 16, "greek": "τῶν κε μάλʼ ἀμφοτέρων ἀκαχοίμεθα τεθνηώτων.", "en": "the two whose deaths would grieve us most of all."}
+{"book": 16, "line": 17, "greek": "ἦε σύ γʼ Ἀργείων ὀλοφύρεαι, ὡς ὀλέκονται", "en": "Or are you mourning for the Argives, watching them perish"}
+{"book": 16, "line": 18, "greek": "νηυσὶν ἔπι γλαφυρῇσιν ὑπερβασίης ἕνεκα σφῆς;", "en": "by the hollow ships for their own high-handedness?"}
+{"book": 16, "line": 19, "greek": "ἐξαύδα, μὴ κεῦθε νόῳ, ἵνα εἴδομεν ἄμφω.", "en": "Speak out: hide nothing. Then we will both know.\""}
+{"book": 16, "line": 20, "greek": "τὸν δὲ βαρὺ στενάχων προσέφης Πατρόκλεες ἱππεῦ·", "en": "Then, groaning heavily, you answered, Patroclus, horseman:"}
+{"book": 16, "line": 21, "greek": "ὦ Ἀχιλεῦ Πηλῆος υἱὲ μέγα φέρτατʼ Ἀχαιῶν", "en": "\"Achilles, son of Peleus, far greatest of the Achaeans,"}
+{"book": 16, "line": 22, "greek": "μὴ νεμέσα· τοῖον γὰρ ἄχος βεβίηκεν Ἀχαιούς.", "en": "do not be angry: such grief has overmastered the Achaeans."}
+{"book": 16, "line": 23, "greek": "οἳ μὲν γὰρ δὴ πάντες, ὅσοι πάρος ἦσαν ἄριστοι,", "en": "For all the men who before were our best"}
+{"book": 16, "line": 24, "greek": "ἐν νηυσὶν κέαται βεβλημένοι οὐτάμενοί τε.", "en": "lie by the ships, hit from afar or stabbed close."}
+{"book": 16, "line": 25, "greek": "βέβληται μὲν ὃ Τυδεΐδης κρατερὸς Διομήδης,", "en": "Hit is Tydeus' son, strong Diomedes;"}
+{"book": 16, "line": 26, "greek": "οὔτασται δʼ Ὀδυσεὺς δουρικλυτὸς ἠδʼ Ἀγαμέμνων,", "en": "stabbed is Odysseus, famed with the spear; and Agamemnon;"}
+{"book": 16, "line": 27, "greek": "βέβληται δὲ καὶ Εὐρύπυλος κατὰ μηρὸν ὀϊστῷ.", "en": "and hit too is Eurypylus, by an arrow in the thigh."}
+{"book": 16, "line": 28, "greek": "τοὺς μέν τʼ ἰητροὶ πολυφάρμακοι ἀμφιπένονται", "en": "Around these men the healers with their many drugs"}
+{"book": 16, "line": 29, "greek": "ἕλκεʼ ἀκειόμενοι· σὺ δʼ ἀμήχανος ἔπλευ Ἀχιλλεῦ.", "en": "are busy, tending their wounds. But you, Achilles — there is no dealing with you."}
+{"book": 16, "line": 30, "greek": "μὴ ἐμέ γʼ οὖν οὗτός γε λάβοι χόλος, ὃν σὺ φυλάσσεις", "en": "May such anger never take me as this anger you nurse,"}
+{"book": 16, "line": 31, "greek": "αἰναρέτη· τί σευ ἄλλος ὀνήσεται ὀψίγονός περ", "en": "cursed in your valor! What good will any late-born man get of you"}
+{"book": 16, "line": 32, "greek": "αἴ κε μὴ Ἀργείοισιν ἀεικέα λοιγὸν ἀμύνῃς;", "en": "if you will not beat back shameful ruin from the Argives?"}
+{"book": 16, "line": 33, "greek": "νηλεές, οὐκ ἄρα σοί γε πατὴρ ἦν ἱππότα Πηλεύς,", "en": "Pitiless man: the horseman Peleus was no father of yours,"}
+{"book": 16, "line": 34, "greek": "οὐδὲ Θέτις μήτηρ· γλαυκὴ δέ σε τίκτε θάλασσα", "en": "nor Thetis your mother — the grey sea bore you,"}
+{"book": 16, "line": 35, "greek": "πέτραι τʼ ἠλίβατοι, ὅτι τοι νόος ἐστὶν ἀπηνής.", "en": "and the sheer cliffs, so unbending is the mind in you."}
+{"book": 16, "line": 36, "greek": "εἰ δέ τινα φρεσὶ σῇσι θεοπροπίην ἀλεείνεις", "en": "But if in your heart you are dodging some prophecy,"}
+{"book": 16, "line": 37, "greek": "καί τινά τοι πὰρ Ζηνὸς ἐπέφραδε πότνια μήτηρ,", "en": "something your lady mother has told you from Zeus,"}
+{"book": 16, "line": 38, "greek": "ἀλλʼ ἐμέ περ πρόες ὦχʼ, ἃμα δʼ ἄλλον λαὸν ὄπασσον", "en": "then send me out at least, and let the rest of the army"}
+{"book": 16, "line": 39, "greek": "Μυρμιδόνων, ἤν πού τι φόως Δαναοῖσι γένωμαι.", "en": "of Myrmidons follow, and I may be a light to the Danaans;"}
+{"book": 16, "line": 40, "greek": "δὸς δέ μοι ὤμοιιν τὰ σὰ τεύχεα θωρηχθῆναι,", "en": "and give me your own armor to buckle on my shoulders,"}
+{"book": 16, "line": 41, "greek": "αἴ κʼ ἐμὲ σοὶ ἴσκοντες ἀπόσχωνται πολέμοιο", "en": "so that the Trojans may take me for you, and hold back"}
+{"book": 16, "line": 42, "greek": "Τρῶες, ἀναπνεύσωσι δʼ Ἀρήϊοι υἷες Ἀχαιῶν", "en": "from the fighting, and the warlike sons of the Achaeans catch their breath,"}
+{"book": 16, "line": 43, "greek": "τειρόμενοι· ὀλίγη δέ τʼ ἀνάπνευσις πολέμοιο.", "en": "worn as they are; for the breathing-spaces of war are few."}
+{"book": 16, "line": 44, "greek": "ῥεῖα δέ κʼ ἀκμῆτες κεκμηότας ἄνδρας ἀϋτῇ", "en": "Fresh men, with one shout, could easily push men weary"}
+{"book": 16, "line": 45, "greek": "ὤσαιμεν προτὶ ἄστυ νεῶν ἄπο καὶ κλισιάων.", "en": "of battle back on the city, away from the ships and the huts.\""}
+{"book": 16, "line": 46, "greek": "ὣς φάτο λισσόμενος μέγα νήπιος· ἦ γὰρ ἔμελλεν", "en": "So he spoke, begging — the great fool: it was his own"}
+{"book": 16, "line": 47, "greek": "οἷ αὐτῷ θάνατόν τε κακὸν καὶ κῆρα λιτέσθαι.", "en": "death and evil doom he was begging for."}
+{"book": 16, "line": 48, "greek": "τὸν δὲ μέγʼ ὀχθήσας προσέφη πόδας ὠκὺς Ἀχιλλεύς·", "en": "And deeply troubled, swift-footed Achilles answered him:"}
+{"book": 16, "line": 49, "greek": "ὤ μοι διογενὲς Πατρόκλεες οἷον ἔειπες·", "en": "\"Ah, Zeus-sprung Patroclus — what a thing you have said."}
+{"book": 16, "line": 50, "greek": "οὔτε θεοπροπίης ἐμπάζομαι ἥν τινα οἶδα,", "en": "I care for no prophecy, none that I know of,"}
+{"book": 16, "line": 51, "greek": "οὔτέ τί μοι πὰρ Ζηνὸς ἐπέφραδε πότνια μήτηρ·", "en": "nor has my lady mother told me anything from Zeus."}
+{"book": 16, "line": 52, "greek": "ἀλλὰ τόδʼ αἰνὸν ἄχος κραδίην καὶ θυμὸν ἱκάνει,", "en": "But this bitter grief keeps coming at my heart and spirit:"}
+{"book": 16, "line": 53, "greek": "ὁππότε δὴ τὸν ὁμοῖον ἀνὴρ ἐθέλῃσιν ἀμέρσαι", "en": "when a man is minded to rob his own equal"}
+{"book": 16, "line": 54, "greek": "καὶ γέρας ἂψ ἀφελέσθαι, ὅ τε κράτεϊ προβεβήκῃ·", "en": "and take his prize back, just because he outranks him in power."}
+{"book": 16, "line": 55, "greek": "αἰνὸν ἄχος τό μοί ἐστιν, ἐπεὶ πάθον ἄλγεα θυμῷ.", "en": "That is my bitter grief; I have suffered it to the heart."}
+{"book": 16, "line": 56, "greek": "κούρην ἣν ἄρα μοι γέρας ἔξελον υἷες Ἀχαιῶν,", "en": "The girl the sons of the Achaeans picked out as my prize —"}
+{"book": 16, "line": 57, "greek": "δουρὶ δʼ ἐμῷ κτεάτισσα πόλιν εὐτείχεα πέρσας,", "en": "won with my own spear when I sacked her walled city —"}
+{"book": 16, "line": 58, "greek": "τὴν ἂψ ἐκ χειρῶν ἕλετο κρείων Ἀγαμέμνων", "en": "her the lord Agamemnon took back out of my hands,"}
+{"book": 16, "line": 59, "greek": "Ἀτρεΐδης ὡς εἴ τινʼ ἀτίμητον μετανάστην.", "en": "Atreus' son, as if I were some vagrant without honor."}
+{"book": 16, "line": 60, "greek": "ἀλλὰ τὰ μὲν προτετύχθαι ἐάσομεν· οὐδʼ ἄρα πως ἦν", "en": "But we will let that be — a thing done and past. It seems there was"}
+{"book": 16, "line": 61, "greek": "ἀσπερχὲς κεχολῶσθαι ἐνὶ φρεσίν· ἤτοι ἔφην γε", "en": "no way, after all, to be angry in my heart forever;"}
+{"book": 16, "line": 62, "greek": "οὐ πρὶν μηνιθμὸν καταπαυσέμεν, ἀλλʼ ὁπότʼ ἂν δὴ", "en": "and yet I said I would not lay my wrath aside"}
+{"book": 16, "line": 63, "greek": "νῆας ἐμὰς ἀφίκηται ἀϋτή τε πτόλεμός τε.", "en": "until the moment the war-shout and the fighting reached"}
+{"book": 16, "line": 64, "greek": "τύνη δʼ ὤμοιιν μὲν ἐμὰ κλυτὰ τεύχεα δῦθι,", "en": "my own ships. So: you put my famous armor on your shoulders,"}
+{"book": 16, "line": 65, "greek": "ἄρχε δὲ Μυρμιδόνεσσι φιλοπτολέμοισι μάχεσθαι,", "en": "and lead the war-loving Myrmidons into the fight,"}
+{"book": 16, "line": 66, "greek": "εἰ δὴ κυάνεον Τρώων νέφος ἀμφιβέβηκε", "en": "since the dark cloud of Trojans has closed hard"}
+{"book": 16, "line": 67, "greek": "νηυσὶν ἐπικρατέως, οἳ δὲ ῥηγμῖνι θαλάσσης", "en": "around the ships, and the Argives are penned against"}
+{"book": 16, "line": 68, "greek": "κεκλίαται, χώρης ὀλίγην ἔτι μοῖραν ἔχοντες", "en": "the surf-line of the sea, and hold only a little strip"}
+{"book": 16, "line": 69, "greek": "Ἀργεῖοι, Τρώων δὲ πόλις ἐπὶ πᾶσα βέβηκε", "en": "of ground; and the whole city of the Trojans has come out"}
+{"book": 16, "line": 70, "greek": "θάρσυνος· οὐ γὰρ ἐμῆς κόρυθος λεύσσουσι μέτωπον", "en": "emboldened — because they do not see the face of my helmet"}
+{"book": 16, "line": 71, "greek": "ἐγγύθι λαμπομένης· τάχα κεν φεύγοντες ἐναύλους", "en": "blazing near them. Soon enough they would be running"}
+{"book": 16, "line": 72, "greek": "πλήσειαν νεκύων, εἴ μοι κρείων Ἀγαμέμνων", "en": "and choking the gullies with their dead, if the lord Agamemnon"}
+{"book": 16, "line": 73, "greek": "ἤπια εἰδείη· νῦν δὲ στρατὸν ἀμφιμάχονται.", "en": "knew how to deal kindly with me. Instead they besiege the camp."}
+{"book": 16, "line": 74, "greek": "οὐ γὰρ Τυδεΐδεω Διομήδεος ἐν παλάμῃσι", "en": "For no spear rages in the hands of Diomedes,"}
+{"book": 16, "line": 75, "greek": "μαίνεται ἐγχείη Δαναῶν ἀπὸ λοιγὸν ἀμῦναι·", "en": "Tydeus' son, to beat destruction off the Danaans;"}
+{"book": 16, "line": 76, "greek": "οὐδέ πω Ἀτρεΐδεω ὀπὸς ἔκλυον αὐδήσαντος", "en": "and I have not yet heard the voice of Atreus' son"}
+{"book": 16, "line": 77, "greek": "ἐχθρῆς ἐκ κεφαλῆς· ἀλλʼ Ἕκτορος ἀνδροφόνοιο", "en": "shouting from his hated head. It is man-slaughtering Hector's"}
+{"book": 16, "line": 78, "greek": "Τρωσὶ κελεύοντος περιάγνυται, οἳ δʼ ἀλαλητῷ", "en": "voice that breaks around them, calling the Trojans on; and they"}
+{"book": 16, "line": 79, "greek": "πᾶν πεδίον κατέχουσι μάχῃ νικῶντες Ἀχαιούς.", "en": "hold the whole plain with their war-cry, beating the Achaeans in battle."}
+{"book": 16, "line": 80, "greek": "ἀλλὰ καὶ ὧς Πάτροκλε νεῶν ἄπο λοιγὸν ἀμύνων", "en": "Even so, Patroclus — beat the ruin off the ships:"}
+{"book": 16, "line": 81, "greek": "ἔμπεσʼ ἐπικρατέως, μὴ δὴ πυρὸς αἰθομένοιο", "en": "fall on them with all your power, or they will burn"}
+{"book": 16, "line": 82, "greek": "νῆας ἐνιπρήσωσι, φίλον δʼ ἀπὸ νόστον ἕλωνται.", "en": "the ships with blazing fire and take away our own dear homecoming."}
+{"book": 16, "line": 83, "greek": "πείθεο δʼ ὥς τοι ἐγὼ μύθου τέλος ἐν φρεσὶ θείω,", "en": "But obey me — here is the whole end of my word, laid in your mind —"}
+{"book": 16, "line": 84, "greek": "ὡς ἄν μοι τιμὴν μεγάλην καὶ κῦδος ἄρηαι", "en": "so that you may win me great honor and glory"}
+{"book": 16, "line": 85, "greek": "πρὸς πάντων Δαναῶν, ἀτὰρ οἳ περικαλλέα κούρην", "en": "in the eyes of all the Danaans, and they send back"}
+{"book": 16, "line": 86, "greek": "ἂψ ἀπονάσσωσιν, ποτὶ δʼ ἀγλαὰ δῶρα πόρωσιν.", "en": "the beautiful girl, and bring shining gifts besides:"}
+{"book": 16, "line": 87, "greek": "ἐκ νηῶν ἐλάσας ἰέναι πάλιν· εἰ δέ κεν αὖ τοι", "en": "once you have driven them from the ships, come back. And if"}
+{"book": 16, "line": 88, "greek": "δώῃ κῦδος ἀρέσθαι ἐρίγδουπος πόσις Ἥρης,", "en": "the loud-thunderer, Hera's lord, grants you your hour of glory,"}
+{"book": 16, "line": 89, "greek": "μὴ σύ γʼ ἄνευθεν ἐμεῖο λιλαίεσθαι πολεμίζειν", "en": "do not go lusting after battle apart from me"}
+{"book": 16, "line": 90, "greek": "Τρωσὶ φιλοπτολέμοισιν· ἀτιμότερον δέ με θήσεις·", "en": "against the war-loving Trojans — you will strip my honor thinner;"}
+{"book": 16, "line": 91, "greek": "μὴ δʼ ἐπαγαλλόμενος πολέμῳ καὶ δηϊοτῆτι", "en": "and do not, exulting in the war and the slaughter,"}
+{"book": 16, "line": 92, "greek": "Τρῶας ἐναιρόμενος προτὶ Ἴλιον ἡγεμονεύειν,", "en": "killing Trojans, lead the way to Ilion:"}
+{"book": 16, "line": 93, "greek": "μή τις ἀπʼ Οὐλύμποιο θεῶν αἰειγενετάων", "en": "one of the everlasting gods from Olympus may step in —"}
+{"book": 16, "line": 94, "greek": "ἐμβήῃ· μάλα τούς γε φιλεῖ ἑκάεργος Ἀπόλλων·", "en": "the worker-from-afar, Apollo, loves them dearly."}
+{"book": 16, "line": 95, "greek": "ἀλλὰ πάλιν τρωπᾶσθαι, ἐπὴν φάος ἐν νήεσσι", "en": "Turn back, once you have set the light of safety in the ships,"}
+{"book": 16, "line": 96, "greek": "θήῃς, τοὺς δʼ ἔτʼ ἐᾶν πεδίον κάτα δηριάασθαι.", "en": "and leave the rest to cut each other down across the plain."}
+{"book": 16, "line": 97, "greek": "αἲ γὰρ Ζεῦ τε πάτερ καὶ Ἀθηναίη καὶ Ἄπολλον", "en": "For — O father Zeus, Athena, Apollo — would"}
+{"book": 16, "line": 98, "greek": "μήτέ τις οὖν Τρώων θάνατον φύγοι ὅσσοι ἔασι,", "en": "that not one Trojan might escape death, of all there are,"}
+{"book": 16, "line": 99, "greek": "μήτέ τις Ἀργείων, νῶϊν δʼ ἐκδῦμεν ὄλεθρον,", "en": "and not one Argive; and that we two alone might slip destruction,"}
+{"book": 16, "line": 100, "greek": "ὄφρʼ οἶοι Τροίης ἱερὰ κρήδεμνα λύωμεν.", "en": "so that alone we might undo Troy's holy coronal of towers.\""}
+{"book": 16, "line": 101, "greek": "ὣς οἳ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,", "en": "So the two of them spoke such things to one another."}
+{"book": 16, "line": 102, "greek": "Αἴας δʼ οὐκ ἔτʼ ἔμιμνε· βιάζετο γὰρ βελέεσσι·", "en": "But Ajax could hold no longer: the missiles pressed him too hard."}
+{"book": 16, "line": 103, "greek": "δάμνα μιν Ζηνός τε νόος καὶ Τρῶες ἀγαυοὶ", "en": "The mind of Zeus was breaking him, and the proud Trojans"}
+{"book": 16, "line": 104, "greek": "βάλλοντες· δεινὴν δὲ περὶ κροτάφοισι φαεινὴ", "en": "with their throwing; and the bright helmet at his temples"}
+{"book": 16, "line": 105, "greek": "πήληξ βαλλομένη καναχὴν ἔχε, βάλλετο δʼ αἰεὶ", "en": "rang terribly under the blows — struck and struck again"}
+{"book": 16, "line": 106, "greek": "κὰπ φάλαρʼ εὐποίηθʼ· ὃ δʼ ἀριστερὸν ὦμον ἔκαμνεν", "en": "on its well-made cheek-pieces; and his left shoulder ached,"}
+{"book": 16, "line": 107, "greek": "ἔμπεδον αἰὲν ἔχων σάκος αἰόλον· οὐδὲ δύναντο", "en": "steady so long under the glittering shield; yet they could not"}
+{"book": 16, "line": 108, "greek": "ἀμφʼ αὐτῷ πελεμίξαι ἐρείδοντες βελέεσσιν.", "en": "shake him loose for all the missiles they leaned against him."}
+{"book": 16, "line": 109, "greek": "αἰεὶ δʼ ἀργαλέῳ ἔχετʼ ἄσθματι, κὰδ δέ οἱ ἱδρὼς", "en": "And always he labored, gasping hard, the sweat streaming"}
+{"book": 16, "line": 110, "greek": "πάντοθεν ἐκ μελέων πολὺς ἔρρεεν, οὐδέ πῃ εἶχεν", "en": "down from every limb of him, and he could nowhere"}
+{"book": 16, "line": 111, "greek": "ἀμπνεῦσαι· πάντῃ δὲ κακὸν κακῷ ἐστήρικτο.", "en": "catch his breath: everywhere evil was propped on evil."}
+{"book": 16, "line": 112, "greek": "ἔσπετε νῦν μοι Μοῦσαι Ὀλύμπια δώματʼ ἔχουσαι,", "en": "Tell me now, Muses, who keep your homes on Olympus —"}
+{"book": 16, "line": 113, "greek": "ὅππως δὴ πρῶτον πῦρ ἔμπεσε νηυσὶν Ἀχαιῶν.", "en": "how the fire first fell on the ships of the Achaeans."}
+{"book": 16, "line": 114, "greek": "Ἕκτωρ Αἴαντος δόρυ μείλινον ἄγχι παραστὰς", "en": "Hector, coming close, struck the ash spear of Ajax"}
+{"book": 16, "line": 115, "greek": "πλῆξʼ ἄορι μεγάλῳ αἰχμῆς παρὰ καυλὸν ὄπισθεν,", "en": "with his great sword, behind the point at the socket,"}
+{"book": 16, "line": 116, "greek": "ἀντικρὺ δʼ ἀπάραξε· τὸ μὲν Τελαμώνιος Αἴας", "en": "and sheared it clean off; and Telamonian Ajax"}
+{"book": 16, "line": 117, "greek": "πῆλʼ αὔτως ἐν χειρὶ κόλον δόρυ, τῆλε δʼ ἀπʼ αὐτοῦ", "en": "brandished a docked shaft, useless in his hand, while far away"}
+{"book": 16, "line": 118, "greek": "αἰχμὴ χαλκείη χαμάδις βόμβησε πεσοῦσα.", "en": "the bronze point rang on the ground where it fell."}
+{"book": 16, "line": 119, "greek": "γνῶ δʼ Αἴας κατὰ θυμὸν ἀμύμονα ῥίγησέν τε", "en": "And Ajax knew in his blameless heart, and shuddered at it:"}
+{"book": 16, "line": 120, "greek": "ἔργα θεῶν, ὅ ῥα πάγχυ μάχης ἐπὶ μήδεα κεῖρε", "en": "the work of gods — that Zeus who thunders on high was shearing off"}
+{"book": 16, "line": 121, "greek": "Ζεὺς ὑψιβρεμέτης, Τρώεσσι δὲ βούλετο νίκην·", "en": "all the plans of his fighting, and willed victory to the Trojans."}
+{"book": 16, "line": 122, "greek": "χάζετο δʼ ἐκ βελέων. τοὶ δʼ ἔμβαλον ἀκάματον πῦρ", "en": "He drew back out of range. And onto the swift ship they hurled"}
+{"book": 16, "line": 123, "greek": "νηῒ θοῇ· τῆς δʼ αἶψα κατʼ ἀσβέστη κέχυτο φλόξ.", "en": "unwearying fire; and the quenchless flame poured over it at once."}
+{"book": 16, "line": 124, "greek": "ὣς τὴν μὲν πρυμνὴν πῦρ ἄμφεπεν· αὐτὰρ Ἀχιλλεὺς", "en": "So the fire wrapped the stern of the ship. And Achilles"}
+{"book": 16, "line": 125, "greek": "μηρὼ πληξάμενος Πατροκλῆα προσέειπεν·", "en": "struck both his thighs and spoke to Patroclus:"}
+{"book": 16, "line": 126, "greek": "ὄρσεο διογενὲς Πατρόκλεες ἱπποκέλευθε·", "en": "\"Up, Zeus-sprung Patroclus, master of horses!"}
+{"book": 16, "line": 127, "greek": "λεύσσω δὴ παρὰ νηυσὶ πυρὸς δηΐοιο ἰωήν·", "en": "I see the rush of consuming fire at the ships."}
+{"book": 16, "line": 128, "greek": "μὴ δὴ νῆας ἕλωσι καὶ οὐκέτι φυκτὰ πέλωνται·", "en": "Before they take them, and there is no escaping left —"}
+{"book": 16, "line": 129, "greek": "δύσεο τεύχεα θᾶσσον, ἐγὼ δέ κε λαὸν ἀγείρω.", "en": "get into the armor, quick, and I will gather the men.\""}
+{"book": 16, "line": 130, "greek": "ὣς φάτο, Πάτροκλος δὲ κορύσσετο νώροπι χαλκῷ.", "en": "So he spoke; and Patroclus armed himself in the flashing bronze."}
+{"book": 16, "line": 131, "greek": "κνημῖδας μὲν πρῶτα περὶ κνήμῃσιν ἔθηκε", "en": "First he set the greaves along his shins,"}
+{"book": 16, "line": 132, "greek": "καλάς, ἀργυρέοισιν ἐπισφυρίοις ἀραρυίας·", "en": "fine greaves, fitted with silver ankle-pieces;"}
+{"book": 16, "line": 133, "greek": "δεύτερον αὖ θώρηκα περὶ στήθεσσιν ἔδυνε", "en": "second, he put the corslet about his chest,"}
+{"book": 16, "line": 134, "greek": "ποικίλον ἀστερόεντα ποδώκεος Αἰακίδαο.", "en": "the intricate, star-bright corslet of the swift-footed son of Aeacus."}
+{"book": 16, "line": 135, "greek": "ἀμφὶ δʼ ἄρʼ ὤμοισιν βάλετο ξίφος ἀργυρόηλον", "en": "Around his shoulders he threw the sword, silver-studded,"}
+{"book": 16, "line": 136, "greek": "χάλκεον, αὐτὰρ ἔπειτα σάκος μέγα τε στιβαρόν τε·", "en": "bronze; and after that the shield, great and heavy;"}
+{"book": 16, "line": 137, "greek": "κρατὶ δʼ ἐπʼ ἰφθίμῳ κυνέην εὔτυκτον ἔθηκεν", "en": "and on his powerful head he set the well-made helmet,"}
+{"book": 16, "line": 138, "greek": "ἵππουριν· δεινὸν δὲ λόφος καθύπερθεν ἔνευεν.", "en": "horsehair-crested; the plume nodded terribly above it."}
+{"book": 16, "line": 139, "greek": "εἵλετο δʼ ἄλκιμα δοῦρε, τά οἱ παλάμηφιν ἀρήρει.", "en": "And he took two stout spears, fitted to his grip —"}
+{"book": 16, "line": 140, "greek": "ἔγχος δʼ οὐχ ἕλετʼ οἶον ἀμύμονος Αἰακίδαο", "en": "only the spear he did not take of Aeacus' blameless son:"}
+{"book": 16, "line": 141, "greek": "βριθὺ μέγα στιβαρόν· τὸ μὲν οὐ δύνατʼ ἄλλος Ἀχαιῶν", "en": "heavy, huge, compact — no other of the Achaeans"}
+{"book": 16, "line": 142, "greek": "πάλλειν, ἀλλά μιν οἶος ἐπίστατο πῆλαι Ἀχιλλεὺς", "en": "could swing it; Achilles alone knew how to swing it —"}
+{"book": 16, "line": 143, "greek": "Πηλιάδα μελίην, τὴν πατρὶ φίλῳ πόρε Χείρων", "en": "the Pelian ash that Chiron gave his dear father"}
+{"book": 16, "line": 144, "greek": "Πηλίου ἐκ κορυφῆς, φόνον ἔμμεναι ἡρώεσσιν.", "en": "from the peak of Pelion, to be death for heroes."}
+{"book": 16, "line": 145, "greek": "ἵππους δʼ Αὐτομέδοντα θοῶς ζευγνῦμεν ἄνωγε,", "en": "The horses he told Automedon to yoke, and quickly —"}
+{"book": 16, "line": 146, "greek": "τὸν μετʼ Ἀχιλλῆα ῥηξήνορα τῖε μάλιστα,", "en": "the man he honored most after Achilles breaker of men,"}
+{"book": 16, "line": 147, "greek": "πιστότατος δέ οἱ ἔσκε μάχῃ ἔνι μεῖναι ὁμοκλήν.", "en": "and trustiest at his post to await the shout of battle."}
+{"book": 16, "line": 148, "greek": "τῷ δὲ καὶ Αὐτομέδων ὕπαγε ζυγὸν ὠκέας ἵππους", "en": "So Automedon led the swift horses under the yoke,"}
+{"book": 16, "line": 149, "greek": "Ξάνθον καὶ Βαλίον, τὼ ἅμα πνοιῇσι πετέσθην,", "en": "Xanthus and Balius, the pair who flew with the winds:"}
+{"book": 16, "line": 150, "greek": "τοὺς ἔτεκε Ζεφύρῳ ἀνέμῳ Ἅρπυια Ποδάργη", "en": "the harpy Podarge conceived them by the West Wind"}
+{"book": 16, "line": 151, "greek": "βοσκομένη λειμῶνι παρὰ ῥόον Ὠκεανοῖο.", "en": "as she grazed in a meadow beside the stream of Ocean."}
+{"book": 16, "line": 152, "greek": "ἐν δὲ παρηορίῃσιν ἀμύμονα Πήδασον ἵει,", "en": "And in the side-traces he put blameless Pedasus,"}
+{"book": 16, "line": 153, "greek": "τόν ῥά ποτʼ Ἠετίωνος ἑλὼν πόλιν ἤγαγʼ Ἀχιλλεύς,", "en": "whom Achilles brought home when he took Eëtion's city:"}
+{"book": 16, "line": 154, "greek": "ὃς καὶ θνητὸς ἐὼν ἕπεθʼ ἵπποις ἀθανάτοισι.", "en": "a horse who, mortal as he was, kept pace with immortal horses."}
+{"book": 16, "line": 155, "greek": "Μυρμιδόνας δʼ ἄρʼ ἐποιχόμενος θώρηξεν Ἀχιλλεὺς", "en": "And Achilles went down the huts and armed the Myrmidons,"}
+{"book": 16, "line": 156, "greek": "πάντας ἀνὰ κλισίας σὺν τεύχεσιν· οἳ δὲ λύκοι ὣς", "en": "all of them, in their war-gear. And they, like wolves"}
+{"book": 16, "line": 157, "greek": "ὠμοφάγοι, τοῖσίν τε περὶ φρεσὶν ἄσπετος ἀλκή,", "en": "that eat flesh raw, hearts full of unspeakable courage,"}
+{"book": 16, "line": 158, "greek": "οἵ τʼ ἔλαφον κεραὸν μέγαν οὔρεσι δῃώσαντες", "en": "who have brought down a great antlered stag in the mountains"}
+{"book": 16, "line": 159, "greek": "δάπτουσιν· πᾶσιν δὲ παρήϊον αἵματι φοινόν·", "en": "and tear it, and every muzzle among them is red with blood;"}
+{"book": 16, "line": 160, "greek": "καί τʼ ἀγεληδὸν ἴασιν ἀπὸ κρήνης μελανύδρου", "en": "and in a pack they go to a spring of dark water"}
+{"book": 16, "line": 161, "greek": "λάψοντες γλώσσῃσιν ἀραιῇσιν μέλαν ὕδωρ", "en": "to lap with their thin tongues the black surface-water,"}
+{"book": 16, "line": 162, "greek": "ἄκρον ἐρευγόμενοι φόνον αἵματος· ἐν δέ τε θυμὸς", "en": "belching up clotted gore; and the heart in their chests"}
+{"book": 16, "line": 163, "greek": "στήθεσιν ἄτρομός ἐστι, περιστένεται δέ τε γαστήρ·", "en": "is fearless still, though every belly is stretched:"}
+{"book": 16, "line": 164, "greek": "τοῖοι Μυρμιδόνων ἡγήτορες ἠδὲ μέδοντες", "en": "such were the leaders and lords of the Myrmidons"}
+{"book": 16, "line": 165, "greek": "ἀμφʼ ἀγαθὸν θεράποντα ποδώκεος Αἰακίδαο", "en": "streaming round the brave aide of the swift-footed son of Aeacus;"}
+{"book": 16, "line": 166, "greek": "ῥώοντʼ· ἐν δʼ ἄρα τοῖσιν ἀρήϊος ἵστατʼ Ἀχιλλεύς,", "en": "and among them stood Achilles the warlike,"}
+{"book": 16, "line": 167, "greek": "ὀτρύνων ἵππους τε καὶ ἀνέρας ἀσπιδιώτας.", "en": "urging on the horses and the shield-bearing men."}
+{"book": 16, "line": 168, "greek": "πεντήκοντʼ ἦσαν νῆες θοαί, ᾗσιν Ἀχιλλεὺς", "en": "Fifty were the swift ships that Achilles,"}
+{"book": 16, "line": 169, "greek": "ἐς Τροίην ἡγεῖτο Διῒ φίλος· ἐν δὲ ἑκάστῃ", "en": "dear to Zeus, led to Troy, and in each one"}
+{"book": 16, "line": 170, "greek": "πεντήκοντʼ ἔσαν ἄνδρες ἐπὶ κληῗσιν ἑταῖροι·", "en": "fifty men, companions at the oar-benches;"}
+{"book": 16, "line": 171, "greek": "πέντε δʼ ἄρʼ ἡγεμόνας ποιήσατο τοῖς ἐπεποίθει", "en": "and he made five men leaders, and trusted them"}
+{"book": 16, "line": 172, "greek": "σημαίνειν· αὐτὸς δὲ μέγα κρατέων ἤνασσε.", "en": "to command, while he himself in his great power was king."}
+{"book": 16, "line": 173, "greek": "τῆς μὲν ἰῆς στιχὸς ἦρχε Μενέσθιος αἰολοθώρηξ", "en": "One line was led by Menesthius of the glittering corslet,"}
+{"book": 16, "line": 174, "greek": "υἱὸς Σπερχειοῖο διιπετέος ποταμοῖο·", "en": "the son of Spercheius, the sky-fed river:"}
+{"book": 16, "line": 175, "greek": "ὃν τέκε Πηλῆος θυγάτηρ καλὴ Πολυδώρη", "en": "Peleus' daughter bore him, beautiful Polydora,"}
+{"book": 16, "line": 176, "greek": "Σπερχειῷ ἀκάμαντι γυνὴ θεῷ εὐνηθεῖσα,", "en": "a woman bedded with a god, to tireless Spercheius —"}
+{"book": 16, "line": 177, "greek": "αὐτὰρ ἐπίκλησιν Βώρῳ Περιήρεος υἷι,", "en": "though in name to Borus, Perieres' son, who wed her"}
+{"book": 16, "line": 178, "greek": "ὅς ῥʼ ἀναφανδὸν ὄπυιε πορὼν ἀπερείσια ἕδνα.", "en": "openly before men, and gave bride-gifts past counting."}
+{"book": 16, "line": 179, "greek": "τῆς δʼ ἑτέρης Εὔδωρος ἀρήϊος ἡγεμόνευε", "en": "The second was led by warlike Eudorus, born"}
+{"book": 16, "line": 180, "greek": "παρθένιος, τὸν ἔτικτε χορῷ καλὴ Πολυμήλη", "en": "out of wedlock: Polymele, beautiful in the dance,"}
+{"book": 16, "line": 181, "greek": "Φύλαντος θυγάτηρ· τῆς δὲ κρατὺς ἀργεϊφόντης", "en": "bore him — Phylas's daughter. Strong Hermes, the slayer of Argus,"}
+{"book": 16, "line": 182, "greek": "ἠράσατʼ, ὀφθαλμοῖσιν ἰδὼν μετὰ μελπομένῃσιν", "en": "fell in love with her, his eyes catching her among the singers"}
+{"book": 16, "line": 183, "greek": "ἐν χορῷ Ἀρτέμιδος χρυσηλακάτου κελαδεινῆς.", "en": "in the dancing-choir of Artemis of the golden distaff, the huntress-crier;"}
+{"book": 16, "line": 184, "greek": "αὐτίκα δʼ εἰς ὑπερῷʼ ἀναβὰς παρελέξατο λάθρῃ", "en": "and straightway he climbed to her upper room and lay with her"}
+{"book": 16, "line": 185, "greek": "Ἑρμείας ἀκάκητα, πόρεν δέ οἱ ἀγλαὸν υἱὸν", "en": "in secret — Hermes the gracious — and she gave him a shining son,"}
+{"book": 16, "line": 186, "greek": "Εὔδωρον πέρι μὲν θείειν ταχὺν ἠδὲ μαχητήν.", "en": "Eudorus, quick beyond all men to run, and a fighter."}
+{"book": 16, "line": 187, "greek": "αὐτὰρ ἐπεὶ δὴ τόν γε μογοστόκος Εἰλείθυια", "en": "And when Eileithyia of hard labor had brought him"}
+{"book": 16, "line": 188, "greek": "ἐξάγαγε πρὸ φόως δὲ καὶ ἠελίου ἴδεν αὐγάς,", "en": "out into the light, and he had seen the rays of the sun,"}
+{"book": 16, "line": 189, "greek": "τὴν μὲν Ἐχεκλῆος κρατερὸν μένος Ἀκτορίδαο", "en": "the strong might of Echecles, Actor's son,"}
+{"book": 16, "line": 190, "greek": "ἠγάγετο πρὸς δώματʼ, ἐπεὶ πόρε μυρία ἕδνα,", "en": "led her home to his house, once he had given countless bride-gifts;"}
+{"book": 16, "line": 191, "greek": "τὸν δʼ ὃ γέρων Φύλας εὖ ἔτρεφεν ἠδʼ ἀτίταλλεν", "en": "and old Phylas reared the boy well, and cherished him,"}
+{"book": 16, "line": 192, "greek": "ἀμφαγαπαζόμενος ὡς εἴ θʼ ἑὸν υἱὸν ἐόντα.", "en": "wrapping him round with love, as though he were his own son."}
+{"book": 16, "line": 193, "greek": "τῆς δὲ τρίτης Πείσανδρος ἀρήϊος ἡγεμόνευε", "en": "The third was led by warlike Peisander,"}
+{"book": 16, "line": 194, "greek": "Μαιμαλίδης, ὃς πᾶσι μετέπρεπε Μυρμιδόνεσσιν", "en": "Maemalus's son, who outshone all the Myrmidons"}
+{"book": 16, "line": 195, "greek": "ἔγχεϊ μάρνασθαι μετὰ Πηλεΐωνος ἑταῖρον.", "en": "in spear-fighting, after Peleus' son's own companion."}
+{"book": 16, "line": 196, "greek": "τῆς δὲ τετάρτης ἦρχε γέρων ἱππηλάτα Φοῖνιξ,", "en": "The fourth the old horseman Phoenix led;"}
+{"book": 16, "line": 197, "greek": "πέμπτης δʼ Ἀλκιμέδων Λαέρκεος υἱὸς ἀμύμων.", "en": "the fifth, Alcimedon, Laerces' blameless son."}
+{"book": 16, "line": 198, "greek": "αὐτὰρ ἐπεὶ δὴ πάντας ἅμʼ ἡγεμόνεσσιν Ἀχιλλεὺς", "en": "Now when Achilles had set them all with their leaders,"}
+{"book": 16, "line": 199, "greek": "στῆσεν ἐῢ κρίνας, κρατερὸν δʼ ἐπὶ μῦθον ἔτελλε·", "en": "duly marshaled, he laid this hard word upon them:"}
+{"book": 16, "line": 200, "greek": "Μυρμιδόνες μή τίς μοι ἀπειλάων λελαθέσθω,", "en": "\"Myrmidons — let no man forget for me the threats"}
+{"book": 16, "line": 201, "greek": "ἃς ἐπὶ νηυσὶ θοῇσιν ἀπειλεῖτε Τρώεσσι", "en": "you made beside the swift ships against the Trojans"}
+{"book": 16, "line": 202, "greek": "πάνθʼ ὑπὸ μηνιθμόν, καί μʼ ᾐτιάασθε ἕκαστος·", "en": "all through my wrath, when every one of you accused me:"}
+{"book": 16, "line": 203, "greek": "σχέτλιε Πηλέος υἱὲ χόλῳ ἄρα σʼ ἔτρεφε μήτηρ,", "en": "'Cruel son of Peleus — your mother reared you on bile!"}
+{"book": 16, "line": 204, "greek": "νηλεές, ὃς παρὰ νηυσὶν ἔχεις ἀέκοντας ἑταίρους·", "en": "Pitiless — holding your companions by the ships against their will!"}
+{"book": 16, "line": 205, "greek": "οἴκαδέ περ σὺν νηυσὶ νεώμεθα ποντοπόροισιν", "en": "Let us at least sail home again in our seagoing ships,"}
+{"book": 16, "line": 206, "greek": "αὖτις, ἐπεί ῥά τοι ὧδε κακὸς χόλος ἔμπεσε θυμῷ.", "en": "since this ruinous anger has fallen on your heart.'"}
+{"book": 16, "line": 207, "greek": "ταῦτά μʼ ἀγειρόμενοι θάμʼ ἐβάζετε· νῦν δὲ πέφανται", "en": "So you would gather and mutter at me. Now here it is —"}
+{"book": 16, "line": 208, "greek": "φυλόπιδος μέγα ἔργον, ἕης τὸ πρίν γʼ ἐράασθε.", "en": "the great work of battle you were lusting for, in plain sight."}
+{"book": 16, "line": 209, "greek": "ἔνθά τις ἄλκιμον ἦτορ ἔχων Τρώεσσι μαχέσθω.", "en": "Now let each man fight the Trojans with a stout heart.\""}
+{"book": 16, "line": 210, "greek": "ὣς εἰπὼν ὄτρυνε μένος καὶ θυμὸν ἑκάστου.", "en": "So speaking he stirred the fury and the heart of every man,"}
+{"book": 16, "line": 211, "greek": "μᾶλλον δὲ στίχες ἄρθεν, ἐπεὶ βασιλῆος ἄκουσαν.", "en": "and the ranks locked tighter, once they heard their king."}
+{"book": 16, "line": 212, "greek": "ὡς δʼ ὅτε τοῖχον ἀνὴρ ἀράρῃ πυκινοῖσι λίθοισι", "en": "As when a man fits close the stones of a high house's wall,"}
+{"book": 16, "line": 213, "greek": "δώματος ὑψηλοῖο βίας ἀνέμων ἀλεείνων,", "en": "building against the strength of the winds,"}
+{"book": 16, "line": 214, "greek": "ὣς ἄραρον κόρυθές τε καὶ ἀσπίδες ὀμφαλόεσσαι.", "en": "so close were fitted the helmets and the bossed shields:"}
+{"book": 16, "line": 215, "greek": "ἀσπὶς ἄρʼ ἀσπίδʼ ἔρειδε, κόρυς κόρυν, ἀνέρα δʼ ἀνήρ·", "en": "buckler pressed on buckler, helmet on helmet, man on man,"}
+{"book": 16, "line": 216, "greek": "ψαῦον δʼ ἱππόκομοι κόρυθες λαμπροῖσι φάλοισι", "en": "and the horsehair crests on the bright ridges touched"}
+{"book": 16, "line": 217, "greek": "νευόντων, ὡς πυκνοὶ ἐφέστασαν ἀλλήλοισι.", "en": "as they nodded, so close they stood to one another."}
+{"book": 16, "line": 218, "greek": "πάντων δὲ προπάροιθε δύʼ ἀνέρε θωρήσσοντο", "en": "And in front of them all two men armed themselves,"}
+{"book": 16, "line": 219, "greek": "Πάτροκλός τε καὶ Αὐτομέδων ἕνα θυμὸν ἔχοντες", "en": "Patroclus and Automedon, of one mind between them:"}
+{"book": 16, "line": 220, "greek": "πρόσθεν Μυρμιδόνων πολεμιζέμεν. αὐτὰρ Ἀχιλλεὺς", "en": "to fight in the forefront of the Myrmidons. But Achilles"}
+{"book": 16, "line": 221, "greek": "βῆ ῥʼ ἴμεν ἐς κλισίην, χηλοῦ δʼ ἀπὸ πῶμʼ ἀνέῳγε", "en": "went into his hut, and lifted the lid of a chest,"}
+{"book": 16, "line": 222, "greek": "καλῆς δαιδαλέης, τήν οἱ Θέτις ἀργυρόπεζα", "en": "beautiful, intricate, that silver-footed Thetis"}
+{"book": 16, "line": 223, "greek": "θῆκʼ ἐπὶ νηὸς ἄγεσθαι ἐῢ πλήσασα χιτώνων", "en": "had put aboard his ship to carry, filled with tunics"}
+{"book": 16, "line": 224, "greek": "χλαινάων τʼ ἀνεμοσκεπέων οὔλων τε ταπήτων.", "en": "and wind-proof cloaks and thick-piled rugs."}
+{"book": 16, "line": 225, "greek": "ἔνθα δέ οἱ δέπας ἔσκε τετυγμένον, οὐδέ τις ἄλλος", "en": "And in it lay a wrought cup: no other man"}
+{"book": 16, "line": 226, "greek": "οὔτʼ ἀνδρῶν πίνεσκεν ἀπʼ αὐτοῦ αἴθοπα οἶνον,", "en": "drank the fire-bright wine from it, and to no god"}
+{"book": 16, "line": 227, "greek": "οὔτέ τεῳ σπένδεσκε θεῶν, ὅτε μὴ Διὶ πατρί.", "en": "did he pour from it, except to Zeus the father."}
+{"book": 16, "line": 228, "greek": "τό ῥα τότʼ ἐκ χηλοῖο λαβὼν ἐκάθηρε θεείῳ", "en": "This he took from the chest and cleansed with sulphur"}
+{"book": 16, "line": 229, "greek": "πρῶτον, ἔπειτα δʼ ἔνιψʼ ὕδατος καλῇσι ῥοῇσι,", "en": "first, then washed it in fair streams of water,"}
+{"book": 16, "line": 230, "greek": "νίψατο δʼ αὐτὸς χεῖρας, ἀφύσσατο δʼ αἴθοπα οἶνον.", "en": "and washed his own hands, and drew off the fire-bright wine."}
+{"book": 16, "line": 231, "greek": "εὔχετʼ ἔπειτα στὰς μέσῳ ἕρκεϊ, λεῖβε δὲ οἶνον", "en": "Then he prayed, standing in the middle of the yard, and poured the wine"}
+{"book": 16, "line": 232, "greek": "οὐρανὸν εἰσανιδών· Δία δʼ οὐ λάθε τερπικέραυνον·", "en": "looking up into heaven; and Zeus who delights in thunder marked him well:"}
+{"book": 16, "line": 233, "greek": "Ζεῦ ἄνα Δωδωναῖε Πελασγικὲ τηλόθι ναίων", "en": "\"Zeus — lord — Dodonaean — Pelasgian — dweller far off,"}
+{"book": 16, "line": 234, "greek": "Δωδώνης μεδέων δυσχειμέρου, ἀμφὶ δὲ Σελλοὶ", "en": "ruling over wintry Dodona; and around you the Selloi"}
+{"book": 16, "line": 235, "greek": "σοὶ ναίουσʼ ὑποφῆται ἀνιπτόποδες χαμαιεῦναι,", "en": "live, your interpreters, men of unwashed feet, who sleep on the ground."}
+{"book": 16, "line": 236, "greek": "ἠμὲν δή ποτʼ ἐμὸν ἔπος ἔκλυες εὐξαμένοιο,", "en": "Once before, when I prayed, you heard my word:"}
+{"book": 16, "line": 237, "greek": "τίμησας μὲν ἐμέ, μέγα δʼ ἴψαο λαὸν Ἀχαιῶν,", "en": "you did me honor, and struck the Achaean army hard."}
+{"book": 16, "line": 238, "greek": "ἠδʼ ἔτι καὶ νῦν μοι τόδʼ ἐπικρήηνον ἐέλδωρ·", "en": "So now again accomplish this desire for me."}
+{"book": 16, "line": 239, "greek": "αὐτὸς μὲν γὰρ ἐγὼ μενέω νηῶν ἐν ἀγῶνι,", "en": "I myself will stay in the gathering-place of the ships,"}
+{"book": 16, "line": 240, "greek": "ἀλλʼ ἕταρον πέμπω πολέσιν μετὰ Μυρμιδόνεσσι", "en": "but I am sending out my companion, with many Myrmidons,"}
+{"book": 16, "line": 241, "greek": "μάρνασθαι· τῷ κῦδος ἅμα πρόες εὐρύοπα Ζεῦ,", "en": "to fight. Send glory out with him, wide-seeing Zeus,"}
+{"book": 16, "line": 242, "greek": "θάρσυνον δέ οἱ ἦτορ ἐνὶ φρεσίν, ὄφρα καὶ Ἕκτωρ", "en": "and make the heart bold in his chest, so that even Hector"}
+{"book": 16, "line": 243, "greek": "εἴσεται ἤ ῥα καὶ οἶος ἐπίστηται πολεμίζειν", "en": "may learn whether our aide knows how to make war"}
+{"book": 16, "line": 244, "greek": "ἡμέτερος θεράπων, ἦ οἱ τότε χεῖρες ἄαπτοι", "en": "alone — or whether his hands rage invincible only"}
+{"book": 16, "line": 245, "greek": "μαίνονθʼ, ὁππότʼ ἐγώ περ ἴω μετὰ μῶλον Ἄρηος.", "en": "when I myself go into the grind of the war-god."}
+{"book": 16, "line": 246, "greek": "αὐτὰρ ἐπεί κʼ ἀπὸ ναῦφι μάχην ἐνοπήν τε δίηται,", "en": "But when he has driven the fighting and the war-cry from the ships,"}
+{"book": 16, "line": 247, "greek": "ἀσκηθής μοι ἔπειτα θοὰς ἐπὶ νῆας ἵκοιτο", "en": "then let him come back to me at the swift ships unhurt,"}
+{"book": 16, "line": 248, "greek": "τεύχεσί τε ξὺν πᾶσι καὶ ἀγχεμάχοις ἑτάροισιν.", "en": "with all his armor, and his close-fighting companions.\""}
+{"book": 16, "line": 249, "greek": "ὣς ἔφατʼ εὐχόμενος, τοῦ δʼ ἔκλυε μητίετα Ζεύς.", "en": "So he spoke in prayer, and Zeus the counselor heard him;"}
+{"book": 16, "line": 250, "greek": "τῷ δʼ ἕτερον μὲν ἔδωκε πατήρ, ἕτερον δʼ ἀνένευσε·", "en": "and the father granted him one thing, and refused the other:"}
+{"book": 16, "line": 251, "greek": "νηῶν μέν οἱ ἀπώσασθαι πόλεμόν τε μάχην τε", "en": "that Patroclus should push the war and battle back from the ships"}
+{"book": 16, "line": 252, "greek": "δῶκε, σόον δʼ ἀνένευσε μάχης ἐξαπονέεσθαι.", "en": "he granted; and refused that he come back safe out of the fighting."}
+{"book": 16, "line": 253, "greek": "ἤτοι ὃ μὲν σπείσας τε καὶ εὐξάμενος Διὶ πατρὶ", "en": "So Achilles, having poured and prayed to Zeus the father,"}
+{"book": 16, "line": 254, "greek": "ἂψ κλισίην εἰσῆλθε, δέπας δʼ ἀπέθηκʼ ἐνὶ χηλῷ,", "en": "went into his hut again and laid the cup in the chest,"}
+{"book": 16, "line": 255, "greek": "στῆ δὲ πάροιθʼ ἐλθὼν κλισίης, ἔτι δʼ ἤθελε θυμῷ", "en": "and came out and stood before the hut; for his heart still longed"}
+{"book": 16, "line": 256, "greek": "εἰσιδέειν Τρώων καὶ Ἀχαιῶν φύλοπιν αἰνήν.", "en": "to watch the dread struggle of Trojans and Achaeans."}
+{"book": 16, "line": 257, "greek": "οἳ δʼ ἅμα Πατρόκλῳ μεγαλήτορι θωρηχθέντες", "en": "And they, armed all together with great-hearted Patroclus,"}
+{"book": 16, "line": 258, "greek": "ἔστιχον, ὄφρʼ ἐν Τρωσὶ μέγα φρονέοντες ὄρουσαν.", "en": "marched until they charged the Trojans, thinking great things."}
+{"book": 16, "line": 259, "greek": "αὐτίκα δὲ σφήκεσσιν ἐοικότες ἐξεχέοντο", "en": "At once they came pouring out like roadside wasps"}
+{"book": 16, "line": 260, "greek": "εἰνοδίοις, οὓς παῖδες ἐριδμαίνωσιν ἔθοντες", "en": "that boys are forever provoking, forever tormenting —"}
+{"book": 16, "line": 261, "greek": "αἰεὶ κερτομέοντες ὁδῷ ἔπι οἰκίʼ ἔχοντας", "en": "wasps with their nests along the road — as boys will,"}
+{"book": 16, "line": 262, "greek": "νηπίαχοι· ξυνὸν δὲ κακὸν πολέεσσι τιθεῖσι.", "en": "the little fools: they make a common evil for many."}
+{"book": 16, "line": 263, "greek": "τοὺς δʼ εἴ περ παρά τίς τε κιὼν ἄνθρωπος ὁδίτης", "en": "If some traveling man going by then stirs the wasps"}
+{"book": 16, "line": 264, "greek": "κινήσῃ ἀέκων, οἳ δʼ ἄλκιμον ἦτορ ἔχοντες", "en": "without meaning it, out they come with fearless hearts,"}
+{"book": 16, "line": 265, "greek": "πρόσσω πᾶς πέτεται καὶ ἀμύνει οἷσι τέκεσσι.", "en": "every one flying at him, defending their young:"}
+{"book": 16, "line": 266, "greek": "τῶν τότε Μυρμιδόνες κραδίην καὶ θυμὸν ἔχοντες", "en": "with their heart and courage the Myrmidons then"}
+{"book": 16, "line": 267, "greek": "ἐκ νηῶν ἐχέοντο· βοὴ δʼ ἄσβεστος ὀρώρει.", "en": "came pouring from the ships; and the quenchless roar rose."}
+{"book": 16, "line": 268, "greek": "Πάτροκλος δʼ ἑτάροισιν ἐκέκλετο μακρὸν ἀΰσας·", "en": "And Patroclus called to his companions with a great shout:"}
+{"book": 16, "line": 269, "greek": "Μυρμιδόνες ἕταροι Πηληϊάδεω Ἀχιλῆος", "en": "\"Myrmidons, companions of Achilles, Peleus' son —"}
+{"book": 16, "line": 270, "greek": "ἀνέρες ἔστε φίλοι, μνήσασθε δὲ θούριδος ἀλκῆς,", "en": "be men, my friends; remember your rushing courage;"}
+{"book": 16, "line": 271, "greek": "ὡς ἂν Πηλεΐδην τιμήσομεν, ὃς μέγʼ ἄριστος", "en": "so we may honor Peleus' son, who is far the best"}
+{"book": 16, "line": 272, "greek": "Ἀργείων παρὰ νηυσὶ καὶ ἀγχέμαχοι θεράποντες,", "en": "of the Argives by the ships — he, and his close-fighting aides —"}
+{"book": 16, "line": 273, "greek": "γνῷ δὲ καὶ Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων", "en": "and so that Atreus' son, wide-ruling Agamemnon,"}
+{"book": 16, "line": 274, "greek": "ἣν ἄτην, ὅ τʼ ἄριστον Ἀχαιῶν οὐδὲν ἔτισεν.", "en": "may know his blindness: that he honored not at all the best of the Achaeans.\""}
+{"book": 16, "line": 275, "greek": "ὣς εἰπὼν ὄτρυνε μένος καὶ θυμὸν ἑκάστου,", "en": "So speaking he stirred the fury and the heart of every man,"}
+{"book": 16, "line": 276, "greek": "ἐν δʼ ἔπεσον Τρώεσσιν ἀολλέες· ἀμφὶ δὲ νῆες", "en": "and they fell on the Trojans in one mass; and around them the ships"}
+{"book": 16, "line": 277, "greek": "σμερδαλέον κονάβησαν ἀϋσάντων ὑπʼ Ἀχαιῶν.", "en": "echoed terribly under the shouting of the Achaeans."}
+{"book": 16, "line": 278, "greek": "Τρῶες δʼ ὡς εἴδοντο Μενοιτίου ἄλκιμον υἱὸν", "en": "But the Trojans, when they saw the stout son of Menoetius,"}
+{"book": 16, "line": 279, "greek": "αὐτὸν καὶ θεράποντα σὺν ἔντεσι μαρμαίροντας,", "en": "himself and his aide beside him, blazing in their armor,"}
+{"book": 16, "line": 280, "greek": "πᾶσιν ὀρίνθη θυμός, ἐκίνηθεν δὲ φάλαγγες", "en": "the heart was shaken in all of them, and the battle-lines wavered:"}
+{"book": 16, "line": 281, "greek": "ἐλπόμενοι παρὰ ναῦφι ποδώκεα Πηλεΐωνα", "en": "they thought the swift-footed son of Peleus by the ships"}
+{"book": 16, "line": 282, "greek": "μηνιθμὸν μὲν ἀπορρῖψαι, φιλότητα δʼ ἑλέσθαι·", "en": "had thrown away his wrath and taken back friendship;"}
+{"book": 16, "line": 283, "greek": "πάπτηνεν δὲ ἕκαστος ὅπῃ φύγοι αἰπὺν ὄλεθρον.", "en": "and each man looked about him for escape from sheer destruction."}
+{"book": 16, "line": 284, "greek": "Πάτροκλος δὲ πρῶτος ἀκόντισε δουρὶ φαεινῷ", "en": "Then Patroclus first cast with his shining spear,"}
+{"book": 16, "line": 285, "greek": "ἀντικρὺ κατὰ μέσσον, ὅθι πλεῖστοι κλονέοντο,", "en": "straight into the middle, where the most men were driven"}
+{"book": 16, "line": 286, "greek": "νηῒ πάρα πρυμνῇ μεγαθύμου Πρωτεσιλάου,", "en": "in confusion around the stern of the ship of great-hearted"}
+{"book": 16, "line": 287, "greek": "καὶ βάλε Πυραίχμην, ὃς Παίονας ἱπποκορυστὰς", "en": "Protesilaus, and he struck Pyraechmes — who led the Paeonians,"}
+{"book": 16, "line": 288, "greek": "ἤγαγεν ἐξ Ἀμυδῶνος ἀπʼ Ἀξιοῦ εὐρὺ ῥέοντος·", "en": "who fight from chariots, out of Amydon, from the wide-flowing Axius —"}
+{"book": 16, "line": 289, "greek": "τὸν βάλε δεξιὸν ὦμον· ὃ δʼ ὕπτιος ἐν κονίῃσι", "en": "in the right shoulder; and he went down on his back in the dust"}
+{"book": 16, "line": 290, "greek": "κάππεσεν οἰμώξας, ἕταροι δέ μιν ἀμφεφόβηθεν", "en": "with a groan, and around him his companions panicked,"}
+{"book": 16, "line": 291, "greek": "Παίονες· ἐν γὰρ Πάτροκλος φόβον ἧκεν ἅπασιν", "en": "the Paeonians: for Patroclus had driven the panic among them all,"}
+{"book": 16, "line": 292, "greek": "ἡγεμόνα κτείνας, ὃς ἀριστεύεσκε μάχεσθαι.", "en": "killing their leader, who was their best in battle."}
+{"book": 16, "line": 293, "greek": "ἐκ νηῶν δʼ ἔλασεν, κατὰ δʼ ἔσβεσεν αἰθόμενον πῦρ.", "en": "He drove them from the ships, and quenched the blazing fire;"}
+{"book": 16, "line": 294, "greek": "ἡμιδαὴς δʼ ἄρα νηῦς λίπετʼ αὐτόθι· τοὶ δὲ φόβηθεν", "en": "and the ship was left there, half-burnt. And the Trojans fled"}
+{"book": 16, "line": 295, "greek": "Τρῶες θεσπεσίῳ ὁμάδῳ· Δαναοὶ δʼ ἐπέχυντο", "en": "with an unearthly din, and the Danaans poured after them"}
+{"book": 16, "line": 296, "greek": "νῆας ἀνὰ γλαφυράς· ὅμαδος δʼ ἀλίαστος ἐτύχθη.", "en": "along the hollow ships; and the roar rose unabating."}
+{"book": 16, "line": 297, "greek": "ὡς δʼ ὅτʼ ἀφʼ ὑψηλῆς κορυφῆς ὄρεος μεγάλοιο", "en": "As when from the high crest of a great mountain"}
+{"book": 16, "line": 298, "greek": "κινήσῃ πυκινὴν νεφέλην στεροπηγερέτα Ζεύς,", "en": "Zeus who gathers the lightning moves a close-packed cloud,"}
+{"book": 16, "line": 299, "greek": "ἔκ τʼ ἔφανεν πᾶσαι σκοπιαὶ καὶ πρώονες ἄκροι", "en": "and all the lookout-peaks show clear, and the jutting headlands,"}
+{"book": 16, "line": 300, "greek": "καὶ νάπαι, οὐρανόθεν δʼ ἄρʼ ὑπερράγη ἄσπετος αἰθήρ,", "en": "and the glens; and from heaven the measureless air breaks open:"}
+{"book": 16, "line": 301, "greek": "ὣς Δαναοὶ νηῶν μὲν ἀπωσάμενοι δήϊον πῦρ", "en": "so the Danaans, having thrust the enemy fire from the ships,"}
+{"book": 16, "line": 302, "greek": "τυτθὸν ἀνέπνευσαν, πολέμου δʼ οὐ γίγνετʼ ἐρωή·", "en": "caught their breath a little. But there was no pause in the war:"}
+{"book": 16, "line": 303, "greek": "οὐ γάρ πώ τι Τρῶες ἀρηϊφίλων ὑπʼ Ἀχαιῶν", "en": "for the Trojans, before the Achaeans dear to Ares, were not yet"}
+{"book": 16, "line": 304, "greek": "προτροπάδην φοβέοντο μελαινάων ἀπὸ νηῶν,", "en": "turned in headlong flight away from the black ships —"}
+{"book": 16, "line": 305, "greek": "ἀλλʼ ἔτʼ ἄρʼ ἀνθίσταντο, νεῶν δʼ ὑπόεικον ἀνάγκῃ.", "en": "they still stood facing them, giving ground from the ships only by need."}
+{"book": 16, "line": 306, "greek": "ἔνθα δʼ ἀνὴρ ἕλεν ἄνδρα κεδασθείσης ὑσμίνης", "en": "Then man killed man, as the battle scattered,"}
+{"book": 16, "line": 307, "greek": "ἡγεμόνων. πρῶτος δὲ Μενοιτίου ἄλκιμος υἱὸς", "en": "among the leaders. First the stout son of Menoetius"}
+{"book": 16, "line": 308, "greek": "αὐτίκʼ ἄρα στρεφθέντος Ἀρηϊλύκου βάλε μηρὸν", "en": "hit Areïlycus in the thigh, just as he turned,"}
+{"book": 16, "line": 309, "greek": "ἔγχεϊ ὀξυόεντι, διὰ πρὸ δὲ χαλκὸν ἔλασσε·", "en": "with his sharp-pointed spear, and drove the bronze clean through;"}
+{"book": 16, "line": 310, "greek": "ῥῆξεν δʼ ὀστέον ἔγχος, ὃ δὲ πρηνὴς ἐπὶ γαίῃ", "en": "the spear shattered the bone, and he came down on his face"}
+{"book": 16, "line": 311, "greek": "κάππεσʼ· ἀτὰρ Μενέλαος ἀρήϊος οὖτα Θόαντα", "en": "to the ground. Then warlike Menelaus wounded Thoas"}
+{"book": 16, "line": 312, "greek": "στέρνον γυμνωθέντα παρʼ ἀσπίδα, λῦσε δὲ γυῖα.", "en": "where the chest showed bare beside the shield, and unstrung his limbs."}
+{"book": 16, "line": 313, "greek": "Φυλεΐδης δʼ Ἄμφικλον ἐφορμηθέντα δοκεύσας", "en": "And Phyleus' son, watching Amphiclus as he charged in,"}
+{"book": 16, "line": 314, "greek": "ἔφθη ὀρεξάμενος πρυμνὸν σκέλος, ἔνθα πάχιστος", "en": "was quicker: he lunged and hit the top of his leg,"}
+{"book": 16, "line": 315, "greek": "μυὼν ἀνθρώπου πέλεται· περὶ δʼ ἔγχεος αἰχμῇ", "en": "where a man's muscle is thickest, and around the spear-point"}
+{"book": 16, "line": 316, "greek": "νεῦρα διεσχίσθη· τὸν δὲ σκότος ὄσσε κάλυψε.", "en": "the sinews were torn through; and darkness covered his eyes."}
+{"book": 16, "line": 317, "greek": "Νεστορίδαι δʼ ὃ μὲν οὔτασʼ Ἀτύμνιον ὀξέϊ δουρὶ", "en": "And of Nestor's sons, one — Antilochus — stabbed Atymnius"}
+{"book": 16, "line": 318, "greek": "Ἀντίλοχος, λαπάρης δὲ διήλασε χάλκεον ἔγχος·", "en": "with his sharp spear, and drove the bronze point through his flank;"}
+{"book": 16, "line": 319, "greek": "ἤριπε δὲ προπάροιθε. Μάρις δʼ αὐτοσχεδὰ δουρὶ", "en": "he fell forward. But Maris, close in, rushed Antilochus"}
+{"book": 16, "line": 320, "greek": "Ἀντιλόχῳ ἐπόρουσε κασιγνήτοιο χολωθεὶς", "en": "with his spear, in fury for his brother,"}
+{"book": 16, "line": 321, "greek": "στὰς πρόσθεν νέκυος· τοῦ δʼ ἀντίθεος Θρασυμήδης", "en": "standing in front of the corpse; but godlike Thrasymedes"}
+{"book": 16, "line": 322, "greek": "ἔφθη ὀρεξάμενος πρὶν οὐτάσαι, οὐδʼ ἀφάμαρτεν,", "en": "was quicker: he lunged before he could stab — and did not miss —"}
+{"book": 16, "line": 323, "greek": "ὦμον ἄφαρ· πρυμνὸν δὲ βραχίονα δουρὸς ἀκωκὴ", "en": "straight at the shoulder; and the spear-point tore the arm's base"}
+{"book": 16, "line": 324, "greek": "δρύψʼ ἀπὸ μυώνων, ἀπὸ δʼ ὀστέον ἄχρις ἄραξε·", "en": "away from the muscles, and cracked the bone clean through:"}
+{"book": 16, "line": 325, "greek": "δούπησεν δὲ πεσών, κατὰ δὲ σκότος ὄσσε κάλυψεν.", "en": "he fell with a thud, and darkness covered his eyes."}
+{"book": 16, "line": 326, "greek": "ὣς τὼ μὲν δοιοῖσι κασιγνήτοισι δαμέντε", "en": "So those two, beaten down by two brothers,"}
+{"book": 16, "line": 327, "greek": "βήτην εἰς Ἔρεβος Σαρπηδόνος ἐσθλοὶ ἑταῖροι", "en": "went to Erebus — the brave companions of Sarpedon,"}
+{"book": 16, "line": 328, "greek": "υἷες ἀκοντισταὶ Ἀμισωδάρου, ὅς ῥα Χίμαιραν", "en": "spearmen sons of Amisodarus, the man who reared"}
+{"book": 16, "line": 329, "greek": "θρέψεν ἀμαιμακέτην πολέσιν κακὸν ἀνθρώποισιν.", "en": "the raging Chimaera, an evil to many men."}
+{"book": 16, "line": 330, "greek": "Αἴας δὲ Κλεόβουλον Ὀϊλιάδης ἐπορούσας", "en": "And Ajax, Oïleus' son, sprang on Cleobulus"}
+{"book": 16, "line": 331, "greek": "ζωὸν ἕλε βλαφθέντα κατὰ κλόνον· ἀλλά οἱ αὖθι", "en": "and took him alive, tangled in the crush; but there and then"}
+{"book": 16, "line": 332, "greek": "λῦσε μένος πλήξας ξίφει αὐχένα κωπήεντι.", "en": "he unstrung his strength, driving the hilted sword through his neck:"}
+{"book": 16, "line": 333, "greek": "πᾶν δʼ ὑπεθερμάνθη ξίφος αἵματι· τὸν δὲ κατʼ ὄσσε", "en": "the whole blade ran hot with blood, and down over his eyes"}
+{"book": 16, "line": 334, "greek": "ἔλλαβε πορφύρεος θάνατος καὶ μοῖρα κραταιή.", "en": "came purple death, and fate the overpowering."}
+{"book": 16, "line": 335, "greek": "Πηνέλεως δὲ Λύκων τε συνέδραμον· ἔγχεσι μὲν γὰρ", "en": "Peneleos and Lycon ran together: with their spears"}
+{"book": 16, "line": 336, "greek": "ἤμβροτον ἀλλήλων, μέλεον δʼ ἠκόντισαν ἄμφω·", "en": "they had missed each other, both casts thrown in vain,"}
+{"book": 16, "line": 337, "greek": "τὼ δʼ αὖτις ξιφέεσσι συνέδραμον. ἔνθα Λύκων μὲν", "en": "so they ran together again with swords. There Lycon"}
+{"book": 16, "line": 338, "greek": "ἱπποκόμου κόρυθος φάλον ἤλασεν, ἀμφὶ δὲ καυλὸν", "en": "hacked at the ridge of the horsehair-crested helmet,"}
+{"book": 16, "line": 339, "greek": "φάσγανον ἐρραίσθη· ὃ δʼ ὑπʼ οὔατος αὐχένα θεῖνε", "en": "and the sword shattered at the hilt; but Peneleos struck"}
+{"book": 16, "line": 340, "greek": "Πηνέλεως, πᾶν δʼ εἴσω ἔδυ ξίφος, ἔσχεθε δʼ οἶον", "en": "his neck below the ear, and the whole blade sank in,"}
+{"book": 16, "line": 341, "greek": "δέρμα, παρηέρθη δὲ κάρη, ὑπέλυντο δὲ γυῖα.", "en": "and only skin held: the head lolled sideways, and his limbs were unstrung."}
+{"book": 16, "line": 342, "greek": "Μηριόνης δʼ Ἀκάμαντα κιχεὶς ποσὶ καρπαλίμοισι", "en": "And Meriones, overtaking Acamas on quick feet,"}
+{"book": 16, "line": 343, "greek": "νύξʼ ἵππων ἐπιβησόμενον κατὰ δεξιὸν ὦμον·", "en": "stabbed his right shoulder as he was mounting his chariot;"}
+{"book": 16, "line": 344, "greek": "ἤριπε δʼ ἐξ ὀχέων, κατὰ δʼ ὀφθαλμῶν κέχυτʼ ἀχλύς.", "en": "he crashed from the car, and mist poured down over his eyes."}
+{"book": 16, "line": 345, "greek": "Ἰδομενεὺς δʼ Ἐρύμαντα κατὰ στόμα νηλέϊ χαλκῷ", "en": "And Idomeneus stabbed Erymas in the mouth"}
+{"book": 16, "line": 346, "greek": "νύξε· τὸ δʼ ἀντικρὺ δόρυ χάλκεον ἐξεπέρησε", "en": "with the pitiless bronze: the bronze spear passed straight through,"}
+{"book": 16, "line": 347, "greek": "νέρθεν ὑπʼ ἐγκεφάλοιο, κέασσε δʼ ἄρʼ ὀστέα λευκά·", "en": "up under the brain, and split the white bones;"}
+{"book": 16, "line": 348, "greek": "ἐκ δʼ ἐτίναχθεν ὀδόντες, ἐνέπλησθεν δέ οἱ ἄμφω", "en": "his teeth were shaken out, and both his eyes"}
+{"book": 16, "line": 349, "greek": "αἵματος ὀφθαλμοί· τὸ δʼ ἀνὰ στόμα καὶ κατὰ ῥῖνας", "en": "filled up with blood; and blood through his open mouth"}
+{"book": 16, "line": 350, "greek": "πρῆσε χανών· θανάτου δὲ μέλαν νέφος ἀμφεκάλυψεν.", "en": "and through his nostrils he blew as he gaped; and death's black cloud wrapped round him."}
+{"book": 16, "line": 351, "greek": "οὗτοι ἄρʼ ἡγεμόνες Δαναῶν ἕλον ἄνδρα ἕκαστος.", "en": "These, then, were the Danaan leaders, and each killed his man."}
+{"book": 16, "line": 352, "greek": "ὡς δὲ λύκοι ἄρνεσσιν ἐπέχραον ἢ ἐρίφοισι", "en": "As ravaging wolves fall on lambs or on kids,"}
+{"book": 16, "line": 353, "greek": "σίνται ὑπʼ ἐκ μήλων αἱρεύμενοι, αἵ τʼ ἐν ὄρεσσι", "en": "snatching them out from the flocks, when in the mountains"}
+{"book": 16, "line": 354, "greek": "ποιμένος ἀφραδίῃσι διέτμαγεν· οἳ δὲ ἰδόντες", "en": "a shepherd's carelessness has let them scatter — the wolves see,"}
+{"book": 16, "line": 355, "greek": "αἶψα διαρπάζουσιν ἀνάλκιδα θυμὸν ἐχούσας·", "en": "and swiftly seize the young whose hearts have no courage:"}
+{"book": 16, "line": 356, "greek": "ὣς Δαναοὶ Τρώεσσιν ἐπέχραον· οἳ δὲ φόβοιο", "en": "so the Danaans fell on the Trojans; and the Trojans remembered"}
+{"book": 16, "line": 357, "greek": "δυσκελάδου μνήσαντο, λάθοντο δὲ θούριδος ἀλκῆς.", "en": "the harsh clamor of rout, and forgot their rushing courage."}
+{"book": 16, "line": 358, "greek": "Αἴας δʼ ὃ μέγας αἰὲν ἐφʼ Ἕκτορι χαλκοκορυστῇ", "en": "And the great Ajax strained forever to cast his spear"}
+{"book": 16, "line": 359, "greek": "ἵετʼ ἀκοντίσσαι· ὃ δὲ ἰδρείῃ πολέμοιο", "en": "at Hector of the bronze helmet; but Hector, in his war-craft,"}
+{"book": 16, "line": 360, "greek": "ἀσπίδι ταυρείῃ κεκαλυμμένος εὐρέας ὤμους", "en": "his broad shoulders covered by the bull's-hide shield,"}
+{"book": 16, "line": 361, "greek": "σκέπτετʼ ὀϊστῶν τε ῥοῖζον καὶ δοῦπον ἀκόντων.", "en": "watched the whistle of arrows and the thud of javelins."}
+{"book": 16, "line": 362, "greek": "ἦ μὲν δὴ γίγνωσκε μάχης ἑτεραλκέα νίκην·", "en": "Truly he knew the tide of the battle had turned;"}
+{"book": 16, "line": 363, "greek": "ἀλλὰ καὶ ὧς ἀνέμιμνε, σάω δʼ ἐρίηρας ἑταίρους.", "en": "but even so he stood, and tried to save his loyal companions."}
+{"book": 16, "line": 364, "greek": "ὡς δʼ ὅτʼ ἀπʼ Οὐλύμπου νέφος ἔρχεται οὐρανὸν εἴσω", "en": "As when a cloud comes from Olympus into heaven"}
+{"book": 16, "line": 365, "greek": "αἰθέρος ἐκ δίης, ὅτε τε Ζεὺς λαίλαπα τείνῃ,", "en": "out of the clear upper air, when Zeus stretches the squall,"}
+{"book": 16, "line": 366, "greek": "ὣς τῶν ἐκ νηῶν γένετο ἰαχή τε φόβος τε,", "en": "so the shouting and the rout came from the ships;"}
+{"book": 16, "line": 367, "greek": "οὐδὲ κατὰ μοῖραν πέραον πάλιν. Ἕκτορα δʼ ἵπποι", "en": "and in no good order they crossed back. Hector's own swift horses"}
+{"book": 16, "line": 368, "greek": "ἔκφερον ὠκύποδες σὺν τεύχεσι, λεῖπε δὲ λαὸν", "en": "carried him off, armor and all; and he left the Trojan army"}
+{"book": 16, "line": 369, "greek": "Τρωϊκόν, οὓς ἀέκοντας ὀρυκτὴ τάφρος ἔρυκε.", "en": "penned against their will by the dug ditch;"}
+{"book": 16, "line": 370, "greek": "πολλοὶ δʼ ἐν τάφρῳ ἐρυσάρματες ὠκέες ἵπποι", "en": "and in the ditch many swift chariot-teams"}
+{"book": 16, "line": 371, "greek": "ἄξαντʼ ἐν πρώτῳ ῥυμῷ λίπον ἅρματʼ ἀνάκτων,", "en": "snapped the pole at the tip and abandoned their lords' cars."}
+{"book": 16, "line": 372, "greek": "Πάτροκλος δʼ ἕπετο σφεδανὸν Δαναοῖσι κελεύων", "en": "But Patroclus followed, calling hard to the Danaans,"}
+{"book": 16, "line": 373, "greek": "Τρωσὶ κακὰ φρονέων· οἳ δὲ ἰαχῇ τε φόβῳ τε", "en": "with evil intent for the Trojans; and they in their shrieking rout"}
+{"book": 16, "line": 374, "greek": "πάσας πλῆσαν ὁδούς, ἐπεὶ ἂρ τμάγεν· ὕψι δʼ ἀέλλη", "en": "choked every path, once their lines were cut; and high up the dust-squall"}
+{"book": 16, "line": 375, "greek": "σκίδναθʼ ὑπὸ νεφέων, τανύοντο δὲ μώνυχες ἵπποι", "en": "scattered under the clouds, and the whole-hoofed horses strained"}
+{"book": 16, "line": 376, "greek": "ἄψορρον προτὶ ἄστυ νεῶν ἄπο καὶ κλισιάων.", "en": "back toward the city, away from the ships and the huts."}
+{"book": 16, "line": 377, "greek": "Πάτροκλος δʼ ᾗ πλεῖστον ὀρινόμενον ἴδε λαόν,", "en": "And wherever Patroclus saw the most men driven in confusion,"}
+{"book": 16, "line": 378, "greek": "τῇ ῥʼ ἔχʼ ὁμοκλήσας· ὑπὸ δʼ ἄξοσι φῶτες ἔπιπτον", "en": "there he steered with a shout; and men kept falling under his axles"}
+{"book": 16, "line": 379, "greek": "πρηνέες ἐξ ὀχέων, δίφροι δʼ ἀνακυμβαλίαζον.", "en": "face-first from their chariots, and the cars went clattering over."}
+{"book": 16, "line": 380, "greek": "ἀντικρὺ δʼ ἄρα τάφρον ὑπέρθορον ὠκέες ἵπποι", "en": "Straight across the ditch the swift horses leapt —"}
+{"book": 16, "line": 381, "greek": "ἄμβροτοι, οὓς Πηλῆϊ θεοὶ δόσαν ἀγλαὰ δῶρα,", "en": "the immortal horses the gods gave Peleus as shining gifts —"}
+{"book": 16, "line": 382, "greek": "πρόσσω ἱέμενοι, ἐπὶ δʼ Ἕκτορι κέκλετο θυμός·", "en": "straining onward; and his heart cried out for Hector,"}
+{"book": 16, "line": 383, "greek": "ἵετο γὰρ βαλέειν· τὸν δʼ ἔκφερον ὠκέες ἵπποι.", "en": "hot to strike him; but Hector's swift horses carried him away."}
+{"book": 16, "line": 384, "greek": "ὡς δʼ ὑπὸ λαίλαπι πᾶσα κελαινὴ βέβριθε χθὼν", "en": "And as the whole black earth is weighed down under a storm"}
+{"book": 16, "line": 385, "greek": "ἤματʼ ὀπωρινῷ, ὅτε λαβρότατον χέει ὕδωρ", "en": "on a day of harvest-season, when Zeus pours down"}
+{"book": 16, "line": 386, "greek": "Ζεύς, ὅτε δή ῥʼ ἄνδρεσσι κοτεσσάμενος χαλεπήνῃ,", "en": "his most violent water, when in rage he turns bitter"}
+{"book": 16, "line": 387, "greek": "οἳ βίῃ εἰν ἀγορῇ σκολιὰς κρίνωσι θέμιστας,", "en": "against men who by force render crooked judgments in the assembly"}
+{"book": 16, "line": 388, "greek": "ἐκ δὲ δίκην ἐλάσωσι θεῶν ὄπιν οὐκ ἀλέγοντες·", "en": "and drive justice out, careless of the gods' vengeance:"}
+{"book": 16, "line": 389, "greek": "τῶν δέ τε πάντες μὲν ποταμοὶ πλήθουσι ῥέοντες,", "en": "all their rivers rise in flood as they run,"}
+{"book": 16, "line": 390, "greek": "πολλὰς δὲ κλιτῦς τότʼ ἀποτμήγουσι χαράδραι,", "en": "and the torrents cut the hillsides into gullies,"}
+{"book": 16, "line": 391, "greek": "ἐς δʼ ἅλα πορφυρέην μεγάλα στενάχουσι ῥέουσαι", "en": "and down to the darkening sea they roar headlong"}
+{"book": 16, "line": 392, "greek": "ἐξ ὀρέων ἐπικάρ, μινύθει δέ τε ἔργʼ ἀνθρώπων·", "en": "from the mountains, groaning huge, and the works of men are diminished:"}
+{"book": 16, "line": 393, "greek": "ὣς ἵπποι Τρῳαὶ μεγάλα στενάχοντο θέουσαι.", "en": "so huge was the groaning of the Trojan mares as they ran."}
+{"book": 16, "line": 394, "greek": "Πάτροκλος δʼ ἐπεὶ οὖν πρώτας ἐπέκερσε φάλαγγας,", "en": "And Patroclus, when he had cut off the front battle-lines,"}
+{"book": 16, "line": 395, "greek": "ἂψ ἐπὶ νῆας ἔεργε παλιμπετές, οὐδὲ πόληος", "en": "turned and penned them back against the ships, and would not let them"}
+{"book": 16, "line": 396, "greek": "εἴα ἱεμένους ἐπιβαινέμεν, ἀλλὰ μεσηγὺ", "en": "climb to the city for all their straining, but in the space between"}
+{"book": 16, "line": 397, "greek": "νηῶν καὶ ποταμοῦ καὶ τείχεος ὑψηλοῖο", "en": "the ships and the river and the high wall"}
+{"book": 16, "line": 398, "greek": "κτεῖνε μεταΐσσων, πολέων δʼ ἀπετίνυτο ποινήν.", "en": "he swept and killed, and exacted the blood-price for many."}
+{"book": 16, "line": 399, "greek": "ἔνθʼ ἤτοι Πρόνοον πρῶτον βάλε δουρὶ φαεινῷ", "en": "There first he hit Pronous with his shining spear"}
+{"book": 16, "line": 400, "greek": "στέρνον γυμνωθέντα παρʼ ἀσπίδα, λῦσε δὲ γυῖα·", "en": "where the chest showed bare beside the shield, and unstrung his limbs:"}
+{"book": 16, "line": 401, "greek": "δούπησεν δὲ πεσών· ὃ δὲ Θέστορα Ἤνοπος υἱὸν", "en": "he fell with a thud. Then Thestor, Enops's son —"}
+{"book": 16, "line": 402, "greek": "δεύτερον ὁρμηθείς· ὃ μὲν εὐξέστῳ ἐνὶ δίφρῳ", "en": "his second rush — Thestor, who sat hunched"}
+{"book": 16, "line": 403, "greek": "ἧστο ἀλείς· ἐκ γὰρ πλήγη φρένας, ἐκ δʼ ἄρα χειρῶν", "en": "in his polished chariot, struck out of his wits, the reins"}
+{"book": 16, "line": 404, "greek": "ἡνία ἠΐχθησαν· ὃ δʼ ἔγχεϊ νύξε παραστὰς", "en": "slipped from his hands: Patroclus came close and stabbed him"}
+{"book": 16, "line": 405, "greek": "γναθμὸν δεξιτερόν, διὰ δʼ αὐτοῦ πεῖρεν ὀδόντων,", "en": "through the right jaw, and drove the spear on through his teeth,"}
+{"book": 16, "line": 406, "greek": "ἕλκε δὲ δουρὸς ἑλὼν ὑπὲρ ἄντυγος, ὡς ὅτε τις φὼς", "en": "and hauled him by the spear-shaft over the chariot-rail — as a man"}
+{"book": 16, "line": 407, "greek": "πέτρῃ ἔπι προβλῆτι καθήμενος ἱερὸν ἰχθὺν", "en": "sitting on a jutting rock hauls a sacred fish"}
+{"book": 16, "line": 408, "greek": "ἐκ πόντοιο θύραζε λίνῳ καὶ ἤνοπι χαλκῷ·", "en": "out of the sea with his line and his glittering bronze:"}
+{"book": 16, "line": 409, "greek": "ὣς ἕλκʼ ἐκ δίφροιο κεχηνότα δουρὶ φαεινῷ,", "en": "so he hauled him gaping from the chariot on the shining spear"}
+{"book": 16, "line": 410, "greek": "κὰδ δʼ ἄρʼ ἐπὶ στόμʼ ἔωσε· πεσόντα δέ μιν λίπε θυμός.", "en": "and tumbled him down on his face; and the life left him as he fell."}
+{"book": 16, "line": 411, "greek": "αὐτὰρ ἔπειτʼ Ἐρύλαον ἐπεσσύμενον βάλε πέτρῳ", "en": "Then Erylaus, running in — he struck him with a stone"}
+{"book": 16, "line": 412, "greek": "μέσσην κὰκ κεφαλήν· ἣ δʼ ἄνδιχα πᾶσα κεάσθη", "en": "full mid-skull, and the whole head split in two"}
+{"book": 16, "line": 413, "greek": "ἐν κόρυθι βριαρῇ· ὃ δʼ ἄρα πρηνὴς ἐπὶ γαίῃ", "en": "inside the heavy helmet; and he dropped face-first"}
+{"book": 16, "line": 414, "greek": "κάππεσεν, ἀμφὶ δέ μιν θάνατος χύτο θυμοραϊστής.", "en": "to the ground, and death that breaks the spirit poured round him."}
+{"book": 16, "line": 415, "greek": "αὐτὰρ ἔπειτʼ Ἐρύμαντα καὶ Ἀμφοτερὸν καὶ Ἐπάλτην", "en": "Then one upon another — Erymas and Amphoterus and Epaltes,"}
+{"book": 16, "line": 416, "greek": "Τληπόλεμόν τε Δαμαστορίδην Ἐχίον τε Πύριν τε", "en": "Tlepolemus Damastor's son, and Echius and Pyris,"}
+{"book": 16, "line": 417, "greek": "Ἰφέα τʼ Εὔιππόν τε καὶ Ἀργεάδην Πολύμηλον", "en": "Ipheus and Euippus and Polymelus, Argeas' son —"}
+{"book": 16, "line": 418, "greek": "πάντας ἐπασσυτέρους πέλασε χθονὶ πουλυβοτείρῃ.", "en": "he brought them all, in heaps, to the earth that feeds so many."}
+{"book": 16, "line": 419, "greek": "Σαρπηδὼν δʼ ὡς οὖν ἴδʼ ἀμιτροχίτωνας ἑταίρους", "en": "But Sarpedon, when he saw his companions of the unbelted tunics"}
+{"book": 16, "line": 420, "greek": "χέρσʼ ὕπο Πατρόκλοιο Μενοιτιάδαο δαμέντας,", "en": "broken under the hands of Patroclus, Menoetius's son,"}
+{"book": 16, "line": 421, "greek": "κέκλετʼ ἄρʼ ἀντιθέοισι καθαπτόμενος Λυκίοισιν·", "en": "called out, rebuking the godlike Lycians:"}
+{"book": 16, "line": 422, "greek": "αἰδὼς ὦ Λύκιοι· πόσε φεύγετε; νῦν θοοὶ ἔστε.", "en": "\"Shame, Lycians! Where are you running? Now be quick — against him."}
+{"book": 16, "line": 423, "greek": "ἀντήσω γὰρ ἐγὼ τοῦδʼ ἀνέρος, ὄφρα δαείω", "en": "I will meet this man myself, and learn"}
+{"book": 16, "line": 424, "greek": "ὅς τις ὅδε κρατέει καὶ δὴ κακὰ πολλὰ ἔοργε", "en": "who it is that conquers here — who has worked the Trojans"}
+{"book": 16, "line": 425, "greek": "Τρῶας, ἐπεὶ πολλῶν τε καὶ ἐσθλῶν γούνατʼ ἔλυσεν.", "en": "so much evil already, and unstrung the knees of many good men.\""}
+{"book": 16, "line": 426, "greek": "ἦ ῥα, καὶ ἐξ ὀχέων σὺν τεύχεσιν ἆλτο χαμᾶζε.", "en": "He spoke, and leapt with his weapons from the chariot to the ground;"}
+{"book": 16, "line": 427, "greek": "Πάτροκλος δʼ ἑτέρωθεν ἐπεὶ ἴδεν ἔκθορε δίφρου.", "en": "and Patroclus on the other side, seeing him, sprang from his car."}
+{"book": 16, "line": 428, "greek": "οἳ δʼ ὥς τʼ αἰγυπιοὶ γαμψώνυχες ἀγκυλοχεῖλαι", "en": "And they — like hook-clawed, crook-beaked vultures"}
+{"book": 16, "line": 429, "greek": "πέτρῃ ἐφʼ ὑψηλῇ μεγάλα κλάζοντε μάχωνται,", "en": "screaming great cries on a high rock-face as they fight —"}
+{"book": 16, "line": 430, "greek": "ὣς οἳ κεκλήγοντες ἐπʼ ἀλλήλοισιν ὄρουσαν.", "en": "so they rushed screaming at one another."}
+{"book": 16, "line": 431, "greek": "τοὺς δὲ ἰδὼν ἐλέησε Κρόνου πάϊς ἀγκυλομήτεω,", "en": "And the son of crooked-counseled Cronos saw them, and pitied,"}
+{"book": 16, "line": 432, "greek": "Ἥρην δὲ προσέειπε κασιγνήτην ἄλοχόν τε·", "en": "and spoke to Hera, his sister and his wife:"}
+{"book": 16, "line": 433, "greek": "ὤ μοι ἐγών, ὅ τέ μοι Σαρπηδόνα φίλτατον ἀνδρῶν", "en": "\"Ah me — my Sarpedon, dearest to me of men,"}
+{"book": 16, "line": 434, "greek": "μοῖρʼ ὑπὸ Πατρόκλοιο Μενοιτιάδαο δαμῆναι.", "en": "is fated to be broken under Patroclus, Menoetius's son."}
+{"book": 16, "line": 435, "greek": "διχθὰ δέ μοι κραδίη μέμονε φρεσὶν ὁρμαίνοντι,", "en": "And my heart is divided as I ponder it:"}
+{"book": 16, "line": 436, "greek": "ἤ μιν ζωὸν ἐόντα μάχης ἄπο δακρυοέσσης", "en": "whether to snatch him living out of the tearful battle"}
+{"book": 16, "line": 437, "greek": "θείω ἀναρπάξας Λυκίης ἐν πίονι δήμῳ,", "en": "and set him down in the rich country of Lycia,"}
+{"book": 16, "line": 438, "greek": "ἦ ἤδη ὑπὸ χερσὶ Μενοιτιάδαο δαμάσσω.", "en": "or to break him now under the hands of Menoetius's son.\""}
+{"book": 16, "line": 439, "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα βοῶπις πότνια Ἥρη·", "en": "Then ox-eyed lady Hera answered him:"}
+{"book": 16, "line": 440, "greek": "αἰνότατε Κρονίδη ποῖον τὸν μῦθον ἔειπες.", "en": "\"Most dread son of Cronos, what a word you have spoken!"}
+{"book": 16, "line": 441, "greek": "ἄνδρα θνητὸν ἐόντα πάλαι πεπρωμένον αἴσῃ", "en": "A man — a mortal, long since doomed to his fate —"}
+{"book": 16, "line": 442, "greek": "ἂψ ἐθέλεις θανάτοιο δυσηχέος ἐξαναλῦσαι;", "en": "and you mean to release him back out of harsh-sounding death?"}
+{"book": 16, "line": 443, "greek": "ἔρδʼ· ἀτὰρ οὔ τοι πάντες ἐπαινέομεν θεοὶ ἄλλοι.", "en": "Do it. But we other gods will not all approve you."}
+{"book": 16, "line": 444, "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·", "en": "And I will tell you another thing — lay it away in your mind:"}
+{"book": 16, "line": 445, "greek": "αἴ κε ζὼν πέμψῃς Σαρπηδόνα ὃν δὲ δόμον δέ,", "en": "if you send Sarpedon living to his own house,"}
+{"book": 16, "line": 446, "greek": "φράζεο μή τις ἔπειτα θεῶν ἐθέλῃσι καὶ ἄλλος", "en": "consider: some other god may likewise choose"}
+{"book": 16, "line": 447, "greek": "πέμπειν ὃν φίλον υἱὸν ἀπὸ κρατερῆς ὑσμίνης·", "en": "to send his dear son out of the strong encounter —"}
+{"book": 16, "line": 448, "greek": "πολλοὶ γὰρ περὶ ἄστυ μέγα Πριάμοιο μάχονται", "en": "for many sons of the immortals fight around Priam's great city,"}
+{"book": 16, "line": 449, "greek": "υἱέες ἀθανάτων, τοῖσιν κότον αἰνὸν ἐνήσεις.", "en": "and you will set loose terrible resentment among their fathers."}
+{"book": 16, "line": 450, "greek": "ἀλλʼ εἴ τοι φίλος ἐστί, τεὸν δʼ ὀλοφύρεται ἦτορ,", "en": "But if he is dear to you — if your heart grieves for him —"}
+{"book": 16, "line": 451, "greek": "ἤτοι μέν μιν ἔασον ἐνὶ κρατερῇ ὑσμίνῃ", "en": "then let him be broken in the strong encounter"}
+{"book": 16, "line": 452, "greek": "χέρσʼ ὕπο Πατρόκλοιο Μενοιτιάδαο δαμῆναι·", "en": "under the hands of Patroclus, Menoetius's son;"}
+{"book": 16, "line": 453, "greek": "αὐτὰρ ἐπὴν δὴ τόν γε λίπῃ ψυχή τε καὶ αἰών,", "en": "but when his soul and his life have left him,"}
+{"book": 16, "line": 454, "greek": "πέμπειν μιν θάνατόν τε φέρειν καὶ νήδυμον ὕπνον", "en": "send Death to carry him, and painless Sleep,"}
+{"book": 16, "line": 455, "greek": "εἰς ὅ κε δὴ Λυκίης εὐρείης δῆμον ἵκωνται,", "en": "until they come to the country of wide Lycia;"}
+{"book": 16, "line": 456, "greek": "ἔνθά ἑ ταρχύσουσι κασίγνητοί τε ἔται τε", "en": "and there his brothers and kinsmen will give him burial"}
+{"book": 16, "line": 457, "greek": "τύμβῳ τε στήλῃ τε· τὸ γὰρ γέρας ἐστὶ θανόντων.", "en": "with a tomb and a grave-stone: for that is the honor-right of the dead.\""}
+{"book": 16, "line": 458, "greek": "ὣς ἔφατʼ, οὐδʼ ἀπίθησε πατὴρ ἀνδρῶν τε θεῶν τε·", "en": "So she spoke, and the father of men and gods did not refuse her;"}
+{"book": 16, "line": 459, "greek": "αἱματοέσσας δὲ ψιάδας κατέχευεν ἔραζε", "en": "but he rained down drops of blood upon the earth,"}
+{"book": 16, "line": 460, "greek": "παῖδα φίλον τιμῶν, τόν οἱ Πάτροκλος ἔμελλε", "en": "honoring his dear son, whom Patroclus was about"}
+{"book": 16, "line": 461, "greek": "φθίσειν ἐν Τροίῃ ἐριβώλακι τηλόθι πάτρης.", "en": "to destroy in deep-soiled Troy, far from his fatherland."}
+{"book": 16, "line": 462, "greek": "οἳ δʼ ὅτε δὴ σχεδὸν ἦσαν ἐπʼ ἀλλήλοισιν ἰόντες,", "en": "And when they were close, advancing on one another,"}
+{"book": 16, "line": 463, "greek": "ἔνθʼ ἤτοι Πάτροκλος ἀγακλειτὸν Θρασύμηλον,", "en": "Patroclus struck far-famed Thrasymelus,"}
+{"book": 16, "line": 464, "greek": "ὅς ῥʼ ἠῢς θεράπων Σαρπηδόνος ἦεν ἄνακτος,", "en": "the brave aide of lord Sarpedon,"}
+{"book": 16, "line": 465, "greek": "τὸν βάλε νείαιραν κατὰ γαστέρα, λῦσε δὲ γυῖα.", "en": "in the lower belly, and unstrung his limbs."}
+{"book": 16, "line": 466, "greek": "Σαρπηδὼν δʼ αὐτοῦ μὲν ἀπήμβροτε δουρὶ φαεινῷ", "en": "And Sarpedon, casting second, missed his man"}
+{"book": 16, "line": 467, "greek": "δεύτερον ὁρμηθείς, ὃ δὲ Πήδασον οὔτασεν ἵππον", "en": "with the shining spear, but wounded the horse Pedasus"}
+{"book": 16, "line": 468, "greek": "ἔγχεϊ δεξιὸν ὦμον· ὃ δʼ ἔβραχε θυμὸν ἀΐσθων,", "en": "in the right shoulder; and he screamed away his life,"}
+{"book": 16, "line": 469, "greek": "κὰδ δʼ ἔπεσʼ ἐν κονίῃσι μακών, ἀπὸ δʼ ἔπτατο θυμός.", "en": "and went down crying in the dust, and his spirit flew from him."}
+{"book": 16, "line": 470, "greek": "τὼ δὲ διαστήτην, κρίκε δὲ ζυγόν, ἡνία δέ σφι", "en": "The two yoke-horses reared apart, the yoke creaked,"}
+{"book": 16, "line": 471, "greek": "σύγχυτʼ, ἐπεὶ δὴ κεῖτο παρήορος ἐν κονίῃσι.", "en": "and the reins fouled over them, with the trace-horse lying in the dust."}
+{"book": 16, "line": 472, "greek": "τοῖο μὲν Αὐτομέδων δουρικλυτὸς εὕρετο τέκμωρ·", "en": "But spear-famed Automedon found the remedy:"}
+{"book": 16, "line": 473, "greek": "σπασσάμενος τανύηκες ἄορ παχέος παρὰ μηροῦ", "en": "drawing the thin-edged sword from his massive thigh,"}
+{"book": 16, "line": 474, "greek": "ἀΐξας ἀπέκοψε παρήορον οὐδʼ ἐμάτησε·", "en": "he sprang and cut away the trace-horse, and did not fumble;"}
+{"book": 16, "line": 475, "greek": "τὼ δʼ ἰθυνθήτην, ἐν δὲ ῥυτῆρσι τάνυσθεν·", "en": "the pair righted themselves and pulled taut in the harness;"}
+{"book": 16, "line": 476, "greek": "τὼ δʼ αὖτις συνίτην ἔριδος πέρι θυμοβόροιο.", "en": "and the two men came together again in heart-devouring strife."}
+{"book": 16, "line": 477, "greek": "ἔνθʼ αὖ Σαρπηδὼν μὲν ἀπήμβροτε δουρὶ φαεινῷ,", "en": "Then Sarpedon missed again with his shining spear:"}
+{"book": 16, "line": 478, "greek": "Πατρόκλου δʼ ὑπὲρ ὦμον ἀριστερὸν ἤλυθʼ ἀκωκὴ", "en": "over Patroclus's left shoulder the point of the spear"}
+{"book": 16, "line": 479, "greek": "ἔγχεος, οὐδʼ ἔβαλʼ αὐτόν· ὃ δʼ ὕστερος ὄρνυτο χαλκῷ", "en": "passed, and did not strike him. But Patroclus in his turn"}
+{"book": 16, "line": 480, "greek": "Πάτροκλος· τοῦ δʼ οὐχ ἅλιον βέλος ἔκφυγε χειρός,", "en": "rose with the bronze; and his shot did not go in vain from his hand,"}
+{"book": 16, "line": 481, "greek": "ἀλλʼ ἔβαλʼ ἔνθʼ ἄρα τε φρένες ἔρχαται ἀμφʼ ἁδινὸν κῆρ.", "en": "but struck where the beating heart is closed in the midriff."}
+{"book": 16, "line": 482, "greek": "ἤριπε δʼ ὡς ὅτε τις δρῦς ἤριπεν ἢ ἀχερωῒς", "en": "He fell as an oak falls, or a white poplar,"}
+{"book": 16, "line": 483, "greek": "ἠὲ πίτυς βλωθρή, τήν τʼ οὔρεσι τέκτονες ἄνδρες", "en": "or a towering pine, that carpenters up in the mountains"}
+{"book": 16, "line": 484, "greek": "ἐξέταμον πελέκεσσι νεήκεσι νήϊον εἶναι·", "en": "cut down with fresh-whetted axes to be a ship's timber:"}
+{"book": 16, "line": 485, "greek": "ὣς ὃ πρόσθʼ ἵππων καὶ δίφρου κεῖτο τανυσθεὶς", "en": "so he lay stretched out before his horses and chariot,"}
+{"book": 16, "line": 486, "greek": "βεβρυχὼς κόνιος δεδραγμένος αἱματοέσσης.", "en": "bellowing, clawing at the blood-soaked dust."}
+{"book": 16, "line": 487, "greek": "ἠΰτε ταῦρον ἔπεφνε λέων ἀγέληφι μετελθὼν", "en": "As a lion kills a bull, coming in among the herd —"}
+{"book": 16, "line": 488, "greek": "αἴθωνα μεγάθυμον ἐν εἰλιπόδεσσι βόεσσι,", "en": "a fiery, great-hearted bull among the shambling cattle —"}
+{"book": 16, "line": 489, "greek": "ὤλετό τε στενάχων ὑπὸ γαμφηλῇσι λέοντος,", "en": "and it perishes groaning under the lion's jaws:"}
+{"book": 16, "line": 490, "greek": "ὣς ὑπὸ Πατρόκλῳ Λυκίων ἀγὸς ἀσπιστάων", "en": "so under Patroclus the leader of the Lycian shield-men"}
+{"book": 16, "line": 491, "greek": "κτεινόμενος μενέαινε, φίλον δʼ ὀνόμηνεν ἑταῖρον·", "en": "raged as he was killed; and he called his dear companion by name:"}
+{"book": 16, "line": 492, "greek": "Γλαῦκε πέπον πολεμιστὰ μετʼ ἀνδράσι νῦν σε μάλα χρὴ", "en": "\"Glaucus, old friend — fighter among men — now above all"}
+{"book": 16, "line": 493, "greek": "αἰχμητήν τʼ ἔμεναι καὶ θαρσαλέον πολεμιστήν·", "en": "you must be a spearman and a daring man of war;"}
+{"book": 16, "line": 494, "greek": "νῦν τοι ἐελδέσθω πόλεμος κακός, εἰ θοός ἐσσι.", "en": "now let evil battle be your desire, if you are quick at all."}
+{"book": 16, "line": 495, "greek": "πρῶτα μὲν ὄτρυνον Λυκίων ἡγήτορας ἄνδρας", "en": "First go everywhere and rouse the leaders of the Lycians"}
+{"book": 16, "line": 496, "greek": "πάντῃ ἐποιχόμενος Σαρπηδόνος ἀμφιμάχεσθαι·", "en": "to fight for Sarpedon's body;"}
+{"book": 16, "line": 497, "greek": "αὐτὰρ ἔπειτα καὶ αὐτὸς ἐμεῦ πέρι μάρναο χαλκῷ.", "en": "and then fight for me yourself with the bronze."}
+{"book": 16, "line": 498, "greek": "σοὶ γὰρ ἐγὼ καὶ ἔπειτα κατηφείη καὶ ὄνειδος", "en": "For I will be your shame and your hanging head"}
+{"book": 16, "line": 499, "greek": "ἔσσομαι ἤματα πάντα διαμπερές, εἴ κέ μʼ Ἀχαιοὶ", "en": "all your days, forever after, if the Achaeans"}
+{"book": 16, "line": 500, "greek": "τεύχεα συλήσωσι νεῶν ἐν ἀγῶνι πεσόντα.", "en": "strip my armor here where I fell in the gathering-place of the ships."}
+{"book": 16, "line": 501, "greek": "ἀλλʼ ἔχεο κρατερῶς, ὄτρυνε δὲ λαὸν ἅπαντα.", "en": "Hold on with all your strength, and drive on the whole army.\""}
+{"book": 16, "line": 502, "greek": "ὣς ἄρα μιν εἰπόντα τέλος θανάτοιο κάλυψεν", "en": "As he was speaking so, the end that is death covered him —"}
+{"book": 16, "line": 503, "greek": "ὀφθαλμοὺς ῥῖνάς θʼ· ὃ δὲ λὰξ ἐν στήθεσι βαίνων", "en": "his eyes and his nostrils. And Patroclus, setting his heel on his chest,"}
+{"book": 16, "line": 504, "greek": "ἐκ χροὸς ἕλκε δόρυ, προτὶ δὲ φρένες αὐτῷ ἕποντο·", "en": "drew the spear out of his flesh, and the midriff followed it:"}
+{"book": 16, "line": 505, "greek": "τοῖο δʼ ἅμα ψυχήν τε καὶ ἔγχεος ἐξέρυσʼ αἰχμήν.", "en": "he pulled out his life and the spear-point together."}
+{"book": 16, "line": 506, "greek": "Μυρμιδόνες δʼ αὐτοῦ σχέθον ἵππους φυσιόωντας", "en": "And the Myrmidons held the snorting horses there,"}
+{"book": 16, "line": 507, "greek": "ἱεμένους φοβέεσθαι, ἐπεὶ λίπον ἅρματʼ ἀνάκτων.", "en": "plunging to bolt, now they had left their masters' chariot."}
+{"book": 16, "line": 508, "greek": "Γλαύκῳ δʼ αἰνὸν ἄχος γένετο φθογγῆς ἀΐοντι·", "en": "But on Glaucus came terrible grief at the sound of that voice,"}
+{"book": 16, "line": 509, "greek": "ὠρίνθη δέ οἱ ἦτορ ὅ τʼ οὐ δύνατο προσαμῦναι.", "en": "and his heart was churned, that he could not help him."}
+{"book": 16, "line": 510, "greek": "χειρὶ δʼ ἑλὼν ἐπίεζε βραχίονα· τεῖρε γὰρ αὐτὸν", "en": "He gripped his own arm and pressed it hard, for the wound"}
+{"book": 16, "line": 511, "greek": "ἕλκος, ὃ δή μιν Τεῦκρος ἐπεσσύμενον βάλεν ἰῷ", "en": "wore at him — the wound Teucer's arrow had dealt him as he stormed"}
+{"book": 16, "line": 512, "greek": "τείχεος ὑψηλοῖο, ἀρὴν ἑτάροισιν ἀμύνων.", "en": "the high wall, beating harm away from his companions."}
+{"book": 16, "line": 513, "greek": "εὐχόμενος δʼ ἄρα εἶπεν ἑκηβόλῳ Ἀπόλλωνι·", "en": "And he spoke in prayer to Apollo who strikes from afar:"}
+{"book": 16, "line": 514, "greek": "κλῦθι ἄναξ ὅς που Λυκίης ἐν πίονι δήμῳ", "en": "\"Hear me, lord — you who are somewhere in the rich country of Lycia"}
+{"book": 16, "line": 515, "greek": "εἲς ἢ ἐνὶ Τροίῃ· δύνασαι δὲ σὺ πάντοσʼ ἀκούειν", "en": "or here in Troy: you have power everywhere to hear"}
+{"book": 16, "line": 516, "greek": "ἀνέρι κηδομένῳ, ὡς νῦν ἐμὲ κῆδος ἱκάνει.", "en": "a man in grief, as grief has come on me now."}
+{"book": 16, "line": 517, "greek": "ἕλκος μὲν γὰρ ἔχω τόδε καρτερόν, ἀμφὶ δέ μοι χεὶρ", "en": "For I have this powerful wound; my arm is pierced"}
+{"book": 16, "line": 518, "greek": "ὀξείῃς ὀδύνῃσιν ἐλήλαται, οὐδέ μοι αἷμα", "en": "with sharp pains through and through, and the blood"}
+{"book": 16, "line": 519, "greek": "τερσῆναι δύναται, βαρύθει δέ μοι ὦμος ὑπʼ αὐτοῦ·", "en": "will not dry; my shoulder is heavy under it;"}
+{"book": 16, "line": 520, "greek": "ἔγχος δʼ οὐ δύναμαι σχεῖν ἔμπεδον, οὐδὲ μάχεσθαι", "en": "I cannot hold my spear steady, cannot go"}
+{"book": 16, "line": 521, "greek": "ἐλθὼν δυσμενέεσσιν. ἀνὴρ δʼ ὤριστος ὄλωλε", "en": "and fight the enemy. And the best of men has perished —"}
+{"book": 16, "line": 522, "greek": "Σαρπηδὼν Διὸς υἱός· ὃ δʼ οὐ οὗ παιδὸς ἀμύνει.", "en": "Sarpedon, son of Zeus; and Zeus does not defend even his own child."}
+{"book": 16, "line": 523, "greek": "ἀλλὰ σύ πέρ μοι ἄναξ τόδε καρτερὸν ἕλκος ἄκεσσαι,", "en": "But you, lord — heal me this powerful wound;"}
+{"book": 16, "line": 524, "greek": "κοίμησον δʼ ὀδύνας, δὸς δὲ κράτος, ὄφρʼ ἑτάροισι", "en": "lull the pains, and give me strength, so I may call"}
+{"book": 16, "line": 525, "greek": "κεκλόμενος Λυκίοισιν ἐποτρύνω πολεμίζειν,", "en": "my Lycian companions and drive them to the fighting,"}
+{"book": 16, "line": 526, "greek": "αὐτός τʼ ἀμφὶ νέκυι κατατεθνηῶτι μάχωμαι.", "en": "and fight myself for the body of the dead man.\""}
+{"book": 16, "line": 527, "greek": "ὣς ἔφατʼ εὐχόμενος, τοῦ δʼ ἔκλυε Φοῖβος Ἀπόλλων.", "en": "So he spoke in prayer, and Phoebus Apollo heard him."}
+{"book": 16, "line": 528, "greek": "αὐτίκα παῦσʼ ὀδύνας ἀπὸ δʼ ἕλκεος ἀργαλέοιο", "en": "At once he stilled the pains, and on the grievous wound"}
+{"book": 16, "line": 529, "greek": "αἷμα μέλαν τέρσηνε, μένος δέ οἱ ἔμβαλε θυμῷ.", "en": "he dried the dark blood, and threw strength into his heart."}
+{"book": 16, "line": 530, "greek": "Γλαῦκος δʼ ἔγνω ᾗσιν ἐνὶ φρεσὶ γήθησέν τε", "en": "And Glaucus knew it in his heart, and was glad"}
+{"book": 16, "line": 531, "greek": "ὅττί οἱ ὦκʼ ἤκουσε μέγας θεὸς εὐξαμένοιο.", "en": "that the great god had heard his prayer so quickly."}
+{"book": 16, "line": 532, "greek": "πρῶτα μὲν ὄτρυνεν Λυκίων ἡγήτορας ἄνδρας", "en": "First he went everywhere and roused the leaders of the Lycians"}
+{"book": 16, "line": 533, "greek": "πάντῃ ἐποιχόμενος Σαρπηδόνος ἀμφιμάχεσθαι·", "en": "to fight for Sarpedon's body;"}
+{"book": 16, "line": 534, "greek": "αὐτὰρ ἔπειτα μετὰ Τρῶας κίε μακρὰ βιβάσθων", "en": "then he went with long strides after the Trojans —"}
+{"book": 16, "line": 535, "greek": "Πουλυδάμαντʼ ἔπι Πανθοΐδην καὶ Ἀγήνορα δῖον,", "en": "after Polydamas, Panthous's son, and brilliant Agenor,"}
+{"book": 16, "line": 536, "greek": "βῆ δὲ μετʼ Αἰνείαν τε καὶ Ἕκτορα χαλκοκορυστήν,", "en": "and after Aeneas, and Hector of the bronze helmet;"}
+{"book": 16, "line": 537, "greek": "ἀγχοῦ δʼ ἱστάμενος ἔπεα πτερόεντα προσηύδα·", "en": "and standing close he spoke winged words:"}
+{"book": 16, "line": 538, "greek": "Ἕκτορ νῦν δὴ πάγχυ λελασμένος εἰς ἐπικούρων,", "en": "\"Hector — now you have wholly forgotten your allies,"}
+{"book": 16, "line": 539, "greek": "οἳ σέθεν εἵνεκα τῆλε φίλων καὶ πατρίδος αἴης", "en": "who for your sake, far from their friends and their fatherland,"}
+{"book": 16, "line": 540, "greek": "θυμὸν ἀποφθινύθουσι· σὺ δʼ οὐκ ἐθέλεις ἐπαμύνειν.", "en": "breathe out their lives; and you will not help them."}
+{"book": 16, "line": 541, "greek": "κεῖται Σαρπηδὼν Λυκίων ἀγὸς ἀσπιστάων,", "en": "Sarpedon lies dead — the leader of the Lycian shield-men,"}
+{"book": 16, "line": 542, "greek": "ὃς Λυκίην εἴρυτο δίκῃσί τε καὶ σθένεϊ ᾧ·", "en": "who kept Lycia safe by his judgments and his strength:"}
+{"book": 16, "line": 543, "greek": "τὸν δʼ ὑπὸ Πατρόκλῳ δάμασʼ ἔγχεϊ χάλκεος Ἄρης.", "en": "brazen Ares has broken him on Patroclus's spear."}
+{"book": 16, "line": 544, "greek": "ἀλλὰ φίλοι πάρστητε, νεμεσσήθητε δὲ θυμῷ,", "en": "Friends, stand by him! Feel the outrage in your hearts,"}
+{"book": 16, "line": 545, "greek": "μὴ ἀπὸ τεύχεʼ ἕλωνται, ἀεικίσσωσι δὲ νεκρὸν", "en": "or the Myrmidons will strip his armor and defile his body,"}
+{"book": 16, "line": 546, "greek": "Μυρμιδόνες, Δαναῶν κεχολωμένοι ὅσσοι ὄλοντο,", "en": "in anger for all the Danaans we have killed,"}
+{"book": 16, "line": 547, "greek": "τοὺς ἐπὶ νηυσὶ θοῇσιν ἐπέφνομεν ἐγχείῃσιν.", "en": "the men our spears cut down beside the swift ships.\""}
+{"book": 16, "line": 548, "greek": "ὣς ἔφατο, Τρῶας δὲ κατὰ κρῆθεν λάβε πένθος", "en": "So he spoke; and grief seized the Trojans, head to foot,"}
+{"book": 16, "line": 549, "greek": "ἄσχετον, οὐκ ἐπιεικτόν, ἐπεί σφισιν ἕρμα πόληος", "en": "unbearable, not to be borne down — for he was a stay of their city,"}
+{"book": 16, "line": 550, "greek": "ἔσκε καὶ ἀλλοδαπός περ ἐών· πολέες γὰρ ἅμʼ αὐτῷ", "en": "foreigner though he was: many men had followed him,"}
+{"book": 16, "line": 551, "greek": "λαοὶ ἕποντʼ, ἐν δʼ αὐτὸς ἀριστεύεσκε μάχεσθαι·", "en": "and he himself was their best in battle."}
+{"book": 16, "line": 552, "greek": "βὰν δʼ ἰθὺς Δαναῶν λελιημένοι· ἦρχε δʼ ἄρά σφιν", "en": "They went straight for the Danaans, hot; and Hector led them,"}
+{"book": 16, "line": 553, "greek": "Ἕκτωρ χωόμενος Σαρπηδόνος. αὐτὰρ Ἀχαιοὺς", "en": "angered for Sarpedon. But the Achaeans were driven on"}
+{"book": 16, "line": 554, "greek": "ὦρσε Μενοιτιάδεω Πατροκλῆος λάσιον κῆρ·", "en": "by the shaggy heart of Patroclus, Menoetius's son:"}
+{"book": 16, "line": 555, "greek": "Αἴαντε πρώτω προσέφη μεμαῶτε καὶ αὐτώ·", "en": "he spoke first to the two Ajaxes, eager as they already were:"}
+{"book": 16, "line": 556, "greek": "Αἴαντε νῦν σφῶϊν ἀμύνεσθαι φίλον ἔστω,", "en": "\"You two Ajaxes — now let your pleasure be defense,"}
+{"book": 16, "line": 557, "greek": "οἷοί περ πάρος ἦτε μετʼ ἀνδράσιν ἢ καὶ ἀρείους.", "en": "the men you were among men before — or braver."}
+{"book": 16, "line": 558, "greek": "κεῖται ἀνὴρ ὃς πρῶτος ἐσήλατο τεῖχος Ἀχαιῶν", "en": "The man lies dead who first leapt inside the wall of the Achaeans:"}
+{"book": 16, "line": 559, "greek": "Σαρπηδών· ἀλλʼ εἴ μιν ἀεικισσαίμεθʼ ἑλόντες,", "en": "Sarpedon. If only we could take him and defile him,"}
+{"book": 16, "line": 560, "greek": "τεύχεά τʼ ὤμοιιν ἀφελοίμεθα, καί τινʼ ἑταίρων", "en": "and strip the armor from his shoulders, and break"}
+{"book": 16, "line": 561, "greek": "αὐτοῦ ἀμυνομένων δαμασαίμεθα νηλέϊ χαλκῷ.", "en": "some companion of his defending him, with the pitiless bronze.\""}
+{"book": 16, "line": 562, "greek": "ὣς ἔφαθʼ, οἳ δὲ καὶ αὐτοὶ ἀλέξασθαι μενέαινον.", "en": "So he spoke; and they themselves were furious to beat the enemy off."}
+{"book": 16, "line": 563, "greek": "οἳ δʼ ἐπεὶ ἀμφοτέρωθεν ἐκαρτύναντο φάλαγγας", "en": "And when on both sides they had strengthened their battle-lines,"}
+{"book": 16, "line": 564, "greek": "Τρῶες καὶ Λύκιοι καὶ Μυρμιδόνες καὶ Ἀχαιοί,", "en": "Trojans and Lycians, Myrmidons and Achaeans,"}
+{"book": 16, "line": 565, "greek": "σύμβαλον ἀμφὶ νέκυι κατατεθνηῶτι μάχεσθαι", "en": "they clashed together to fight around the dead man's body"}
+{"book": 16, "line": 566, "greek": "δεινὸν ἀΰσαντες· μέγα δʼ ἔβραχε τεύχεα φωτῶν.", "en": "with a terrible war-shout; and the men's armor rang loud."}
+{"book": 16, "line": 567, "greek": "Ζεὺς δʼ ἐπὶ νύκτʼ ὀλοὴν τάνυσε κρατερῇ ὑσμίνῃ,", "en": "And Zeus stretched a deadly night over the strong encounter,"}
+{"book": 16, "line": 568, "greek": "ὄφρα φίλῳ περὶ παιδὶ μάχης ὀλοὸς πόνος εἴη.", "en": "so that around his dear son the deadly toil of battle might be waged."}
+{"book": 16, "line": 569, "greek": "ὦσαν δὲ πρότεροι Τρῶες ἑλίκωπας Ἀχαιούς·", "en": "And the Trojans at first pushed back the bright-eyed Achaeans,"}
+{"book": 16, "line": 570, "greek": "βλῆτο γὰρ οὔ τι κάκιστος ἀνὴρ μετὰ Μυρμιδόνεσσιν", "en": "for a man was hit who was by no means the worst of the Myrmidons:"}
+{"book": 16, "line": 571, "greek": "υἱὸς Ἀγακλῆος μεγαθύμου δῖος Ἐπειγεύς,", "en": "brilliant Epeigeus, son of great-hearted Agacles,"}
+{"book": 16, "line": 572, "greek": "ὅς ῥʼ ἐν Βουδείῳ εὖ ναιομένῳ ἤνασσε", "en": "who was king once in well-peopled Budeum —"}
+{"book": 16, "line": 573, "greek": "τὸ πρίν· ἀτὰρ τότε γʼ ἐσθλὸν ἀνεψιὸν ἐξεναρίξας", "en": "before: but having killed a noble cousin,"}
+{"book": 16, "line": 574, "greek": "ἐς Πηλῆʼ ἱκέτευσε καὶ ἐς Θέτιν ἀργυρόπεζαν·", "en": "he came a suppliant to Peleus and silver-footed Thetis,"}
+{"book": 16, "line": 575, "greek": "οἳ δʼ ἅμʼ Ἀχιλλῆϊ ῥηξήνορι πέμπον ἕπεσθαι", "en": "and they sent him to follow Achilles, breaker of men,"}
+{"book": 16, "line": 576, "greek": "Ἴλιον εἰς εὔπωλον, ἵνα Τρώεσσι μάχοιτο.", "en": "to Ilion of the fine colts, to fight the Trojans."}
+{"book": 16, "line": 577, "greek": "τόν ῥα τόθʼ ἁπτόμενον νέκυος βάλε φαίδιμος Ἕκτωρ", "en": "He was laying hold of the corpse when glorious Hector"}
+{"book": 16, "line": 578, "greek": "χερμαδίῳ κεφαλήν· ἣ δʼ ἄνδιχα πᾶσα κεάσθη", "en": "struck him with a stone full on the head; and the whole head split in two"}
+{"book": 16, "line": 579, "greek": "ἐν κόρυθι βριαρῇ· ὃ δʼ ἄρα πρηνὴς ἐπὶ νεκρῷ", "en": "inside the heavy helmet; and he dropped face-first"}
+{"book": 16, "line": 580, "greek": "κάππεσεν, ἀμφὶ δέ μιν θάνατος χύτο θυμοραϊστής.", "en": "over the dead man, and death that breaks the spirit poured round him."}
+{"book": 16, "line": 581, "greek": "Πατρόκλῳ δʼ ἄρʼ ἄχος γένετο φθιμένου ἑτάροιο,", "en": "And grief came over Patroclus for his fallen companion,"}
+{"book": 16, "line": 582, "greek": "ἴθυσεν δὲ διὰ προμάχων ἴρηκι ἐοικὼς", "en": "and he swept straight through the front-fighters like a swift hawk"}
+{"book": 16, "line": 583, "greek": "ὠκέϊ, ὅς τʼ ἐφόβησε κολοιούς τε ψῆράς τε·", "en": "that sends the daws and starlings scattering:"}
+{"book": 16, "line": 584, "greek": "ὣς ἰθὺς Λυκίων Πατρόκλεες ἱπποκέλευθε", "en": "straight so, Patroclus, master of horses, you swept"}
+{"book": 16, "line": 585, "greek": "ἔσσυο καὶ Τρώων, κεχόλωσο δὲ κῆρ ἑτάροιο.", "en": "at the Lycians and Trojans, with anger in your heart for your companion."}
+{"book": 16, "line": 586, "greek": "καί ῥʼ ἔβαλε Σθενέλαον Ἰθαιμένεος φίλον υἱὸν", "en": "And he struck Sthenelaus, Ithaemenes' dear son,"}
+{"book": 16, "line": 587, "greek": "αὐχένα χερμαδίῳ, ῥῆξεν δʼ ἀπὸ τοῖο τένοντας.", "en": "on the neck with a stone, and tore the tendons from it;"}
+{"book": 16, "line": 588, "greek": "χώρησαν δʼ ὑπό τε πρόμαχοι καὶ φαίδιμος Ἕκτωρ.", "en": "and the front-fighters gave ground, and glorious Hector."}
+{"book": 16, "line": 589, "greek": "ὅσση δʼ αἰγανέης ῥιπὴ ταναοῖο τέτυκται,", "en": "As far as the carry of a long throwing-spear"}
+{"book": 16, "line": 590, "greek": "ἥν ῥά τʼ ἀνὴρ ἀφέῃ πειρώμενος ἢ ἐν ἀέθλῳ", "en": "a man sends flying, testing his strength in the games"}
+{"book": 16, "line": 591, "greek": "ἠὲ καὶ ἐν πολέμῳ δηΐων ὕπο θυμοραϊστέων,", "en": "or in war, against enemies who break the spirit:"}
+{"book": 16, "line": 592, "greek": "τόσσον ἐχώρησαν Τρῶες, ὤσαντο δʼ Ἀχαιοί.", "en": "so far the Trojans gave, and the Achaeans pushed them."}
+{"book": 16, "line": 593, "greek": "Γλαῦκος δὲ πρῶτος Λυκίων ἀγὸς ἀσπιστάων", "en": "Then Glaucus first, the leader of the Lycian shield-men,"}
+{"book": 16, "line": 594, "greek": "ἐτράπετʼ, ἔκτεινεν δὲ Βαθυκλῆα μεγάθυμον", "en": "turned, and killed great-hearted Bathycles,"}
+{"book": 16, "line": 595, "greek": "Χάλκωνος φίλον υἱόν, ὃς Ἑλλάδι οἰκία ναίων", "en": "the dear son of Chalcon, whose home was in Hellas —"}
+{"book": 16, "line": 596, "greek": "ὄλβῳ τε πλούτῳ τε μετέπρεπε Μυρμιδόνεσσι.", "en": "a man who stood out among the Myrmidons for riches and wealth:"}
+{"book": 16, "line": 597, "greek": "τὸν μὲν ἄρα Γλαῦκος στῆθος μέσον οὔτασε δουρὶ", "en": "him Glaucus stabbed full in the chest with his spear,"}
+{"book": 16, "line": 598, "greek": "στρεφθεὶς ἐξαπίνης, ὅτε μιν κατέμαρπτε διώκων·", "en": "wheeling suddenly, just as the man's pursuit had caught him."}
+{"book": 16, "line": 599, "greek": "δούπησεν δὲ πεσών· πυκινὸν δʼ ἄχος ἔλλαβʼ Ἀχαιούς,", "en": "He fell with a thud; and close grief took the Achaeans,"}
+{"book": 16, "line": 600, "greek": "ὡς ἔπεσʼ ἐσθλὸς ἀνήρ· μέγα δὲ Τρῶες κεχάροντο,", "en": "so good a man went down; and the Trojans rejoiced greatly,"}
+{"book": 16, "line": 601, "greek": "στὰν δʼ ἀμφʼ αὐτὸν ἰόντες ἀολλέες· οὐδʼ ἄρʼ Ἀχαιοὶ", "en": "and came and stood in a mass around him. But the Achaeans"}
+{"book": 16, "line": 602, "greek": "ἀλκῆς ἐξελάθοντο, μένος δʼ ἰθὺς φέρον αὐτῶν.", "en": "did not forget their courage: they carried their fury straight at them."}
+{"book": 16, "line": 603, "greek": "ἔνθʼ αὖ Μηριόνης Τρώων ἕλεν ἄνδρα κορυστὴν", "en": "Then Meriones took a Trojan fighter, helmed in bronze —"}
+{"book": 16, "line": 604, "greek": "Λαόγονον θρασὺν υἱὸν Ὀνήτορος, ὃς Διὸς ἱρεὺς", "en": "Laogonus, daring son of Onetor, who was priest"}
+{"book": 16, "line": 605, "greek": "Ἰδαίου ἐτέτυκτο, θεὸς δʼ ὣς τίετο δήμῳ.", "en": "of Idaean Zeus, and honored like a god by the people:"}
+{"book": 16, "line": 606, "greek": "τὸν βάλʼ ὑπὸ γναθμοῖο καὶ οὔατος· ὦκα δὲ θυμὸς", "en": "he struck him below the jaw, under the ear; and quickly the spirit"}
+{"book": 16, "line": 607, "greek": "ᾤχετʼ ἀπὸ μελέων, στυγερὸς δʼ ἄρα μιν σκότος εἷλεν.", "en": "went out of his limbs, and the hateful darkness took him."}
+{"book": 16, "line": 608, "greek": "Αἰνείας δʼ ἐπὶ Μηριόνῃ δόρυ χάλκεον ἧκεν·", "en": "And Aeneas let fly his bronze spear at Meriones,"}
+{"book": 16, "line": 609, "greek": "ἔλπετο γὰρ τεύξεσθαι ὑπασπίδια προβιβῶντος.", "en": "hoping to catch him as he came on under his shield;"}
+{"book": 16, "line": 610, "greek": "ἀλλʼ ὃ μὲν ἄντα ἰδὼν ἠλεύατο χάλκεον ἔγχος·", "en": "but he saw it coming and dodged the bronze spear,"}
+{"book": 16, "line": 611, "greek": "πρόσσω γὰρ κατέκυψε, τὸ δʼ ἐξόπιθεν δόρυ μακρὸν", "en": "ducking forward; and behind him the long spear"}
+{"book": 16, "line": 612, "greek": "οὔδει ἐνισκίμφθη, ἐπὶ δʼ οὐρίαχος πελεμίχθη", "en": "stuck fast in the ground, and the butt-end stood quivering;"}
+{"book": 16, "line": 613, "greek": "ἔγχεος· ἔνθα δʼ ἔπειτʼ ἀφίει μένος ὄβριμος Ἄρης.", "en": "and there at last massive Ares stilled its fury —"}
+{"book": 16, "line": 614, "greek": "αἰχμὴ δʼ Αἰνείαο κραδαινομένη κατὰ γαίης", "en": "and the point of Aeneas's spear went quivering"}
+{"book": 16, "line": 615, "greek": "ᾤχετʼ, ἐπεί ῥʼ ἅλιον στιβαρῆς ἀπὸ χειρὸς ὄρουσεν.", "en": "into the earth, hurled in vain from his massive hand."}
+{"book": 16, "line": 616, "greek": "Αἰνείας δʼ ἄρα θυμὸν ἐχώσατο φώνησέν τε·", "en": "And Aeneas was angered at heart, and called out:"}
+{"book": 16, "line": 617, "greek": "Μηριόνη τάχα κέν σε καὶ ὀρχηστήν περ ἐόντα", "en": "\"Meriones — dancer though you are, my spear"}
+{"book": 16, "line": 618, "greek": "ἔγχος ἐμὸν κατέπαυσε διαμπερές, εἴ σʼ ἔβαλόν περ.", "en": "would have stopped your dancing for good, if I had only hit you.\""}
+{"book": 16, "line": 619, "greek": "τὸν δʼ αὖ Μηριόνης δουρικλυτὸς ἀντίον ηὔδα·", "en": "And spear-famed Meriones answered him:"}
+{"book": 16, "line": 620, "greek": "Αἰνεία χαλεπόν σε καὶ ἴφθιμόν περ ἐόντα", "en": "\"Aeneas — strong as you are, it is hard for you"}
+{"book": 16, "line": 621, "greek": "πάντων ἀνθρώπων σβέσσαι μένος, ὅς κέ σευ ἄντα", "en": "to quench the fury of every man who stands"}
+{"book": 16, "line": 622, "greek": "ἔλθῃ ἀμυνόμενος· θνητὸς δέ νυ καὶ σὺ τέτυξαι.", "en": "against you in defense. You too were made mortal."}
+{"book": 16, "line": 623, "greek": "εἰ καὶ ἐγώ σε βάλοιμι τυχὼν μέσον ὀξέϊ χαλκῷ,", "en": "And if I hit you square in the middle with the sharp bronze,"}
+{"book": 16, "line": 624, "greek": "αἶψά κε καὶ κρατερός περ ἐὼν καὶ χερσὶ πεποιθὼς", "en": "strong as you are, and sure of your hands, you would quickly"}
+{"book": 16, "line": 625, "greek": "εὖχος ἐμοὶ δοίης, ψυχὴν δʼ Ἄϊδι κλυτοπώλῳ.", "en": "give the triumph to me, and your soul to Hades of the famed colts.\""}
+{"book": 16, "line": 626, "greek": "ὣς φάτο, τὸν δʼ ἐνένιπε Μενοιτίου ἄλκιμος υἱός·", "en": "So he spoke; and the stout son of Menoetius rebuked him:"}
+{"book": 16, "line": 627, "greek": "Μηριόνη τί σὺ ταῦτα καὶ ἐσθλὸς ἐὼν ἀγορεύεις;", "en": "\"Meriones — you are a brave man: why speechify?"}
+{"book": 16, "line": 628, "greek": "ὦ πέπον οὔ τοι Τρῶες ὀνειδείοις ἐπέεσσι", "en": "Old friend, the Trojans will not back away from the corpse"}
+{"book": 16, "line": 629, "greek": "νεκροῦ χωρήσουσι· πάρος τινὰ γαῖα καθέξει.", "en": "for insults. The earth will hold down some of them first."}
+{"book": 16, "line": 630, "greek": "ἐν γὰρ χερσὶ τέλος πολέμου, ἐπέων δʼ ἐνὶ βουλῇ·", "en": "In hands lies the outcome of war; of words, in council."}
+{"book": 16, "line": 631, "greek": "τὼ οὔ τι χρὴ μῦθον ὀφέλλειν, ἀλλὰ μάχεσθαι.", "en": "So there is no need to pile up speech, but to fight.\""}
+{"book": 16, "line": 632, "greek": "ὣς εἰπὼν ὃ μὲν ἦρχʼ, ὃ δʼ ἅμʼ ἕσπετο ἰσόθεος φώς.", "en": "So speaking he led the way, and the other followed, a man like a god."}
+{"book": 16, "line": 633, "greek": "τῶν δʼ ὥς τε δρυτόμων ἀνδρῶν ὀρυμαγδὸς ὀρώρει", "en": "And from them — as the din of woodcutting men rises"}
+{"book": 16, "line": 634, "greek": "οὔρεος ἐν βήσσῃς, ἕκαθεν δέ τε γίγνετʼ ἀκουή,", "en": "in the mountain glens, and the sound carries far:"}
+{"book": 16, "line": 635, "greek": "ὣς τῶν ὄρνυτο δοῦπος ἀπὸ χθονὸς εὐρυοδείης", "en": "so from the wide-wayed earth their pounding rose,"}
+{"book": 16, "line": 636, "greek": "χαλκοῦ τε ῥινοῦ τε βοῶν τʼ εὐποιητάων,", "en": "of bronze and leather and well-made oxhide shields,"}
+{"book": 16, "line": 637, "greek": "νυσσομένων ξίφεσίν τε καὶ ἔγχεσιν ἀμφιγύοισιν.", "en": "stabbed at with swords and double-curved spears."}
+{"book": 16, "line": 638, "greek": "οὐδʼ ἂν ἔτι φράδμων περ ἀνὴρ Σαρπηδόνα δῖον", "en": "And by now not even a discerning man could have known"}
+{"book": 16, "line": 639, "greek": "ἔγνω, ἐπεὶ βελέεσσι καὶ αἵματι καὶ κονίῃσιν", "en": "brilliant Sarpedon, wrapped from his head clean down"}
+{"book": 16, "line": 640, "greek": "ἐκ κεφαλῆς εἴλυτο διαμπερὲς ἐς πόδας ἄκρους.", "en": "to the soles of his feet in missiles and blood and dust."}
+{"book": 16, "line": 641, "greek": "οἳ δʼ αἰεὶ περὶ νεκρὸν ὁμίλεον, ὡς ὅτε μυῖαι", "en": "And they crowded round the corpse always — as flies"}
+{"book": 16, "line": 642, "greek": "σταθμῷ ἔνι βρομέωσι περιγλαγέας κατὰ πέλλας", "en": "in a farmstead buzz about the brimming milk-pails"}
+{"book": 16, "line": 643, "greek": "ὥρῃ ἐν εἰαρινῇ, ὅτε τε γλάγος ἄγγεα δεύει·", "en": "in the season of spring, when the milk wets the vessels:"}
+{"book": 16, "line": 644, "greek": "ὣς ἄρα τοὶ περὶ νεκρὸν ὁμίλεον, οὐδέ ποτε Ζεὺς", "en": "so they crowded round the corpse. And Zeus never once"}
+{"book": 16, "line": 645, "greek": "τρέψεν ἀπὸ κρατερῆς ὑσμίνης ὄσσε φαεινώ,", "en": "turned his shining eyes away from the strong encounter,"}
+{"book": 16, "line": 646, "greek": "ἀλλὰ κατʼ αὐτοὺς αἰὲν ὅρα καὶ φράζετο θυμῷ,", "en": "but gazed down at them always, and pondered in his heart,"}
+{"book": 16, "line": 647, "greek": "πολλὰ μάλʼ ἀμφὶ φόνῳ Πατρόκλου μερμηρίζων,", "en": "brooding long over the killing of Patroclus:"}
+{"book": 16, "line": 648, "greek": "ἢ ἤδη καὶ κεῖνον ἐνὶ κρατερῇ ὑσμίνῃ", "en": "whether now, in the strong encounter, over godlike"}
+{"book": 16, "line": 649, "greek": "αὐτοῦ ἐπʼ ἀντιθέῳ Σαρπηδόνι φαίδιμος Ἕκτωρ", "en": "Sarpedon, glorious Hector should cut him down"}
+{"book": 16, "line": 650, "greek": "χαλκῷ δῃώσῃ, ἀπό τʼ ὤμων τεύχεʼ ἕληται,", "en": "with the bronze, and strip the armor from his shoulders —"}
+{"book": 16, "line": 651, "greek": "ἦ ἔτι καὶ πλεόνεσσιν ὀφέλλειεν πόνον αἰπύν.", "en": "or whether he should swell the sheer toil for still more men."}
+{"book": 16, "line": 652, "greek": "ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι", "en": "And as he pondered, this seemed to him the better course:"}
+{"book": 16, "line": 653, "greek": "ὄφρʼ ἠῢς θεράπων Πηληϊάδεω Ἀχιλῆος", "en": "that the brave aide of Achilles, Peleus' son,"}
+{"book": 16, "line": 654, "greek": "ἐξαῦτις Τρῶάς τε καὶ Ἕκτορα χαλκοκορυστὴν", "en": "should drive the Trojans and Hector of the bronze helmet"}
+{"book": 16, "line": 655, "greek": "ὤσαιτο προτὶ ἄστυ, πολέων δʼ ἀπὸ θυμὸν ἕλοιτο.", "en": "back toward the city once more, and take the life from many."}
+{"book": 16, "line": 656, "greek": "Ἕκτορι δὲ πρωτίστῳ ἀνάλκιδα θυμὸν ἐνῆκεν·", "en": "And in Hector first he put a strengthless heart:"}
+{"book": 16, "line": 657, "greek": "ἐς δίφρον δʼ ἀναβὰς φύγαδʼ ἔτραπε, κέκλετο δʼ ἄλλους", "en": "he climbed into his chariot and turned to flee, and called"}
+{"book": 16, "line": 658, "greek": "Τρῶας φευγέμεναι· γνῶ γὰρ Διὸς ἱρὰ τάλαντα.", "en": "the other Trojans to fly; for he knew the sacred scales of Zeus."}
+{"book": 16, "line": 659, "greek": "ἔνθʼ οὐδʼ ἴφθιμοι Λύκιοι μένον, ἀλλὰ φόβηθεν", "en": "Then not even the powerful Lycians stood, but panicked"}
+{"book": 16, "line": 660, "greek": "πάντες, ἐπεὶ βασιλῆα ἴδον βεβλαμμένον ἦτορ", "en": "all of them, when they saw their king struck through the heart,"}
+{"book": 16, "line": 661, "greek": "κείμενον ἐν νεκύων ἀγύρει· πολέες γὰρ ἐπʼ αὐτῷ", "en": "lying under the pile of dead — for many had fallen"}
+{"book": 16, "line": 662, "greek": "κάππεσον, εὖτʼ ἔριδα κρατερὴν ἐτάνυσσε Κρονίων.", "en": "over him, once the son of Cronos stretched the strife taut."}
+{"book": 16, "line": 663, "greek": "οἳ δʼ ἄρʼ ἀπʼ ὤμοιιν Σαρπηδόνος ἔντεʼ ἕλοντο", "en": "And the Achaeans stripped the armor from Sarpedon's shoulders,"}
+{"book": 16, "line": 664, "greek": "χάλκεα μαρμαίροντα, τὰ μὲν κοίλας ἐπὶ νῆας", "en": "bronze and glittering; and the stout son of Menoetius"}
+{"book": 16, "line": 665, "greek": "δῶκε φέρειν ἑτάροισι Μενοιτίου ἄλκιμος υἱός.", "en": "gave it to his companions to carry to the hollow ships."}
+{"book": 16, "line": 666, "greek": "καὶ τότʼ Ἀπόλλωνα προσέφη νεφεληγερέτα Ζεύς·", "en": "And then Zeus the cloud-gatherer spoke to Apollo:"}
+{"book": 16, "line": 667, "greek": "εἰ δʼ ἄγε νῦν φίλε Φοῖβε, κελαινεφὲς αἷμα κάθηρον", "en": "\"Up now, dear Phoebus: go cleanse Sarpedon of the dark"}
+{"book": 16, "line": 668, "greek": "ἐλθὼν ἐκ βελέων Σαρπηδόνα, καί μιν ἔπειτα", "en": "clotted blood, out of the range of the missiles, and carry him"}
+{"book": 16, "line": 669, "greek": "πολλὸν ἀπὸ πρὸ φέρων λοῦσον ποταμοῖο ῥοῇσι", "en": "far away, and wash him in the running river,"}
+{"book": 16, "line": 670, "greek": "χρῖσόν τʼ ἀμβροσίῃ, περὶ δʼ ἄμβροτα εἵματα ἕσσον·", "en": "and anoint him with ambrosia, and put immortal clothing round him;"}
+{"book": 16, "line": 671, "greek": "πέμπε δέ μιν πομποῖσιν ἅμα κραιπνοῖσι φέρεσθαι", "en": "and send him to be carried by swift escorts,"}
+{"book": 16, "line": 672, "greek": "ὕπνῳ καὶ θανάτῳ διδυμάοσιν, οἵ ῥά μιν ὦκα", "en": "the twin brothers Sleep and Death, who quickly"}
+{"book": 16, "line": 673, "greek": "θήσουσʼ ἐν Λυκίης εὐρείης πίονι δήμῳ,", "en": "will set him down in the rich country of wide Lycia."}
+{"book": 16, "line": 674, "greek": "ἔνθά ἑ ταρχύσουσι κασίγνητοί τε ἔται τε", "en": "There his brothers and kinsmen will give him burial"}
+{"book": 16, "line": 675, "greek": "τύμβῳ τε στήλῃ τε· τὸ γὰρ γέρας ἐστὶ θανόντων.", "en": "with a tomb and a grave-stone: for that is the honor-right of the dead.\""}
+{"book": 16, "line": 676, "greek": "ὣς ἔφατʼ, οὐδʼ ἄρα πατρὸς ἀνηκούστησεν Ἀπόλλων.", "en": "So he spoke, and Apollo did not disobey his father,"}
+{"book": 16, "line": 677, "greek": "βῆ δὲ κατʼ Ἰδαίων ὀρέων ἐς φύλοπιν αἰνήν,", "en": "but went down from the mountains of Ida into the dread din,"}
+{"book": 16, "line": 678, "greek": "αὐτίκα δʼ ἐκ βελέων Σαρπηδόνα δῖον ἀείρας", "en": "and at once lifted brilliant Sarpedon out of the missiles,"}
+{"book": 16, "line": 679, "greek": "πολλὸν ἀπὸ πρὸ φέρων λοῦσεν ποταμοῖο ῥοῇσι", "en": "and carried him far away, and washed him in the running river,"}
+{"book": 16, "line": 680, "greek": "χρῖσέν τʼ ἀμβροσίῃ, περὶ δʼ ἄμβροτα εἵματα ἕσσε·", "en": "and anointed him with ambrosia, and put immortal clothing round him;"}
+{"book": 16, "line": 681, "greek": "πέμπε δέ μιν πομποῖσιν ἅμα κραιπνοῖσι φέρεσθαι,", "en": "and he sent him to be carried by swift escorts,"}
+{"book": 16, "line": 682, "greek": "ὕπνῳ καὶ θανάτῳ διδυμάοσιν, οἵ ῥά μιν ὦκα", "en": "the twin brothers Sleep and Death, who quickly"}
+{"book": 16, "line": 683, "greek": "κάτθεσαν ἐν Λυκίης εὐρείης πίονι δήμῳ.", "en": "set him down in the rich country of wide Lycia."}
+{"book": 16, "line": 684, "greek": "Πάτροκλος δʼ ἵπποισι καὶ Αὐτομέδοντι κελεύσας", "en": "But Patroclus, calling to his horses and Automedon,"}
+{"book": 16, "line": 685, "greek": "Τρῶας καὶ Λυκίους μετεκίαθε, καὶ μέγʼ ἀάσθη", "en": "went after the Trojans and Lycians — and was greatly blinded,"}
+{"book": 16, "line": 686, "greek": "νήπιος· εἰ δὲ ἔπος Πηληϊάδαο φύλαξεν", "en": "the fool: had he kept the word of Peleus' son,"}
+{"book": 16, "line": 687, "greek": "ἦ τʼ ἂν ὑπέκφυγε κῆρα κακὴν μέλανος θανάτοιο.", "en": "he would have escaped the evil doom of black death."}
+{"book": 16, "line": 688, "greek": "ἀλλʼ αἰεί τε Διὸς κρείσσων νόος ἠέ περ ἀνδρῶν·", "en": "But always the mind of Zeus is stronger than men's:"}
+{"book": 16, "line": 689, "greek": "ὅς τε καὶ ἄλκιμον ἄνδρα φοβεῖ καὶ ἀφείλετο νίκην", "en": "he sends even the brave man running, and strips away victory"}
+{"book": 16, "line": 690, "greek": "ῥηϊδίως, ὅτε δʼ αὐτὸς ἐποτρύνῃσι μάχεσθαι·", "en": "easily — and then again himself drives a man to fight;"}
+{"book": 16, "line": 691, "greek": "ὅς οἱ καὶ τότε θυμὸν ἐνὶ στήθεσσιν ἀνῆκεν.", "en": "and it was he who now put the fury in Patroclus's chest."}
+{"book": 16, "line": 692, "greek": "ἔνθα τίνα πρῶτον τίνα δʼ ὕστατον ἐξενάριξας", "en": "Then whom first, whom last did you strip of his arms,"}
+{"book": 16, "line": 693, "greek": "Πατρόκλεις, ὅτε δή σε θεοὶ θάνατον δὲ κάλεσσαν;", "en": "Patroclus, when the gods were calling you deathward?"}
+{"book": 16, "line": 694, "greek": "Ἄδρηστον μὲν πρῶτα καὶ Αὐτόνοον καὶ Ἔχεκλον", "en": "Adrestus first, and Autonous, and Echeclus,"}
+{"book": 16, "line": 695, "greek": "καὶ Πέριμον Μεγάδην καὶ Ἐπίστορα καὶ Μελάνιππον,", "en": "and Perimus, Megas's son, and Epistor, and Melanippus,"}
+{"book": 16, "line": 696, "greek": "αὐτὰρ ἔπειτʼ Ἔλασον καὶ Μούλιον ἠδὲ Πυλάρτην·", "en": "and after them Elasus, and Mulius, and Pylartes:"}
+{"book": 16, "line": 697, "greek": "τοὺς ἕλεν· οἳ δʼ ἄλλοι φύγαδε μνώοντο ἕκαστος.", "en": "these he took; and the rest were each man minded to run."}
+{"book": 16, "line": 698, "greek": "ἔνθά κεν ὑψίπυλον Τροίην ἕλον υἷες Ἀχαιῶν", "en": "And then the sons of the Achaeans would have taken high-gated Troy"}
+{"book": 16, "line": 699, "greek": "Πατρόκλου ὑπὸ χερσί, περὶ πρὸ γὰρ ἔγχεϊ θῦεν,", "en": "by the hands of Patroclus — such was his raging spear-charge —"}
+{"book": 16, "line": 700, "greek": "εἰ μὴ Ἀπόλλων Φοῖβος ἐϋδμήτου ἐπὶ πύργου", "en": "had not Phoebus Apollo taken his stand on the well-built tower,"}
+{"book": 16, "line": 701, "greek": "ἔστη τῷ ὀλοὰ φρονέων, Τρώεσσι δʼ ἀρήγων.", "en": "with deadly thoughts for him, siding with the Trojans."}
+{"book": 16, "line": 702, "greek": "τρὶς μὲν ἐπʼ ἀγκῶνος βῆ τείχεος ὑψηλοῖο", "en": "Three times Patroclus set his foot on the angle of the high wall,"}
+{"book": 16, "line": 703, "greek": "Πάτροκλος, τρὶς δʼ αὐτὸν ἀπεστυφέλιξεν Ἀπόλλων", "en": "and three times Apollo slapped him back and away,"}
+{"book": 16, "line": 704, "greek": "χείρεσσʼ ἀθανάτῃσι φαεινὴν ἀσπίδα νύσσων.", "en": "thrusting at the shining shield with his immortal hands."}
+{"book": 16, "line": 705, "greek": "ἀλλʼ ὅτε δὴ τὸ τέταρτον ἐπέσσυτο δαίμονι ἶσος,", "en": "But when for the fourth time he came on like more than man,"}
+{"book": 16, "line": 706, "greek": "δεινὰ δʼ ὁμοκλήσας ἔπεα πτερόεντα προσηύδα·", "en": "the god shouted terribly, and spoke winged words:"}
+{"book": 16, "line": 707, "greek": "χάζεο διογενὲς Πατρόκλεες· οὔ νύ τοι αἶσα", "en": "\"Back, Zeus-sprung Patroclus! It is not your portion"}
+{"book": 16, "line": 708, "greek": "σῷ ὑπὸ δουρὶ πόλιν πέρθαι Τρώων ἀγερώχων,", "en": "that the proud Trojans' city fall to your spear —"}
+{"book": 16, "line": 709, "greek": "οὐδʼ ὑπʼ Ἀχιλλῆος, ὅς περ σέο πολλὸν ἀμείνων.", "en": "no, nor to Achilles', who is a far better man than you.\""}
+{"book": 16, "line": 710, "greek": "ὣς φάτο, Πάτροκλος δʼ ἀνεχάζετο πολλὸν ὀπίσσω", "en": "So he spoke; and Patroclus gave back a long way,"}
+{"book": 16, "line": 711, "greek": "μῆνιν ἀλευάμενος ἑκατηβόλου Ἀπόλλωνος.", "en": "dodging the wrath of Apollo who strikes from afar."}
+{"book": 16, "line": 712, "greek": "Ἕκτωρ δʼ ἐν Σκαιῇσι πύλῃς ἔχε μώνυχας ἵππους·", "en": "But Hector held his whole-hoofed horses at the Scaean Gates,"}
+{"book": 16, "line": 713, "greek": "δίζε γὰρ ἠὲ μάχοιτο κατὰ κλόνον αὖτις ἐλάσσας,", "en": "divided: whether to drive back into the confusion and fight,"}
+{"book": 16, "line": 714, "greek": "ἦ λαοὺς ἐς τεῖχος ὁμοκλήσειεν ἀλῆναι.", "en": "or shout for the army to gather inside the wall."}
+{"book": 16, "line": 715, "greek": "ταῦτʼ ἄρα οἱ φρονέοντι παρίστατο Φοῖβος Ἀπόλλων", "en": "And as he pondered, Phoebus Apollo came and stood by him"}
+{"book": 16, "line": 716, "greek": "ἀνέρι εἰσάμενος αἰζηῷ τε κρατερῷ τε", "en": "in the likeness of a man young and strong,"}
+{"book": 16, "line": 717, "greek": "Ἀσίῳ, ὃς μήτρως ἦν Ἕκτορος ἱπποδάμοιο", "en": "Asius — the uncle of horse-taming Hector,"}
+{"book": 16, "line": 718, "greek": "αὐτοκασίγνητος Ἑκάβης, υἱὸς δὲ Δύμαντος,", "en": "own brother of Hecuba, and son of Dymas,"}
+{"book": 16, "line": 719, "greek": "ὃς Φρυγίῃ ναίεσκε ῥοῇς ἔπι Σαγγαρίοιο·", "en": "who lived in Phrygia on the streams of Sangarius;"}
+{"book": 16, "line": 720, "greek": "τῷ μιν ἐεισάμενος προσέφη Διὸς υἱὸς Ἀπόλλων·", "en": "in his likeness Apollo, son of Zeus, spoke to him:"}
+{"book": 16, "line": 721, "greek": "Ἕκτορ τίπτε μάχης ἀποπαύεαι; οὐδέ τί σε χρή.", "en": "\"Hector, why have you dropped out of the fighting? It is not right."}
+{"book": 16, "line": 722, "greek": "αἴθʼ ὅσον ἥσσων εἰμί, τόσον σέο φέρτερος εἴην·", "en": "Would that I were as much stronger than you as I am weaker:"}
+{"book": 16, "line": 723, "greek": "τώ κε τάχα στυγερῶς πολέμου ἀπερωήσειας.", "en": "then you would soon and bitterly regret this skulking from the war."}
+{"book": 16, "line": 724, "greek": "ἀλλʼ ἄγε Πατρόκλῳ ἔφεπε κρατερώνυχας ἵππους,", "en": "Come — drive your strong-hoofed horses at Patroclus,"}
+{"book": 16, "line": 725, "greek": "αἴ κέν πώς μιν ἕλῃς, δώῃ δέ τοι εὖχος Ἀπόλλων.", "en": "and you may take him yet, and Apollo hand you the glory.\""}
+{"book": 16, "line": 726, "greek": "ὣς εἰπὼν ὃ μὲν αὖτις ἔβη θεὸς ἂμ πόνον ἀνδρῶν,", "en": "So speaking, the god went back into the toil of men;"}
+{"book": 16, "line": 727, "greek": "Κεβριόνῃ δʼ ἐκέλευσε δαΐφρονι φαίδιμος Ἕκτωρ", "en": "and glorious Hector ordered war-minded Cebriones"}
+{"book": 16, "line": 728, "greek": "ἵππους ἐς πόλεμον πεπληγέμεν. αὐτὰρ Ἀπόλλων", "en": "to lash the horses into the battle. And Apollo"}
+{"book": 16, "line": 729, "greek": "δύσεθʼ ὅμιλον ἰών, ἐν δὲ κλόνον Ἀργείοισιν", "en": "sank into the crowd, and hurled an evil rout"}
+{"book": 16, "line": 730, "greek": "ἧκε κακόν, Τρωσὶν δὲ καὶ Ἕκτορι κῦδος ὄπαζεν.", "en": "among the Argives, and handed glory to the Trojans and Hector."}
+{"book": 16, "line": 731, "greek": "Ἕκτωρ δʼ ἄλλους μὲν Δαναοὺς ἔα οὐδʼ ἐνάριζεν·", "en": "And Hector let the other Danaans be — killed none of them —"}
+{"book": 16, "line": 732, "greek": "αὐτὰρ ὃ Πατρόκλῳ ἔφεπε κρατερώνυχας ἵππους.", "en": "but drove his strong-hoofed horses straight at Patroclus;"}
+{"book": 16, "line": 733, "greek": "Πάτροκλος δʼ ἑτέρωθεν ἀφʼ ἵππων ἆλτο χαμᾶζε", "en": "and Patroclus, facing him, sprang from his chariot to the ground"}
+{"book": 16, "line": 734, "greek": "σκαιῇ ἔγχος ἔχων· ἑτέρηφι δὲ λάζετο πέτρον", "en": "with his spear in his left hand; and in the other he caught up a stone,"}
+{"book": 16, "line": 735, "greek": "μάρμαρον ὀκριόεντα τόν οἱ περὶ χεὶρ ἐκάλυψεν,", "en": "jagged marble, glittering — his hand just closed around it —"}
+{"book": 16, "line": 736, "greek": "ἧκε δʼ ἐρεισάμενος, οὐδὲ δὴν χάζετο φωτός,", "en": "and planted himself and hurled it, not shrinking long from the man;"}
+{"book": 16, "line": 737, "greek": "οὐδʼ ἁλίωσε βέλος, βάλε δʼ Ἕκτορος ἡνιοχῆα", "en": "and his missile was not wasted: he struck Hector's charioteer —"}
+{"book": 16, "line": 738, "greek": "Κεβριόνην νόθον υἱὸν ἀγακλῆος Πριάμοιο", "en": "Cebriones, a bastard son of far-famed Priam —"}
+{"book": 16, "line": 739, "greek": "ἵππων ἡνίʼ ἔχοντα μετώπιον ὀξέϊ λᾶϊ.", "en": "with the reins in his hands, full on the forehead with the sharp stone."}
+{"book": 16, "line": 740, "greek": "ἀμφοτέρας δʼ ὀφρῦς σύνελεν λίθος, οὐδέ οἱ ἔσχεν", "en": "The stone crushed both brows together; the bone did not hold;"}
+{"book": 16, "line": 741, "greek": "ὀστέον, ὀφθαλμοὶ δὲ χαμαὶ πέσον ἐν κονίῃσιν", "en": "and his eyes dropped to the ground in the dust"}
+{"book": 16, "line": 742, "greek": "αὐτοῦ πρόσθε ποδῶν· ὃ δʼ ἄρʼ ἀρνευτῆρι ἐοικὼς", "en": "there at his feet; and like a diver he plunged"}
+{"book": 16, "line": 743, "greek": "κάππεσʼ ἀπʼ εὐεργέος δίφρου, λίπε δʼ ὀστέα θυμός.", "en": "from the well-wrought chariot, and the life left his bones."}
+{"book": 16, "line": 744, "greek": "τὸν δʼ ἐπικερτομέων προσέφης Πατρόκλεες ἱππεῦ·", "en": "And mocking him you spoke, Patroclus, horseman:"}
+{"book": 16, "line": 745, "greek": "ὢ πόποι ἦ μάλʼ ἐλαφρὸς ἀνήρ, ὡς ῥεῖα κυβιστᾷ.", "en": "\"Well, well — how nimble the man is! What easy tumbling!"}
+{"book": 16, "line": 746, "greek": "εἰ δή που καὶ πόντῳ ἐν ἰχθυόεντι γένοιτο,", "en": "If ever he found himself on the fish-teeming sea,"}
+{"book": 16, "line": 747, "greek": "πολλοὺς ἂν κορέσειεν ἀνὴρ ὅδε τήθεα διφῶν", "en": "this man could feed a whole crew, diving for oysters,"}
+{"book": 16, "line": 748, "greek": "νηὸς ἀποθρῴσκων, εἰ καὶ δυσπέμφελος εἴη,", "en": "leaping overboard even in rough weather —"}
+{"book": 16, "line": 749, "greek": "ὡς νῦν ἐν πεδίῳ ἐξ ἵππων ῥεῖα κυβιστᾷ.", "en": "as easily as he tumbles now from his chariot onto the plain."}
+{"book": 16, "line": 750, "greek": "ἦ ῥα καὶ ἐν Τρώεσσι κυβιστητῆρες ἔασιν.", "en": "So: there are acrobats among the Trojans too.\""}
+{"book": 16, "line": 751, "greek": "ὣς εἰπὼν ἐπὶ Κεβριόνῃ ἥρωϊ βεβήκει", "en": "So speaking he went for the hero Cebriones"}
+{"book": 16, "line": 752, "greek": "οἶμα λέοντος ἔχων, ὅς τε σταθμοὺς κεραΐζων", "en": "with the spring of a lion who, ravaging the farmsteads,"}
+{"book": 16, "line": 753, "greek": "ἔβλητο πρὸς στῆθος, ἑή τέ μιν ὤλεσεν ἀλκή·", "en": "has been struck in the chest — and his own courage kills him:"}
+{"book": 16, "line": 754, "greek": "ὣς ἐπὶ Κεβριόνῃ Πατρόκλεες ἆλσο μεμαώς.", "en": "so, Patroclus, you leapt on Cebriones, blazing."}
+{"book": 16, "line": 755, "greek": "Ἕκτωρ δʼ αὖθʼ ἑτέρωθεν ἀφʼ ἵππων ἆλτο χαμᾶζε.", "en": "And Hector on the other side sprang from his chariot to the ground;"}
+{"book": 16, "line": 756, "greek": "τὼ περὶ Κεβριόναο λέονθʼ ὣς δηρινθήτην,", "en": "and the two fought over Cebriones like two lions"}
+{"book": 16, "line": 757, "greek": "ὥ τʼ ὄρεος κορυφῇσι περὶ κταμένης ἐλάφοιο", "en": "that on a mountain's peaks, over a slain hind,"}
+{"book": 16, "line": 758, "greek": "ἄμφω πεινάοντε μέγα φρονέοντε μάχεσθον·", "en": "both of them hungry, fight with towering hearts:"}
+{"book": 16, "line": 759, "greek": "ὣς περὶ Κεβριόναο δύω μήστωρες ἀϋτῆς", "en": "so over Cebriones the two masters of the war-shout,"}
+{"book": 16, "line": 760, "greek": "Πάτροκλός τε Μενοιτιάδης καὶ φαίδιμος Ἕκτωρ", "en": "Patroclus, Menoetius's son, and glorious Hector,"}
+{"book": 16, "line": 761, "greek": "ἵεντʼ ἀλλήλων ταμέειν χρόα νηλέϊ χαλκῷ.", "en": "strained to hew each other's flesh with the pitiless bronze."}
+{"book": 16, "line": 762, "greek": "Ἕκτωρ μὲν κεφαλῆφιν ἐπεὶ λάβεν οὐχὶ μεθίει·", "en": "Hector had him by the head, and would not let go;"}
+{"book": 16, "line": 763, "greek": "Πάτροκλος δʼ ἑτέρωθεν ἔχεν ποδός· οἳ δὲ δὴ ἄλλοι", "en": "Patroclus, opposite, held a foot; and around them the rest,"}
+{"book": 16, "line": 764, "greek": "Τρῶες καὶ Δαναοὶ σύναγον κρατερὴν ὑσμίνην.", "en": "Trojans and Danaans, joined the strong encounter."}
+{"book": 16, "line": 765, "greek": "ὡς δʼ Εὖρός τε Νότος τʼ ἐριδαίνετον ἀλλήλοιιν", "en": "As the East Wind and the South contend with one another"}
+{"book": 16, "line": 766, "greek": "οὔρεος ἐν βήσσῃς βαθέην πελεμιζέμεν ὕλην", "en": "in the mountain glens, to shake the deep timber —"}
+{"book": 16, "line": 767, "greek": "φηγόν τε μελίην τε τανύφλοιόν τε κράνειαν,", "en": "oak and ash and smooth-barked cornel-tree,"}
+{"book": 16, "line": 768, "greek": "αἵ τε πρὸς ἀλλήλας ἔβαλον τανυήκεας ὄζους", "en": "that hurl their long slim branches each against each"}
+{"book": 16, "line": 769, "greek": "ἠχῇ θεσπεσίῃ, πάταγος δέ τε ἀγνυμενάων,", "en": "with a prodigious noise, and the crash of them breaking:"}
+{"book": 16, "line": 770, "greek": "ὣς Τρῶες καὶ Ἀχαιοὶ ἐπʼ ἀλλήλοισι θορόντες", "en": "so Trojans and Achaeans, springing at one another,"}
+{"book": 16, "line": 771, "greek": "δῄουν, οὐδʼ ἕτεροι μνώοντʼ ὀλοοῖο φόβοιο.", "en": "cut men down, and neither side thought of ruinous flight."}
+{"book": 16, "line": 772, "greek": "πολλὰ δὲ Κεβριόνην ἀμφʼ ὀξέα δοῦρα πεπήγει", "en": "And around Cebriones many sharp spears stood fixed,"}
+{"book": 16, "line": 773, "greek": "ἰοί τε πτερόεντες ἀπὸ νευρῆφι θορόντες,", "en": "and winged arrows leaping from the bowstrings,"}
+{"book": 16, "line": 774, "greek": "πολλὰ δὲ χερμάδια μεγάλʼ ἀσπίδας ἐστυφέλιξαν", "en": "and many great stones battered against the shields"}
+{"book": 16, "line": 775, "greek": "μαρναμένων ἀμφʼ αὐτόν· ὃ δʼ ἐν στροφάλιγγι κονίης", "en": "of the men fighting round him. And he in the whirl of dust"}
+{"book": 16, "line": 776, "greek": "κεῖτο μέγας μεγαλωστί, λελασμένος ἱπποσυνάων.", "en": "lay mighty in his mightiness, his horsemanship all forgotten."}
+{"book": 16, "line": 777, "greek": "ὄφρα μὲν Ἠέλιος μέσον οὐρανὸν ἀμφιβεβήκει,", "en": "So long as the sun bestrode the middle heaven,"}
+{"book": 16, "line": 778, "greek": "τόφρα μάλʼ ἀμφοτέρων βέλεʼ ἥπτετο, πῖπτε δὲ λαός·", "en": "so long the missiles of both sides struck home, and the people fell;"}
+{"book": 16, "line": 779, "greek": "ἦμος δʼ Ἠέλιος μετενίσετο βουλυτὸν δέ,", "en": "but when the sun turned toward the unyoking of oxen,"}
+{"book": 16, "line": 780, "greek": "καὶ τότε δή ῥʼ ὑπὲρ αἶσαν Ἀχαιοὶ φέρτεροι ἦσαν.", "en": "then, beyond their portion, the Achaeans proved the stronger."}
+{"book": 16, "line": 781, "greek": "ἐκ μὲν Κεβριόνην βελέων ἥρωα ἔρυσσαν", "en": "They dragged the hero Cebriones out of the missiles,"}
+{"book": 16, "line": 782, "greek": "Τρώων ἐξ ἐνοπῆς, καὶ ἀπʼ ὤμων τεύχεʼ ἕλοντο,", "en": "out of the Trojans' clamor, and stripped the armor from his shoulders;"}
+{"book": 16, "line": 783, "greek": "Πάτροκλος δὲ Τρωσὶ κακὰ φρονέων ἐνόρουσε.", "en": "and Patroclus, with evil intent for the Trojans, charged them."}
+{"book": 16, "line": 784, "greek": "τρὶς μὲν ἔπειτʼ ἐπόρουσε θοῷ ἀτάλαντος Ἄρηϊ", "en": "Three times he charged then, the equal of swift Ares,"}
+{"book": 16, "line": 785, "greek": "σμερδαλέα ἰάχων, τρὶς δʼ ἐννέα φῶτας ἔπεφνεν.", "en": "screaming terribly, and three times he killed nine men."}
+{"book": 16, "line": 786, "greek": "ἀλλʼ ὅτε δὴ τὸ τέταρτον ἐπέσσυτο δαίμονι ἶσος,", "en": "But when for the fourth time he came on like more than man —"}
+{"book": 16, "line": 787, "greek": "ἔνθʼ ἄρα τοι Πάτροκλε φάνη βιότοιο τελευτή·", "en": "then, Patroclus, the end of your life showed clear:"}
+{"book": 16, "line": 788, "greek": "ἤντετο γάρ τοι Φοῖβος ἐνὶ κρατερῇ ὑσμίνῃ", "en": "for Phoebus met you in the strong encounter,"}
+{"book": 16, "line": 789, "greek": "δεινός· ὃ μὲν τὸν ἰόντα κατὰ κλόνον οὐκ ἐνόησεν,", "en": "terrible. And Patroclus did not see him coming through the confusion,"}
+{"book": 16, "line": 790, "greek": "ἠέρι γὰρ πολλῇ κεκαλυμμένος ἀντεβόλησε·", "en": "for he came against him wrapped in thick mist,"}
+{"book": 16, "line": 791, "greek": "στῆ δʼ ὄπιθεν, πλῆξεν δὲ μετάφρενον εὐρέε τʼ ὤμω", "en": "and stood behind him, and struck his back and broad shoulders"}
+{"book": 16, "line": 792, "greek": "χειρὶ καταπρηνεῖ, στρεφεδίνηθεν δέ οἱ ὄσσε.", "en": "with the flat of his hand; and his eyes spun."}
+{"book": 16, "line": 793, "greek": "τοῦ δʼ ἀπὸ μὲν κρατὸς κυνέην βάλε Φοῖβος Ἀπόλλων·", "en": "And Phoebus Apollo knocked the helmet from his head:"}
+{"book": 16, "line": 794, "greek": "ἣ δὲ κυλινδομένη καναχὴν ἔχε ποσσὶν ὑφʼ ἵππων", "en": "it rolled ringing away beneath the horses' hooves,"}
+{"book": 16, "line": 795, "greek": "αὐλῶπις τρυφάλεια, μιάνθησαν δὲ ἔθειραι", "en": "the socketed helmet, and the plumes were fouled"}
+{"book": 16, "line": 796, "greek": "αἵματι καὶ κονίῃσι· πάρος γε μὲν οὐ θέμις ἦεν", "en": "with blood and dust. Before this it was not lawful"}
+{"book": 16, "line": 797, "greek": "ἱππόκομον πήληκα μιαίνεσθαι κονίῃσιν,", "en": "for that horsehair-crested helmet to be fouled with dust:"}
+{"book": 16, "line": 798, "greek": "ἀλλʼ ἀνδρὸς θείοιο κάρη χαρίεν τε μέτωπον", "en": "it guarded the head and the gracious brow of a godlike"}
+{"book": 16, "line": 799, "greek": "ῥύετʼ Ἀχιλλῆος· τότε δὲ Ζεὺς Ἕκτορι δῶκεν", "en": "man, Achilles. But then Zeus gave it to Hector"}
+{"book": 16, "line": 800, "greek": "ᾗ κεφαλῇ φορέειν, σχεδόθεν δέ οἱ ἦεν ὄλεθρος.", "en": "to wear on his own head; and his destruction was near him."}
+{"book": 16, "line": 801, "greek": "πᾶν δέ οἱ ἐν χείρεσσιν ἄγη δολιχόσκιον ἔγχος", "en": "And the long-shadowed spear was shattered whole in his hands,"}
+{"book": 16, "line": 802, "greek": "βριθὺ μέγα στιβαρὸν κεκορυθμένον· αὐτὰρ ἀπʼ ὤμων", "en": "heavy, huge, compact, helmeted in bronze; and from his shoulders"}
+{"book": 16, "line": 803, "greek": "ἀσπὶς σὺν τελαμῶνι χαμαὶ πέσε τερμιόεσσα.", "en": "the fringed shield with its baldric dropped to the ground;"}
+{"book": 16, "line": 804, "greek": "λῦσε δέ οἱ θώρηκα ἄναξ Διὸς υἱὸς Ἀπόλλων.", "en": "and the lord Apollo, son of Zeus, loosed the corslet off him."}
+{"book": 16, "line": 805, "greek": "τὸν δʼ ἄτη φρένας εἷλε, λύθεν δʼ ὑπὸ φαίδιμα γυῖα,", "en": "Blindness took his mind; his shining limbs were unstrung;"}
+{"book": 16, "line": 806, "greek": "στῆ δὲ ταφών· ὄπιθεν δὲ μετάφρενον ὀξέϊ δουρὶ", "en": "he stood dazed. And from behind, at close range, a Dardanian"}
+{"book": 16, "line": 807, "greek": "ὤμων μεσσηγὺς σχεδόθεν βάλε Δάρδανος ἀνὴρ", "en": "struck him with a sharp spear between the shoulders:"}
+{"book": 16, "line": 808, "greek": "Πανθοΐδης Εὔφορβος, ὃς ἡλικίην ἐκέκαστο", "en": "Euphorbus, Panthous's son, who outshone all men of his age"}
+{"book": 16, "line": 809, "greek": "ἔγχεΐ θʼ ἱπποσύνῃ τε πόδεσσί τε καρπαλίμοισι·", "en": "at the spear, at horsemanship, and in the race on foot;"}
+{"book": 16, "line": 810, "greek": "καὶ γὰρ δὴ τότε φῶτας ἐείκοσι βῆσεν ἀφʼ ἵππων", "en": "indeed he had already brought down twenty men from their horses,"}
+{"book": 16, "line": 811, "greek": "πρῶτʼ ἐλθὼν σὺν ὄχεσφι διδασκόμενος πολέμοιο·", "en": "though he came the first time with his chariot, still learning war."}
+{"book": 16, "line": 812, "greek": "ὅς τοι πρῶτος ἐφῆκε βέλος Πατρόκλεες ἱππεῦ", "en": "He it was who first sent a missile into you, Patroclus, horseman,"}
+{"book": 16, "line": 813, "greek": "οὐδὲ δάμασσʼ· ὃ μὲν αὖτις ἀνέδραμε, μίκτο δʼ ὁμίλῳ,", "en": "and did not break you; and he ran back and merged with the crowd,"}
+{"book": 16, "line": 814, "greek": "ἐκ χροὸς ἁρπάξας δόρυ μείλινον, οὐδʼ ὑπέμεινε", "en": "snatching the ash spear out of the wound — he did not stand"}
+{"book": 16, "line": 815, "greek": "Πάτροκλον γυμνόν περ ἐόντʼ ἐν δηϊοτῆτι.", "en": "against Patroclus, even unarmed as he was, in the combat."}
+{"book": 16, "line": 816, "greek": "Πάτροκλος δὲ θεοῦ πληγῇ καὶ δουρὶ δαμασθεὶς", "en": "And Patroclus, broken by the god's blow and the spear,"}
+{"book": 16, "line": 817, "greek": "ἂψ ἑτάρων εἰς ἔθνος ἐχάζετο κῆρʼ ἀλεείνων.", "en": "drew back into the band of his companions, dodging doom."}
+{"book": 16, "line": 818, "greek": "Ἕκτωρ δʼ ὡς εἶδεν Πατροκλῆα μεγάθυμον", "en": "But Hector, when he saw great-hearted Patroclus"}
+{"book": 16, "line": 819, "greek": "ἂψ ἀναχαζόμενον βεβλημένον ὀξέϊ χαλκῷ,", "en": "drawing back, wounded by the sharp bronze,"}
+{"book": 16, "line": 820, "greek": "ἀγχίμολόν ῥά οἱ ἦλθε κατὰ στίχας, οὖτα δὲ δουρὶ", "en": "came close on him through the ranks, and stabbed with his spear"}
+{"book": 16, "line": 821, "greek": "νείατον ἐς κενεῶνα, διὰ πρὸ δὲ χαλκὸν ἔλασσε·", "en": "into the pit of his belly, and drove the bronze clean through:"}
+{"book": 16, "line": 822, "greek": "δούπησεν δὲ πεσών, μέγα δʼ ἤκαχε λαὸν Ἀχαιῶν·", "en": "he fell with a thud, and hugely grieved the Achaean army."}
+{"book": 16, "line": 823, "greek": "ὡς δʼ ὅτε σῦν ἀκάμαντα λέων ἐβιήσατο χάρμῃ,", "en": "As a lion overpowers a tireless boar in combat"}
+{"book": 16, "line": 824, "greek": "ὥ τʼ ὄρεος κορυφῇσι μέγα φρονέοντε μάχεσθον", "en": "when the two fight, towering-hearted, on a mountain's peaks"}
+{"book": 16, "line": 825, "greek": "πίδακος ἀμφʼ ὀλίγης· ἐθέλουσι δὲ πιέμεν ἄμφω·", "en": "over a little spring, both set on drinking,"}
+{"book": 16, "line": 826, "greek": "πολλὰ δέ τʼ ἀσθμαίνοντα λέων ἐδάμασσε βίηφιν·", "en": "and the lion by main strength breaks the boar as he gasps:"}
+{"book": 16, "line": 827, "greek": "ὣς πολέας πεφνόντα Μενοιτίου ἄλκιμον υἱὸν", "en": "so the son of Menoetius, killer of many, was robbed"}
+{"book": 16, "line": 828, "greek": "Ἕκτωρ Πριαμίδης σχεδὸν ἔγχεϊ θυμὸν ἀπηύρα,", "en": "of his life at close quarters by Hector, Priam's son, with the spear;"}
+{"book": 16, "line": 829, "greek": "καί οἱ ἐπευχόμενος ἔπεα πτερόεντα προσηύδα·", "en": "and vaunting over him Hector spoke winged words:"}
+{"book": 16, "line": 830, "greek": "Πάτροκλʼ ἦ που ἔφησθα πόλιν κεραϊξέμεν ἁμήν,", "en": "\"Patroclus — no doubt you said you would raze our city,"}
+{"book": 16, "line": 831, "greek": "Τρωϊάδας δὲ γυναῖκας ἐλεύθερον ἦμαρ ἀπούρας", "en": "and take from the women of Troy the day of freedom,"}
+{"book": 16, "line": 832, "greek": "ἄξειν ἐν νήεσσι φίλην ἐς πατρίδα γαῖαν", "en": "and carry them off in your ships to your dear fatherland —"}
+{"book": 16, "line": 833, "greek": "νήπιε· τάων δὲ πρόσθʼ Ἕκτορος ὠκέες ἵπποι", "en": "fool! Before them the swift horses of Hector"}
+{"book": 16, "line": 834, "greek": "ποσσὶν ὀρωρέχαται πολεμίζειν· ἔγχεϊ δʼ αὐτὸς", "en": "stride full-stretch to the fighting; and I with my spear"}
+{"book": 16, "line": 835, "greek": "Τρωσὶ φιλοπτολέμοισι μεταπρέπω, ὅ σφιν ἀμύνω", "en": "am chosen out among the war-loving Trojans, I who beat off"}
+{"book": 16, "line": 836, "greek": "ἦμαρ ἀναγκαῖον· σὲ δέ τʼ ἐνθάδε γῦπες ἔδονται.", "en": "the day of necessity for them. But you — the vultures will eat you here."}
+{"book": 16, "line": 837, "greek": "ἆ δείλʼ, οὐδέ τοι ἐσθλὸς ἐὼν χραίσμησεν Ἀχιλλεύς,", "en": "Poor wretch: not even Achilles, brave as he is, was any use to you,"}
+{"book": 16, "line": 838, "greek": "ὅς πού τοι μάλα πολλὰ μένων ἐπετέλλετʼ ἰόντι·", "en": "who stayed behind, I suppose, and gave you strict orders as you left:"}
+{"book": 16, "line": 839, "greek": "μή μοι πρὶν ἰέναι Πατρόκλεες ἱπποκέλευθε", "en": "'Do not come back to me, Patroclus, master of horses,"}
+{"book": 16, "line": 840, "greek": "νῆας ἔπι γλαφυρὰς πρὶν Ἕκτορος ἀνδροφόνοιο", "en": "back to the hollow ships, before you have torn the bloody"}
+{"book": 16, "line": 841, "greek": "αἱματόεντα χιτῶνα περὶ στήθεσσι δαΐξαι.", "en": "tunic around the chest of man-slaughtering Hector.'"}
+{"book": 16, "line": 842, "greek": "ὥς πού σε προσέφη, σοὶ δὲ φρένας ἄφρονι πεῖθε.", "en": "So he must have talked to you — and persuaded your witless heart.\""}
+{"book": 16, "line": 843, "greek": "τὸν δʼ ὀλιγοδρανέων προσέφης Πατρόκλεες ἱππεῦ·", "en": "And with the little strength left you, you answered, Patroclus, horseman:"}
+{"book": 16, "line": 844, "greek": "ἤδη νῦν Ἕκτορ μεγάλʼ εὔχεο· σοὶ γὰρ ἔδωκε", "en": "\"Boast your fill now, Hector. Yours is the victory —"}
+{"book": 16, "line": 845, "greek": "νίκην Ζεὺς Κρονίδης καὶ Ἀπόλλων, οἵ με δάμασσαν", "en": "given by Zeus, the son of Cronos, and by Apollo: they broke me"}
+{"book": 16, "line": 846, "greek": "ῥηιδίως· αὐτοὶ γὰρ ἀπʼ ὤμων τεύχεʼ ἕλοντο.", "en": "easily; for they themselves took the armor from my shoulders."}
+{"book": 16, "line": 847, "greek": "τοιοῦτοι δʼ εἴ πέρ μοι ἐείκοσιν ἀντεβόλησαν,", "en": "Twenty men like you could have come against me,"}
+{"book": 16, "line": 848, "greek": "πάντές κʼ αὐτόθʼ ὄλοντο ἐμῷ ὑπὸ δουρὶ δαμέντες.", "en": "and all of them would have died here, broken under my spear."}
+{"book": 16, "line": 849, "greek": "ἀλλά με μοῖρʼ ὀλοὴ καὶ Λητοῦς ἔκτανεν υἱός,", "en": "No — deadly fate has killed me, and Leto's son,"}
+{"book": 16, "line": 850, "greek": "ἀνδρῶν δʼ Εὔφορβος· σὺ δέ με τρίτος ἐξεναρίζεις.", "en": "and of men, Euphorbus. You are only the third at my stripping."}
+{"book": 16, "line": 851, "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·", "en": "And I will tell you another thing — lay it away in your mind:"}
+{"book": 16, "line": 852, "greek": "οὔ θην οὐδʼ αὐτὸς δηρὸν βέῃ, ἀλλά τοι ἤδη", "en": "you yourself have no long life left. Already"}
+{"book": 16, "line": 853, "greek": "ἄγχι παρέστηκεν θάνατος καὶ μοῖρα κραταιὴ", "en": "death stands close beside you, and fate the overpowering:"}
+{"book": 16, "line": 854, "greek": "χερσὶ δαμέντʼ Ἀχιλῆος ἀμύμονος Αἰακίδαο.", "en": "you will be broken under the hands of Achilles, Aeacus' blameless son.\""}
+{"book": 16, "line": 855, "greek": "ὣς ἄρα μιν εἰπόντα τέλος θανάτοιο κάλυψε·", "en": "Even as he spoke, the end that is death covered him;"}
+{"book": 16, "line": 856, "greek": "ψυχὴ δʼ ἐκ ῥεθέων πταμένη Ἄϊδος δὲ βεβήκει", "en": "and his soul, flying from his limbs, went down to the house of Hades,"}
+{"book": 16, "line": 857, "greek": "ὃν πότμον γοόωσα λιποῦσʼ ἀνδροτῆτα καὶ ἥβην.", "en": "wailing its fate, leaving its manhood and its youth."}
+{"book": 16, "line": 858, "greek": "τὸν καὶ τεθνηῶτα προσηύδα φαίδιμος Ἕκτωρ·", "en": "And glorious Hector spoke to him — though he was dead:"}
+{"book": 16, "line": 859, "greek": "Πατρόκλεις τί νύ μοι μαντεύεαι αἰπὺν ὄλεθρον;", "en": "\"Patroclus — why prophesy my sheer destruction?"}
+{"book": 16, "line": 860, "greek": "τίς δʼ οἶδʼ εἴ κʼ Ἀχιλεὺς Θέτιδος πάϊς ἠϋκόμοιο", "en": "Who knows whether Achilles, the son of lovely-haired Thetis,"}
+{"book": 16, "line": 861, "greek": "φθήῃ ἐμῷ ὑπὸ δουρὶ τυπεὶς ἀπὸ θυμὸν ὀλέσσαι;", "en": "may not be hit first by my spear, and lose his own life?\""}
+{"book": 16, "line": 862, "greek": "ὣς ἄρα φωνήσας δόρυ χάλκεον ἐξ ὠτειλῆς", "en": "So speaking, he set his heel on him and drew the bronze spear"}
+{"book": 16, "line": 863, "greek": "εἴρυσε λὰξ προσβάς, τὸν δʼ ὕπτιον ὦσʼ ἀπὸ δουρός.", "en": "out of the wound, and shoved him backward off the spear."}
+{"book": 16, "line": 864, "greek": "αὐτίκα δὲ ξὺν δουρὶ μετʼ Αὐτομέδοντα βεβήκει", "en": "And at once he went with the spear after Automedon,"}
+{"book": 16, "line": 865, "greek": "ἀντίθεον θεράποντα ποδώκεος Αἰακίδαο·", "en": "the godlike aide of the swift-footed son of Aeacus —"}
+{"book": 16, "line": 866, "greek": "ἵετο γὰρ βαλέειν· τὸν δʼ ἔκφερον ὠκέες ἵπποι", "en": "hot to strike him; but the swift horses carried him away,"}
+{"book": 16, "line": 867, "greek": "ἄμβροτοι, οὓς Πηλῆϊ θεοὶ δόσαν ἀγλαὰ δῶρα.", "en": "the immortal horses the gods gave Peleus as shining gifts."}

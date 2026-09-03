@@ -1,0 +1,882 @@
+BOOK 14
+
+The Deception of Zeus: Hera borrows the girdle of Aphrodite, buys
+Sleep with a Grace, and Zeus sleeps on Gargaron while the sea-god
+turns the battle.
+
+TRANSLATOR'S COMMENTARY
+
+The Dios Apatē — the Deception of Zeus — is the Iliad's great comic
+interlude, and its comedy is engineering: every scene is a tool
+fetched for the next. Hera sees Poseidon working the lines and Zeus
+sitting on Ida (153-158); what follows is a bathing and dressing
+scene built exactly like an arming scene (note [9]); a lie to
+Aphrodite that borrows the deep past — Oceanus "begetting of the
+gods" and mother Tethys quarreling — as cover story (note [10]);
+the loan of the kestos, the embroidered band that holds "love, and
+desire, and the trysting-talk — persuasion, that steals the wits
+even of the close-thinkers," a line Aristotle quoted (note [10]);
+the recruitment of Sleep, who once before put Zeus under for Hera's
+sake and barely survived it — saved only by Night, "subduer of gods
+and men," the one power Zeus fears to displease (note [12]); and the
+payment, negotiated upward from golden furniture to a Grace, sworn
+by Styx with one hand on the earth and one on the shining sea, the
+Titans under Tartarus called to witness (note [13]).
+
+The seduction itself is the poem at its most audaciously funny —
+Zeus woos his wife with a catalogue of seven prior conquests,
+mothers and offspring itemized, ending "not even you yourself, as I
+love you now" (317-328; ancient critics athetized the whole list as
+indecorous, note [16]) — and then, without warning, at its most
+beautiful: the golden cloud, and the earth flowering beneath them,
+"dewy lotus, and crocus, and hyacinth, thick and soft, that held
+them up off the ground" — the sacred marriage older than the
+comedy, glittering dew falling from the cloud (note [18]). Zeus
+sleeps; Sleep runs to Poseidon; and the last third of the book is
+the counterattack the nap purchases: the armor sorted by size to
+the men who can use it, Ajax's boulder spinning Hector "like a top"
+and putting him, vomiting blood, out of the poem until Zeus wakes,
+and a chain of vaunts — grief answering grief — that ends with
+Ilioneus's head raised on a spear "like a poppy-head," the poem's
+own earlier poppy (8.306) grown monstrous (note [29]).
+
+Our printed Greek lacks line 269 — the naming of Pasithea in Hera's
+offer, an addition in only part of the tradition; the numbering
+jumps 268 to 270, the line is translated in note [13], and Sleep
+names her anyway at 276: the third transmission-gap this project
+reproduces (with 9.458-461 and 11.543). Register notes: 14.82-83
+reuse 4.349-350 verbatim ("the fence of your teeth"); 14.508 reuses
+the fixed Muse-invocation; the ford-of-Xanthus formula (433-434) is
+laid down for reuse at 21.1-2.
+
+------------------------------------------------------------
+
+   1  But the war-cry did not escape Nestor, drinking though he was:[1]
+   2  he spoke winged words to Asclepius' son:
+   3  "Consider, brilliant Machaon, how these things will go:
+   4  the cry of the strong young men is louder by the ships.
+   5  You sit here now and drink the fire-bright wine
+   6  until lovely-braided Hecamede has heated
+   7  a warm bath, and washed away the clotted blood;
+   8  I will go out to a lookout point and quickly learn the truth."
+   9  So speaking he took up the well-made shield of his son,
+  10  horse-taming Thrasymedes, that lay in the hut
+  11  all glittering with bronze — the son had his father's shield —
+  12  and took up a stout spear, edged with sharp bronze,
+  13  and stood outside the hut, and at once saw ugly work:
+  14  his own men being driven, and the high-hearted Trojans
+  15  hounding them from behind; and the Achaeans' wall was down.
+  16  As when the great open sea darkens with soundless swell,[2]
+  17  boding the quick paths of the shrill winds —
+  18  only boding: it neither rolls forward nor to either side,
+  19  until some deciding blast comes down from Zeus:
+  20  so the old man weighed it, his heart torn two ways —
+  21  to go into the crowd of the swift-colted Danaans,
+  22  or after Atreus' son Agamemnon, shepherd of the people.
+  23  And as he weighed it, this seemed to him the better course:
+  24  to go to Atreus' son. Meanwhile the others went on killing
+  25  one another as they fought; and the unwearying bronze rang
+  26  about their bodies, stabbed with swords and double-curved spears.
+  27  And the Zeus-nurtured kings fell in with Nestor,
+  28  coming up from the ships — all who had been hit by the bronze,
+  29  Tydeus' son, and Odysseus, and Atreus' son Agamemnon.[3]
+  30  For their ships were drawn up far away from the fighting
+  31  on the beach of the grey sea: those had been hauled first,
+  32  up toward the plain, and the wall was built by the sterns.
+  33  For the beach, wide as it was, could not hold all
+  34  the ships, and the armies were cramped for room;
+  35  so they had drawn them up in tiers, and filled the whole
+  36  long mouth of the shore, all the headlands penned between.
+  37  So the kings, wanting to see the battle and the war-cry,
+  38  came up together leaning on their spears; and the heart
+  39  in each man's chest was grieved. And the old man met them,
+  40  Nestor — and the heart in the Achaeans' chests went cold.
+  41  And the lord Agamemnon called to him and spoke:
+  42  "Nestor, Neleus' son, great glory of the Achaeans,
+  43  why have you left the man-destroying war and come here?
+  44  I fear massive Hector may make good the word he spoke
+  45  when he threatened us once, haranguing the Trojans:
+  46  that he would not go back from the ships to Ilion
+  47  until he had burned the ships with fire and killed the men.
+  48  So that man talked; and now it is all coming to pass.
+  49  Shame! — surely the other strong-greaved Achaeans too
+  50  are storing anger against me in their hearts, like Achilles,
+  51  and have no will to fight by the sterns of the ships."
+  52  Then answered him the Gerenian horseman Nestor:
+  53  "Yes — all this stands accomplished before us, and not even
+  54  Zeus who thunders on high could build it otherwise now.
+  55  For the wall is down — the wall we trusted
+  56  to be an unbreakable shield for the ships and for ourselves;
+  57  and the enemy at the swift ships keep up their relentless
+  58  battle without pause. You could no longer tell, however hard
+  59  you studied it, from which side the Achaeans are being driven:
+  60  so mixed is the killing; and the clamor goes up to heaven.
+  61  Let us take thought how these things will go —
+  62  if thought can do anything. But I do not counsel
+  63  that we enter the fighting: a wounded man cannot fight."
+  64  Then the lord of men Agamemnon answered him:
+  65  "Nestor — since they are fighting by the sterns of the ships,
+  66  and the built wall was no use, nor the ditch,
+  67  though the Danaans suffered so much for it, and hoped in their hearts
+  68  it would be an unbreakable shield for the ships and for ourselves —
+  69  Such, it seems, must be the pleasure of overmastering Zeus:
+  70  that the Achaeans perish here, nameless, far from Argos.
+  71  I knew it when he defended the Danaans with a will,
+  72  and I know it now, when he glorifies our enemies
+  73  like the blessed gods, and has bound our fury and our hands.
+  74  Come then — as I say it, let us all obey:
+  75  the ships that are drawn up nearest the sea —
+  76  let us drag them down and haul them all to the bright water,
+  77  and moor them riding high at anchor-stones, until
+  78  the deathless night comes — if even by night the Trojans
+  79  will hold off from war; and then we might haul down every ship.
+  80  There is no shame in fleeing ruin, not even by night.
+  81  Better a man who flees and escapes the evil than one who is caught."
+  82  Glaring at him darkly, resourceful Odysseus answered:
+  83  "Son of Atreus — what a word has escaped the fence of your teeth![4]
+  84  Ruinous man! I wish you commanded some other army,
+  85  a shabby one — not that you were lord over us, for whom Zeus
+  86  has given it, from youth right down to old age,
+  87  to wind the skein of hard wars, till we perish every one.
+  88  Is this how you long to leave the wide-wayed city
+  89  of the Trojans, for which we have suffered so much misery?
+  90  Silence! — before some other Achaean hears this word,
+  91  which no man should so much as bring through his mouth,
+  92  no man whose heart knows how to speak what is fitting,
+  93  no sceptered king whom armies obey —
+  94  armies as many as the Argives you rule.
+  95  This time I scorn your judgment outright — such a thing to say!
+  96  You tell us, with the war standing joined and the shouting up,
+  97  to haul the well-benched ships to the sea, so that the Trojans
+  98  can have still more of their prayers, winning as they already are,
+  99  and sheer destruction tip its beam onto us. For the Achaeans
+ 100  will not hold their battle while the ships are dragged seaward:
+ 101  they will look back over their shoulders and drop out of the fighting.
+ 102  Then, marshal of the people, your counsel will have wrecked us."
+ 103  Then the lord of men Agamemnon answered him:
+ 104  "Odysseus — you have caught me hard, straight to the heart,
+ 105  with that grim rebuke. I do not order the sons of the Achaeans
+ 106  to haul the well-benched ships to the sea against their will.
+ 107  Now let there be a man with better counsel than mine —
+ 108  young or old — and I would welcome him gladly."
+ 109  And among them spoke Diomedes, good at the war-cry:
+ 110  "The man is here — we need not search for long — if you are willing
+ 111  to listen, and each of you does not bristle with resentment
+ 112  because by birth I am the youngest among you.
+ 113  I too claim my descent from a noble father,
+ 114  Tydeus, whom the heaped earth covers now at Thebes.[5]
+ 115  For to Portheus three blameless sons were born,
+ 116  and they lived in Pleuron and steep Calydon:
+ 117  Agrius, and Melas, and the third was the horseman Oeneus,
+ 118  my father's father — in valor the best of them.
+ 119  Oeneus stayed there; but my father settled at Argos,
+ 120  a wanderer: so, I suppose, Zeus and the other gods willed it.
+ 121  He married a daughter of Adrastus, and lived in a house
+ 122  rich in substance: he had wheat-bearing fields enough,
+ 123  and many orchards of trees stood round about,
+ 124  and he had flocks in plenty; and he surpassed all the Achaeans
+ 125  with the spear. You will have heard all this — that it is true.
+ 126  So you cannot say my stock is base and cowardly
+ 127  and dishonor the word I speak, if I speak it well.
+ 128  Come: let us go to the battle, wounded as we are. We must.
+ 129  There, let us hold ourselves out of the combat,
+ 130  beyond spear-cast, lest anyone take wound upon wound;
+ 131  but the others we will drive in and send to it — those who before,
+ 132  indulging their tempers, have stood apart and would not fight."
+ 133  So he spoke; and they heard him well, and obeyed,
+ 134  and set off; and the lord of men Agamemnon led them.
+ 135  But the famed earth-shaker kept no blind man's watch:
+ 136  he came after them in the likeness of an old man,[6]
+ 137  and took the right hand of Agamemnon, Atreus' son,
+ 138  and speaking winged words he addressed him:
+ 139  "Son of Atreus — now, I think, Achilles' ruinous heart
+ 140  is rejoicing in his chest, watching the slaughter
+ 141  and the rout of the Achaeans; for there is no sense in him, none.
+ 142  Well — let him perish just so; may a god strike him lame.
+ 143  But with you the blessed gods are not yet wholly angry:
+ 144  the day is coming, I think, when the leaders and lords of the Trojans
+ 145  will raise the dust of the wide plain, and you yourself will watch them
+ 146  running for the city, away from the ships and the huts."
+ 147  So speaking he gave a great shout, and swept off across the plain.
+ 148  as loud as nine thousand men, or ten thousand,
+ 149  cry out in war when they join the strife of the war-god,
+ 150  so great was the voice the lord earth-shaker sent
+ 151  out of his chest; and into each Achaean's heart he threw
+ 152  great strength, to war and fight without ceasing.[7]
+ 153  Now Hera of the golden throne looked out and saw them,
+ 154  standing on her peak of Olympus; and at once she knew
+ 155  her own brother — her husband's brother too — bustling
+ 156  through the battle where men win glory, and her heart was glad;
+ 157  and she saw Zeus, seated on the topmost peak
+ 158  of Ida of the many springs, and he was hateful to her heart.
+ 159  Then ox-eyed lady Hera fell to pondering
+ 160  how she might trick the mind of aegis-bearing Zeus;[8]
+ 161  and this to her mind seemed the best counsel:
+ 162  to array herself with care and go to Ida —
+ 163  in hope that he might desire to lie in love
+ 164  against her body, and she might pour a sleep, harmless and warm,
+ 165  over his eyelids and over his close counsels.
+ 166  She went to her chamber, which her dear son Hephaestus
+ 167  had built her, fitting the close doors to their posts
+ 168  with a secret bolt no other god could open.
+ 169  There she went in, and closed the shining doors.
+ 170  With ambrosia first she washed from her desirable body
+ 171  every stain, and anointed herself with rich oil,
+ 172  ambrosial, soft, and scented for her especially:
+ 173  if it were so much as stirred in the bronze-floored house of Zeus,
+ 174  its breath reached earth and heaven alike.
+ 175  With this she anointed her fair body, and combed her hair,
+ 176  and with her own hands plaited the shining braids,
+ 177  beautiful, ambrosial, streaming from her immortal head.
+ 178  And she put on the ambrosial robe that Athena
+ 179  had smoothed and worked for her, and set with many figures,
+ 180  and pinned it across her breast with brooches of gold.
+ 181  She belted it with a girdle hung with a hundred tassels,
+ 182  and in her pierced earlobes she hung the earrings,
+ 183  three-dropped, mulberry-dark; and great grace shone from her.
+ 184  And over all, brilliant among goddesses, she veiled herself
+ 185  in a headdress lovely and new, white as the sun,
+ 186  and beneath her shining feet she bound fair sandals.[9]
+ 187  And when she had set all this adornment about her body,
+ 188  she went from the chamber, and calling Aphrodite
+ 189  apart from the other gods she spoke her word:
+ 190  "Would you do something for me, dear child, if I ask it?
+ 191  Or will you refuse me, holding it against me in your heart
+ 192  that I defend the Danaans, and you the Trojans?"
+ 193  Then Aphrodite, daughter of Zeus, answered her:
+ 194  "Hera, eldest goddess, daughter of great Cronos,
+ 195  say what is in your mind. My heart bids me do it,
+ 196  if do it I can — if it is a thing that can be done."
+ 197  And with guile in her heart the lady Hera answered:
+ 198  "Give me now love, and desire — the power with which
+ 199  you master all the immortals, and mortal men.
+ 200  For I am going to the ends of the generous earth, to see
+ 201  Oceanus, the begetting of the gods, and mother Tethys,
+ 202  who reared me well in their own halls and cherished me,
+ 203  taking me from Rhea, when wide-seeing Zeus put Cronos
+ 204  down beneath the earth and the barren sea.
+ 205  I go to see them, and to loose their endless quarrel:
+ 206  for a long time now they have held apart from one another,
+ 207  from bed and from love, since anger fell upon their hearts.
+ 208  If with words I could persuade those two dear hearts,
+ 209  and bring them back to their bed, to be joined in love,
+ 210  forever I would be called dear to them, and revered."
+ 211  Then laughter-loving Aphrodite answered her:
+ 212  "It cannot be, and it would not be right, to refuse your word:
+ 213  you sleep in the arms of Zeus, and Zeus is highest."
+ 214  She spoke, and loosed from her breast the pierced band,
+ 215  embroidered, where all her enchantments lie worked:
+ 216  in it is love, in it desire, in it the trysting-talk —
+ 217  persuasion, that steals the wits even of the close-thinkers.[10]
+ 218  She put it in her hands, and spoke a word, and named her:
+ 219  "There: take this band and put it away in the fold
+ 220  of your breast — embroidered: everything is worked into it. And I tell you
+ 221  you will not come back unaccomplished, whatever your heart intends."
+ 222  So she spoke; and ox-eyed lady Hera smiled,
+ 223  and smiling put it away in the fold of her breast.
+ 224  Then Aphrodite, daughter of Zeus, went to the house,
+ 225  and Hera in one spring left the peak of Olympus,
+ 226  and touching down on Pieria and lovely Emathia[11]
+ 227  swept over the snowy mountains of the horse-herding
+ 228  Thracians, over their topmost summits, nor grazed the ground with her feet;
+ 229  from Athos she stepped out over the heaving sea
+ 230  and came to Lemnos, city of godlike Thoas.
+ 231  There she met Sleep, the brother of Death,[12]
+ 232  and clung to his hand, and spoke a word, and named him:
+ 233  "Sleep, lord of all gods and of all men —
+ 234  as once before you heard my word, so now again
+ 235  obey me; and I will owe you thanks all my days.
+ 236  Put Zeus's shining eyes to sleep for me beneath his brows,
+ 237  the moment I have lain beside him in love.
+ 238  And I will give you gifts: a fair throne, imperishable forever,
+ 239  golden, which my own son Hephaestus the crook-footed
+ 240  will make with all his craft; and under it he will set a footstool
+ 241  where you can rest your shining feet at the feast."
+ 242  And answering her spoke sweet Sleep:
+ 243  "Hera, eldest goddess, daughter of great Cronos,
+ 244  any other of the gods, the everlasting-born,
+ 245  I would easily put under — even the streams of the river
+ 246  Oceanus, who is the begetting of them all;
+ 247  but Zeus, the son of Cronos — I would not come near him,
+ 248  much less put him to sleep, unless he himself commanded.
+ 249  For once before now a command of yours taught me my lesson,
+ 250  the day when that high-hearted son of Zeus
+ 251  sailed from Ilion, having sacked the Trojans' city.
+ 252  I laid the mind of aegis-bearing Zeus asleep,
+ 253  poured sweet about him; and you devised evils in your heart,
+ 254  rousing the blasts of punishing winds over the sea,
+ 255  and carried Heracles away to well-peopled Cos,
+ 256  far from all his friends. And Zeus, waking, was furious,
+ 257  hurling gods this way and that through the house; and me above all
+ 258  he hunted, and would have flung me from the sky into the sea, gone forever,
+ 259  had Night not saved me — Night, subduer of gods and men.
+ 260  To her I came running; and he checked himself, for all his anger:
+ 261  he stood in awe of doing what swift Night would hate.
+ 262  And now you ask me to do this other impossible thing."
+ 263  Then ox-eyed lady Hera answered him:
+ 264  "Sleep, why do you brood on such things in your heart?
+ 265  Do you think wide-seeing Zeus will rage for the Trojans
+ 266  as he raged that time over Heracles, his own son?
+ 267  Come — I will give you one of the younger Graces:
+ 268  marry her, and let her be called your wife."
+      [Line 269 is absent from the printed text; see note 13.]
+ 270  So she spoke; and Sleep was delighted, and answered her:[13]
+ 271  "Swear to me now by the inviolable water of Styx —
+ 272  lay one hand on the earth that feeds so many,
+ 273  and the other on the shining sea, so that all may be
+ 274  witnesses between us, the gods below with Cronos —
+ 275  that you will truly give me one of the younger Graces:
+ 276  Pasithea, whom I myself have longed for all my days."
+ 277  So he spoke, and the goddess white-armed Hera did not refuse:
+ 278  she swore as he commanded, and named all the gods
+ 279  under Tartarus, who are called the Titans.
+ 280  And when she had sworn and brought the oath to completion,
+ 281  the two of them left the towns of Lemnos and Imbros,
+ 282  clothed in mist, and made their road swiftly.
+ 283  They came to Ida of the many springs, mother of wild things,
+ 284  to Lecton, where they first left the sea; and over dry land
+ 285  they went, and the treetops shook beneath their feet.
+ 286  There Sleep halted, before the eyes of Zeus could see him,
+ 287  climbing into a towering fir, the tallest
+ 288  then grown on Ida, that reached through the mist to the upper air.
+ 289  There he perched, hidden close in the fir boughs,
+ 290  in the likeness of the clear-voiced mountain bird
+ 291  the gods call chalkis, and men call kymindis.[14]
+ 292  But Hera went quickly on up to Gargaron peak
+ 293  on lofty Ida; and Zeus the cloud-gatherer saw her.
+ 294  And the moment he saw her, desire wrapped his close mind round,
+ 295  as on the day they first mingled in love,
+ 296  going to the bed again and again behind their dear parents' backs.[15]
+ 297  He stood before her, and spoke a word, and named her:
+ 298  "Hera — where are you rushing, that you come down from Olympus
+ 299  like this — with no horses near, no chariot to mount?"
+ 300  And with guile in her heart the lady Hera answered:
+ 301  "I am going to the ends of the generous earth, to see
+ 302  Oceanus, the begetting of the gods, and mother Tethys,
+ 303  who reared me well in their own halls and cherished me;
+ 304  I go to see them, and to loose their endless quarrel:
+ 305  for a long time now they have held apart from one another,
+ 306  from bed and from love, since anger fell upon their hearts.
+ 307  My horses stand at the foot of Ida of the many springs,
+ 308  ready to carry me over dry land and water both.
+ 309  It is on your account I have come down from Olympus now —
+ 310  so that you would not be angry with me afterward, if I went
+ 311  in silence to the house of deep-flowing Oceanus."
+ 312  Answering her spoke Zeus the cloud-gatherer:
+ 313  "Hera — you can set out for there later just as well.
+ 314  Come, let the two of us go to bed, and turn to love.
+ 315  For never has desire for goddess or for woman
+ 316  so flooded and mastered the heart inside my chest —
+ 317  not when I loved Ixion's wife,[16]
+ 318  who bore Peirithous, the equal of the gods in counsel;
+ 319  nor Danaë of the lovely ankles, Acrisius' daughter,
+ 320  who bore Perseus, most admired of all men;
+ 321  nor the daughter of far-famed Phoenix,
+ 322  who bore me Minos and godlike Rhadamanthys;
+ 323  nor Semele, nor Alcmene in Thebes —
+ 324  and she bore Heracles, my strong-hearted son,
+ 325  while Semele bore Dionysus, a joy to mortals;
+ 326  nor when I loved the lady Demeter of the lovely braids,
+ 327  nor glorious Leto — no, nor you yourself:
+ 328  none as I love you now, and sweet desire takes hold of me."
+ 329  And with guile in her heart the lady Hera answered:
+ 330  "Most dread son of Cronos, what a word you have spoken![17]
+ 331  If now you long to lie down in love
+ 332  on the peaks of Ida, where everything stands open to view —
+ 333  how would it be if some one of the everlasting gods
+ 334  saw us asleep, and going among all the gods
+ 335  told them? I could not rise from that bed and simply
+ 336  walk home to your house; it would be a scandal.
+ 337  But if you will — if that is truly your heart's pleasure —
+ 338  you have a chamber, which your dear son Hephaestus
+ 339  built you, fitting the close doors to their posts:
+ 340  let us go and lie there, since the bed is your desire."
+ 341  Answering her spoke Zeus the cloud-gatherer:
+ 342  "Hera, have no fear that any god or man
+ 343  will see: such a cloud will I wrap around us,
+ 344  a golden one. Not even Helios could spy us through it,
+ 345  and his light is the sharpest sight there is."
+ 346  He spoke, and the son of Cronos caught his wife in his arms;
+ 347  and beneath them the bright earth put out fresh grass,
+ 348  and dewy lotus, and crocus, and hyacinth,
+ 349  thick and soft, that held them up off the ground.
+ 350  In that they lay together, and drew over them a cloud,
+ 351  fair and golden; and glittering dew-drops fell away from it.[18]
+ 352  So the father slept, unmoving, on Gargaron peak,
+ 353  broken by sleep and love, his wife in his arms;
+ 354  and sweet Sleep set off at a run for the ships of the Achaeans
+ 355  to bring the word to the holder of the earth, the earth-shaker.
+ 356  Standing close, he spoke winged words to him:
+ 357  "Now, Poseidon, help the Danaans with a will,[19]
+ 358  and hand them the glory — at least a little while, while Zeus
+ 359  still sleeps; for I have wrapped him in a soft daze,
+ 360  and Hera has tricked him into bed, into love."
+ 361  So speaking he went off toward the famed tribes of men;
+ 362  and Poseidon, stirred still more to defend the Danaans,
+ 363  sprang far out among the foremost at once, and called:
+ 364  "Argives! Are we to concede the victory again to Hector,
+ 365  Priam's son — let him take the ships and win the glory?
+ 366  That is his own claim and his boast, because Achilles
+ 367  sits by the hollow ships with anger in his heart.
+ 368  But Achilles will not be missed so very much
+ 369  if the rest of us rouse ourselves to defend each other.
+ 370  Come then — as I say it, let us all obey:
+ 371  let us dress ourselves in the biggest and best shields
+ 372  in the army, and hide our heads in helmets
+ 373  blazing all over, and take the longest spears in our hands,
+ 374  and go. And I will lead; and I say Hector, Priam's son,
+ 375  will not stand us, however hot he burns.
+ 376  And whatever staunch fighter has a small shield at his shoulder,
+ 377  let him give it to a worse man, and get into a bigger."[20]
+ 378  So he spoke; and they heard him well, and obeyed.
+ 379  And the kings themselves, wounded as they were, marshaled them —
+ 380  Tydeus' son, and Odysseus, and Atreus' son Agamemnon —
+ 381  and going down the whole line they made the exchange of war-gear:
+ 382  the good man got into good armor, and gave the worse to the worse.
+ 383  And when they had clothed their bodies in the flashing bronze
+ 384  they set out; and Poseidon the earth-shaker led them,
+ 385  holding in his heavy hand a terrible thin-edged sword
+ 386  like a lightning-flash — a thing no man may meet
+ 387  in the grim combat: dread holds men back from it.[21]
+ 388  And on the other side glorious Hector marshaled the Trojans.
+ 389  Then it was that they stretched the most terrible strife of war,
+ 390  blue-maned Poseidon and glorious Hector,
+ 391  one defending the Trojans, the other the Argives;
+ 392  and the sea washed up to the huts and ships
+ 393  of the Argives, and the armies met with a great war-shout.
+ 394  Not so loud does the sea's wave roar against the land,[22]
+ 395  driven up out of open water by the hard North Wind;
+ 396  not so loud the bellow of blazing fire
+ 397  in mountain glens, when it rises to burn the timber;
+ 398  not so loud the wind through the high-crowned oaks —
+ 399  the wind at its loudest, when its rage is up and roaring —
+ 400  as the voice of Trojans and Achaeans then,
+ 401  crying terror, when they sprang upon each other.
+ 402  At Ajax first glorious Hector cast
+ 403  his spear, as Ajax stood turned full toward him, and did not miss:
+ 404  he hit where the two straps lay stretched across the chest,
+ 405  one for the shield, one for the silver-studded sword;
+ 406  the two of them saved the soft flesh. And Hector was angered
+ 407  that his swift missile had flown from his hand in vain,
+ 408  and drew back into the band of his companions, dodging doom.
+ 409  But as he went back, great Telamonian Ajax
+ 410  took up a stone — one of the many that rolled there
+ 411  under the fighters' feet, props for the swift ships —
+ 412  and struck his chest, over the shield-rim, close to the neck,
+ 413  and set him spinning like a top with the blow: he reeled full circle.[23]
+ 414  As when an oak goes down under the stroke of father Zeus,
+ 415  torn out by the roots, and the terrible smell of sulphur
+ 416  rises off it, and courage fails whoever sees it
+ 417  from close by — for hard is the bolt of great Zeus:
+ 418  so Hector's fury dropped in an instant to the dust.
+ 419  His hand let go the spear, and shield and helmet
+ 420  crumpled down on him, and his armor, intricate with bronze, clashed about him.
+ 421  With a great shout the sons of the Achaeans ran in,
+ 422  hoping to drag him off, and hurled their spears
+ 423  thick and fast; but no one could wound the shepherd of the people
+ 424  with thrust or throw: before that, the best men ringed him round —
+ 425  Polydamas, and Aeneas, and brilliant Agenor,
+ 426  and Sarpedon, leader of the Lycians, and blameless Glaucus;
+ 427  and of the rest not one neglected him, but they held
+ 428  their round shields before him. And his companions
+ 429  lifted him in their arms and carried him out of the toil,
+ 430  until they reached his swift horses, which stood behind
+ 431  the battle and the fighting with their charioteer and the intricate chariot;
+ 432  these carried him toward the city, groaning heavily.
+ 433  But when they came to the ford of the fair-flowing river,[24]
+ 434  eddying Xanthus, whom immortal Zeus begot,
+ 435  there they laid him from the chariot onto the ground, and poured
+ 436  water over him; and he got his breath, and looked up with his eyes,
+ 437  and sitting on his knees he vomited dark blood;
+ 438  then sank back again to the ground, and both his eyes
+ 439  were covered in black night: the blow still broke his spirit.
+ 440  And the Argives, when they saw Hector going off,
+ 441  leapt at the Trojans all the harder, and remembered their war-craft.
+ 442  There first of all the swift Ajax, Oïleus' son,
+ 443  sprang in and wounded Satnius with his sharp-pointed spear —
+ 444  Enops's son, whom the blameless naiad nymph bore
+ 445  to Enops as he herded by the banks of Satnioeis.[25]
+ 446  Oïleus' spear-famed son came close and stabbed him
+ 447  in the flank; he tumbled backward, and around him
+ 448  Trojans and Danaans joined the strong encounter.
+ 449  Polydamas the spear-shaker came to avenge him,
+ 450  Panthous's son, and hit Prothoenor, Areïlycus's son,
+ 451  in the right shoulder; through the shoulder the massive spear
+ 452  drove; and falling in the dust he clutched the earth in his palm.
+ 453  And Polydamas vaunted terribly over him, crying far:
+ 454  "There — again! From the massive hand of the great-hearted
+ 455  son of Panthous the javelin did not leap in vain:
+ 456  one of the Argives caught it in his flesh; and I think
+ 457  he will lean on it for a staff as he walks down into Hades."[26]
+ 458  So he spoke, and grief came over the Argives at his vaunting,
+ 459  and most of all he stirred the heart of war-minded Ajax,
+ 460  Telamon's son — for the man fell closest to him.
+ 461  Quickly he cast at the other with his shining spear as he drew back.
+ 462  Polydamas himself escaped black doom,
+ 463  springing aside; but Antenor's son Archelochus
+ 464  caught it — for the gods had counseled his destruction.
+ 465  It struck him where head and neck join,
+ 466  at the topmost bone of the spine, and sheared both tendons through;
+ 467  and his head and mouth and nostrils hit the ground
+ 468  long before his shins and knees, as he fell.[27]
+ 469  And Ajax in his turn called out to blameless Polydamas:
+ 470  "Think it over, Polydamas, and tell me truly:
+ 471  is this man not a worthy exchange for Prothoenor
+ 472  dead? He seems to me no base man, of no base line:
+ 473  a brother of horse-taming Antenor,
+ 474  or a son — the family look sits close upon him."
+ 475  He spoke knowing it well; and grief seized the Trojans' hearts.
+ 476  Then Acamas, standing over his brother, wounded with the spear
+ 477  Promachus the Boeotian, who was hauling the body by the feet.
+ 478  And Acamas vaunted terribly over him, crying far:
+ 479  "Argives — arrow-braggarts — never sated with threats![28]
+ 480  Not for us alone, I promise you, the toil
+ 481  and the misery: you too will be killed like this, in your turn.
+ 482  Look how your Promachus sleeps, beaten down
+ 483  by my spear — so my brother's blood-price should not go
+ 484  long unpaid. That is why a man prays for a kinsman
+ 485  left in his halls: to ward off ruin for him."
+ 486  So he spoke, and grief came over the Argives at his vaunting,
+ 487  and most of all he stirred the heart of war-minded Peneleos.
+ 488  He went for Acamas; and Acamas did not stand the charge
+ 489  of lord Peneleos; and Peneleos wounded Ilioneus,
+ 490  son of Phorbas rich in flocks, whom Hermes loved
+ 491  beyond all the Trojans, and gave him wealth;
+ 492  and to him his mother had borne one only son, Ilioneus.
+ 493  Him he stabbed beneath the brow, at the roots of the eye,
+ 494  and pushed the eyeball out; straight through the eye
+ 495  and through the nape the spear drove, and he sank down,
+ 496  stretching out both his hands. And Peneleos, drawing
+ 497  his sharp sword, hewed through the middle of the neck, and struck
+ 498  to the ground head and helmet together; and the massive spear
+ 499  still stood in the eye; and holding it up like a poppy-head[29]
+ 500  he displayed it to the Trojans, and spoke in triumph:
+ 501  "Trojans — take a message for me to the dear father
+ 502  and the mother of illustrious Ilioneus: let them wail in their halls.
+ 503  For neither will the wife of Promachus, Alegenor's son,
+ 504  rejoice to meet her dear husband coming home, that day
+ 505  when we young men of the Achaeans sail back from Troy."
+ 506  So he spoke; and trembling took the limbs of every one of them,[30]
+ 507  and each man looked about him for escape from sheer destruction.
+ 508  Tell me now, Muses, who keep your homes on Olympus —[31]
+ 509  who was first of the Achaeans to lift the bloody spoils
+ 510  of men, once the famed earth-shaker had tilted the battle?
+ 511  Ajax first, Telamon's son, wounded Hyrtius,
+ 512  Gyrtius' son, leader of the strong-hearted Mysians;
+ 513  and Antilochus stripped the life from Phalces and Mermerus;
+ 514  and Meriones killed Morys and Hippotion,
+ 515  and Teucer brought down Prothoon and Periphetes;
+ 516  and Atreus' son next wounded Hyperenor, shepherd of the people,
+ 517  in the flank, and the bronze drank his bowels through,
+ 518  tearing in; and his soul through the stabbed wound
+ 519  came hurrying out, and darkness covered his eyes.
+ 520  But the most were killed by the swift Ajax, Oïleus' son:
+ 521  for there was no one like him for speed of foot in the chase
+ 522  when men broke and ran, when Zeus drove the panic in them.[32]
+
+------------------------------------------------------------
+
+NOTES
+
+[1] (14.1-8) The book opens on the smallest possible hinge: Nestor,
+    still in the hut of Book 11, hears the noise change pitch —
+    "drinking though he was" — sets down the cup, borrows his son's
+    shield (the son has his father's: the family's gear swapped
+    down the generations), and steps outside into the catastrophe.
+    Machaon is left with the wine and the promised bath: the
+    wounded man's war is a warm tub.
+
+[2] (14.16-22) The old man's indecision as ground-swell: the open
+    sea darkening "with soundless swell, boding the quick paths of
+    the shrill winds — only boding: it neither rolls forward nor to
+    either side, until some deciding blast comes down from Zeus."
+    Deliberation rendered as weather that has not chosen; among the
+    subtlest interior similes in the poem — the mind as sea before
+    the decision that will move it, and the decision, as always,
+    filed under Zeus.
+
+[3] (14.27-40) The council of the wounded: Diomedes, Odysseus,
+    Agamemnon, "leaning on their spears," come up merely to watch —
+    the poem's commanders reduced to spectators with walking-
+    sticks. The parenthesis on the camp's terraced ship-rows
+    (30-36) is the Iliad's clearest picture of its own stage-set:
+    the beach too small for the fleet, the ships in tiers filling
+    "the whole long mouth of the shore."
+
+[4] (14.82-102) Agamemnon's third flight-proposal (cf. 2.139,
+    9.26) — this time under fire, ships to be dragged seaward mid-
+    battle — meets the poem's fiercest rebuke, reusing 4.349-350
+    verbatim: "what a word has escaped the fence of your teeth!"
+    Odysseus's indictment is total: the wish for "some other army,
+    a shabby one"; the credo of the war-generation ("for whom Zeus
+    has given it, from youth right down to old age, to wind the
+    skein of hard wars, till we perish every one" — war as spun
+    wool, the life-thread and the war-thread one); the flat
+    imperative "Silence!" (σίγα); and the tactical point that
+    settles it — armies do not fight while their transport is
+    leaving. Agamemnon's answer is the best thing he does in the
+    poem: "you have caught me hard... Now let there be a man with
+    better counsel than mine — young or old — and I would welcome
+    him gladly."
+
+[5] (14.109-132) Diomedes claims the floor by genealogy — Portheus,
+    Agrius, Melas, Oeneus; Tydeus the wanderer who married
+    Adrastus's daughter and lies "under the heaped earth at
+    Thebes" — the poem's fullest version of his family tree,
+    deployed for the right to advise elders. The advice itself is
+    modest and correct: go down, stay out of range, and shame the
+    shirkers in. The youngest speaks last and best (cf. 9.31-49).
+
+[6] (14.135-152) Poseidon as anonymous old man, taking Agamemnon by
+    the right hand: the gesture of pledge. His curse on Achilles —
+    "let him perish just so; may a god strike him lame" — is the
+    harshest thing said of Achilles in the poem, and it is said by
+    a god fighting for Achilles' own side. (Zenodotus's text added
+    a line making the disguise Phoenix — tidier and much less
+    interesting.) Then the shout of "nine thousand men, or ten
+    thousand": divine encouragement measured in decibels, repeating
+    the strength-verse used of Strife at 11.11-12.
+
+[7] (14.148-152) See above — the shout-lines close with the same
+    formula that opened Book 11's Strife-scene: the gods' rallying
+    voices are interchangeable parts, and the poem knows it.
+
+[8] (14.153-165) The plan, stated with the poem's usual candor
+    about Hera: she saw her brother-in-law working "and her heart
+    was glad"; she saw her husband "and he was hateful to her
+    heart." The deception is her own invention from desire's raw
+    materials: body, sleep, and the borrowed girdle. The Dios
+    Apatē is the one stretch of the Iliad where the plot of Zeus
+    is successfully counter-plotted — by his wife, with comedy's
+    weapons.
+
+[9] (14.166-186) The toilette is built exactly like an arming
+    scene — the sequence of items (wash, anoint, robe, girdle,
+    earrings, veil, sandals) laid out with the same formulaic
+    machinery as greaves-corslet-sword-shield-helmet-spear (cf.
+    3.330-338), ending in the same clause that ends armings. Hera
+    arms for bed. Every item has its maker or provenance (the
+    chamber and bolt by Hephaestus, the robe worked by Athena) —
+    divine materiel, like Agamemnon's corslet or Achilles' spear.
+    The scent of the oil reaching earth and heaven; the veil
+    "white as the sun"; the earrings "three-dropped, mulberry-
+    dark": the poem's richest inventory of female adornment.
+
+[10] (14.187-223) The lie to Aphrodite runs on real cosmology:
+    Oceanus "the begetting of the gods" and mother Tethys — an
+    alternative theogony in which the world-river, not Cronos or
+    Zeus, is origin (Sleep repeats it at 246: "the begetting of
+    them all"; ancient readers from Plato and Crates on treated
+    these lines as Homer's cosmological fragment). The kestos
+    himas — the "pierced, embroidered band" — carries the poem's
+    finest abstraction-list: "in it is love, in it desire, in it
+    the trysting-talk — persuasion, that steals the wits even of
+    the close-thinkers" (ὀαριστύς again — the intimacy-word the
+    poem put on the front line at 13.291; here in its home
+    register). Aristotle quotes the couplet in the Nicomachean
+    Ethics (1149b) on the coercive power of desire. Aphrodite's
+    consent-line — "you sleep in the arms of Zeus, and Zeus is
+    highest" (213) — was athetized in antiquity; it is also,
+    dramatically, the girdle working before it is even lent:
+    persuasion stealing the wits of the goddess of persuasion.
+
+[11] (14.225-230) The flight-path: Olympus - Pieria - Emathia -
+    the Thracian snow-mountains - Athos - Lemnos, feet never
+    touching ground. Divine travel in the Iliad is always mapped
+    (cf. 13.20-33): the geography is real and sequential, a
+    northern-Aegean arc drawn at a goddess's speed.
+
+[12] (14.231-262) Sleep, "brother of Death" (the pairing returns
+    with terrible weight at 16.672, carrying Sarpedon home). His
+    refusal recalls the poem's deepest backstory: after Heracles
+    sacked Troy, Hera used Sleep against Zeus and blew the hero to
+    Cos; Zeus woke "hurling gods this way and that through the
+    house," and Sleep survived only by running to Night, "subduer
+    of gods and men" — "he checked himself: he stood in awe of
+    doing what swift Night would hate." The one being before whom
+    Zeus restrains himself is primordial darkness; the theology is
+    older than Olympus, glimpsed once, through a frightened minor
+    god's memory. Note too the escalation of fees: golden throne
+    and footstool (furniture, the standard divine honorarium)
+    refused; a Grace accepted — Sleep bargains like a craftsman
+    who knows his labor's worth.
+
+[13] (14.267-276) Our printed Greek lacks line 269 — "Pasithea, for
+    whom you long always, all your days" — the naming of the
+    offered Grace inside Hera's speech; the line stands in only
+    part of the manuscript tradition (an addition in several
+    copies, as the apparatus records), and the numbering here
+    jumps 268 to 270. Nothing is lost but an anticipation: Sleep
+    himself names Pasithea at 276, with the longing-clause intact.
+    This is the third genuine transmission-gap this translation
+    reproduces (9.458-461; 11.543). The oath Sleep demands is the
+    great one: by Styx, one hand on the earth, one on the shining
+    sea, "so that all may be witnesses between us, the gods below
+    with Cronos" — the defeated elder gods, "under Tartarus, who
+    are called the Titans" (279), summoned as notaries: the old
+    world-order exists, in the Iliad, to witness contracts.
+
+[14] (14.283-291) Landfall at Lecton, "and the treetops shook
+    beneath their feet"; then Sleep in the tallest fir on Ida,
+    "in the likeness of the clear-voiced mountain bird the gods
+    call chalkis, and men call kymindis." The double-name motif
+    (Briareus/Aegaeon 1.403, Batieia/Myrine 2.813) — the universe
+    bilingual, and the poet claiming the gods' dictionary — here
+    attached to a real bird (likely a hawk-owl) waiting in a tree
+    to watch a seduction.
+
+[15] (14.292-296) Zeus sees her, "and the moment he saw her, desire
+    wrapped his close mind round, as on the day they first mingled
+    in love, going to the bed again and again behind their dear
+    parents' backs." The marriage's beginning as adolescent
+    secrecy — brother and sister evading Cronos and Rhea — is the
+    poem's one glimpse of the primal domestic scene, and it makes
+    the seduction work: what Hera has staged is his memory of
+    their youth.
+
+[16] (14.313-328) The Leporello-catalogue: seven loves — Ixion's
+    wife (mother of Peirithous), Danaë (Perseus), Europa the
+    daughter of Phoenix (Minos and Rhadamanthys), Semele
+    (Dionysus, "a joy to mortals" — his only Iliadic mention as
+    Zeus's son), Alcmene (Heracles), Demeter, Leto — each with
+    issue noted, ending "no, nor you yourself: none as I love you
+    now." As courtship, an itemized list of adulteries addressed
+    to one's wife is catastrophically tactless; as enchantment-
+    symptom it is exact — the girdle's power made audible as
+    babble. Aristophanes and Aristarchus athetized all twelve
+    lines as unseemly; antiquity laughed and kept them; so does
+    the printed text.
+
+[17] (14.330-340) Hera's answer opens with the register's fixed
+    outrage-line ("Most dread son of Cronos, what a word you have
+    spoken!" = 1.552) — deployed now in mock-modesty: what if some
+    god saw us and told? The counter-offer (Hephaestus's chamber
+    with the secret bolt) is a trap avoided by Zeus's own
+    escalation: the golden cloud.
+
+[18] (14.346-353) The hieros gamos: "beneath them the bright earth
+    put out fresh grass, and dewy lotus, and crocus, and hyacinth,
+    thick and soft, that held them up off the ground." Earth
+    flowering under the union of Sky-god and his queen — a fossil
+    of fertility-religion set blooming in the middle of the war-
+    poem; the golden cloud rains glittering dew. Then the plainest
+    possible clause: "So the father slept." The plot of the Iliad
+    from 8.473 onward hangs suspended inside a nap.
+
+[19] (14.354-360) Sleep reports to Poseidon in person — "I have
+    wrapped him in a soft daze" — divine conspiracy with courier
+    service. The alliance of Sleep and the sea-god frees the
+    battle for exactly one Achaean surge, on borrowed time.
+
+[20] (14.364-382) Poseidon's tactical speech, with its remarkable
+    order: swap armor by capability — "whatever staunch fighter
+    has a small shield at his shoulder, let him give it to a worse
+    man, and get into a bigger... the good man got into good
+    armor, and gave the worse to the worse." Ancient critics
+    athetized (376-377); soldiers will recognize the first
+    recorded redistribution of kit by fighting value, ordered by
+    a god and executed by three wounded kings.
+
+[21] (14.384-387) Poseidon leads with "a terrible thin-edged sword
+    like a lightning-flash — a thing no man may meet in the grim
+    combat: dread holds men back from it." The god's blade is not
+    said to kill anyone: its work is categorical, a boundary
+    (θέμις) — mortals simply may not engage it.
+
+[22] (14.389-401) The triple negative simile: not the sea's wave
+    under the North Wind, not fire in the mountain glens, not the
+    wind in the high oaks roars so loud as the two armies' voice.
+    The poem's own sound-engineering: three natural crescendos
+    stacked and overtopped — and all three (wave, fire, wind) are
+    the similes this battle has been using for its charges, now
+    outshouted by the real thing.
+
+[23] (14.402-420) The duel of the day: Hector's spear defeated by
+    the crossing-point of two straps — the war of equipment again
+    — and Ajax's answer with one of the ship-props: the stone
+    "set him spinning like a top." Then the great oak simile:
+    struck by the bolt of Zeus, torn out by the roots, "and the
+    terrible smell of sulphur rises off it, and courage fails
+    whoever sees it from close by." The lightning-smell is the
+    most sensorily exact divine detail in the poem — and its
+    theology cuts: Hector, whose whole warrant is Zeus's bolt,
+    falls like a tree struck by it, while Zeus sleeps.
+
+[24] (14.433-439) The retreat to "the ford of the fair-flowing
+    river, eddying Xanthus, whom immortal Zeus begot" — the line-
+    pair that will open Book 21, laid down here; the river-god's
+    paternity registered in passing. Hector's revival is clinical
+    concussion: water poured over him, breath recovered, "sitting
+    on his knees he vomited dark blood," relapse, "black night"
+    again. He is out of the poem until 15.239 — and it takes
+    Apollo, on Zeus's woken orders, to put him back.
+
+[25] (14.442-448) Satnius, son of Enops and "the blameless naiad
+    nymph" who bore him "as Enops herded by the banks of
+    Satnioeis": a river-bank begetting, a boy named for the
+    river, killed in the mud of a different one. The smallest
+    pastoral obituary in the poem.
+
+[26] (14.449-457) Polydamas's vaunt: the spear in Prothoenor's
+    shoulder becomes "a staff... as he walks down into Hades" —
+    death as an old man's stroll, cane provided by the killer.
+    The counselor's wit is colder than the warriors'. The vaunt-
+    chain that follows (458 = 486: "grief came over the Argives /
+    Trojans at his vaunting") is built as strict alternation —
+    grief answering grief, kill for kill, four boasts in sequence:
+    the poem's mechanics of escalation laid bare.
+
+[27] (14.463-474) Archelochus, taking the spear meant for
+    Polydamas "for the gods had counseled his destruction":
+    struck at the join of head and neck, "and his head and mouth
+    and nostrils hit the ground long before his shins and knees."
+    Ajax's forensic vaunt — no base man, "a brother of horse-
+    taming Antenor, or a son — the family look sits close upon
+    him" — identifies the corpse by resemblance: kinship legible
+    in a dead face, the poem's grimmest use of family likeness.
+
+[28] (14.476-485) Acamas over Promachus: "arrow-braggarts" for
+    the Argives; then the blood-price logic said straight — "so
+    my brother's blood-price (ποινή) should not go long unpaid.
+    That is why a man prays for a kinsman left in his halls: to
+    ward off ruin for him." The economy of vengeance (cf. 13.659,
+    where Harpalion's death has no ποινή) stated as household
+    prudence: brothers are insurance.
+
+[29] (14.489-505) Ilioneus: only son of Hermes-loved, flock-rich
+    Phorbas — the eye put out at its roots, the spear through eye
+    and nape, the head severed and lifted, spear and all, "like a
+    poppy-head" (κώδεια, the seed-capsule). At 8.306-308 a dying
+    boy's head drooped "as a poppy in a garden... heavy with seed
+    and the rains of spring"; here the poppy returns as a thing
+    brandished. Peneleos completes it with the poem's cruelest
+    message home: tell his father and mother "to wail in their
+    halls" — and Promachus's wife will not rejoice either, when
+    the young men sail home. The taunt's real addressees are the
+    two houses where the news will arrive; the Iliad's wars are
+    always fought, at last, in the rooms of the parents and the
+    wives.
+
+[30] (14.506-507) After the poppy-head, no answering vaunt:
+    "trembling took the limbs of every one of them, and each man
+    looked about him for escape." The chain of reciprocal boasts
+    (note [26]) ends because one image exceeded the genre. Even
+    this poem's warriors have a limit, and Peneleos found it.
+
+[31] (14.508-510) The fixed Muse-invocation (= 2.484, 11.218) for
+    the rout's tally — "who was first of the Achaeans to lift the
+    bloody spoils of men" (ἀνδράγρια, "man-spoils," a word that
+    occurs nowhere else): full epic formality summoned for a
+    plunder-list, as the tide turns on Poseidon's tilt.
+
+[32] (14.511-522) The tally: Hyrtius, Phalces, Mermerus, Morys,
+    Hippotion, Prothoon, Periphetes — and Hyperenor, whose death
+    at Menelaus's hands is recalled with strange precision at
+    17.24-28 (there with an insult-backstory the narrative here
+    lacks; the poem's ledgers do not always reconcile). The last
+    word goes to the lesser Ajax: "there was no one like him for
+    speed of foot in the chase when men broke and ran" — the
+    book's closing epitaph is for a sprinter of the pursuit, the
+    specialist of the broken field: the Deception of Zeus ends
+    with the poem's ugliest hero doing the one thing he does
+    best, to men who can no longer fight back.

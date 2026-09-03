@@ -1,0 +1,252 @@
+{
+ "title": "The Iliad — Wrath, Sing, Goddess",
+ "description": "Machine-readable mirror of a line-for-line English translation of Homer's Iliad. aligned-NN.jsonl is the parallel corpus for one book: one JSON object per verse line, {book, line, greek, en}, in the printed order of the Monro-Allen text, English verse only (no note markers). book-NN.txt is the full translation source for one book: a one-line argument, the translator's commentary, numbered verse lines ('  123  text', one English line per Greek line, same numbering as the Greek) with bracketed [7] markers pointing into a notes section of scholarly endnotes, each opening with its (book.line) reference. registry.json is the index of names: the poem's principal persons, gods, peoples, and places, with category, aliases, note, and 'book.line' refs. Cite passages as book.line, e.g. 6.146. Human-readable edition with line anchors: /read/book-NN.html#L123.",
+ "site": "https://wrath-sing-goddess.com",
+ "repository": "https://github.com/spinchange/iliad",
+ "license": "English translation (the 'en' fields and the verse in book-NN.txt): CC0 1.0 (public domain dedication). Notes, commentary, and index: CC BY 4.0, (c) 2026 Chris Duffy. Greek: Monro-Allen, Oxford Classical Text, 1920 (public domain).",
+ "lines": 15687,
+ "notes": 829,
+ "registry": "https://wrath-sing-goddess.com/api/registry.json",
+ "books": [
+  {
+   "book": 1,
+   "argument": "The wrath: the quarrel over Briseis, the plague, and Thetis's bargain with Zeus.",
+   "lines": 611,
+   "last_line": 611,
+   "notes": 42,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-01.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-01.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-01.html"
+  },
+  {
+   "book": 2,
+   "argument": "The lying Dream, the testing of the army, Thersites beaten — and the Catalogue of Ships.",
+   "lines": 877,
+   "last_line": 877,
+   "notes": 35,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-02.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-02.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-02.html"
+  },
+  {
+   "book": 3,
+   "argument": "The duel for Helen: Paris against Menelaus, the view from the wall, and Aphrodite's rescue.",
+   "lines": 461,
+   "last_line": 461,
+   "notes": 26,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-03.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-03.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-03.html"
+  },
+  {
+   "book": 4,
+   "argument": "The truce broken: Pandarus's arrow, the review of the troops, and the first battle of the poem.",
+   "lines": 544,
+   "last_line": 544,
+   "notes": 25,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-04.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-04.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-04.html"
+  },
+  {
+   "book": 5,
+   "argument": "The aristeia of Diomedes: gods bleed — Aphrodite, then Ares himself, wounded by a mortal's spear.",
+   "lines": 909,
+   "last_line": 909,
+   "notes": 43,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-05.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-05.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-05.html"
+  },
+  {
+   "book": 6,
+   "argument": "Hector in Troy: Glaucus and Diomedes trade armor on the field; Hector and Andromache at the Scaean Gates.",
+   "lines": 529,
+   "last_line": 529,
+   "notes": 36,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-06.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-06.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-06.html"
+  },
+  {
+   "book": 7,
+   "argument": "The duel of Hector and Ajax, the burial truce, and the building of the Achaean wall.",
+   "lines": 482,
+   "last_line": 482,
+   "notes": 29,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-07.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-07.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-07.html"
+  },
+  {
+   "book": 8,
+   "argument": "Zeus bans the gods from the battle; the golden scales tip against the Achaeans; the Trojans camp on the plain under a thousand watchfires.",
+   "lines": 565,
+   "last_line": 565,
+   "notes": 32,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-08.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-08.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-08.html"
+  },
+  {
+   "book": 9,
+   "argument": "The Embassy to Achilles: Agamemnon's gifts, three speeches, and three refusals — each smaller than the last.",
+   "lines": 709,
+   "last_line": 713,
+   "notes": 40,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-09.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-09.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-09.html"
+  },
+  {
+   "book": 10,
+   "argument": "The Doloneia: both armies send spies into the same night — Dolon dies talking, and Odysseus and Diomedes come home laughing, with the horses of Rhesus.",
+   "lines": 579,
+   "last_line": 579,
+   "notes": 43,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-10.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-10.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-10.html"
+  },
+  {
+   "book": 11,
+   "argument": "The long day begins: Agamemnon's morning of glory, the captains carried off wounded one by one, and Nestor plants the plan that will kill Patroclus.",
+   "lines": 847,
+   "last_line": 848,
+   "notes": 44,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-11.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-11.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-11.html"
+  },
+  {
+   "book": 12,
+   "argument": "The battle at the wall: the Trojans storm it on foot, Sarpedon states the heroic contract, Hector overrules the omen, and the gate goes down.",
+   "lines": 471,
+   "last_line": 471,
+   "notes": 30,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-12.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-12.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-12.html"
+  },
+  {
+   "book": 13,
+   "argument": "Poseidon's defiance: Zeus looks away, the sea-god slips into the battle in disguise, and the line holds — shield on shield, man on man.",
+   "lines": 837,
+   "last_line": 837,
+   "notes": 39,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-13.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-13.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-13.html"
+  },
+  {
+   "book": 14,
+   "argument": "The Deception of Zeus: Hera borrows the girdle of Aphrodite, buys Sleep with a Grace, and Zeus sleeps on Gargaron while the sea-god turns the battle.",
+   "lines": 521,
+   "last_line": 522,
+   "notes": 32,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-14.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-14.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-14.html"
+  },
+  {
+   "book": 15,
+   "argument": "Zeus wakes: the plan of the whole poem is spoken aloud, Apollo kicks down the wall like a child's sand, and Hector's hand closes on the stern of Protesilaus's ship.",
+   "lines": 746,
+   "last_line": 746,
+   "notes": 36,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-15.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-15.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-15.html"
+  },
+  {
+   "book": 16,
+   "argument": "The Patrocleia: Patroclus goes out in Achilles' armor, quenches the fire, kills Sarpedon — and dies at the wall, struck by a god, a boy, and Hector, in that order.",
+   "lines": 867,
+   "last_line": 867,
+   "notes": 45,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-16.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-16.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-16.html"
+  },
+  {
+   "book": 17,
+   "argument": "The fight over the body of Patroclus: Hector puts on the armor of Achilles, the immortal horses weep, and Ajax prays not for rescue but for light.",
+   "lines": 761,
+   "last_line": 761,
+   "notes": 38,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-17.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-17.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-17.html"
+  },
+  {
+   "book": 18,
+   "argument": "The news reaches Achilles: the scream, the choice of death — and on the anvil of Hephaestus a whole world of peace, hammered onto the shield he will carry to kill Hector.",
+   "lines": 617,
+   "last_line": 617,
+   "notes": 35,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-18.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-18.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-18.html"
+  },
+  {
+   "book": 19,
+   "argument": "The wrath is renounced from a seat; the blame is laid on a goddess; and the gifts nobody looks at are carried past a fasting man — who arms, mounts, and hears his own horse foretell his death.",
+   "lines": 424,
+   "last_line": 424,
+   "notes": 27,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-19.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-19.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-19.html"
+  },
+  {
+   "book": 20,
+   "argument": "Zeus opens the gates and the gods go down to war — then sit and watch, while Achilles begins the killing that will not stop until Hector: Aeneas saved for empire, Hector saved for Book 22, and twelve men in a row not saved at all.",
+   "lines": 503,
+   "last_line": 503,
+   "notes": 31,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-20.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-20.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-20.html"
+  },
+  {
+   "book": 21,
+   "argument": "Half the rout is driven into the river, and the river fights back: Lycaon's bared throat, Asteropaeus's two spears, Scamander rising against the man who has choked him with corpses — water against fire, gods against gods — until Troy's gates gape for the routed, and Apollo, wearing a man's face, runs Achilles out of the way.",
+   "lines": 611,
+   "last_line": 611,
+   "notes": 31,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-21.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-21.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-21.html"
+  },
+  {
+   "book": 22,
+   "argument": "One man is left outside the wall. His father begs from the tower, his mother bares her breast; he debates, runs, is run down past the washing-places of the old peace; the scales dip, Athena lies, the ash spear finds the throat above the stolen armor's collar — and a woman heating bath-water learns why the tower is wailing.",
+   "lines": 515,
+   "last_line": 515,
+   "notes": 31,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-22.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-22.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-22.html"
+  },
+  {
+   "book": 23,
+   "argument": "The ghost asks for burial and one last embrace; the pyre takes horses, dogs, and twelve men; and then — games: the army that has been killing for nine years spends a day competing for tripods and mares, quarreling justly, yielding handsomely, and laughing — while the man who arranged it all watches, having no future of his own.",
+   "lines": 897,
+   "last_line": 897,
+   "notes": 29,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-23.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-23.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-23.html"
+  },
+  {
+   "book": 24,
+   "argument": "The gods vote against the rage; a mother tells her son to eat, to sleep, to love; an old man kisses the hands that killed his sons — and the two of them weep, eat, and look at each other. The poem that began with the wrath ends with a burial done properly.",
+   "lines": 804,
+   "last_line": 804,
+   "notes": 30,
+   "aligned": "https://wrath-sing-goddess.com/api/aligned-24.jsonl",
+   "text": "https://wrath-sing-goddess.com/api/book-24.txt",
+   "html": "https://wrath-sing-goddess.com/read/book-24.html"
+  }
+ ]
+}

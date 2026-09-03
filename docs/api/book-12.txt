@@ -1,0 +1,793 @@
+BOOK 12
+
+The battle at the wall: the Trojans storm it on foot, Sarpedon states
+the heroic contract, Hector overrules the omen, and the gate goes
+down.
+
+TRANSLATOR'S COMMENTARY
+
+The shortest book of the Iliad so far translated is also its most
+tightly built: a single military action — the storming of the Achaean
+wall — organized as a sequence of thresholds: ditch, gates,
+breastwork, bar; and at each threshold, a debate. Polydamas counsels
+leaving the chariots, and Hector accepts; Asius refuses, and the
+narrator files his death-notice in advance (note [7]); Polydamas
+reads the eagle-and-snake omen and counsels retreat, and Hector
+answers with the most quoted line of the poem — "One bird-sign is
+best: to fight for your fatherland" (243) — an answer that is
+magnificent, politically immortal, and wrong (note [12]). The book's
+crown is Sarpedon's speech to Glaucus (310-328), the classic
+statement of why kings fight — honor received obliges honor paid,
+and since death comes anyway, the only choice left is the manner —
+the exact contract whose repudiation by Achilles in Book 9 the poem
+has already staged (note [19]).
+
+The opening is unlike anything else in Homer: the narrator steps out
+of the story's time to tell how, after the war, Poseidon and Apollo
+turned eight rivers against the wall and erased it from the beach
+(3-35) — epic covering its own tracks, since no trace of the wall
+survived to be seen; the passage contains the poem's only "race of
+half-god men," the heroes seen for once from the far side of the
+gulf that separates them from the audience (note [2]). Equally
+unusual is the narrator's cry of overload at 176 — "hard for me to
+tell it all through, as though I were a god" — which ancient critics
+athetized, perhaps for its very humanity (note [10]).
+
+Throughout, the poet measures the widest war by the smallest peace:
+stones fall like snow muffling the works of men (note [16]); the
+deadlock is two farmers with measuring-rods disputing a boundary
+(note [27]); the balance of battle is an honest wool-worker's scale,
+held level "to win a pitiful wage for her children" (note [28]).
+Then Hector lifts the stone two men of today could not shift, breaks
+the double gate, and leaps through "in his face the very likeness of
+swift night" — and the book ends inside the breach, the Danaans in
+rout among their ships, nothing resolved except the door.
+
+Register notes: 12.96-97 reuse the Asius entry of the Catalogue
+(2.838-839) verbatim; the Lapiths keep their Book 2 epithets; "such
+as mortals are now" recurs twice (383, 449) in its fixed form; and
+Menestheus's message is relayed by the herald almost word for word
+(343-350 = 354-363) — the verbatim discipline of messengers, kept.
+
+------------------------------------------------------------
+
+   1  So in the huts Menoetius's stout son
+   2  was healing wounded Eurypylus. But the others fought on,[1]
+   3  Argives and Trojans in their masses; nor was the ditch
+   4  to hold much longer, nor the wide wall above it
+   5  the Danaans built to shield the ships — they drove the ditch
+   6  around it, but gave the gods no glorious hecatombs —
+   7  so that it might guard for them the swift ships and the great
+   8  plunder within. It was built against the will of the gods,
+   9  the immortals; and so it stood firm for no long time.
+  10  So long as Hector was alive, and Achilles in his wrath,
+  11  and the city of lord Priam unsacked,
+  12  so long the great wall of the Achaeans too stood firm.
+  13  But when all the best of the Trojans had died,
+  14  and of the Argives many were broken, though some were left,
+  15  and Priam's city was sacked in the tenth year,
+  16  and the Argives had gone in their ships to their dear fatherland,
+  17  then at last Poseidon and Apollo took counsel
+  18  to wash the wall away, turning against it the fury of rivers,
+  19  all that flow from the mountains of Ida down to the sea:
+  20  Rhesus and Heptaporus, Caresus and Rhodius,
+  21  Granicus and Aesepus, and brilliant Scamander,
+  22  and Simois, where so many oxhide shields and helmets
+  23  had fallen in the dust, and the race of half-god men:
+  24  the mouths of all these Phoebus Apollo turned together,
+  25  and nine days hurled their flood against the wall; and Zeus rained
+  26  without ceasing, to drown the wall in sea the sooner.
+  27  And the earth-shaker himself, trident in hand,
+  28  led them, and sent out on the waves all the foundations
+  29  of beams and stones the Achaeans had laid with labor,
+  30  and made all smooth along the strong-flowing Hellespont,
+  31  and covered the great beach over again with sand,
+  32  the wall washed away; and he turned the rivers back to run
+  33  in their channels, where before they had poured their fair streams.[2]
+  34  So Poseidon and Apollo were to dispose of it
+  35  hereafter. But now battle and clamor blazed
+  36  around the well-built wall, and the beams of the towers rang
+  37  under the blows. The Argives, broken under the whip of Zeus,
+  38  were penned by the hollow ships and held there,
+  39  dreading Hector, the strong machine of rout;
+  40  while he, as before, fought on like a whirlwind.
+  41  As when among hounds and hunting men
+  42  a boar or lion wheels, glorying in his strength,
+  43  and they form themselves into a tower-line
+  44  and stand to face him, hurling from their hands
+  45  spearheads thick and fast; but his glorious heart
+  46  knows no fear and no flight — and his courage kills him —[3]
+  47  and again and again he wheels, testing the ranks of men,
+  48  and wherever he charges, there the ranks of men give way:
+  49  so Hector went through the crowd and begged his companions,
+  50  urging them to cross the ditch. But his swift-footed horses
+  51  did not dare it; loudly they neighed, standing
+  52  at the very lip, for the wide ditch frightened them off —
+  53  not easy to leap from close up, nor to drive across,
+  54  for overhanging banks stood all around it
+  55  on both sides, and above it was fitted with pointed
+  56  stakes, planted by the sons of the Achaeans,
+  57  close-set and great, a defense against enemy men.
+  58  A horse straining at a well-wheeled chariot could not easily
+  59  get in; but the foot-soldiers were mad to try it.
+  60  Then Polydamas came and stood by daring Hector:
+  61  "Hector, and you other leaders of Trojans and allies,
+  62  it is folly to drive our swift horses across the ditch.
+  63  It is very hard to cross: sharp stakes
+  64  stand in it, and right up against them is the Achaeans' wall.
+  65  There is no way down there, no way to fight
+  66  for men in chariots: the space is narrow, and I think we would be hurt.
+  67  For if Zeus who thunders on high, with evil in mind,
+  68  is wiping out the Achaeans utterly, eager to help the Trojans,
+  69  then I too would wish it done this very instant —
+  70  the Achaeans perishing here, nameless, far from Argos.
+  71  But if they turn on us, and we are driven back
+  72  from the ships, and get ourselves tangled in the dug ditch,
+  73  then not even a messenger, I think, will make it back
+  74  to the city, once the Achaeans have wheeled on us.
+  75  Come then — as I say it, let us all obey:
+  76  let the aides hold the horses at the ditch,
+  77  while we ourselves, on foot, armed in our gear,
+  78  follow Hector in one mass; and the Achaeans
+  79  will not hold, if the cables of destruction are fastened on them."
+  80  So spoke Polydamas, and the prudent word pleased Hector,[4]
+  81  and at once he leapt with his weapons from the chariot to the ground.
+  82  Nor did the other Trojans stay massed on their chariots:
+  83  they all sprang down, when they saw brilliant Hector do it.
+  84  Then each man gave his charioteer the order
+  85  to hold the horses in good order there at the ditch;
+  86  and they divided, formed themselves in companies,
+  87  and marshaled in five bodies they followed their leaders.
+  88  Those who went with Hector and blameless Polydamas
+  89  were the most and the best, and were most determined
+  90  to break the wall and fight beside the hollow ships;
+  91  and Cebriones followed as third man — by the chariot
+  92  Hector had left another man, a lesser one than Cebriones.
+  93  The second body Paris led, with Alcathous and Agenor;
+  94  the third, Helenus and godlike Deiphobus,
+  95  two sons of Priam; the third with them was the hero Asius —
+  96  Asius, Hyrtacus' son, whom horses carried from Arisbe,[5]
+  97  tall and fire-colored, from the river Selleïs.
+  98  The fourth was led by Anchises' brave son
+  99  Aeneas, and with him Antenor's two sons,
+ 100  Archelochus and Acamas, well skilled in all fighting.
+ 101  And Sarpedon led the far-famed allies,
+ 102  choosing to himself Glaucus and warlike Asteropaeus,
+ 103  for they seemed to him beyond dispute the best
+ 104  of the rest after himself — he stood out even among all.[6]
+ 105  And when they had locked shields of worked oxhide together,
+ 106  they went straight for the Danaans, hot with eagerness, certain
+ 107  the Achaeans would hold no longer, but fall upon the black ships.
+ 108  Then the other Trojans and their far-famed allies
+ 109  obeyed the counsel of blameless Polydamas;
+ 110  but Asius, Hyrtacus' son, marshal of men, refused
+ 111  to leave his horses there with his charioteer-aide:
+ 112  with horses and all he drove at the swift ships —
+ 113  the fool: he was not to dodge the evil death-spirits
+ 114  and come home again, exulting in horses and chariot,
+ 115  back from the ships to windy Ilion.
+ 116  Before that, fate of the hateful name closed round him
+ 117  through the spear of Idomeneus, Deucalion's illustrious son.[7]
+ 118  For he steered left of the ships, where the Achaeans
+ 119  came back out of the plain with horses and chariots;
+ 120  there he drove his horses and car, and at the gates
+ 121  he found the doors not shut, the long bar not in place:
+ 122  men were holding them thrown open, hoping to save
+ 123  any companion in flight from the battle, and bring him to the ships.
+ 124  Straight for that point, deliberate, he held his horses, and his men
+ 125  followed, screaming sharply, certain the Achaeans
+ 126  would hold no longer, but fall upon the black ships —
+ 127  the fools: at the gates they found two men of the bravest,
+ 128  high-hearted sons of Lapith spearmen,
+ 129  one the son of Peirithous, strong Polypoetes,
+ 130  the other Leonteus, the equal of Ares bane of mortals.
+ 131  These two, in front of the high gates,
+ 132  stood like high-crowned oaks in the mountains
+ 133  that abide the wind and rain through all their days,
+ 134  fast-fixed by their great roots running deep —
+ 135  so the two of them, trusting their hands and their strength,
+ 136  abode the coming of great Asius, and did not run.
+ 137  But the Trojans, holding their dried-oxhide shields high,
+ 138  came straight for the well-built wall with a great war-shout
+ 139  around lord Asius, and Iamenus, and Orestes,
+ 140  and Asius's son Adamas, and Thoon, and Oenomaus.
+ 141  And for a while the two, staying inside, were urging
+ 142  the strong-greaved Achaeans to defend the ships;
+ 143  but when they saw the Trojans storming at the wall,
+ 144  and shouting and panic broke out among the Danaans,
+ 145  the two burst out and fought in front of the gates
+ 146  like a pair of wild boars in the mountains
+ 147  that stand the oncoming rabble of men and dogs,
+ 148  and charging slantwise shatter the timber around them,
+ 149  shearing it off at the root, and from under comes the noise
+ 150  of gnashing tusks, until a man's cast takes their life:
+ 151  so the shining bronze on their chests rang under the blows
+ 152  struck face to face; for they fought hard indeed,
+ 153  trusting the troops above them and their own strength.[8]
+ 154  For the men above hurled stones from the well-built towers,
+ 155  defending themselves, their huts,
+ 156  and the swift-faring ships. Like snowflakes the stones fell earthward,
+ 157  flakes a blustering wind, driving the shadowed clouds,
+ 158  pours thick and fast on the earth that feeds so many:
+ 159  so the missiles streamed from their hands, from Achaeans
+ 160  and Trojans alike; and helmets and bossed shields
+ 161  rang harsh and dry, pounded with millstone rocks.
+ 162  Then Asius, Hyrtacus' son, groaned aloud and struck
+ 163  both his thighs, and spoke in outrage:
+ 164  "Father Zeus, so even you, it turns out, are an utter
+ 165  lover of lies! I did not think the Achaean heroes
+ 166  would stand our fury and our invincible hands —
+ 167  and they, like wasps of the nimble waist, or bees
+ 168  that make their homes beside a rocky road
+ 169  and will not abandon their hollow house, but stay
+ 170  and fight off the raiding men for their children's sake,
+ 171  so these men will not give back from the gates, two though they are,
+ 172  until they kill or are taken."[9]
+ 173  So he spoke, but speaking did not persuade the mind of Zeus:
+ 174  his heart willed the glory for Hector.
+ 175  And others fought the fight at other gates —
+ 176  hard for me to tell it all through, as though I were a god:[10]
+ 177  for everywhere around the wall a prodigious fire had risen,
+ 178  a fire of stone; and the Argives, grieved to the heart,
+ 179  fought on for the ships by necessity; and the gods were downcast,
+ 180  all of them who were the Danaans' helpers in the fighting.
+ 181  And the Lapiths clashed into war and combat.
+ 182  There the son of Peirithous, strong Polypoetes,
+ 183  hit Damasus with the spear through the bronze-cheeked helmet:
+ 184  the bronze helmet did not hold; straight on through
+ 185  the bronze point broke the bone, and the brain
+ 186  was all spattered inside it. He broke him in mid-charge.
+ 187  And after him he stripped the life from Pylon and Ormenus.
+ 188  And Leonteus, scion of Ares, hit Antimachus's son
+ 189  Hippomachus with the spear, catching him at the war-belt;
+ 190  then drawing his sharp sword out of its sheath
+ 191  he sprang through the crowd and struck Antiphates first,
+ 192  close-in, hand to hand; he crashed on his back on the ground;
+ 193  and after him Menon, and Iamenus, and Orestes —
+ 194  all these, one on another, he brought down to the earth that feeds so many.
+ 195  While they were stripping the glittering armor from these,
+ 196  the young men who followed Polydamas and Hector,
+ 197  who were the most and the best, and were most determined
+ 198  to break the wall and set fire to the ships,
+ 199  still stood at the ditch's edge and were divided in mind:
+ 200  for a bird had come upon them as they strained to cross:
+ 201  an eagle, flying high, herding the army to the left,
+ 202  carrying in its talons a monstrous blood-red snake,
+ 203  alive, still writhing — and it had not forgotten its war-craft,
+ 204  for it struck the bird that held it, on the chest beside the neck,
+ 205  coiling itself backward; and the eagle flung it from him earthward,
+ 206  stung with the pain, and let it fall in the middle of the crowd,
+ 207  and with a scream flew off down the gusts of the wind.
+ 208  And the Trojans shuddered when they saw the writhing snake
+ 209  lying in their midst: a portent of aegis-bearing Zeus.[11]
+ 210  Then Polydamas came and stood by daring Hector:
+ 211  "Hector, always somehow you rebuke me in the assemblies
+ 212  though I counsel well — since it is never fitting, it seems,
+ 213  for a man of the people to speak against you, in council
+ 214  or ever in war, but always to swell your power.
+ 215  Yet now once more I will say what seems to me best.
+ 216  Let us not go forward to fight the Danaans for the ships.
+ 217  For this, I think, is how it will end — if truly
+ 218  this bird came for the Trojans as they strained to cross:
+ 219  an eagle, flying high, herding the army to the left,
+ 220  carrying in its talons a monstrous blood-red snake,
+ 221  alive — and it dropped it before it reached its own nest,
+ 222  and never finished carrying it home to give its young.
+ 223  So we: even if we break the gates and the wall
+ 224  of the Achaeans by main strength, and the Achaeans give way,
+ 225  we will come back from the ships in no good order by the same road;
+ 226  for we will leave many Trojans behind, whom the Achaeans
+ 227  will cut down with the bronze, defending their ships.
+ 228  So a reader of gods' signs would interpret, one whose heart
+ 229  truly knew the portents, and the people would believe him."
+ 230  Glaring at him darkly, Hector of the flashing helmet answered:
+ 231  "Polydamas, this talk of yours pleases me no longer;
+ 232  you know how to think another word, better than this one.
+ 233  But if you truly say this thing in earnest,
+ 234  then the gods themselves have destroyed your wits —
+ 235  you who tell me to forget the counsels of loud-thundering
+ 236  Zeus, which he himself promised me, and bowed his head;
+ 237  you who tell me to put my faith in birds
+ 238  with wings outstretched. I take no thought of them, no care
+ 239  whether they go to the right, toward the dawn and the sun,
+ 240  or to the left, toward the misty dark.
+ 241  Let us put our faith in the counsel of great Zeus,
+ 242  who is king over all mortals and immortals.
+ 243  One bird-sign is best: to fight for your fatherland.[12]
+ 244  Why are you so afraid of war and combat?
+ 245  For even if the rest of us are killed to a man
+ 246  beside the Argive ships, you need not fear to perish:
+ 247  your heart is not battle-staunch, not a fighter's heart.
+ 248  But if you hang back from the fighting, or talk any other man
+ 249  around with your words and turn him away from war,
+ 250  struck down at once under my spear you will lose your life."
+ 251  So speaking he led the way, and they followed him
+ 252  with a prodigious roar; and Zeus who delights in thunder
+ 253  roused out of the mountains of Ida a squall of wind
+ 254  that carried the dust straight at the ships; and it bewitched
+ 255  the mind of the Achaeans, and handed glory to the Trojans and Hector.[13]
+ 256  Trusting his portents, then, and their own strength,
+ 257  they set to trying to break the great wall of the Achaeans.
+ 258  They dragged at the towers' galleries, pulled down the breastworks,
+ 259  and levered up the jutting buttress-piles the Achaeans
+ 260  had set first in the earth to shore the towers:[14]
+ 261  these they tried to pull out, hoping to break the wall
+ 262  of the Achaeans. But the Danaans did not yet yield the path:
+ 263  they fenced the breastworks with oxhide shields
+ 264  and from behind them hurled at the enemy coming under the wall.
+ 265  And the two Ajaxes, marshaling on the towers,
+ 266  ranged everywhere, urging on the fury of the Achaeans;
+ 267  one man with honeyed words, another with hard ones
+ 268  they would lash, whomever they saw hanging wholly back from the fight:
+ 269  "Friends — you who are excellent among the Argives, you who are middling,
+ 270  you who are lesser — since men are in no way all equal
+ 271  in war — now there is work for every man of you,[15]
+ 272  and you know it yourselves. Let no one turn back
+ 273  toward the ships now he has heard the man who drives you;
+ 274  press forward instead, and call each other on,
+ 275  in hope that Olympian Zeus, lord of lightning, may grant us
+ 276  to beat back the assault and drive our enemies to their city."
+ 277  So the two, shouting ahead, stirred up the Achaeans' battle.
+ 278  And as flakes of snow fall thick and fast on a winter's day,
+ 279  when Zeus the counselor has bestirred himself to snow
+ 280  on mankind, and shows them what his missiles are,
+ 281  and lulling the winds he pours it down steadily, until he has covered
+ 282  the peaks of the high mountains, and the jutting headlands,
+ 283  and the clover meadows, and men's rich worked fields;
+ 284  and it is poured out over the harbors and shores of the grey sea,
+ 285  and only the wave, breaking on it, keeps it off; but all things else
+ 286  are wrapped from above, when the storm of Zeus drives down upon it:[16]
+ 287  so from both sides their stones flew thick and fast,
+ 288  some onto the Trojans, some from Trojans onto Achaeans,
+ 289  as they pelted each other; and over the whole wall the din rose.
+ 290  Yet not even then would the Trojans and glorious Hector
+ 291  have broken the gates of the wall and the long bar,
+ 292  had not Zeus the counselor roused his own son Sarpedon
+ 293  against the Argives, like a lion on twist-horned cattle.[17]
+ 294  At once he held before him his shield, balanced every way,
+ 295  fair, of hammered bronze, which the smith had hammered out,
+ 296  stitching inside it oxhides thick and close
+ 297  with golden rods running unbroken round the rim.[18]
+ 298  Holding this before him, shaking his two spears,
+ 299  he went his way like a mountain-bred lion who has long
+ 300  gone hungry for meat, and his proud spirit drives him
+ 301  to make trial of the flocks, to go even into the close-built fold;
+ 302  and even if he finds the herdsmen there beside them,
+ 303  watching over the sheep with dogs and spears,
+ 304  he will not be driven from the steading without his try:
+ 305  either he leaps in and seizes one, or himself
+ 306  is hit among the foremost by a javelin from a quick hand:
+ 307  so then his spirit drove godlike Sarpedon
+ 308  to rush the wall and break through the breastworks.
+ 309  And at once he spoke to Glaucus, Hippolochus's son:
+ 310  "Glaucus, why is it that we two are honored beyond all
+ 311  with the seat of honor, and the cuts of meat, and full cups,
+ 312  in Lycia, and all men look on us like gods,
+ 313  and we are granted a great estate on the banks of Xanthus,
+ 314  fine land, orchard and wheat-bearing plowland?
+ 315  For that, it is our duty now to stand among the first
+ 316  of the Lycians, and to meet the blaze of battle,
+ 317  so that many a Lycian in his close armor may say:
+ 318  'No, they are not inglorious, these kings of ours
+ 319  who rule in Lycia, who eat the fat sheep
+ 320  and drink the choice honey-sweet wine: their strength too
+ 321  is noble, since they fight among the first of the Lycians.'
+ 322  Old friend, if the two of us could escape this war
+ 323  and live forever, ageless and immortal,
+ 324  I would not fight among the foremost myself,
+ 325  nor would I send you into the battle where men win glory.
+ 326  But now — since the death-spirits stand over us
+ 327  in their thousands, and no mortal can flee them or slip past —
+ 328  let us go: we will give the triumph to some man, or he to us."[19]
+ 329  So he spoke; and Glaucus did not turn away or disobey,
+ 330  and the two went straight on, leading the great Lycian nation.
+ 331  And Menestheus, Peteos' son, shuddered to see them,
+ 332  for it was toward his tower they came, carrying ruin.
+ 333  He peered along the Achaean wall, hoping to see
+ 334  some captain who would ward off harm from his companions,
+ 335  and made out the two Ajaxes, never sated with war,
+ 336  standing there, and Teucer, just come from his hut,
+ 337  close by; but there was no way to shout and be heard,
+ 338  so great was the din — the clamor went up to heaven —
+ 339  of battered shields and horsehair-crested helmets
+ 340  and of the gates: for all had been shut, and the Trojans
+ 341  stood against them, trying to break them by force and get in.
+ 342  At once he sent the herald Thootes to Ajax:
+ 343  "Go, brilliant Thootes — run, and call Ajax;
+ 344  or rather both of them; that would be best of all,
+ 345  since sheer destruction will soon be upon us here.
+ 346  The leaders of the Lycians bear down so — men who have always
+ 347  come storming into the strong encounters.
+ 348  But if toil and struggle have risen for them there as well,
+ 349  then at least let stout Telamonian Ajax come alone,
+ 350  and let Teucer follow with him, who knows the bow well."[20]
+ 351  So he spoke; and the herald heard, and did not disobey,
+ 352  and set off running along the wall of the bronze-shirted Achaeans,
+ 353  and came and stood by the Ajaxes, and spoke at once:
+ 354  "You two Ajaxes, leaders of the bronze-shirted Argives:
+ 355  the dear son of Zeus-nurtured Peteos bids you
+ 356  come there, to share the toil at least a little while —
+ 357  or rather both of you; that would be best of all,
+ 358  since sheer destruction will soon be upon them there.
+ 359  The leaders of the Lycians bear down so — men who have always
+ 360  come storming into the strong encounters.
+ 361  But if here too war and struggle have risen,
+ 362  then at least let stout Telamonian Ajax come alone,
+ 363  and let Teucer follow with him, who knows the bow well."
+ 364  So he spoke, and great Telamonian Ajax did not disobey.
+ 365  At once he spoke winged words to Oïleus' son:[21]
+ 366  "Ajax — you and strong Lycomedes stay here,
+ 367  stand fast, and urge the Danaans to fight their hardest.
+ 368  I will go over there and take my share of the fighting,
+ 369  and come back quickly, when I have given them good defense."
+ 370  So speaking, Telamonian Ajax went off,
+ 371  and with him went Teucer, his brother by one father,
+ 372  and with them Pandion carried Teucer's curved bow.
+ 373  And when they reached the tower of great-hearted Menestheus,
+ 374  passing inside the wall — they came to men hard pressed,
+ 375  for up onto the breastworks like a dark squall
+ 376  came the powerful leaders and lords of the Lycians;
+ 377  and they clashed together in combat, and the war-cry rose.
+ 378  Telamonian Ajax was first to kill his man:
+ 379  great-hearted Epicles, Sarpedon's companion,
+ 380  striking him with a jagged block of marble that lay
+ 381  inside the wall, huge, topmost by the breastwork. Not easily
+ 382  could a man hold it in both hands, not in his youth's best,
+ 383  such as mortals are now; but he heaved it high and threw it,[22]
+ 384  and crushed the four-bossed helmet, and smashed the bones
+ 385  of the head all in together; and like a diver
+ 386  he dropped from the high tower, and the life left his bones.
+ 387  And Teucer hit Glaucus, Hippolochus's strong son,
+ 388  with an arrow as he came storming up the high wall,
+ 389  just where he saw the arm bared, and stopped his fighting.
+ 390  He sprang back down from the wall, keeping hidden, so that no Achaean
+ 391  might see that he was hit and glory over him with words.[23]
+ 392  And grief came over Sarpedon at Glaucus's going,
+ 393  the moment he knew it; but he did not forget his war-craft:
+ 394  he caught Alcmaon, Thestor's son, with a lunge of the spear
+ 395  and stabbed, then wrenched the spear out; and the man, following the spear,
+ 396  fell on his face, and his armor, intricate with bronze, clashed about him.
+ 397  And Sarpedon, gripping the breastwork with his massive hands,
+ 398  pulled — and the whole length of it followed; and above,
+ 399  the wall was laid naked; and he had made a road for many.[24]
+ 400  Ajax and Teucer answered him together: Teucer's arrow
+ 401  struck the shining strap that held the man-covering shield
+ 402  about his chest; but Zeus beat the death-spirits away
+ 403  from his son — he was not to be broken by the ships' sterns —[25]
+ 404  and Ajax, leaping in, stabbed at the shield; the spear
+ 405  did not drive through, but staggered him in mid-fury.
+ 406  He gave back a little space from the breastwork, but wholly
+ 407  he did not yield, for his heart still hoped to seize glory.
+ 408  Wheeling round, he called to the godlike Lycians:
+ 409  "Lycians, why do you slacken your rushing courage so?
+ 410  It is hard for me, powerful as I am,
+ 411  to break through alone and make a path to the ships.
+ 412  Follow me in! More hands make better work."[26]
+ 413  So he spoke; and they, in dread of their king's rebuke,
+ 414  pressed on harder around their counselor-king.
+ 415  And the Argives on the other side strengthened their battle-lines
+ 416  inside the wall; and the work before them showed very great:
+ 417  for neither could the powerful Lycians break the wall
+ 418  of the Danaans and make a path to the ships,
+ 419  nor could the Danaan spearmen ever push back
+ 420  the Lycians from the wall, once they had come close against it.
+ 421  But as two men quarrel over boundary-stones,
+ 422  measuring-rods in hand, in a common field,
+ 423  who in a little strip of ground contend over the fair share:[27]
+ 424  so the breastworks held them apart; and over them
+ 425  they hacked at one another, at the chests, at the oxhide
+ 426  shields, round and well-made, and the fluttering bucklers.
+ 427  Many were wounded in the flesh by the pitiless bronze,
+ 428  whenever a man turned and his back was left bare
+ 429  in the fighting, and many straight through the shield itself.
+ 430  Everywhere the towers and breastworks were spattered
+ 431  with the blood of men, from both sides, Trojan and Achaean.
+ 432  But even so they could not turn the Achaeans to flight:
+ 433  the lines held — as an honest working woman holds the scales,
+ 434  who with the weight in one pan and the wool in the other
+ 435  draws them level, to win a pitiful wage for her children:[28]
+ 436  so their battle and their war were drawn level and taut,
+ 437  until the moment Zeus handed the higher glory to Hector,
+ 438  Priam's son, who was first to leap inside the wall of the Achaeans.
+ 439  He cried a piercing cry, to carry to the Trojans:
+ 440  "Rise up, horse-taming Trojans! Break the wall
+ 441  of the Argives, and hurl prodigious fire among the ships!"
+ 442  So he spoke, spurring them on; and every ear heard him,
+ 443  and they charged the wall in one mass; and then they
+ 444  began mounting the galleries, sharpened spears in hand,
+ 445  while Hector snatched up a stone and carried it — it stood
+ 446  before the gates, thick at the base and sharp
+ 447  on top; the two best men of a district could not easily
+ 448  lever it off the ground and onto a wagon,
+ 449  such as mortals are now; but he swung it easily, even alone,[29]
+ 450  for the son of crooked-counseled Cronos made it light for him.
+ 451  As when a shepherd carries the fleece of a ram
+ 452  easily in one hand, and its weight is little burden,
+ 453  so Hector lifted the stone and carried it straight
+ 454  at the doors that guarded the close and strong-fitted gates,
+ 455  double doors, high, with two crossed bars
+ 456  inside to hold them, fastened with a single bolt.
+ 457  He came and stood very close, and planted himself, and struck them
+ 458  full in the middle, legs braced wide, to give the blow its force,
+ 459  and broke both hinges away; and the stone fell inside
+ 460  by its own weight; and the gates groaned loud on either side; the bars
+ 461  did not hold, and the doors were burst apart this way and that
+ 462  under the rush of the stone. And glorious Hector leapt in,
+ 463  in his face the very likeness of swift night; and he blazed in the bronze
+ 464  that terribly clothed his body, and in his hands he held
+ 465  two spears. No one who met him could have held him back —
+ 466  none but the gods — when he leapt the gates; and his eyes flared with fire.
+ 467  Wheeling in the crowd, he called out to the Trojans
+ 468  to climb over the wall; and they obeyed his urging:
+ 469  at once some were climbing over the wall, while others poured
+ 470  through the built gates themselves; and the Danaans fled
+ 471  among the hollow ships; and the din rose unabating.[30]
+
+------------------------------------------------------------
+
+NOTES
+
+[1] (12.1-2) The book opens by holding the camera on Patroclus,
+    still in the hut healing Eurypylus — where 11.848 left him, and
+    where he stays until 15.390-404. The whole battle at the wall is
+    thus bracketed inside Patroclus's delayed errand: the poem keeps
+    its catastrophe waiting in a doorway.
+
+[2] (12.3-35) Unique in Homer: the narrator leaves the story's time
+    entirely to relate the wall's future annihilation — after the
+    sack, Poseidon and Apollo turn the eight rivers of Ida against
+    it for nine days, Zeus rains, the trident-bearer levers out the
+    foundations and re-beds the beach in sand. The passage explains
+    to the poet's own audience why no trace of so great a work
+    survived to be visited: epic erasing its own footprint (already
+    at 7.443-464 Poseidon complained the wall would out-fame the one
+    he built for Laomedon; Zeus there licensed this very deletion).
+    Line 23 contains the poem's only "race of half-god men"
+    (ἡμιθέων γένος ἀνδρῶν): elsewhere the heroes are simply men;
+    only here, looking back from the audience's diminished present,
+    does the narrator name the gulf. Aristotle admired the maneuver
+    (Strabo 13.1.36 preserves the remark): "the poet who made the
+    wall also made it disappear."
+
+[3] (12.41-48) The boar-or-lion at bay, wheeling on the closing
+    ring: "his glorious heart knows no fear and no flight — and his
+    courage kills him" (ἀγηνορίη δέ μιν ἔκτα, 46). The aside is
+    proverb-grade and is the book's thesis about Hector — spoken
+    inside a simile about him, six books before 22.99-130 proves it.
+
+[4] (12.60-80) Polydamas's first counsel, accepted. He appears here
+    for the first time speaking (named 11.57): born the same night
+    as Hector (18.251), the poem's designated counter-voice — his
+    four speeches (here; 211; 13.726; 18.254) run accepted,
+    rejected, accepted, rejected, and the last rejection kills
+    Hector's army. The pattern begins with success: chariots left
+    at the ditch, the wall attacked on foot.
+
+[5] (12.96-97) Asius's entry repeats his Catalogue lines (2.838-839)
+    verbatim — our wording kept: the muster-roll recalled at the
+    moment the muster begins to die (cf. the Merops sons, 11.329).
+
+[6] (12.87-104) The five battalions — the Trojan order of battle,
+    with two debuts that matter: Alcathous (dead at 13.427-444) and
+    Asteropaeus the Paeonian, "warlike," chosen by Sarpedon as third
+    — the man whose duel with Achilles in the river (21.139-204)
+    will be the last full combat before Hector's. Sarpedon "stood
+    out even among all": the poem promotes him steadily toward
+    Book 16.
+
+[7] (12.108-117) Asius refuses the plan — "the fool" (νήπιος), and
+    the narrator files the death-notice in advance, naming the
+    killer: Idomeneus, at 13.384-393. The prolepsis-with-obituary is
+    the poem's standard seal on disobedience (2.38, 16.46, 20.466);
+    "fate of the hateful name" (μοῖρα δυσώνυμος) belongs to the
+    small class of fate-phrases where the word itself winces.
+
+[8] (12.127-153) The Lapith aristeia: Polypoetes and Leonteus keep
+    their Catalogue credentials (2.740-746). The similes stack —
+    oaks with roots running deep (131-134), then wild boars
+    shattering the brush (146-150). The apparatus preserves
+    Hephaestion's observation that 131-140 and 141-153 read like
+    alternative versions of the same scene, only one of which was
+    meant to stand — a rare window onto the poem's own workshop;
+    the printed text, and this translation, keep both.
+
+[9] (12.162-172) Asius's outrage: "Father Zeus, so even you, it
+    turns out, are an utter lover of lies!" (φιλοψευδής — nowhere
+    else does a mortal call Zeus a liar to his face). The wasps-
+    and-bees simile he builds — nest defenders who "will not
+    abandon their hollow house... for their children's sake" — is
+    finer than he knows: he has conceded that the two Lapiths are
+    the ones fighting for something. The narrator's dry audit
+    follows: Zeus was not persuaded; the glory was Hector's.
+
+[10] (12.175-181) "hard for me to tell it all through, as though I
+    were a god" — the narrator's only confession of overload in the
+    Iliad, athetized by Aristophanes and Aristarchus and omitted by
+    Zenodotus, perhaps precisely because it lets the human singer
+    show through the Muse's voice. The "prodigious fire... of
+    stone" (θεσπιδαὲς πῦρ λάϊνον) is a famous compression: the
+    stone barrage burns like fire along the whole wall — the enjambed
+    adjective detonates the metaphor.
+
+[11] (12.200-209) The omen: an eagle on the left with a great snake
+    in its talons; the snake, "not forgetting its war-craft,"
+    strikes the eagle's chest, is dropped in the crowd, and the
+    eagle screams away empty. Polydamas will read it exactly
+    (218-227): you may take the prey, but you will not carry it
+    home. The scene is the poem's fullest bird-sign, and the
+    interpretation is never refuted — only overruled.
+
+[12] (12.230-250) Hector's answer, culminating in the most quoted
+    hexameter of the Iliad: "One bird-sign is best: to fight for
+    your fatherland" (243). Cited from classical Athens onward as
+    the motto of patriotic defense — and in context it is a king
+    dismissing accurate intelligence on the strength of a private
+    promise from Zeus (236) that expires at sundown (11.192-194,
+    which Hector was not told). The rhetoric is immortal; the
+    generalship is the disaster Polydamas predicted, and both men
+    will say so later — Polydamas at 18.254-283, Hector to himself
+    at 22.99-107. The closing threat (248-250) to kill any Trojan
+    who hangs back completes the inversion: the omen-scene ends
+    with the patriot promising to spear his own men.
+
+[13] (12.251-255) Zeus's dust-squall off Ida "bewitched the mind of
+    the Achaeans": the day's tilt made weather. θέλγε — the verb of
+    enchantment (Circe's verb in the Odyssey) — for what a dust
+    storm does to a defending army's judgment.
+
+[14] (12.258-264) Siege engineering, precisely itemized: the
+    galleries (κρόσσαι), the breastworks, the jutting buttress-
+    piles set as footings for the towers — pulled, pried, and
+    levered by hand. The Iliad's only sustained description of
+    fortification assault, and the vocabulary is a hapax-cluster to
+    match the singular event.
+
+[15] (12.265-276) The Ajaxes' exhortation sorts the army into
+    "excellent... middling... lesser — since men are in no way all
+    equal in war — now there is work for every man": the clearest
+    statement in Homer of the mass army's ethic, where even the
+    worse man's labor counts — a note closer to the hoplite line
+    than to the duel of champions, and fittingly spoken by the
+    defensive hero par excellence.
+
+[16] (12.278-289) The great snow simile: Zeus "shows them what his
+    missiles are," lulls the winds, and covers peaks, headlands,
+    clover meadows, "men's rich worked fields," harbors and shores
+    — only the breaking wave keeps it off. The barrage of stones is
+    rendered as the silencing of the whole worked world under
+    steady snow: din translated into hush, war into weather, and
+    for four lines the poem simply looks at peace. Among the most
+    admired similes in ancient and modern criticism alike.
+
+[17] (12.290-293) "Yet not even then would the Trojans... have
+    broken the gates, had not Zeus roused his own son Sarpedon":
+    the breach requires a demigod, and the poet says so in the
+    counterfactual frame he reserves for real turning-points. The
+    lion simile that follows (299-306) is the poem's fullest: the
+    hungry lion who will either seize his prey or "himself be hit
+    among the foremost" — the exact two outcomes Sarpedon offers
+    Glaucus at 328.
+
+[18] (12.294-297) Sarpedon's shield, described from the smith's
+    bench: hammered bronze face, oxhides stitched inside with
+    golden rods running full circle. The poem's craftsmanship-
+    passages dignify what is about to be risked; compare the cup of
+    Nestor (11.632-637) and Hector's stone below.
+
+[19] (12.310-328) The Sarpedon speech — the classic statement of
+    the heroic contract, in two movements. First, honor as
+    obligation: the seat, the cuts, the full cups, the riverside
+    estate — all are wages, and the Lycian in the ranks must be
+    able to say his kings earn them ("not inglorious... their
+    strength too is noble"). Second, the deeper clause (322-328):
+    if escaping this battle meant being "ageless and immortal
+    forever," fighting would be senseless — I would neither fight
+    nor send you; it is because death comes anyway, in ten thousand
+    forms no mortal dodges, that courage is rational: "let us go:
+    we will give the triumph to some man, or he to us." Mortality
+    is not the objection to heroism but its premise. This is the
+    contract Achilles has just repudiated in Book 9 (life outweighs
+    all Troy's wealth, 9.401-409), and the poem has placed its
+    finest defense in the mouth of the man Zeus's own son — whom
+    Zeus will watch die in Book 16, weeping blood-rain. Quoted and
+    imitated from antiquity forward; the whole aristocratic ethics
+    of the West descends through these nineteen lines.
+
+[20] (12.331-363) The Menestheus episode: the Athenian captain —
+    praised in the Catalogue as a marshal, silent ever since —
+    peers for help and sends Thootes. The herald delivers the
+    message nearly word for word (354-363 = 343-350 with only the
+    deixis shifted: "here" to "there"), our wording kept: messenger-
+    fidelity as verbal discipline. Ancient critics athetized the
+    Teucer line in both copies (350 = 363) as needless; it is the
+    request's whole point — the bowman is wanted against Sarpedon.
+
+[21] (12.365) "Oïleus' son" — the lesser Ajax. Zenodotus read a
+    different form of the patronymic here (Ἰλιάδην), and — a
+    marvel of textual history — his reading appears on a vase of
+    the sixth century BC (published J.H.S. 1898): a pre-
+    Alexandrian variant caught in paint before any surviving
+    manuscript. The printed text follows Aristarchus.
+
+[22] (12.378-386) Epicles goes down under the jagged marble block —
+    "not easily could a man hold it in both hands... such as
+    mortals are now" (the fixed diminished-present formula, 5.304)
+    — and falls "like a diver... from the high tower." The diver-
+    image for a death-plunge recurs at 16.742 (Cebriones, with
+    Patroclus's terrible joke about oysters): grace at the instant
+    of obliteration.
+
+[23] (12.387-391) Teucer's arrow finds Glaucus's bared arm, and
+    Glaucus drops back off the wall hiding the wound, "so that no
+    Achaean might see that he was hit and glory over him." The
+    concealment is heroic bookkeeping — deny the enemy the boast —
+    and the wound is a plot-load: at 16.508-531 it is this arm
+    Glaucus begs Apollo to heal so he can defend Sarpedon's corpse.
+
+[24] (12.397-399) Sarpedon pulls down the breastwork with his bare
+    hands: "the wall was laid naked; and he had made a road for
+    many." He does not enter — that honor is reserved (note [30]);
+    he opens. Made a road for many: the plain half-line has the
+    whole tragedy of Book 16 folded in it — the road is for Hector,
+    and for Patroclus coming the other way.
+
+[25] (12.400-403) Teucer's arrow finds only the shield-strap:
+    "Zeus beat the death-spirits away from his son — he was not to
+    be broken by the ships' sterns." Not saved: rescheduled. The
+    clause quietly fixes the terms of 16.433-461, where Zeus will
+    weigh saving him and be talked out of it by Hera. Every rescue
+    in this poem is a date moved.
+
+[26] (12.409-412) After the grandest speech in the book, Sarpedon's
+    working voice: I cannot break through alone — "Follow me in!
+    More hands make better work." The proverb (πλεόνων δέ τι ἔργον
+    ἄμεινον) is the plain-prose twin of Diomedes' "when two go
+    together" (10.224-226): heroism, at the wall as in the night,
+    is cooperative labor.
+
+[27] (12.421-426) The deadlock as a boundary dispute: two men with
+    measuring-rods in a common field, quarreling "in a little strip
+    of ground over the fair share." The war for Troy reduced to
+    village litigation over inches — and with the surveyor's
+    precision comes the bitter joke: this, too, is a war about
+    property. The breastwork is the boundary-stone; the poem's
+    great space annihilates to a farmer's furrow.
+
+[28] (12.432-436) The second scales of the poem: not Zeus's golden
+    balance (8.69) but a wage-worker's — "an honest working woman"
+    (γυνὴ χερνῆτις ἀληθής) holding weight against wool, drawing
+    them level "to win a pitiful wage for her children." The
+    adjective ἀληθής — "true, honest" — is given to the poorest
+    person in the Iliad, and the whole stalemated battle hangs from
+    her steady hand. The pathos is in the economics: she balances
+    so carefully because the wage is pitiful and the children are
+    hers. No simile in the poem reaches further down the social
+    order, or carries more weight per line.
+
+[29] (12.445-450) Hector's stone: thick-butted, sharp-topped — a
+    natural battering ram — "the two best men of a district could
+    not easily lever it off the ground and onto a wagon, such as
+    mortals are now; but he swung it easily even alone." The
+    diminished-present formula again (its second use in the book,
+    the fifth in the poem), and then the theological asterisk:
+    "the son of crooked-counseled Cronos made it light for him."
+    Line 450 was omitted by Zenodotus and athetized by Aristophanes
+    and Aristarchus — deleting the asterisk credits Hector; keeping
+    it credits Zeus; the printed text keeps it, and the shepherd-
+    and-fleece simile (451-452) plays the weight both ways.
+
+[30] (12.457-471) The breach, in carpenter's detail: double doors,
+    two crossed bars, one bolt; the stance ("legs braced wide, to
+    give the blow its force"), both hinges sheared, the stone
+    falling inside "by its own weight," the gates bellowing. Then
+    the poem's great darkness-image: Hector leaps in "in his face
+    the very likeness of swift night" — νυκτὶ θοῇ ἀτάλαντος — man
+    as nightfall, the bronze blazing about the dark (Zenodotus read
+    "wrapped in night," and the vulgate's phrase has passed into
+    proverb as "sudden night"). "No one who met him could have held
+    him back — none but the gods... and his eyes flared with fire."
+    The book ends at the exact instant of penetration — Trojans
+    over the wall and through the gates, Danaans in rout among the
+    ships — the only book of the poem that closes inside an
+    unresolved catastrophe: the door broken, and everything still
+    to lose.

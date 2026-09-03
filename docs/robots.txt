@@ -1,0 +1,6 @@
+# Everything here is meant to be read, by people and by machines.
+# Machine-readable layer (JSONL parallel corpus, JSON name index):
+#   https://wrath-sing-goddess.com/api/manifest.json
+User-agent: *
+Allow: /
+Sitemap: https://wrath-sing-goddess.com/sitemap.xml

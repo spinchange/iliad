@@ -1,0 +1,186 @@
+:root{
+  --wine:#46192b; --wine-deep:#1e0b15; --bone:#ead9b4; --gold:#c99b3f;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+html,body{margin:0}
+body{
+  background:
+    radial-gradient(ellipse at 50% 38%, rgba(0,0,0,0) 55%, rgba(12,4,8,.55) 100%),
+    linear-gradient(#46192b, #331323 55%, #1e0b15);
+  background-attachment:fixed;
+  color:var(--bone);
+  font-family:"Palatino Linotype","Book Antiqua",Palatino,Georgia,serif;
+  line-height:1.55; min-height:100vh;
+}
+a{color:var(--gold)}
+.wrap{max-width:680px; margin:0 auto; padding:0 22px}
+
+.meander{height:26px; background-repeat:repeat-x; background-size:auto 26px;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='26'><g fill='none' stroke='%23ead9b4' stroke-width='2.6'><path d='M0 4 H40'/><path d='M0 22 H40'/><path d='M28 22 V8 H11 V18 H19'/></g></svg>");
+  opacity:.85; margin:14px 0 0}
+
+.site{text-align:center; margin:18px 0 0; font-size:.8rem;
+  letter-spacing:.14em; text-transform:uppercase}
+.site a{color:var(--bone); opacity:.75; text-decoration:none}
+.site a:hover{opacity:1; color:var(--gold)}
+
+.booknav{display:flex; justify-content:space-between; gap:12px;
+  margin:20px 0 0; font-size:.92rem}
+.booknav.bottom{margin:34px 0 8px; border-top:1px solid rgba(201,155,63,.3);
+  padding-top:16px}
+.booknav a{text-decoration:none}
+.booknav a:hover{text-decoration:underline}
+.booknav span{min-width:70px}
+
+.bookhead{text-align:center; margin:26px 0 30px}
+.bookhead h1{font-weight:normal; letter-spacing:.12em; font-size:2.1rem;
+  margin:0 0 .15em}
+.argument{font-style:italic; opacity:.85; margin:0}
+
+/* the translator's note on the book, collapsed under the argument */
+.tnote{margin:-10px 0 28px; padding:0 14px; font-size:.92rem;
+  background:rgba(201,155,63,.06); border:1px solid rgba(201,155,63,.25);
+  border-radius:6px}
+.tnote summary{cursor:pointer; padding:9px 0; color:var(--gold);
+  font-variant:small-caps; letter-spacing:.06em; list-style-position:inside}
+.tnote summary:hover{text-decoration:underline}
+.tnote[open] summary{border-bottom:1px solid rgba(201,155,63,.2);
+  margin-bottom:6px}
+.tnote p{margin:0 0 .8em; opacity:.92}
+.tnote p:last-child{padding-bottom:6px}
+
+.verse{padding-left:2.6rem}
+.stanza{margin:0 0 1.15em}
+.v{margin:0; position:relative; padding-left:1.4em; text-indent:-1.4em}
+.absent{margin:.3em 0; padding-left:1.4em; font-style:italic; opacity:.6;
+  font-size:.9em}
+.ln{position:absolute; left:-3.4rem; top:.32em; width:2.6rem;
+  text-align:right; font-size:.72em; color:var(--gold); opacity:.55;
+  text-decoration:none; text-indent:0}
+.ln:hover{opacity:1}
+/* every line has a permalink; the non-fifth ones surface on hover only,
+   and not at all on touch screens (no hover, and an invisible tap target
+   in the gutter would just cause stray jumps) */
+.ln.ghost{opacity:0}
+.v:hover .ln.ghost{opacity:.55}
+.v:hover .ln.ghost:hover{opacity:1}
+@media (hover:none){.ln.ghost{display:none}}
+.copied{position:absolute; z-index:9; transform:translateY(-130%);
+  font-size:.7rem; font-variant:small-caps; letter-spacing:.08em;
+  color:var(--gold); background:rgba(30,11,21,.95);
+  border:1px solid rgba(201,155,63,.5); border-radius:10px;
+  padding:2px 9px; pointer-events:none; white-space:nowrap}
+.v:target, .note:target{background:rgba(201,155,63,.14); border-radius:3px}
+.fnref{text-decoration:none; padding:0 .08em}
+.fnref sup{font-size:.68em}
+
+.notes{margin-top:40px; border-top:1px solid rgba(201,155,63,.3);
+  padding-top:6px}
+.notes h2{font-weight:normal; font-variant:small-caps; letter-spacing:.06em;
+  color:var(--gold); font-size:1.25rem}
+.note{font-size:.92rem; opacity:.92; margin:0 0 .85em;
+  padding-left:1.6em; text-indent:-1.6em}
+.nnum{color:var(--gold); font-size:.8em; vertical-align:.25em}
+.nline{font-variant:small-caps; text-decoration:none; white-space:nowrap}
+.nline:hover{text-decoration:underline}
+.back{text-decoration:none}
+.cite{text-decoration:none; white-space:nowrap}
+.cite:hover{text-decoration:underline}
+
+/* the introduction and the further-reading guide */
+.prose p{margin:0 0 1em}
+.prose h2{font-weight:normal; font-variant:small-caps; letter-spacing:.06em;
+  color:var(--gold); font-size:1.3rem; margin:36px 0 12px;
+  border-bottom:1px solid rgba(201,155,63,.3); padding-bottom:4px}
+.prose h2 .num{opacity:.7; margin-right:.3em}
+.fr-title{margin:18px 0 2px; color:var(--gold)}
+.fr-body{margin:0 0 1em; font-size:.95rem; opacity:.92; padding-left:1.2em}
+
+.toc{list-style:none; margin:0; padding:0}
+.toc li{margin:0 0 2px}
+.toc a{display:flex; gap:14px; align-items:baseline; padding:9px 12px;
+  text-decoration:none; color:var(--bone); border-radius:5px;
+  border:1px solid transparent}
+.toc a:hover{background:rgba(201,155,63,.1); border-color:rgba(201,155,63,.35)}
+.toc b{color:var(--gold); font-weight:normal; letter-spacing:.06em;
+  white-space:nowrap; min-width:5.4em}
+.toc span{font-style:italic; opacity:.85; font-size:.95rem}
+
+.apparatus{margin:14px 0 8px; padding:12px 14px; font-size:.95rem;
+  background:rgba(201,155,63,.07); border:1px solid rgba(201,155,63,.3);
+  border-radius:6px}
+.toc + .apparatus{margin-top:26px}
+
+footer{text-align:center; font-size:.8rem; opacity:.7; padding:20px 0 40px}
+
+/* ---- site search (Pagefind default UI, re-themed) ---- */
+#search{margin:6px 0 22px;
+  --pagefind-ui-scale:.9;
+  --pagefind-ui-primary:var(--gold);
+  --pagefind-ui-text:var(--bone);
+  --pagefind-ui-background:rgba(0,0,0,.25);
+  --pagefind-ui-border:rgba(201,155,63,.45);
+  --pagefind-ui-tag:rgba(201,155,63,.18);
+  --pagefind-ui-border-width:1px;
+  --pagefind-ui-border-radius:5px;
+  --pagefind-ui-font:inherit}
+#search .pagefind-ui__search-input{color:var(--bone)}
+#search .pagefind-ui__search-input::placeholder{color:var(--bone); opacity:.55}
+#search .pagefind-ui__result{border-color:rgba(201,155,63,.25)}
+#search .pagefind-ui__result-link{color:var(--gold)}
+#search .pagefind-ui__result-excerpt{color:var(--bone); opacity:.9}
+#search mark{background:rgba(201,155,63,.4); color:inherit; border-radius:2px}
+#search .pagefind-ui__button{background:rgba(201,155,63,.1); color:var(--gold);
+  border:1px solid rgba(201,155,63,.45)}
+#search .pagefind-ui__message{color:var(--bone); opacity:.8}
+
+/* ---- index of names & places ---- */
+.booknav .mid{min-width:0}
+.idxbar{position:sticky; top:0; z-index:5; background:rgba(30,11,21,.96);
+  margin:0 -22px 18px; padding:12px 22px 10px;
+  border-bottom:1px solid rgba(201,155,63,.3)}
+.idxbar input{width:100%; padding:9px 12px; font:inherit; color:var(--bone);
+  background:rgba(0,0,0,.25); border:1px solid rgba(201,155,63,.45);
+  border-radius:5px}
+.idxbar input:focus{outline:none; border-color:var(--gold)}
+.chips{display:flex; gap:7px; flex-wrap:wrap; align-items:baseline;
+  margin-top:9px}
+.chip{font:inherit; font-size:.8rem; color:var(--bone); cursor:pointer;
+  background:rgba(0,0,0,.2); border:1px solid rgba(201,155,63,.35);
+  border-radius:12px; padding:2px 11px}
+.chip:hover{border-color:var(--gold)}
+.chip.on{background:rgba(201,155,63,.25); color:var(--gold);
+  border-color:var(--gold)}
+#count{margin-left:auto; font-size:.8rem; opacity:.65; white-space:nowrap}
+.letters{margin-top:9px; font-size:.85rem; letter-spacing:.1em}
+.letters a{text-decoration:none; padding:0 2px}
+.letters a:hover{text-decoration:underline}
+.letter{font-weight:normal; color:var(--gold); font-size:1.5rem;
+  letter-spacing:.1em; border-bottom:1px solid rgba(201,155,63,.3);
+  margin:30px 0 14px; scroll-margin-top:120px}
+.entry{margin:0 0 20px; scroll-margin-top:120px}
+.entry:target{background:rgba(201,155,63,.1); border-radius:5px;
+  padding:6px 10px; margin-left:-10px; margin-right:-10px}
+.entry h3{font-weight:normal; font-size:1.12rem; margin:0 0 2px;
+  color:var(--gold); display:flex; align-items:baseline; gap:.4em;
+  flex-wrap:wrap}
+.entry h3 .grc{opacity:.8; font-size:.95em; color:var(--bone)}
+.entry h3 .cat{margin-left:auto; flex-shrink:0; white-space:nowrap;
+  font-size:.68rem; letter-spacing:.1em;
+  text-transform:uppercase; opacity:.55; color:var(--bone);
+  border:1px solid rgba(234,217,180,.35); border-radius:10px;
+  padding:1px 8px}
+.say{margin:0 0 6px; font-size:.85rem; color:var(--gold); opacity:.85;
+  font-variant:small-caps; letter-spacing:.04em}
+.ibody{margin:0 0 6px; font-size:.95rem}
+.ifield{margin:0 0 4px; font-size:.88rem; opacity:.88}
+.irefs{margin:0 0 4px; font-size:.85rem; opacity:.85}
+
+@media (max-width:560px){
+  .wrap{padding:0 14px}
+  .verse{padding-left:2.1rem}
+  .ln{left:-2.6rem; width:2rem}
+  .toc b{min-width:4.6em}
+  .idxbar{margin:0 -14px 16px; padding:10px 14px 8px}
+}

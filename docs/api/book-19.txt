@@ -1,0 +1,810 @@
+BOOK 19
+
+The wrath is renounced from a seat; the blame is laid on a goddess;
+and the gifts nobody looks at are carried past a fasting man — who
+arms, mounts, and hears his own horse foretell his death.
+
+TRANSLATOR'S COMMENTARY
+
+Book 19 is called the Renunciation of the Wrath, and its business
+is to close the quarrel that opened the poem — which it does in the
+strangest scene of public reconciliation in literature. Achilles,
+who now wants only to kill, renounces the wrath in nine lines and
+wishes Briseis — the girl the quarrel was about — had died before
+it started (note [6]). Agamemnon answers seated, "not standing up
+in their midst" (the ancient editors were so unsettled that
+Zenodotus's text made him stand; note [8]), and delivers not an
+apology but a theology: "I am not to blame: Zeus is, and Fate, and
+the Erinys who walks in mist" — followed by the great parable of
+Ate, Blindness, the soft-footed eldest daughter of Zeus who walks
+on the heads of men, and whom Zeus himself, blinded over the birth
+of Heracles, hurled from heaven by her shining braids (notes [9],
+[10]). Book 9's Blindness was "strong and sound of foot"; this
+register keeps the one English name so the two portraits can argue
+with each other. And Achilles accepts the theology — "Father Zeus,
+great is the blindness you deal to men!" — so the quarrel ends
+with both parties agreeing that nobody human did it (note [19]).
+The gifts so bitterly itemized in Book 9 are carried into the
+middle of the assembly, and the man they were meant to persuade
+tells Agamemnon to give them or keep them as he pleases.
+
+The book's real argument is between grief and the belly. Odysseus
+— "I was born first and know more things" — insists twice that
+armies cannot mourn fasting: his harvest of bronze, "where the
+bronze strews the most straw on the ground and the crop is
+smallest," and his terrible discipline: bury the dead "keeping a
+pitiless heart, weeping for one day" (note [16]). Achilles refuses
+— "slaughter, and blood, and the hard groaning of men" is the only
+food he wants (note [15]) — and has to be fed like a wick, drop by
+drop, with nectar by Athena. Between the two positions stands the
+book's finest scene: Briseis, restored at last and given her only
+speech in the poem, keening over Patroclus who had promised to make
+her Achilles' wedded wife — "You were gentle, always" — while the
+narrator, in two lines as cold and true as anything in Homer, notes
+that the women wailed with her "for Patroclus in show; but each
+for her own sorrows" (note [20]).
+
+Then the arming — snowfall of helmets, the earth laughing at the
+lightning of bronze, the shield's light like a lonely mountain fire
+seen by sailors storm-driven away from their dear ones (the inverse
+of Book 18's rescue-beacon; note [25]) — the Pelian ash only
+Achilles can swing (kept verbatim from Book 16, against Aristarchus;
+note [26]), and the ending no other book has: the war-horse Xanthus,
+given voice by Hera, bows his head till his mane pours to the
+ground and tells his master he will die — "by a god, and by a man"
+— before the Erinyes shut his mouth. Achilles already knows. He
+says so, and drives.
+
+Register notes: 19.2 = 11.2; 19.65-66 = 18.112-113; 19.78 = 2.110
+("squires of Ares"); 19.176-177 reuse the oath-wording of
+9.133-134; 19.216 = 16.21; 19.224 = 4.84; 19.388-391 = 16.141-144;
+Ate is "Blindness" per 9.502-512; the gift-catalogue matches
+9.122-130 item for item.
+
+------------------------------------------------------------
+
+   1  Dawn in her saffron robe rose up from the streams of Ocean[1]
+   2  to bring light to the immortals and to mortal men;
+   3  and she came to the ships carrying the god's gifts.
+   4  She found her dear son lying over Patroclus,
+   5  wailing his piercing grief; and around him his many companions
+   6  mourned. The brilliant goddess stood among them,
+   7  and clung to his hand, and spoke a word, and named him:
+   8  "My child — we must let this man lie, for all our grief,[2]
+   9  since by the will of the gods, first of all, he was broken.
+  10  Now you: take from Hephaestus this famed armor,
+  11  beautiful — such as no man has ever worn on his shoulders."
+  12  So speaking, the goddess laid the armor down[3]
+  13  in front of Achilles; and all the intricate work clashed aloud.
+  14  And trembling took all the Myrmidons: not one dared
+  15  look at it straight on; they shrank away. But Achilles —
+  16  the more he looked, the deeper the anger sank in him, and his eyes
+  17  blazed out terribly under their lids like flame-glare;
+  18  and he delighted, holding the god's shining gifts in his hands.
+  19  And when he had taken his joy of looking at the intricate work,
+  20  at once he spoke winged words to his mother:
+  21  "Mother, the god has given me arms: such work as is fitting[4]
+  22  for immortals — such as no mortal man could have made.
+  23  Now I will arm myself in them. But I am terribly
+  24  afraid that meanwhile, into the stout son of Menoetius,
+  25  flies will enter by the bronze-cut wounds
+  26  and breed worms in him, and defile the body —
+  27  the life is slain out of it — and all the flesh will rot."
+  28  Then answered him the goddess, silver-footed Thetis:
+  29  "Child, do not let these things trouble your mind.
+  30  I will undertake to beat away those savage tribes,
+  31  the flies, that feed on men killed in war.
+  32  Even if he lies here till a year runs to its end,
+  33  his flesh shall stay sound as it is — or better.
+  34  But you: call the Achaean heroes to assembly,
+  35  renounce your wrath against Agamemnon, shepherd of the people,
+  36  and then arm quickly for the war, and put on your valor."
+  37  So speaking, she sent daring strength into him;
+  38  and into Patroclus, through the nostrils, she distilled
+  39  ambrosia and red nectar, so his flesh might stay sound.
+  40  And brilliant Achilles went along the beach of the sea[5]
+  41  shouting his terrible shout, and roused the Achaean heroes.
+  42  And even those who before had always stayed among the ships —
+  43  the helmsmen, the men who kept the steering-oars,
+  44  and the stewards who stayed aboard as dealers of bread —
+  45  even they went then to the assembly, because Achilles
+  46  had appeared, who had long stayed out of the grievous fighting.
+  47  And two came limping, the squires of Ares:
+  48  war-staunch Tydeus's son and brilliant Odysseus,
+  49  leaning on their spears, for they still carried grievous wounds;
+  50  and they went and sat down in the front of the assembly.
+  51  And last of all came the lord of men Agamemnon,
+  52  carrying his wound: for he too, in the strong encounter,
+  53  was stabbed by Coon, Antenor's son, with a bronze-fitted spear.
+  54  And when all the Achaeans were gathered together,
+  55  swift-footed Achilles rose up among them and spoke:
+  56  "Son of Atreus — was this, then, in any way the better for us both,[6]
+  57  for you and for me, when the two of us, grieved at heart,
+  58  raged in heart-devouring strife for the sake of a girl?
+  59  I wish Artemis had killed her with an arrow at the ships
+  60  on the day I chose her from the sack of Lyrnessus:
+  61  then not so many Achaeans would have bitten the boundless earth
+  62  under enemy hands, while I raged on in my wrath.
+  63  For Hector and the Trojans, the gain. The Achaeans, I think,
+  64  will long remember the strife of me and you.
+  65  But we will let that be — a thing done and past, for all our grief,[7]
+  66  beating down the heart in our chests because we must.
+  67  Now I end my anger. There is no need for me
+  68  to rage on, relentless, forever. Come then: quickly
+  69  drive the long-haired Achaeans into the war,
+  70  so that I can go out against the Trojans once again
+  71  and test them — whether they choose to spend the night by the ships.
+  72  Many a one of them, I think, will be glad to bend the knee,
+  73  whoever escapes out of the deadly war from under our spear."
+  74  So he spoke; and the strong-greaved Achaeans rejoiced
+  75  that the great-hearted son of Peleus renounced the wrath.
+  76  And among them spoke also the lord of men Agamemnon —[8]
+  77  from the place where he sat, not standing up in their midst:
+  78  "Friends, Danaan heroes, squires of Ares:[9]
+  79  when a man stands to speak, it is right to listen, and unseemly
+  80  to break in on him: that is hard even for a practiced speaker.
+  81  In a great uproar of men, how could anyone hear
+  82  or speak? Even a clear-voiced speaker is defeated there.
+  83  To the son of Peleus I will declare myself. But the rest of you
+  84  Argives, mark it, and each man know my word well.
+  85  Often the Achaeans have said this thing against me,
+  86  and they would revile me for it. But I am not to blame:
+  87  Zeus is, and Fate, and the Erinys who walks in mist,
+  88  who cast wild blindness into my mind in the assembly
+  89  on that day when I myself stripped Achilles of his prize.
+  90  But what could I do? A god carries all things to their end:
+  91  Blindness, the eldest daughter of Zeus, who blinds[10]
+  92  all men — the deadly one. Her feet are soft: not on the ground
+  93  does she walk, but over the heads of men
+  94  she moves, damaging mankind; and one after another she snares.
+  95  For once she blinded even Zeus — and he, they say, is best
+  96  of men and gods alike; yet even Zeus
+  97  Hera, female as she is, deceived with her scheming
+  98  on the day when the might of Heracles was due to be born
+  99  of Alcmene, inside fair-crowned Thebes.
+ 100  For Zeus spoke out in triumph among all the gods:
+ 101  'Hear me, all you gods and all you goddesses,
+ 102  while I say what the heart in my chest commands me.
+ 103  Today Eileithyia of hard labor will bring
+ 104  into the light a man who shall rule all who dwell around him —
+ 105  of the race of men who are of my own blood.'
+ 106  And scheming lady Hera answered him:
+ 107  'You will prove a liar: you will set no fulfillment on your word.
+ 108  Come then, Olympian: swear me now a strong oath
+ 109  that he shall indeed be lord of all who dwell around him
+ 110  who on this day falls between the feet of a woman,
+ 111  of those men who are of the race of your blood.'
+ 112  So she spoke; and Zeus saw none of her scheming,
+ 113  but swore the great oath — and was blinded to his cost.
+ 114  And Hera darted down, leaving the peak of Olympus,
+ 115  and came quickly to Achaean Argos, where she knew
+ 116  the sturdy wife of Sthenelus, Perseus's son.
+ 117  She was pregnant with a dear son, and her seventh month was standing;
+ 118  and Hera brought him out into the light before his month,
+ 119  and stayed Alcmene's labor, and held back the Eileithyiai.
+ 120  Then she herself brought the news, and said to Zeus, Cronos's son:
+ 121  'Father Zeus of the bright bolt — I will put a word in your mind.
+ 122  Already a fine man is born who shall rule the Argives:
+ 123  Eurystheus, son of Sthenelus, Perseus's son —
+ 124  your stock. It is no disgrace for him to rule the Argives.'
+ 125  So she spoke; and sharp grief struck him deep in his mind.
+ 126  And at once he seized Blindness by her shining-braided head,
+ 127  raging in his heart, and swore a strong oath
+ 128  that never again to Olympus and the starry heaven
+ 129  would she come back — Blindness, who blinds all.
+ 130  So speaking, he whirled her in his hand and flung her
+ 131  out of the starry heaven; and soon she came to the works of men.
+ 132  Over her he groaned forever, whenever he saw his dear son
+ 133  doing shameful labor under Eurystheus's tasks.
+ 134  So I too — when great Hector of the flashing helmet
+ 135  kept slaughtering Argives at the sterns of the ships,
+ 136  I could not forget the Blindness that first blinded me.
+ 137  But since I was blinded, and Zeus took my wits away,[11]
+ 138  I am willing to make amends, and to give ransom past counting.
+ 139  Up, then, into the war — and rouse the rest of the army.
+ 140  The gifts: I am here to furnish all of them, as many
+ 141  as brilliant Odysseus promised yesterday in your hut.
+ 142  Or if you wish, hold back a while, pressed though you are for war,
+ 143  and my attendants will fetch the gifts out of my ship
+ 144  and bring them here — and you will see I give what contents your heart."
+ 145  Then in answer spoke to him swift-footed Achilles:
+ 146  "Most glorious son of Atreus, lord of men Agamemnon:[12]
+ 147  the gifts — furnish them if you wish, as is proper,
+ 148  or keep them with you. But now let us remember our war-craft,
+ 149  at once. There is no need to sit here bandying words,
+ 150  no need for delay: a great work is still undone —
+ 151  so that men may see Achilles once again among the front-fighters,
+ 152  wrecking the Trojan battalions with his bronze spear.
+ 153  So let each of you remember this, and fight your man."
+ 154  Then in answer spoke to him resourceful Odysseus:
+ 155  "Not so — brave though you are, godlike Achilles.[13]
+ 156  Do not drive the sons of the Achaeans fasting toward Ilion
+ 157  to fight the Trojans, since the press of battle will not last
+ 158  a short time only, once the phalanxes of men
+ 159  close with each other, and the god breathes fury into both.
+ 160  No — order the Achaeans by the swift ships to take
+ 161  bread and wine: for that is fury, and that is valor.
+ 162  No man will be able to fight the whole day through,
+ 163  to the setting of the sun, fasting from bread:
+ 164  for even if in his heart he is wild to make war,
+ 165  his limbs grow heavy on him unawares, and thirst
+ 166  and hunger overtake him, and his knees fail as he goes.
+ 167  But the man who has had his fill of wine and food
+ 168  and fights the enemy men the whole day long —
+ 169  his heart in his chest is daring, and his limbs
+ 170  do not tire before all break off from the war.
+ 171  Come then: dismiss the army, and order the morning meal
+ 172  made ready. And the gifts — let the lord of men Agamemnon
+ 173  bring them into the middle of the assembly, so all the Achaeans
+ 174  may see them with their eyes, and your heart be warmed.
+ 175  And let him stand up among the Argives and swear you an oath
+ 176  that he never went up into her bed, he never lay with her,
+ 177  as is the way, lord, of men and women;
+ 178  and let the heart in your own chest be gracious.
+ 179  And then let him appease you with a rich feast
+ 180  in his hut, so you may lack nothing of your due.
+ 181  And you, son of Atreus, will be more just toward another man
+ 182  hereafter. There is no cause for indignation when a king
+ 183  makes amends to a man, when he was first to turn harsh."
+ 184  Then answered him the lord of men Agamemnon:[14]
+ 185  "I am glad, son of Laertes, to hear your speech:
+ 186  you have gone through it all in due measure, point by point.
+ 187  The oath — I am willing to swear it; my heart commands me;
+ 188  and I will not forswear myself before the god. But let Achilles
+ 189  wait here so long, pressed though he is for the war-god's work;
+ 190  and wait, all the rest of you, together, until the gifts
+ 191  come from my hut, and we cut the faithful oaths.
+ 192  And to you yourself, Odysseus, I give this charge and order:
+ 193  choose out the noblest young men of all the Achaeans
+ 194  and carry the gifts from my ship, all that yesterday
+ 195  we promised to give Achilles — and lead the women too.
+ 196  And let Talthybius, quickly, through the broad Achaean camp,
+ 197  make ready a boar, to sacrifice to Zeus and to the Sun."
+ 198  Then in answer spoke to him swift-footed Achilles:
+ 199  "Most glorious son of Atreus, lord of men Agamemnon:[15]
+ 200  some other time were better for busying yourselves with this —
+ 201  some pause in the fighting, whenever one may come,
+ 202  some hour when the fury is not so great in my chest.
+ 203  Now they lie torn — the men whom Hector, Priam's son,
+ 204  broke, when Zeus was handing him the glory —
+ 205  and you two urge us to our food! For my part
+ 206  I would command the sons of the Achaeans to fight now,
+ 207  fasting, unfed, and at the setting of the sun
+ 208  make a great supper — once we have paid off the outrage.
+ 209  Before that, down my own throat, not a thing
+ 210  shall pass — no drink, no food — my companion being dead,
+ 211  who lies in my hut torn by the sharp bronze,
+ 212  turned toward the doorway, and around him our companions
+ 213  mourn. So those things have no place in my thoughts —
+ 214  but slaughter, and blood, and the hard groaning of men."
+ 215  Then in answer spoke to him resourceful Odysseus:
+ 216  "Achilles, son of Peleus, far greatest of the Achaeans,[16]
+ 217  you are stronger than I am, and mightier, not by a little,
+ 218  with the spear; but in thought I would surpass you
+ 219  by much, since I was born first and know more things.
+ 220  So let your heart endure to hear my words.
+ 221  Quickly men have their fill of battle —
+ 222  that harvest where the bronze strews the most straw on the ground
+ 223  and the crop is smallest, once Zeus tilts his scales —
+ 224  Zeus, the dispenser of war to men.
+ 225  With the belly the Achaeans cannot mourn a corpse:
+ 226  too many men, one on another, day after day,
+ 227  are falling: when could anyone breathe from the labor?
+ 228  No — we must bury the man who dies,
+ 229  keeping a pitiless heart, weeping for one day;
+ 230  and all who are left alive from the hateful war
+ 231  must remember drink and food, so that all the more
+ 232  we may fight the enemy without pause, forever,
+ 233  our flesh clothed in unwearying bronze. And let no man
+ 234  hang back, waiting for a second summons to the army:
+ 235  this is the summons — and it will go hard with the man who is left
+ 236  behind at the ships of the Argives. All in one body,
+ 237  let us wake the sharp war-god against the horse-taming Trojans."
+ 238  He spoke, and took with him the sons of glorious Nestor,[17]
+ 239  and Meges, Phyleus's son, and Thoas, and Meriones,
+ 240  and Lycomedes, Creon's son, and Melanippus;
+ 241  and they went to the hut of Agamemnon, Atreus's son.
+ 242  Then no sooner was the word said than the thing was done:
+ 243  seven tripods they carried out of the hut, as he had promised him,
+ 244  and twenty gleaming cauldrons, and twelve horses;
+ 245  and they led out at once the women skilled in blameless work,
+ 246  seven, and the eighth was fair-cheeked Briseis.
+ 247  Then Odysseus weighed out ten full talents of gold
+ 248  and led the way; and the young Achaean men behind him carried the gifts.
+ 249  And they set them in the middle of the assembly; and Agamemnon[18]
+ 250  stood up. Talthybius, his voice like a god's,
+ 251  holding the boar in his hands, stood beside the shepherd of the people.
+ 252  And the son of Atreus drew out with his hands the knife
+ 253  that always hung beside the great scabbard of his sword,
+ 254  cut the first hairs from the boar, and lifting his hands
+ 255  to Zeus he prayed. And all the Argives sat by in silence,
+ 256  in due order, listening to the king.
+ 257  And praying, he spoke, looking up into the wide heaven:
+ 258  "Let Zeus be witness first — highest of the gods, and best —
+ 259  and Earth, and the Sun, and the Erinyes, who under the earth
+ 260  exact payment from men, whoever swears a false oath:
+ 261  I never laid a hand on the girl Briseis,
+ 262  neither desiring her for my bed nor for anything else;
+ 263  untouched she has remained inside my huts.
+ 264  If any of this is falsely sworn, may the gods give me pains
+ 265  in plenty — all they give a man who sins against them in his oath."
+ 266  He spoke, and cut the boar's throat with the pitiless bronze.
+ 267  And Talthybius whirled it and threw it into the great gulf
+ 268  of the grey sea, food for fish. Then Achilles
+ 269  rose up and spoke among the war-loving Argives:
+ 270  "Father Zeus — great is the blindness you deal to men![19]
+ 271  Never otherwise would the son of Atreus have stirred
+ 272  the heart in my chest so thoroughly, nor led the girl off
+ 273  against my will, unbending. No: it was Zeus, somehow,
+ 274  who willed that death should come to many Achaeans.
+ 275  Now go to your meal, so we may join the war-god together."
+ 276  So he spoke, and dissolved the assembly quickly.
+ 277  They scattered then, each man to his own ship;
+ 278  but the great-hearted Myrmidons busied themselves with the gifts
+ 279  and went carrying them to the ship of godlike Achilles.
+ 280  They laid them in the huts, and seated the women there,
+ 281  and proud attendants drove the horses to the herd.
+ 282  Then Briseis, like golden Aphrodite,[20]
+ 283  when she saw Patroclus torn by the sharp bronze,
+ 284  flung herself on him with a piercing wail, and with her hands tore
+ 285  her breasts and her soft throat and her beautiful face.
+ 286  And weeping, the woman like the goddesses said:
+ 287  "Patroclus — dearest of all to my unhappy heart —
+ 288  alive I left you when I went out of this hut;
+ 289  now I come back, leader of the people, and find you
+ 290  dead. So evil follows evil for me, always.
+ 291  The husband to whom my father and lady mother gave me
+ 292  I saw torn by the sharp bronze before our city,
+ 293  and my three brothers, whom one mother bore with me,
+ 294  beloved — all of them met their day of destruction.
+ 295  And you would not let me — not even when swift Achilles
+ 296  killed my husband, and sacked the city of godlike Mynes —
+ 297  you would not let me weep: you kept saying you would make me
+ 298  the wedded wife of godlike Achilles, and take me in the ships
+ 299  to Phthia, and hold my marriage-feast among the Myrmidons.
+ 300  So I weep your death without ceasing. You were gentle, always."
+ 301  So she spoke, weeping; and the women wailed in answer —
+ 302  for Patroclus in show; but each for her own sorrows.
+ 303  And around Achilles the elders of the Achaeans gathered,[21]
+ 304  begging him to eat; but he refused them, groaning:
+ 305  "I beg you — if any of my dear companions will hear me —
+ 306  do not bid me, before it is time, with food and drink
+ 307  to sate my own heart, since terrible grief has come to me.
+ 308  Until the sun goes down I will hold out, and endure regardless."
+ 309  So speaking, he sent the other kings away,
+ 310  but the two sons of Atreus stayed, and brilliant Odysseus,
+ 311  and Nestor, and Idomeneus, and the old horseman Phoenix,
+ 312  trying to comfort his thick grief. But his heart would not
+ 313  be comforted, before he entered the mouth of bloody war.
+ 314  Remembering, he heaved a deep sigh, and spoke aloud:
+ 315  "There was a time — unhappy man, dearest of my companions —[22]
+ 316  when you yourself would set the savory meal before me in this hut,
+ 317  quickly and deftly, whenever the Achaeans were rushing
+ 318  to carry the war of many tears against the horse-taming Trojans.
+ 319  Now you lie torn; and my heart goes
+ 320  without taste of the drink and food that are here in plenty,
+ 321  for want of you. Nothing worse could I suffer —
+ 322  not even if I learned my father had died,
+ 323  who now in Phthia, I suppose, is letting soft tears fall
+ 324  for lack of a son like me — while I, in a strange country,
+ 325  fight the Trojans for blood-chilling Helen's sake —
+ 326  or the death of my dear son, who is being reared for me on Scyros:
+ 327  if he still lives somewhere — godlike Neoptolemus.
+ 328  For until now the heart in my chest had hoped
+ 329  that I alone would die far from horse-pasturing Argos,
+ 330  here in Troy, and that you would come home to Phthia,
+ 331  so you might take my child in the swift black ship
+ 332  out of Scyros, and show him everything of mine —
+ 333  my possessions, my slaves, my great high-roofed house.
+ 334  For Peleus by now, I think, is either altogether
+ 335  dead, or — barely living still — he grieves on
+ 336  in hateful old age, forever waiting the bitter
+ 337  news of me: when he shall hear that I am dead."
+ 338  So he spoke, weeping; and the elders groaned in answer,[23]
+ 339  each remembering what he had left behind in his own halls.
+ 340  And seeing them mourning, the son of Cronos pitied them,
+ 341  and quickly he spoke winged words to Athena:
+ 342  "My child, you have deserted your man completely.
+ 343  Is Achilles, then, no longer any care to your mind?
+ 344  There he sits, in front of his ships with their upright horns,
+ 345  mourning his dear companion. The others
+ 346  have gone to their meal; he is fasting, and will not eat.
+ 347  Go — distill nectar and lovely ambrosia
+ 348  into his chest, so hunger does not reach him."
+ 349  So speaking, he urged on Athena, eager already;
+ 350  and like a falcon, wide-winged and shrill-voiced,
+ 351  she dropped from heaven through the upper air. And the Achaeans
+ 352  were arming there and then throughout the camp. To Achilles
+ 353  she distilled nectar in his chest, and lovely
+ 354  ambrosia, so joyless hunger would not reach his knees;
+ 355  and she was gone, back to the close-built house of her mighty
+ 356  father. And they poured out away from the swift ships.
+ 357  As when thick snowflakes flutter down from Zeus,[24]
+ 358  cold under the blast of Boreas born in the clear sky,
+ 359  so thick then the helmets, glittering bright,
+ 360  streamed out of the ships, and the bossed shields,
+ 361  the strong-plated corslets and the ash-wood spears.
+ 362  The gleam went up to heaven; and all the earth around laughed
+ 363  at the lightning-flash of bronze; and a thunder rose from under
+ 364  the feet of men. And in their midst brilliant Achilles armed.
+ 365  His teeth ground loud against each other; and his two eyes[25]
+ 366  blazed as if they were flame-glare; and into his heart
+ 367  sank grief past bearing. Raging against the Trojans,
+ 368  he put on the gifts of the god that Hephaestus had labored to forge.
+ 369  First he set the greaves along his shins,
+ 370  fine greaves, fitted with silver ankle-pieces;
+ 371  second, he put the corslet about his chest;
+ 372  and around his shoulders he threw the sword, silver-studded,
+ 373  bronze; and after that the shield, great and heavy,
+ 374  he took up, and its light went out far, like the moon's.
+ 375  As when out at sea a light shows to sailors,
+ 376  the glare of a burning fire, that burns high in the mountains
+ 377  at a lonely steading — while the storm-winds carry them,
+ 378  unwilling, over the fish-filled sea away from their dear ones:
+ 379  so from Achilles' shield the light went up to the upper air,
+ 380  the beautiful, intricate shield. And lifting the heavy helmet
+ 381  he set it on his head; and it shone out like a star,
+ 382  the horse-haired helmet; and around it shook the plumes
+ 383  of gold that Hephaestus had set thick along the crest.
+ 384  And brilliant Achilles tried himself in the armor,[26]
+ 385  whether it fitted him, and his shining limbs ran free in it;
+ 386  and it became like wings to him, and lifted the shepherd of the people.
+ 387  And out of its case he drew his father's spear —
+ 388  heavy, huge, compact — no other of the Achaeans
+ 389  could swing it; Achilles alone knew how to swing it —
+ 390  the Pelian ash that Chiron gave his dear father
+ 391  from the peak of Pelion, to be death for heroes.
+ 392  And Automedon and Alcimus tended the horses[27]
+ 393  and yoked them: they put the fine breast-straps on, cast the bits
+ 394  into their jaws, and drew the reins back tight
+ 395  to the jointed chariot. And taking up the shining whip,
+ 396  fitted to his hand, Automedon sprang up
+ 397  behind the horses; and behind him, armed, mounted Achilles,
+ 398  blazing in his gear like Hyperion the shining sun,
+ 399  and terribly he called to the horses of his father:
+ 400  "Xanthus and Balius, far-famed children of Podarge:
+ 401  take thought, this time, to bring your charioteer back safe
+ 402  into the crowd of the Danaans, when we have had our fill of war —
+ 403  do not leave him there, like Patroclus, dead."
+ 404  Then from under the yoke the glancing-footed horse answered him —
+ 405  Xanthus. He dropped his head, suddenly, and all his mane,
+ 406  spilling from the yoke-pad by the yoke, came down and reached the ground;
+ 407  and the goddess white-armed Hera gave him voice:
+ 408  "This time, yes — we will bring you back safe, mighty Achilles.
+ 409  But the day of your destruction is near. And it is not we
+ 410  who are to blame, but a great god, and strong Fate.
+ 411  It was not by our slowness, not by any sloth of ours,
+ 412  that the Trojans stripped the armor from Patroclus's shoulders:
+ 413  the best of the gods, whom lovely-haired Leto bore,
+ 414  killed him among the front-fighters, and gave the glory to Hector.
+ 415  We two could run with the very breath of the West Wind,
+ 416  which men say is the lightest thing that flies; but for you yourself
+ 417  it is fated to be broken by force — by a god, and by a man."
+ 418  When he had spoken so, the Erinyes stopped his voice.
+ 419  Then, deeply troubled, swift-footed Achilles answered him:
+ 420  "Xanthus, why prophesy my death? You need not.
+ 421  I know it well myself: it is my portion to die here,
+ 422  far from my dear father and my mother. Even so,
+ 423  I will not stop before I have driven the Trojans to their fill of war."
+ 424  He spoke; and shouting he held his single-hoofed horses in the front rank.
+
+------------------------------------------------------------
+
+NOTES
+
+[1] (19.1-7) Dawn "in her saffron robe" (κροκόπεπλος, the
+    register's fixed rendering) rises from Ocean to light a day
+    that will end with Hector dead; line 2 repeats 11.2 exactly
+    (our English kept), binding this dawn to the one that opened
+    the poem's longest day. Thetis arrives to find her son not
+    waiting for the armor but "lying over Patroclus" — the
+    delivery of the most beautiful object in literature
+    interrupts an embrace of a corpse.
+
+[2] (19.8-11) Thetis's consolation is the poem's hardest kind:
+    "we must let this man lie, for all our grief, since by the
+    will of the gods, first of all, he was broken" — the same
+    verb-frame Achilles used of the quarrel at 18.112. Grief is
+    to be set down the way a settled thing is set down. Then the
+    gift: armor "such as no man has ever worn on his shoulders"
+    — literally true; it was forged for one wearing.
+
+[3] (19.12-18) The armor "clashed aloud" (ἀνέβραχε) — its first
+    act is a war-sound — and the Myrmidons cannot look at it:
+    Hephaestus promised that "any man of the many who see it
+    hereafter will marvel" (18.466-467), and the marvel arrives
+    as terror. Only Achilles can face it, and the poem's
+    psychology is exact: "the more he looked, the deeper the
+    anger sank in him." Beauty does not soothe him; it fuels
+    him. His eyes blaze "like flame-glare" — the fire Athena
+    lit over his head at the ditch (18.206-227) has moved
+    inside.
+
+[4] (19.21-39) Achilles' first thought after accepting the arms
+    is the flies. The realism is unblinking — "flies will enter
+    by the bronze-cut wounds and breed worms... and all the
+    flesh will rot" — and the divine answer matches it:
+    ambrosia and red nectar distilled through the nostrils, the
+    body kept "a year entire... sound as it is, or better."
+    Embalming, in the poem's idiom: the gods' food, which makes
+    the immortals deathless, here holds one mortal body just
+    short of decay. (Line 39's placement was doubted by some
+    ancient editors; a few copies added an extra line after 38
+    on Thetis's departure — the apparatus records it.)
+
+[5] (19.40-53) The muster of everyone: even the helmsmen and
+    the ships' bread-stewards — the poem's only census of the
+    noncombatants — come to see Achilles reappear. The wounded
+    kings arrive as casualties of Book 11: Diomedes and
+    Odysseus "leaning on their spears," Agamemnon last, still
+    carrying Coön's spear-wound (11.251-253). The assembly that
+    ends the quarrel physically displays what the quarrel cost.
+
+[6] (19.56-64) The renunciation begins with a wish that undoes
+    the poem: better Artemis had shot Briseis "on the day I
+    chose her from the sack of Lyrnessus" — the prize whose
+    taking launched the wrath now wished dead by the man who
+    fought for her honor... or rather for his. The accounting
+    is pitiless: "For Hector and the Trojans, the gain." Briseis
+    herself will be standing in the assembly within two hundred
+    lines; the poem lets the wish and the woman meet.
+
+[7] (19.65-75) The formal close of the wrath: 65-66 repeat
+    18.112-113 verbatim (our English kept) — the renunciation
+    rehearsed to his mother now performed in public. The
+    narrator seals it with the poem's own thematic word:
+    "the great-hearted son of Peleus renounced the wrath"
+    (μῆνιν ἀπειπόντος) — the μῆνις of line 1.1, formally
+    discharged. What replaces it is not peace: it is a purer
+    anger with a different object.
+
+[8] (19.76-77) The strangest stage-direction in the poem:
+    Agamemnon speaks "from the place where he sat, not standing
+    up in their midst." Ancient editors were so unsettled that
+    Zenodotus's text (with the Massaliot and Chian editions)
+    substituted a standing formula — "rising up among them
+    spoke the wide-ruling Agamemnon" — and the Massaliot text
+    added a line about him "groaning over his wound." The
+    vulgate's seated king is better: whether he sits as an
+    invalid, or to avoid the exposed stance of a formal orator
+    (his next lines fret about hecklers), or because he cannot
+    bring himself to perform deference standing, the poem's
+    great authority-figure ends the quarrel without ever
+    getting to his feet.
+
+[9] (19.78-94) The apology that is not one. After a nervous
+    exordium on heckling ("even a clear-voiced speaker is
+    defeated"), the thesis: "I am not to blame: Zeus is, and
+    Fate, and the Erinys who walks in mist." The word rendered
+    "blindness" is ἄτη — the divinely-sent infatuation that
+    makes disaster feel reasonable. This register keeps
+    "Blindness" from Phoenix's allegory (9.502-512), where she
+    is "strong and sound of foot" and outruns the limping
+    Prayers; here her feet are "soft: not on the ground does
+    she walk, but over the heads of men." Two portraits, one
+    goddess: fast as rumor, soft as a thought. Aristarchus
+    athetized line 94 as an over-explaining tag. Line 77's
+    opening ("when a man stands to speak...") was read by some
+    ancients as a rebuke of Achilles' brevity; more likely it
+    is anxiety dressed as etiquette.
+
+[10] (19.95-133) The parable of Ate: even Zeus was blinded —
+    on the day of Heracles' birth, when Hera extracted the
+    unguarded oath, held back the Eileithyiai to delay Alcmene,
+    and rushed Eurystheus into the light at seven months: the
+    poem's most consequential act of obstetric sabotage,
+    making the strongest man ever born the servant of the
+    weakest king. Zeus's response founds the theology
+    Agamemnon needs: he threw Blindness out of heaven by her
+    "shining-braided head" — so she now lives here, "among
+    the works of men." Delusion is a permanent resident of
+    earth by divine eviction: whatever we wreck, we wreck in
+    her company. The self-serving use is patent — if Zeus
+    could be blinded, the king's surrender of judgment is
+    company for gods — and the poem neither endorses nor
+    mocks it; it lets Achilles accept the same doctrine at
+    270-274.
+
+[11] (19.134-144) The amends: 138 repeats 9.120 exactly ("I am
+    willing to make amends, and to give ransom past counting")
+    — Agamemnon's position has not moved one line in ten
+    books; what has moved is everything around it. One ancient
+    text (quoted by Athenaeus from Dioscurides) added a line
+    after 137: "either drunk with wine, or the gods themselves
+    hurt me" — a plus-line that makes the king blame the cup
+    as well as the goddess; the vulgate rightly refuses it.
+
+[12] (19.145-153) Achilles' answer prices the gifts at nothing:
+    "furnish them if you wish, as is proper, or keep them with
+    you." The catalogue that Book 9 built across forty lines
+    and Book 19 will parade through the assembly is waved off
+    in a line and a half — the entire heroic economy of
+    compensation dismissed by the man it was designed to
+    persuade. What he wants now cannot be paid in tripods.
+
+[13] (19.154-183) Odysseus's first meal-speech, and a small
+    masterpiece of practical authority: "bread and wine — for
+    that is fury, and that is valor." The physiology is exact
+    (the limbs "grow heavy unawares"; the knees fail), and the
+    procedure he lays out — gifts displayed in mid-assembly,
+    the oath about Briseis' bed sworn standing (176-177 reuse
+    the wording of 9.133-134), the feast of appeasement, so
+    Achilles "may lack nothing of your due" (δίκης — of
+    justice) — is a complete protocol for ending a feud, dikē
+    made procedural. His closing sentence dares what no one
+    else has: "you, son of Atreus, will be more just toward
+    another man hereafter" — the king corrected to his face,
+    inside a compliment.
+
+[14] (19.184-197) Agamemnon accepts everything, gladly — the
+    management of the reconciliation has passed entirely to
+    Odysseus ("to you yourself I give this charge"). The king's
+    one initiative is liturgical: Talthybius and the boar for
+    Zeus and the Sun.
+
+[15] (19.198-214) Achilles' refusal of food is the book's
+    center of gravity. His counter-proposal — fight fasting,
+    feast at sundown "once we have paid off the outrage" —
+    makes eating itself a thing that must be earned by
+    vengeance; and the personal vow beneath it is absolute:
+    "down my own throat, not a thing shall pass." The speech
+    ends on the book's most famous line, the fast's true diet:
+    "but slaughter, and blood, and the hard groaning of men."
+    Grief has reorganized appetite itself.
+
+[16] (19.215-237) Odysseus's second speech is the Iliad's
+    ethics of endurance. The opening claim of eldership
+    (216 = 16.21, our English kept — the vocative Patroclus
+    once used to beg) licenses the great agricultural figure:
+    battle as the harvest "where the bronze strews the most
+    straw on the ground and the crop is smallest, once Zeus
+    tilts his scales" — maximum cutting, minimum grain; and
+    224 = 4.84, "Zeus, the dispenser of war to men" (our
+    English kept). Then the doctrine: "With the belly the
+    Achaeans cannot mourn a corpse... we must bury the man who
+    dies, keeping a pitiless heart, weeping for one day."
+    An army that loses men daily must ration grief like food —
+    the survivor's discipline stated once for the whole
+    tradition. Achilles is not persuaded; he is overruled by
+    everyone else's hunger.
+
+[17] (19.238-248) The gifts pass in review, matching the Book 9
+    pledge item for item (9.122-130, renderings kept): seven
+    tripods, twenty cauldrons, twelve horses, seven women of
+    Lesbos — "and the eighth was fair-cheeked Briseis." The
+    woman the poem began over enters as the last item in an
+    inventory, between the women and the gold. Lycomedes and
+    Melanippus and the young nobles carry the treasure; nobody
+    in the text so much as looks at it.
+
+[18] (19.249-268) The oath-rite, in exact ritual order: the
+    herald holding the boar; the knife kept beside the sword's
+    scabbard (a sacrificial implement carried into battle); the
+    first-cut hairs; the invocation of Zeus, Earth, Sun, and
+    the Erinyes "who under the earth exact payment from men" —
+    the oath-police of the cosmos; the oath itself ("I never
+    laid a hand on the girl Briseis" — confirming 9.133 was
+    true when sworn); and the disposal: the boar whirled into
+    the sea, "food for fish." An oath-victim is not eaten —
+    it has absorbed the conditional curse — so the carcass
+    goes to the element that swallows everything.
+
+[19] (19.270-275) Achilles' response accepts Agamemnon's
+    theology wholesale: "Father Zeus — great is the blindness
+    you deal to men!" — the wronged man agreeing that Zeus,
+    not the king, "willed that death should come to many
+    Achaeans." The quarrel thus closes with both parties
+    blaming heaven: a settlement, not a reckoning — and the
+    poem quietly files it against Zeus's own protest in the
+    Odyssey (1.32-34) that mortals blame the gods for what
+    their own recklessness earns. The last line is pure
+    Achilles: dismissal, meal, war — "so we may join the
+    war-god together."
+
+[20] (19.282-302) Briseis's only speech in the poem — the
+    prize speaks. Her lament gives her, at last, a biography:
+    husband cut down before the city, three full brothers dead
+    in one day, and the man who did it — Achilles — the man
+    whose wife Patroclus promised she would become, "with the
+    marriage-feast among the Myrmidons." Her grief for
+    Patroclus is grief for the one person who converted her
+    catastrophe into a future; "You were gentle, always"
+    (μείλιχον αἰεί) is the poem's whole portrait of the dead
+    man in three words. Then the narrator's terrible widening:
+    the captive women wail with her "for Patroclus in show;
+    but each for her own sorrows" — every slave in the camp
+    mourning her own dead under cover of the master's. Two
+    lines that contain the entire suppressed grief of the
+    war's losers.
+
+[21] (19.303-313) The comforters: both Atreidae, Odysseus,
+    Nestor, Idomeneus, Phoenix — the embassy of Book 9
+    enlarged — around a man who again refuses what they offer;
+    but where Book 9's refusal was rage, this is grief with a
+    deadline: "Until the sun goes down I will hold out." He
+    cannot be comforted "before he entered the mouth of bloody
+    war" — battle as the only door out of mourning.
+
+[22] (19.314-337) The lament for a lost future. It begins at
+    the table — Patroclus remembered not in arms but serving
+    dinner "quickly and deftly": intimacy measured in
+    housework — and opens into the poem's geography of
+    bereavement: Peleus in Phthia weeping for a son who will
+    not return, "while I, in a strange country, fight the
+    Trojans for blood-chilling Helen's sake"; and on Scyros
+    the son, Neoptolemus, named only here in the Iliad —
+    "if he still lives" — whom Patroclus was to fetch home
+    and show "my possessions, my slaves, my great high-roofed
+    house." Aristophanes and Aristarchus athetized line 327
+    (the Neoptolemus line); it should stand: the dead man's
+    assignment was to be the bridge between Achilles' father
+    and Achilles' son, and with him dies the family's last
+    connected future. Achilles imagined one exemption — "that
+    I alone would die" — and Troy has refused even that.
+
+[23] (19.338-356) Zeus's pity and the strangest feeding in the
+    poem: Athena, falcon-swift, distills nectar and ambrosia
+    into the chest of a man who must not know he is being fed
+    — the fast kept and the body sustained, both at once. The
+    gods honor his vow by cheating it. The elders' tears
+    ("each remembering what he had left behind in his own
+    halls") make Achilles' singular grief, for one moment, the
+    army's common one.
+
+[24] (19.357-364) The arming of the host as weather: helmets
+    thick as snowflakes "under the blast of Boreas born in the
+    clear sky" — cold light, innumerable, wind-driven — "and
+    all the earth around laughed at the lightning-flash of
+    bronze." The laughing earth (γέλασσε... χθών) is the
+    poem's boldest pathetic figure: the world itself amused,
+    or gleaming — the Greek means both — at what is coming.
+
+[25] (19.365-383) The fourth and last full arming scene of the
+    poem (Paris 3.330-338; Agamemnon 11.17-45; Patroclus
+    16.131-139; now this), each item in the canonical order —
+    greaves, corslet, sword, shield, helmet — and everything
+    scaled up: teeth grinding, eyes as flame-glare, the
+    shield's light "like the moon's." The great simile turns
+    Book 18 inside out: there, beacon-fires promised rescue to
+    a besieged island; here the mountain fire is seen by
+    sailors "storm-driven, unwilling, over the fish-filled sea
+    away from their dear ones" — light as pure distance, home
+    visible and unreachable. It is the truest emblem in the
+    poem of what Achilles' return actually is: he shines, and
+    he is not coming home.
+
+[26] (19.384-391) The test: the armor fits so perfectly it
+    "became like wings to him, and lifted the shepherd of the
+    people" — Hephaestus's craft answering the body it was
+    made for. Then the one weapon the god did not make: the
+    Pelian ash of Chiron, which "no other of the Achaeans
+    could swing" — 388-391 repeat 16.141-144 verbatim (our
+    English kept), where Patroclus, taking everything else,
+    left precisely this spear behind. Aristarchus athetized
+    the lines here as an importation ("they were not even in
+    the other editions"); kept, they complete the Book 16
+    figure: the borrowed armor is gone with the borrower, and
+    what remains, inimitable, is the father's spear — the one
+    piece of Achilles no one else could carry.
+
+[27] (19.392-424) The ending no other book has. Achilles
+    charges his horses to bring their driver back — "do not
+    leave him there, like Patroclus, dead" — and Xanthus
+    answers: Hera gives him voice (line 407, athetized by
+    Aristarchus), and the horse first bows till his mane pours
+    from the yoke-pad to the ground: the animal's grief-gesture
+    the poem showed at 17.426-440, the weeping horses, now
+    given language. His speech is exact prophecy: not our
+    slowness but "the best of the gods" killed Patroclus; "we
+    two could run with the very breath of the West Wind" —
+    their sire (16.150) — "but for you yourself it is fated to
+    be broken by force — by a god, and by a man" (Apollo and
+    Paris, 22.359-360, though Aristarchus athetized 416-417).
+    Then "the Erinyes stopped his voice" — the same powers
+    invoked at 259 as oath-police: guardians of the order of
+    things, for whom a speaking horse is a breach to be
+    closed. Achilles' reply is the book in miniature: "I know
+    it well myself." Foreknowledge changes nothing; that is
+    what makes him Achilles. The book ends with the shout and
+    the horses held "in the front rank" — the wrath's second
+    life, pointed at Troy at last.

@@ -1,0 +1,1076 @@
+BOOK 9
+
+The Embassy to Achilles: Agamemnon's gifts, three speeches, and three
+refusals — each smaller than the last.
+
+TRANSLATOR'S COMMENTARY
+
+Book 9 is the poem's hinge and its greatest sustained writing: the offer
+that should end the wrath, and the answer that reveals the wrath has
+outgrown its cause. The book's architecture is a series of descents. The
+gift-catalogue is spoken three times — by Agamemnon with its poison pill
+("let him yield to me by as much as I am more kingly," 158-161), by
+Odysseus verbatim but with the poison silently cut (note [20]), and back
+through Achilles' contempt. And Achilles' three answers step downward:
+to Odysseus, "tomorrow I sail"; to Phoenix, "at dawn we will decide";
+to Ajax, "I fight when Hector reaches my own ships" — which is, of
+course, exactly what he will do. Odysseus then reports only the first
+answer (note [41]), and Diomedes closes the book with the truest
+sentence in it: he will fight "whenever the heart in his chest commands
+him, and the god rouses him."
+
+All three curated disputes for this book are handled in place. The dual
+verbs of 182-198 (disputed #5) are translated as duals — "the two of
+them went" — with the crux laid out in note [15]. The "gates of Hades"
+lines (312-313, disputed #6) and their contested referent are note
+[21]. And the famous four lines in which Phoenix contemplated killing
+his father (458-461, disputed #7) are physically absent from this
+project's Greek text, as from the printed Monro-Allen vulgate — the
+numbering jumps 457 to 462 — athetized by Aristarchus for their content
+and preserved only through Plutarch; the translation reproduces the
+gap, and note [32] supplies the missing lines so the reader loses
+nothing but the illusion that the text was ever whole.
+
+Watch also: Achilles heard singing "the fames of men" — the poem's only
+image of epic performed, by its own hero, on a lyre looted from
+Andromache's city (note [16]); the demolition of the honor-economy at
+318-321; the two fates and "imperishable fame" (410-416); the Litai
+allegory (note [34]); and the Meleager paradigm, at whose center sleeps
+a wife named Cleopatra — Patroclus's name reversed — while Patroclus
+sits listening (note [35]). Register notes: 18-25 reuse the Book 2
+English verbatim, now spoken in earnest; ἄττα "old father" joins the
+vocatives; δμῳαί "slave-women" appears twice more under the policy.
+
+------------------------------------------------------------
+
+   1  So the Trojans kept their watches. But the Achaeans
+   2  were held by unearthly Panic, the companion of icy Rout,[1]
+   3  and all their best were stricken with grief past bearing.
+   4  As two winds stir up the sea where the fish swarm,
+   5  the North Wind and the West Wind, blowing out of Thrace,
+   6  arriving suddenly: and all at once the dark wave
+   7  crests, and heaps the seaweed out along the tide-line:
+   8  so the heart was torn in the chests of the Achaeans.
+   9  And Atreus' son, stricken to the heart with great grief,
+  10  went to and fro, bidding the clear-voiced heralds
+  11  summon every man by name to assembly,
+  12  but not to shout; and he himself worked among the first.
+  13  So they sat in assembly, dejected; and Agamemnon
+  14  stood up, letting fall tears like a spring of dark water[2]
+  15  that pours its black stream down a goat-proof cliff.
+  16  So, groaning heavily, he spoke his words to the Argives:
+  17  "Friends, leaders and lords of the Argives,
+  18  Zeus, Cronos' great son, has bound me fast in heavy blindness —[3]
+  19  the hard god: he promised me once, he bowed his head,
+  20  that I should sack well-walled Ilion before returning;
+  21  now he has planned a cruel deceit, and orders me
+  22  back to Argos in disgrace, with half my people lost.
+  23  Such, it seems, must be the pleasure of overmastering Zeus,
+  24  who has undone the crowns of many cities
+  25  and will undo more yet: his power is the greatest.
+  26  Come then — as I say it, let us all obey:
+  27  let us flee with the ships to our dear fatherland.
+  28  We shall not take wide-wayed Troy now."
+  29  So he spoke, and they all went still in silence.
+  30  A long while the sons of the Achaeans sat mute, dejected;
+  31  and at long last Diomedes, good at the war-cry, spoke:
+  32  "Son of Atreus, it is you I will fight first — your folly —[4]
+  33  where it is right, lord: in assembly. And do not be angered.
+  34  My courage you insulted once before the Danaans:
+  35  you called me unwarlike, without strength. And all this
+  36  the Argives know, the young men and the old.
+  37  To you the son of crooked-counseled Cronos gave by halves:
+  38  with the scepter he gave you honor beyond all men,
+  39  but courage he did not give you — and that is the greatest power.
+  40  Strange man — do you really suppose the sons of the Achaeans
+  41  are as unwarlike and strengthless as you say?
+  42  If your own heart is set on going home,
+  43  go: the way lies open, and your ships stand by the sea,
+  44  the great fleet that followed you from Mycenae.
+  45  But the other long-haired Achaeans will stay
+  46  until we sack Troy. And if they too —
+  47  well, let them flee with their ships to their dear fatherland;
+  48  the two of us, Sthenelus and I, will fight on until we find
+  49  the appointed end of Ilion: for we came here with the god."
+  50  So he spoke, and all the sons of the Achaeans shouted,
+  51  marveling at the word of Diomedes, breaker of horses.
+  52  And the horseman Nestor stood up and spoke among them:
+  53  "Tydeus' son, in war you are strong beyond others,
+  54  and in counsel you are best of all your age-mates.
+  55  Not a man of all the Achaeans will fault your word
+  56  or speak against it. But you have not reached the end of words.
+  57  You are young indeed — you could be my own son,
+  58  the latest-born; and yet you speak good sense
+  59  to the kings of the Argives, for you have spoken rightly.
+  60  Come then, I — who claim to be older than you —
+  61  will speak out and go through everything; and no one
+  62  will slight my word, not even the lord Agamemnon.
+  63  Clanless, lawless, hearthless: that is the man[5]
+  64  who is in love with war among his own people — the horror of it.
+  65  But for now, let us yield to black night
+  66  and make our supper ready. Let the sentries
+  67  post themselves along the dug ditch outside the wall —
+  68  that is my charge to the young men. And then,
+  69  son of Atreus, you lead: for you are most the king.
+  70  Give the elders a feast: it becomes you; it is no disgrace.[6]
+  71  Your huts are full of wine, which the Achaeans' ships
+  72  bring over the wide sea from Thrace daily;
+  73  all hosting is yours to give: you are king over many.
+  74  With many gathered, you will heed the man who counsels
+  75  the best counsel; and sorely do all the Achaeans need
+  76  good counsel and shrewd — with the enemy this close to the ships,
+  77  burning their fires past counting. Who could rejoice at that?
+  78  This night will break the army, or will save it."
+  79  So he spoke, and they listened well to him and obeyed.
+  80  Out went the sentries in their armor, mustered
+  81  around Nestor's son Thrasymedes, shepherd of the people,
+  82  around Ascalaphus and Ialmenus, sons of Ares,
+  83  around Meriones, and Aphareus, and Deïpyrus,
+  84  and around Creon's son, brilliant Lycomedes.
+  85  Seven were the captains of the sentries, and with each went
+  86  a hundred young men carrying their long spears;
+  87  and they went and took post between the ditch and wall,
+  88  and there lit fires, and each man set about his supper.
+  89  And Atreus' son led the gathered elders of the Achaeans
+  90  to his hut, and set before them a feast to fill the heart;
+  91  and they put out their hands to the good things lying ready.
+  92  And when they had put away desire for eating and drinking,
+  93  the old man first of all began to weave his counsel —
+  94  Nestor, whose plan had shown itself best before as well.
+  95  With good will toward them he spoke and addressed them:
+  96  "Most glorious son of Atreus, lord of men Agamemnon,
+  97  with you I will end, and with you begin: because you are
+  98  lord of many peoples, and Zeus has put into your hands[7]
+  99  the scepter and the ordinances, to take counsel for them.
+ 100  Therefore you above all must speak a word and listen,
+ 101  and act for another too, whenever his heart bids a man
+ 102  speak for the good: whatever he begins will hang on you.
+ 103  And I will say how it seems to me to be best.
+ 104  No other man will think a better thought than this —
+ 105  the thought I think, and thought long since and still,
+ 106  from that day, Zeus-born, when you went and took the girl
+ 107  Briseis out of the hut of Achilles in his anger —
+ 108  in no way by our judgment. I myself
+ 109  argued long against it; but you, yielding
+ 110  to your great-hearted spirit, dishonored the best of men,
+ 111  a man the immortals honor: for you took and keep his prize.
+ 112  Even now — even late — let us consider how to make amends
+ 113  and win him over with soothing gifts and with honeyed words."
+ 114  Then answered him the lord of men Agamemnon:
+ 115  "Old man, that was no false telling of my blindness.[8]
+ 116  Blinded I was — I do not deny it myself. Worth many
+ 117  hosts of men is the man whom Zeus loves in his heart:
+ 118  as now he has honored this man, and broken the Achaean host.
+ 119  But since I was blinded, and followed my wretched heart,
+ 120  I am willing to make amends, and to give ransom past counting.
+ 121  Before you all I will name the glorious gifts:[9]
+ 122  seven tripods untouched by fire, ten talents of gold,
+ 123  twenty gleaming cauldrons, and twelve horses,
+ 124  strong-built, prize-winners, who have taken races with their speed.
+ 125  No man who owned all they have won for me
+ 126  would be poor in goods, or lacking in precious gold —
+ 127  all the prizes those single-hoofed horses have carried home.
+ 128  And I will give seven women skilled in blameless work,
+ 129  women of Lesbos — the ones I chose when he himself
+ 130  took well-built Lesbos, who in beauty outdid the tribes of women.
+ 131  These I will give; and among them will be the one I took away:
+ 132  the daughter of Briseus. And I will swear the great oath besides:
+ 133  I never went up into her bed, I never lay with her,[10]
+ 134  as is the way of human kind, of men and women.
+ 135  All this shall be his at once. And if hereafter
+ 136  the gods grant us to sack the great city of Priam,
+ 137  let him heap his ship with gold and bronze
+ 138  when he comes in, when we Achaeans divide the spoil,
+ 139  and let him choose out twenty Trojan women for himself,
+ 140  the loveliest there are after Argive Helen.
+ 141  And if we come home to Achaean Argos, udder of the plowland,
+ 142  he can be my son-in-law: I will honor him the equal of Orestes,
+ 143  my late-born boy, reared in high plenty.
+ 144  I have three daughters in my strong-built hall,
+ 145  Chrysothemis, Laodice, and Iphianassa:[11]
+ 146  of these let him lead the one he chooses, without bride-price,
+ 147  to the house of Peleus; and I will add wedding-gifts
+ 148  in plenty — more than any man yet gave with his daughter.
+ 149  And I will give him seven well-peopled citadels:
+ 150  Cardamyle, and Enope, and grassy Hire,
+ 151  sacred Pherae, and Antheia of the deep meadows,
+ 152  beautiful Aipeia, and Pedasus of the vines —[12]
+ 153  all near the sea, on the edge of sandy Pylos,
+ 154  and in them live men rich in flocks and rich in cattle,
+ 155  who will honor him like a god with their gifts
+ 156  and render him, under his scepter, their shining dues.
+ 157  All this I will accomplish for him, if he leaves off his anger.
+ 158  Let him be broken. Hades is the one unappeasable,[13]
+ 159  the untamable — and for that, of all gods, mortals hate him most.
+ 160  And let him yield place to me, by as much as I am more kingly,
+ 161  by as much as I claim to be the elder-born."
+ 162  Then answered him the Gerenian horseman Nestor:
+ 163  "Most glorious son of Atreus, lord of men Agamemnon,
+ 164  the gifts you offer lord Achilles now — no man could scorn them.
+ 165  Come then, let us send chosen men, to go
+ 166  with all speed to the hut of Peleus' son Achilles —
+ 167  or come: those my eye falls on, let them consent.
+ 168  Phoenix first, dear to Zeus — let him lead;[14]
+ 169  and then great Ajax, and brilliant Odysseus;
+ 170  and of the heralds, Odius and Eurybates go with them.
+ 171  Now bring water for our hands, and call the holy silence,
+ 172  that we may pray to Zeus, Cronos' son, for his pity."
+ 173  So he spoke, and the word he spoke was pleasing to them all.
+ 174  At once the heralds poured water over their hands,
+ 175  the young men filled the mixing-bowls brim-high with drink
+ 176  and served all, pouring first drops in each cup for the god;
+ 177  and when they had poured, and drunk what their hearts would,
+ 178  they set out from the hut of Atreus' son Agamemnon.
+ 179  And the Gerenian horseman Nestor charged them well,
+ 180  with a look at each in turn, at Odysseus above all:
+ 181  try hard to win over the blameless son of Peleus.
+ 182  So the two of them went along the shore of the loud-roaring sea,[15]
+ 183  praying hard to the holder and shaker of the earth
+ 184  that they might easily bend the great mind of Aeacus' grandson;
+ 185  and the two came to the huts and the ships of the Myrmidons.
+ 186  They found him delighting his heart with the clear-toned lyre,
+ 187  beautiful, richly worked, with a crossbar of silver on it,
+ 188  which he had taken from the spoils when he wrecked Eëtion's city:
+ 189  with this he was pleasuring his heart, and singing the fames of men.[16]
+ 190  And Patroclus alone sat facing him, in silence,
+ 191  waiting for Aeacus' grandson to leave off singing.
+ 192  So the two of them came forward, brilliant Odysseus leading,
+ 193  and stood before him; and Achilles sprang up amazed,
+ 194  lyre still in hand, leaving the seat where he had sat;
+ 195  and Patroclus likewise rose when he saw the men.
+ 196  And greeting the two of them, swift-footed Achilles said:
+ 197  "Welcome! Truly dear men have come — the need must be great —
+ 198  you who even in my anger are dearest to me of the Achaeans."[17]
+ 199  So speaking, brilliant Achilles led them forward
+ 200  and seated them on chairs with coverings of purple,
+ 201  and quickly said to Patroclus, who stood near:
+ 202  "Set out a bigger mixing-bowl, son of Menoetius;
+ 203  mix the wine stronger; and make ready a cup for each man:[18]
+ 204  for the men beneath my roof are the men I love best."
+ 205  So he spoke, and Patroclus obeyed his dear companion.
+ 206  He threw down a great chopping-block in the light of the fire
+ 207  and laid on it the chine of a sheep and of a fat goat,
+ 208  and the back of a great hog, rich with lard.
+ 209  Automedon held them for him, and brilliant Achilles carved,
+ 210  and sliced the meat with skill, and threaded it on spits;
+ 211  and the son of Menoetius, a man like a god, built up the fire.
+ 212  And when the fire had burned down and the flame died,
+ 213  he leveled the embers and stretched the spits above them,
+ 214  and sprinkled the holy salt, resting the spits on their stones.
+ 215  And when he had roasted it all and heaped it on platters,
+ 216  Patroclus took bread and set it out on the table
+ 217  in beautiful baskets, and Achilles served the meat.
+ 218  He himself sat down facing godlike Odysseus
+ 219  against the far wall, and told his companion Patroclus
+ 220  to sacrifice to the gods; and he threw the offerings in the fire.
+ 221  And they put out their hands to the good things lying ready.
+ 222  And when they had put away desire for eating and drinking,
+ 223  Ajax nodded to Phoenix. But brilliant Odysseus caught it,
+ 224  and filling a cup with wine he pledged Achilles:
+ 225  "Your health, Achilles! Of the fair-shared feast we have no lack,
+ 226  whether in the hut of Agamemnon, Atreus' son,
+ 227  or here and now: plenty to fill the heart
+ 228  is set before us. But the works of the lovely feast are not
+ 229  our business now. We are looking at grief too great, Zeus-nurtured;
+ 230  we are afraid. It stands in doubt whether we save
+ 231  the well-benched ships or lose them — unless you clothe yourself in valor.
+ 232  For close to the ships and the wall they have made their camp,
+ 233  the high-hearted Trojans and their far-famed allies,
+ 234  with fires past counting through their host; and they say
+ 235  nothing will hold them now from falling on the black ships.
+ 236  And Zeus, Cronos' son, shows them signs on the right,
+ 237  flashing his lightning; and Hector, glorying in his strength,
+ 238  rages terribly, trusting in Zeus, and gives way to nothing,
+ 239  neither man nor god: the strong madness has entered him.
+ 240  He prays for the brilliant Dawn to show herself quickly,
+ 241  for he vows he will hew off the ships' stern-horns,
+ 242  burn the hulls themselves with ravening fire, and cut down
+ 243  the Achaeans beside them, dazed in the smoke.
+ 244  This is the fear my heart dreads terribly — that the gods
+ 245  may make his threats good, and it prove our portion
+ 246  to die at Troy, far from horse-pasturing Argos.
+ 247  Up, then! — if you mean, even at this late hour, to save
+ 248  the wearied sons of the Achaeans from the Trojan onslaught.
+ 249  It will be your own grief later; and there is no finding
+ 250  a cure for harm once done. Far sooner, then:
+ 251  think how to ward the evil day from the Danaans.
+ 252  Dear friend — surely your father Peleus charged you[19]
+ 253  the day he sent you out of Phthia to Agamemnon:
+ 254  'My child, the victory Athena and Hera
+ 255  will give, if they choose; but the great-hearted spirit —
+ 256  rein that in in your own chest. Friendliness is better.
+ 257  Break off strife, the deviser of evil, so the Argives
+ 258  may honor you the more, the young men and the old.'
+ 259  So the old man charged you; and you forget. Yet even now
+ 260  stop; let go the anger that grieves the heart. Agamemnon
+ 261  offers you worthy gifts, if you leave off your anger.
+ 262  Come, listen to me, and I will count out for you
+ 263  all the gifts Agamemnon promised in his huts:[20]
+ 264  seven tripods untouched by fire, ten talents of gold,
+ 265  twenty gleaming cauldrons, and twelve horses,
+ 266  strong-built, prize-winners, who have taken races with their speed.
+ 267  No man who owned all they have won
+ 268  would be poor in goods, or lacking in precious gold —
+ 269  all the prizes Agamemnon's horses have carried home.
+ 270  And he will give seven women skilled in blameless work,
+ 271  women of Lesbos — the ones he chose when you yourself
+ 272  took well-built Lesbos, who in beauty outdid the tribes of women.
+ 273  These he will give; and among them will be the one he took away:
+ 274  the daughter of Briseus. And he will swear the great oath besides:
+ 275  he never went up into her bed, he never lay with her,
+ 276  as is the way, lord, of men and women.
+ 277  All this shall be yours at once. And if hereafter
+ 278  the gods grant us to sack the great city of Priam,
+ 279  you may heap your ship with gold and bronze
+ 280  when you come in, when we Achaeans divide the spoil,
+ 281  and choose out twenty Trojan women for yourself,
+ 282  the loveliest there are after Argive Helen.
+ 283  And if we come home to Achaean Argos, udder of the plowland,
+ 284  you can be his son-in-law: he will honor you the equal of Orestes,
+ 285  his late-born boy, reared in high plenty.
+ 286  He has three daughters in his strong-built hall,
+ 287  Chrysothemis, Laodice, and Iphianassa:
+ 288  of these you may lead the one you choose, without bride-price,
+ 289  to the house of Peleus; and he will add wedding-gifts
+ 290  in plenty — more than any man yet gave with his daughter.
+ 291  And he will give you seven well-peopled citadels:
+ 292  Cardamyle, and Enope, and grassy Hire,
+ 293  sacred Pherae, and Antheia of the deep meadows,
+ 294  beautiful Aipeia, and Pedasus of the vines —
+ 295  all near the sea, on the edge of sandy Pylos,
+ 296  and in them live men rich in flocks and rich in cattle,
+ 297  who will honor you like a god with their gifts
+ 298  and render you, under your scepter, their shining dues.
+ 299  All this he will accomplish for you, if you leave off your anger.
+ 300  But if Atreus' son is grown too hateful to your heart,
+ 301  he and his gifts together — then pity all the rest,
+ 302  the Achaeans of every rank, worn down through the camp, who will honor you
+ 303  like a god. Truly, you would win great glory in their eyes:
+ 304  for now you might take Hector's very self — he would come
+ 305  in close to you in his deadly madness, since he says no man
+ 306  is his equal of all the Danaans the ships brought here."
+ 307  Answering him spoke swift-footed Achilles:
+ 308  "Zeus-sprung son of Laertes, Odysseus of many devices:
+ 309  I must speak my word to you outright, without mercy —
+ 310  exactly as I think it, and as it will be accomplished —
+ 311  so you will not sit by me and coo at me, one after another.
+ 312  For hateful to me as the gates of Hades is the man[21]
+ 313  who hides one thing in his mind and says another.
+ 314  So I will speak it as it seems to me best.
+ 315  Neither Atreus' son Agamemnon will persuade me, I think,
+ 316  nor the other Danaans — since there was no thanks, it seems,
+ 317  for battling the enemy without respite, forever.
+ 318  The portion is equal for the man who hangs back and the man who fights hard;[22]
+ 319  in one honor stand the coward and the brave;
+ 320  death comes alike to the do-nothing and the man of many deeds.
+ 321  And nothing is laid up for me because I suffered
+ 322  the pains of it, forever staking my life in the fighting.
+ 323  As a bird carries to her unfledged chicks[23]
+ 324  every morsel she takes, and it goes hard with herself,
+ 325  so I have lain awake through many an unsleeping night
+ 326  and fought through bloody days of battle,
+ 327  contending with men for the sake of their women.
+ 328  Twelve cities of men I have sacked from my ships,[24]
+ 329  and eleven by land, I tell you, across deep-soiled Troy:
+ 330  from all of them I took out treasure, much and good,
+ 331  and brought it all and gave it to Agamemnon,
+ 332  Atreus' son — who waited behind by the swift ships,
+ 333  took it in, doled out a little, and kept the most.
+ 334  What he gave the chief men and the kings as prizes
+ 335  stands untouched with them; from me alone of the Achaeans
+ 336  he took — and he keeps my bed-dear wife. Let him lie beside her[25]
+ 337  and take his pleasure! But why must the Argives make war
+ 338  on the Trojans? Why did Atreus' son gather an army
+ 339  and lead it here? Was it not for lovely-haired Helen?
+ 340  Are the sons of Atreus alone among mortal men
+ 341  the ones who love their wives? — since any man who is good
+ 342  and sensible loves his own and cares for her,
+ 343  as I loved that one from my heart, spear-won though she was.
+ 344  Now, since he took my prize out of my hands and cheated me,
+ 345  let him not try me: I know him too well. He will not persuade me.
+ 346  No, Odysseus — with you and the other kings
+ 347  let him think how to beat the enemy fire from the ships.
+ 348  Truly he has labored greatly with me gone:
+ 349  he has even built a wall, and driven a ditch along it,
+ 350  wide and great, and planted stakes within it —
+ 351  and even so he cannot hold the strength of man-slaughtering
+ 352  Hector! While I was fighting among the Achaeans,
+ 353  Hector had no wish to raise battle away from his wall;
+ 354  he came only as far as the Scaean Gates and the oak.[26]
+ 355  There once he stood up to me alone — and barely escaped my charge.
+ 356  But now, since I have no wish to fight brilliant Hector,
+ 357  tomorrow I will sacrifice to Zeus and all the gods,
+ 358  load my ships well, and drag them down to the sea —
+ 359  and you will see, if you care to, if such things interest you,
+ 360  my ships at earliest light sailing the Hellespont
+ 361  where the fish swarm, and in them men rowing with a will;
+ 362  and if the famed earth-shaker grants fair passage,
+ 363  on the third day I should reach deep-soiled Phthia.
+ 364  I have great possessions there, left when I made my luckless
+ 365  journey here; and more from here — gold, red bronze,
+ 366  fair-belted women, grey iron — I will carry home,
+ 367  all that fell to me by lot. But my prize — the man who gave it,
+ 368  the lord Agamemnon, Atreus' son, in his insolence
+ 369  took it back. Tell him all of it, just as I charge you,
+ 370  openly — so the other Achaeans too may be angry,
+ 371  if he hopes to cheat some other Danaan yet,
+ 372  clothed as he always is in shamelessness. And yet —
+ 373  dog though he is — he would not dare look me in the face.
+ 374  I will not join him in counsel, and not in action:
+ 375  he cheated me outright, he wronged me. Never again
+ 376  will he trick me with words. Once is enough. Let him go
+ 377  to ruin at his ease: Zeus the counselor has taken his wits.
+ 378  His gifts are hateful to me; I count him at a hair's worth.[27]
+ 379  Not if he gave me ten times as much, and twenty times,
+ 380  all he has now and more from elsewhere besides;
+ 381  not all the revenue of Orchomenus, or of Thebes —
+ 382  Egyptian Thebes, where the houses hold the greatest treasures,
+ 383  the city of a hundred gates, and through each gate
+ 384  two hundred men drive out with horses and chariots;
+ 385  not if he gave me gifts as many as the sand and dust —
+ 386  not even so would Agamemnon persuade my heart
+ 387  until he has paid me back all the outrage that galls it.
+ 388  And the daughter of Agamemnon, Atreus' son — I will not
+ 389  marry her: not if she rivaled golden Aphrodite in beauty
+ 390  and matched the works of grey-eyed Athena.
+ 391  Not even so will I marry her. Let him choose another Achaean,
+ 392  one who suits him — someone more kingly than I.
+ 393  For if the gods preserve me, and I come home,
+ 394  Peleus himself will find me a wife.[28]
+ 395  There are Achaean girls enough through Hellas and through Phthia,
+ 396  daughters of chieftains, men who guard their citadels:
+ 397  of these I will make whichever one I choose my own dear wife.
+ 398  There — that is where my proud heart kept urging me:
+ 399  to take a wedded wife, a fitting bride,
+ 400  and enjoy the possessions old Peleus won.
+ 401  For not worth my life is all they say was stored[29]
+ 402  in Ilion, that well-peopled citadel,
+ 403  before, in peacetime, before the sons of the Achaeans came —
+ 404  nor all the stone threshold of the Archer holds within it,
+ 405  Phoebus Apollo's, in rocky Pytho.
+ 406  Cattle can be lifted, and fat sheep;
+ 407  tripods can be won, and the tawny heads of horses:
+ 408  but a man's life cannot be lifted back, cannot be caught,
+ 409  once it has crossed the fence of his teeth.
+ 410  For my mother tells me — Thetis, the goddess of the silver feet —[30]
+ 411  that two fates carry me toward the end of death:
+ 412  if I stay here and fight around the Trojans' city,
+ 413  my homecoming is lost — but my fame will be imperishable;
+ 414  and if I come home to my dear fatherland,
+ 415  my noble fame is lost — but my life will be long,
+ 416  and the end of death will not be quick to find me.
+ 417  And to the rest of you I would give this counsel:
+ 418  sail home — since you will never now reach the end
+ 419  of steep Ilion: wide-seeing Zeus has held
+ 420  his hand over her, and her people have taken heart.
+ 421  So go; and carry my message to the chief men
+ 422  of the Achaeans — that is the honor-portion of the old —
+ 423  so they may devise in their minds some better plan
+ 424  to save the ships, and the Achaean host
+ 425  beside the hollow ships: since this one — this they thought of —
+ 426  will not serve, while my anger stands. But Phoenix —
+ 427  let him stay and sleep here with us,
+ 428  so he may follow in my ships to our dear fatherland
+ 429  tomorrow, if he wishes. I will not take him by force."
+ 430  So he spoke, and they all went still in silence,
+ 431  marveling at his word: he had refused with great power.
+ 432  At long last the old horseman Phoenix spoke,[31]
+ 433  bursting into tears, in terrible fear for the ships:
+ 434  "If it is homecoming you now ponder, shining Achilles,
+ 435  and you will not lift ruinous fire from the swift ships
+ 436  at all, because anger has fallen on your heart —
+ 437  how then could I be left here without you, dear child,
+ 438  alone? It was to you the old horseman Peleus sent me
+ 439  the day he sent you out of Phthia to Agamemnon,
+ 440  a child still, knowing nothing yet of leveling war,
+ 441  nothing of assemblies, where men become preeminent.
+ 442  For that he sent me: to teach you all these things —
+ 443  to be a speaker of words, and a doer of deeds.
+ 444  After all that, dear child, I would not choose to be left
+ 445  without you — no, not if a god himself should promise
+ 446  to scrape old age from me and set me young again,
+ 447  as I was when I first left Hellas of the beautiful women,
+ 448  fleeing a quarrel with my father, Amyntor, Ormenus' son.[32]
+ 449  He was enraged with me over his lovely-haired concubine:
+ 450  he loved her, and dishonored his own wife,
+ 451  my mother; and my mother begged me endlessly by my knees
+ 452  to lie with the concubine first, so she would loathe the old man.
+ 453  I obeyed her, and did it. And my father, guessing at once,
+ 454  cursed me long and hard, and called up the hateful Erinyes:
+ 455  that never should a dear son born of me
+ 456  be set upon his knees. And the gods fulfilled his curses —
+ 457  Zeus of the world below, and dread Persephone.
+
+      [Lines 458-461 are absent from the printed text; see note 32.]
+
+ 462  Then the heart in my chest could no longer be held at all
+ 463  to linger in the halls of my angry father.
+ 464  Kinsmen and cousins in plenty, gathered around me,
+ 465  held me there in the halls with their begging:
+ 466  many a fat sheep and rolling-gaited crook-horned ox
+ 467  they slaughtered; many a hog rich in lard
+ 468  was stretched to singe across the flame of Hephaestus,
+ 469  and much of the old man's wine was drunk from the jars.
+ 470  Nine nights together they kept their watch around me;
+ 471  they took the guard in turns, and the fires never died —
+ 472  one under the colonnade of the strong-fenced court,
+ 473  one in the porch, before my bedchamber doors.
+ 474  But when the tenth dark night came on me,
+ 475  then I burst the close-fitted doors of my chamber
+ 476  and got out, and vaulted the courtyard fence
+ 477  lightly, unseen by the watchmen and the slave-women.
+ 478  Then I fled far away through Hellas of the wide spaces
+ 479  and came to deep-soiled Phthia, mother of flocks,
+ 480  to lord Peleus. And he received me with a ready heart,
+ 481  and loved me as a father loves his son,
+ 482  his only son, late-born, heir to great possessions;
+ 483  and he made me rich, and gave me a numerous people:
+ 484  I lived at the edge of Phthia, ruling the Dolopes.
+ 485  And I made you what you are, Achilles like the gods,[33]
+ 486  loving you from my heart: you would not go with another
+ 487  to the feast, or eat in the halls,
+ 488  until I had sat you on my knees and cut
+ 489  the first bit of meat for you, and held the wine to your lips.
+ 490  Many a time you soaked the tunic on my chest,
+ 491  spitting up wine in your troublesome babyhood.
+ 492  So I suffered much for you, and toiled much,
+ 493  minding always that the gods would bring no child of mine
+ 494  to birth; no — I made you my child, godlike Achilles,
+ 495  so that someday you might ward unseemly ruin from me.
+ 496  Achilles — break your great spirit. It does not become you
+ 497  to keep a pitiless heart. Even the gods themselves can bend,
+ 498  and theirs is the greater excellence, honor, and strength:
+ 499  with burnt offerings and gentle vows,
+ 500  with libation and savor, men turn even them
+ 501  by their prayers, when a man has transgressed and gone wrong.
+ 502  For Prayers, too, are daughters of great Zeus —[34]
+ 503  lame, and wrinkled, and eyes turned aside,
+ 504  who make it their care to follow after Blindness.
+ 505  But Blindness is strong and sound of foot, and far outruns them
+ 506  all, and gets in first over all the earth
+ 507  tripping mankind; and they come healing after.
+ 508  Now the man who respects the daughters of Zeus when they approach,
+ 509  him they greatly bless, and hear him when he prays;
+ 510  but when a man denies them and stiffly refuses,
+ 511  they go to Zeus, Cronos' son, and pray
+ 512  that Blindness go with that man, till he trips, and pays in full.
+ 513  So you too, Achilles — grant the daughters of Zeus
+ 514  their due of honor, which bends the will of others, and good men too.
+ 515  If Atreus' son were not bringing gifts, and naming more
+ 516  to come — if he raged on furiously still —
+ 517  I would not be the one to tell you: throw your wrath away
+ 518  and defend the Argives, however much they need it.
+ 519  But now he gives much at once, and has promised more hereafter,
+ 520  and has sent out the best men to entreat you,
+ 521  chosen through the Achaean host, the men who are dearest
+ 522  to you yourself of the Argives. Do not shame their words
+ 523  or their coming; till now, no one could blame your anger.
+ 524  So it was with the men before us too — the fames we hear of,
+ 525  heroes of old, when furious anger came on one of them:
+ 526  they could be won by gifts, and won over by words.
+ 527  I remember this deed of old — no new thing —
+ 528  how it was; and I will tell it among you, friends, all of you.
+ 529  The Curetes were fighting, and the battle-biding Aetolians,[35]
+ 530  around the city of Calydon, and killing one another —
+ 531  the Aetolians in defense of lovely Calydon,
+ 532  the Curetes raging to sack it in war.
+ 533  For golden-throned Artemis had raised that evil among them,
+ 534  in anger that Oeneus brought no harvest-offering
+ 535  from his orchard slope: the other gods feasted on hecatombs,
+ 536  and to her alone, great Zeus's daughter, he offered nothing —
+ 537  he forgot, or he did not think of it: a great blindness of heart.
+ 538  Enraged, the child of Zeus who showers arrows
+ 539  roused against him a wild boar, white-tusked ravager,
+ 540  who did great damage, haunting Oeneus' orchard land,
+ 541  tearing up tall trees and hurling them to the ground,
+ 542  roots and all, apple-blossom and all.
+ 543  Him the son of Oeneus killed — Meleager —
+ 544  when he had gathered huntsmen out of many cities,
+ 545  and hounds: for the boar was not brought down by few men,
+ 546  so huge he was; and he set many on the pyre of grief.
+ 547  But around the carcass the goddess raised a great clamor and battle-cry,
+ 548  over the boar's head and the bristling hide,
+ 549  between the Curetes and the great-hearted Aetolians.
+ 550  Now as long as Meleager dear to Ares fought,
+ 551  so long it went hard with the Curetes; they could not
+ 552  hold their ground outside the wall, though they were many.
+ 553  But when anger entered Meleager — anger that swells
+ 554  in the chests of others too, even the close-thinking —
+ 555  enraged at his own mother Althaea, he lay idle
+ 556  beside his wedded wife, beautiful Cleopatra,
+ 557  daughter of Marpessa of the beautiful ankles, Euenus' child,
+ 558  and of Idas, strongest of men on the earth
+ 559  in his time — who even lifted his bow against the lord
+ 560  Phoebus Apollo, for the sake of his lovely-ankled bride.
+ 561  Her, in those days, in their halls her father and lady mother
+ 562  called by the name Alcyone — halcyon — because
+ 563  her own mother, with the mourning halcyon's fate upon her,
+ 564  wept when Phoebus Apollo the worker-from-afar snatched her away.
+ 565  By her Meleager lay, digesting his heart-paining anger,
+ 566  enraged at his mother's curses: for she prayed the gods
+ 567  against him, in her grief for a brother's killing —
+ 568  over and over she beat the earth that feeds so many with her hands,
+ 569  calling on Hades and dread Persephone,
+ 570  crouched on her knees, her bosom wet with tears,
+ 571  to give her son death; and out of Erebus an Erinys
+ 572  who walks in mist heard her, with her unappeasable heart.
+ 573  Soon the din of the enemy rose around the gates, the thud
+ 574  of towers battered; and the Aetolian elders begged him,
+ 575  sending the gods' chosen priests:
+ 576  come out and defend us — and they promised a great gift:
+ 577  where the plain of lovely Calydon was fattest,
+ 578  there they bade him choose a beautiful precinct,
+ 579  fifty fields broad, half of it vineyard,
+ 580  half open plowland, cut from the plain.
+ 581  And the old horseman Oeneus begged him over and over,
+ 582  standing at the threshold of his high-roofed chamber,
+ 583  shaking the bolted doors, entreating his son;
+ 584  over and over his sisters and his lady mother
+ 585  begged him — he refused the more — and his companions,
+ 586  the truest and dearest of them all:
+ 587  but not even so could they move the heart in his chest —
+ 588  until the chamber itself was under thick bombardment, and the Curetes
+ 589  were scaling the towers and firing the great city.
+ 590  Then at last his fair-belted wife begged Meleager,
+ 591  wailing, and counted out for him all
+ 592  the griefs that come to people whose city is taken:
+ 593  the men killed, the town burned down to ash,
+ 594  the children led away by strangers, and the deep-belted women.
+ 595  And his heart was stirred as he heard those terrible things:
+ 596  he went out, and clothed his body in shining armor.
+ 597  So he beat the evil day back from the Aetolians,
+ 598  yielding to his own heart. And they no longer made good
+ 599  the gifts, the many gracious gifts; yet he warded off the evil all the same.
+ 600  But you — do not think that way in your heart; do not let a god
+ 601  turn you that way, dear boy. It would be worse
+ 602  to defend the ships already burning. While there are gifts,
+ 603  come: the Achaeans will honor you like a god.
+ 604  But if without gifts you enter man-destroying war,
+ 605  you will not be honored the same, though you beat the war away."
+ 606  Answering him spoke swift-footed Achilles:
+ 607  "Phoenix, old father, aged one, Zeus-nurtured: I have no need[36]
+ 608  of that honor. I judge that I am honored by the portion of Zeus,
+ 609  which will keep me here by the beaked ships as long as breath
+ 610  stays in my chest and my knees have their spring.
+ 611  And I will tell you another thing — put it away in your heart:
+ 612  do not blur my heart with weeping and grieving
+ 613  to gratify the hero son of Atreus. You must not
+ 614  love him, or my love for you may turn to hatred.
+ 615  It is right for you to wound the man who wounds me.
+ 616  Be king equally with me; take half my honor.
+ 617  These men will carry the message; you stay here and sleep
+ 618  in a soft bed; and with the showing of Dawn
+ 619  we will decide whether to go to our own country, or to stay."
+ 620  He spoke, and with his brows signed silently to Patroclus
+ 621  to spread a thick bed for Phoenix, so the others
+ 622  might think the sooner of leaving the hut. And Ajax,
+ 623  Telamon's godlike son, spoke his word among them:
+ 624  "Zeus-sprung son of Laertes, Odysseus of many devices —[37]
+ 625  let us go. I do not think the end of this errand
+ 626  will be reached by this road. We must report the word,
+ 627  unwelcome as it is, to the Danaans with all speed —
+ 628  they sit waiting for it now. But Achilles
+ 629  has made the great-hearted spirit in his chest a savage thing —
+ 630  the hard man! — and cares nothing for the love of his companions,
+ 631  the love we honored him with by the ships beyond all others.
+ 632  Pitiless! And yet a man accepts blood-price
+ 633  even from his brother's killer, even for his own dead son;
+ 634  and the killer stays in his own country, having paid the great price,
+ 635  and the kinsman's heart and proud spirit are held in check
+ 636  once he has taken the price. But you — the gods have set
+ 637  in your chest an anger unending, and evil, over a girl —
+ 638  one girl! — while we now offer you seven, far the best,
+ 639  and much else besides. Put a gracious spirit in you;
+ 640  respect your own roof: we are under it,
+ 641  out of the whole Danaan host; and beyond all others we have longed
+ 642  to be nearest to you and dearest of all the Achaeans."
+ 643  Answering him spoke swift-footed Achilles:
+ 644  "Ajax, Zeus-sprung son of Telamon, marshal of the people:
+ 645  everything you have said is very nearly after my own heart.
+ 646  But my heart swells with rage whenever I remember
+ 647  those things — how Atreus' son treated me like dirt among the Argives,[38]
+ 648  as if I were some vagrant without honor.
+ 649  But you two go, and carry back my message:
+ 650  I will not think of bloody war again
+ 651  until brilliant Hector, war-minded Priam's son,
+ 652  comes killing Argives right up to the huts and ships
+ 653  of the Myrmidons, and blackens the ships with fire.
+ 654  At my hut, though — at my black ship — I think
+ 655  Hector will be stopped, for all his hunger for battle."
+ 656  So he spoke; and each of them took a two-handled cup,
+ 657  poured the libation, and went back along the ships, Odysseus leading.
+ 658  And Patroclus told his companions and the slave-women
+ 659  to spread a thick bed for Phoenix with all speed;
+ 660  and they obeyed, and spread the bed as he commanded —
+ 661  fleeces, a rug, and a fine flare of linen.
+ 662  There the old man lay down, and waited for brilliant Dawn.
+ 663  And Achilles slept in the innermost corner of the strong-built hut,
+ 664  and beside him lay a woman he had brought from Lesbos:[39]
+ 665  Phorbas's daughter, fair-cheeked Diomede.
+ 666  And Patroclus lay down on the other side, and by him too
+ 667  lay fair-belted Iphis, whom brilliant Achilles gave him
+ 668  when he took steep Scyros, Enyeus' citadel.
+ 669  Now when the envoys were back in the huts of Atreus' son,
+ 670  the sons of the Achaeans, springing up on every side,
+ 671  pledged them with golden cups, and pressed their questions;
+ 672  and the lord of men Agamemnon asked first:
+ 673  "Come, tell me, Odysseus of the many tales, great glory of the Achaeans:
+ 674  is he willing to beat the enemy fire from the ships,
+ 675  or did he refuse — does anger still hold that great-hearted spirit?"
+ 676  Then answered him much-enduring brilliant Odysseus:
+ 677  "Most glorious son of Atreus, lord of men Agamemnon:
+ 678  that man has no will to quench his anger — he is filled
+ 679  fuller yet with fury; he refuses you, and your gifts.
+ 680  He bids you take counsel yourself, among the Argives,
+ 681  how you may save the ships and the Achaean host;
+ 682  and he himself threatens, with the showing of Dawn,[40]
+ 683  to drag his well-benched, well-curved ships to the sea.
+ 684  And he said he would counsel the others too
+ 685  to sail for home — since you will never now reach the end
+ 686  of steep Ilion: wide-seeing Zeus has held
+ 687  his hand over her, and her people have taken heart.
+ 688  So he spoke. And here are these to confirm it, who went with me:
+ 689  Ajax, and the two heralds, wise men both.
+ 690  But old Phoenix has laid himself down there — as Achilles bade —
+ 691  so he may follow in the ships to his dear fatherland
+ 692  tomorrow, if he wishes; he will not take him by force."
+ 693  So he spoke, and they all went still in silence,
+ 694  marveling at his word: he had spoken with great power.
+ 695  A long while the sons of the Achaeans sat mute, dejected;
+ 696  and at long last Diomedes, good at the war-cry, spoke:
+ 697  "Most glorious son of Atreus, lord of men Agamemnon:[41]
+ 698  would you had never begged the blameless son of Peleus,
+ 699  offering gifts past counting. He is proud at the best of times,
+ 700  and now you have driven him deeper into pride by far.
+ 701  No — let us leave him be: whether he goes
+ 702  or stays; he will fight again whenever
+ 703  the heart in his chest commands him, and the god rouses him.
+ 704  Come then — as I say it, let us all obey:
+ 705  sleep now, when you have taken your hearts' content
+ 706  of bread and wine — for in them are fury and valor;
+ 707  and when the beautiful rosy-fingered Dawn appears,
+ 708  marshal the men and the horses quickly before the ships,
+ 709  urging them on — and fight yourself among the first."
+ 710  So he spoke, and all the kings approved,
+ 711  marveling at the word of Diomedes, breaker of horses.
+ 712  Then they poured libation, and went each man to his hut,
+ 713  and there they lay down, and took the gift of sleep.
+
+------------------------------------------------------------
+
+Notes
+
+[1] (9.1-8) Panic (Φύζα) "companion of icy Rout" — the war-demons of
+    4.440 gain another member; and the two-winds simile makes the army's
+    heart a sea worked by opposed gales: the book's whole subject —
+    a mind torn two ways — announced in weather.
+
+[2] (9.14-15) Agamemnon weeps "like a spring of dark water" pouring down
+    a cliff — the exact simile that will describe Patroclus weeping for
+    the dying Achaeans at 16.3-4. The poem opens its two great
+    turning-points, the embassy and the Patrocleia, with the same tears.
+    (Echo note; English will repeat verbatim there.)
+
+[3] (9.17-28) Agamemnon repeats his own test-speech of 2.110-118 and
+    139-141 word for word (the English repeats the Book 2 rendering) —
+    but this time he means it. The counterfeit despair of Book 2 has
+    become real, and no Odysseus rises to stop the flight: only Diomedes.
+
+[4] (9.32-49) Diomedes' answer — the payoff planted at 4.401-402, where
+    he took Agamemnon's insult in silence "where it is right" now claims
+    the assembly's license: "it is you I will fight first — your folly."
+    The scepter/courage antithesis (37-39) dismantles Agamemnon's
+    authority with surgical courtesy. Aristarchus athetized 44.
+
+[5] (9.63-64) "Clanless, lawless, hearthless is the man who is in love
+    with war among his own people" — Nestor's anathema on civil strife,
+    the most quoted political sentence in the poem after 2.204; the
+    triple alpha-privative (ἀφρήτωρ ἀθέμιστος ἀνέστιος) strips the
+    stasis-lover of every circle of belonging.
+
+[6] (9.70-72) Wine-ships from Thrace "daily" — with 7.467-475 (Lemnos),
+    the poem's second glimpse of the supply-economy behind the war.
+
+[7] (9.97-99) "Zeus has put into your hands the scepter and the
+    ordinances" — Odysseus's crowd-control theology of 2.205-206, now
+    recited to the king as obligation rather than of him as privilege:
+    with the scepter comes the duty to listen.
+
+[8] (9.115-120) "Blinded I was — I do not deny it" (ἀασάμην): Agamemnon
+    at last speaks the ἄτη-word of 1.412 and 2.111 in the first person.
+    A line quoted by Athenaeus adds after 119: "or maddened with wine,
+    or the gods themselves harmed me" (apparatus, Line 119) — an ancient
+    plus-verse softening the confession that the vulgate leaves bare.
+    His fullest self-exculpation waits for 19.86-138.
+
+[9] (9.121-157) The catalogue of gifts: seven tripods, ten talents,
+    twenty cauldrons, twelve racehorses, seven women of Lesbos, Briseis
+    with an oath, and on the far side of victory a ship's hold of
+    treasure, twenty Trojan women, a royal marriage "without bride-price"
+    (146 — the suitor's payment waived and reversed: Agamemnon dowers
+    the groom), and seven cities. It is a king's ransom — and every item
+    denominates honor in exactly the currency Achilles is about to
+    declare bankrupt.
+
+[10] (9.132-134) The oath that he never touched Briseis — offered
+     unprompted, and revealing what the quarrel's language of "prizes"
+     had buried: that this is also about a woman's bed, and that
+     Agamemnon knows it. He will swear it publicly at 19.258-265.
+
+[11] (9.144-145) Chrysothemis, Laodice, Iphianassa: no Electra, and an
+     Iphianassa alive and marriageable in the war's tenth year — the
+     Iliad appears not to know (or pointedly ignores) the sacrifice of
+     Iphigenia at Aulis. The tragedians' house of Atreus is not yet
+     this poem's.
+
+[12] (9.149-156) The seven cities stand on the Messenian coast, "on the
+     edge of sandy Pylos" — inside Nestor's sphere, not Agamemnon's:
+     ancient critics already asked by what right he gives them away.
+     Royal gift-geography is aspirational; the point is the scale.
+
+[13] (9.158-161) The poison pill: "Let him be broken (δμηθήτω)...
+     and let him yield place to me, by as much as I am more kingly."
+     The gift-list ends by re-enacting the original offense — the gifts
+     are to purchase not reconciliation but submission. Odysseus will
+     cut these lines in the retelling (note [20]).
+
+[14] (9.168-170) The envoys: Phoenix — Achilles' own tutor, somehow
+     present in Agamemnon's council — to lead; then Ajax and Odysseus,
+     with two heralds (this Odius is not the Halizone captain of 2.856).
+     The oddity of Phoenix's presence and the dual verbs that follow
+     (note [15]) have fed two centuries of analysis about whether his
+     role was a later expansion. The poem's own logic is plain: it
+     sends Achilles' three loves — his teacher, his bluntest peer, and
+     the army's best voice.
+
+[15] (9.182-198) The famous duals (disputed_lines.md #5): "the two of
+     them went... the two came... greeting the two of them" — the Greek
+     uses strict dual verbs for a party of three envoys plus two
+     heralds. Ancient solutions (Aristarchus: the duals cover only the
+     two principals; others: Phoenix went ahead) and modern ones (an
+     older two-man embassy, with Phoenix stitched in later; or the
+     heralds as the pair) all leave a seam showing. The translation
+     renders every dual visibly as "the two," per project policy, so
+     the crux is present in English rather than smoothed away.
+
+[16] (9.186-191) Achilles singing "the fames of men" (κλέα ἀνδρῶν) to a
+     lyre taken at the sack of Eëtion's Thebe — Andromache's city
+     (6.414-428). The poem's only scene of epic performed shows its
+     greatest hero as the singer, and his instrument as spoil of the
+     very raid whose griefs thread the poem; while Patroclus waits,
+     silent, for his turn in the song. What Achilles sings, he is
+     choosing between at 410-416.
+
+[17] (9.197-198, 202-220) "You who even in my anger are dearest to me"
+     — the greeting concedes at once what the answers will struggle to
+     unsay. The hosting is done by the heroes' own hands (Patroclus
+     mixing "stronger" wine, Achilles carving) — the full feast
+     type-scene performed personally: the quarrel is with one man, not
+     with fellowship.
+
+[18] — merged into [17].
+
+[19] (9.252-259) Odysseus quotes Peleus's parting advice verbatim —
+     "rein in the great-hearted spirit... break off strife" — the
+     absent-father motif (cf. 7.124-128) turned into an instrument of
+     persuasion. Whether Odysseus actually heard it (he was there,
+     11.765-790 implies) or reconstructs what fathers say, it is the
+     speech's shrewdest stroke — and its failure measures how far
+     Achilles now stands from Phthia's ethics.
+
+[20] (9.264-299) The relay: Odysseus repeats the catalogue word for
+     word (the English repeats it too, person-shifted, per policy) —
+     and stops at 299. The poison lines (158-161, "let him yield to
+     me...") are silently omitted, and in their place he pivots to
+     pity for the army and the bait of Hector's nearness (300-306).
+     The poem's masterclass in diplomatic editing: fidelity as
+     technique, suppression as tact. Achilles' "hateful as the gates
+     of Hades" answer suggests he smells the redaction anyway.
+
+[21] (9.308-314) "Hateful to me as the gates of Hades is the man who
+     hides one thing in his mind and says another" (disputed_lines.md
+     #6): the referent is contested — a warning aimed at Odysseus the
+     professional speaker standing before him, or at the absent
+     Agamemnon, the actual hider-and-sayer of the quarrel? The
+     translation keeps the generalizing third person that lets both
+     targets stand. Plato quotes the passage (Hippias Minor 365a) in
+     just this connection — Achilles the plain speaker against
+     Odysseus the polytropic.
+
+[22] (9.318-321) "The portion is equal for the man who hangs back and
+     the man who fights hard; in one honor stand the coward and the
+     brave; death comes alike..." — the sentence that unmakes the
+     poem's social contract. If timē no longer tracks merit, the whole
+     exchange-economy of prizes, and the war built on it, loses its
+     reason. This is the radical center of the book: not a bigger
+     price demanded, but the currency refused.
+
+[23] (9.323-327) Achilles as mother-bird, carrying every morsel to
+     unfledged chicks "and it goes hard with herself" — the fighter's
+     self-image as feeder and nurturer, gender-crossed; the tenderest
+     simile any warrior applies to himself in the poem.
+
+[24] (9.328-336) Twelve cities by sea, eleven by land: the sack-list
+     that stocked the poem's backstory (Thebe, Lyrnessus, Lesbos,
+     Scyros...) — all carried to Agamemnon, "who waited behind by the
+     swift ships." The distribution-economy described from the point
+     of view of its producer.
+
+[25] (9.336-343) "He keeps my bed-dear wife (ἄλοχον θυμαρέα)... as I
+     loved that one from my heart, spear-won though she was." Achilles
+     calls Briseis by the word for wedded wife, and answers the whole
+     war's premise with a question — "are the sons of Atreus alone
+     among mortal men the ones who love their wives?" The captive
+     "prize" of Book 1 is re-described as a loved woman; Briseis's own
+     voice, confirming, comes at 19.287-300.
+
+[26] (9.354-355) "only as far as the Scaean Gates and the oak" — the
+     landmark of 7.22 and 6.237; Achilles' memory of a Hector who
+     would not fight in the open is the exact inverse of the Hector
+     of Book 8, and both are true in their seasons of divine favor.
+
+[27] (9.378-387) "I count him at a hair's worth" (ἐν καρὸς αἴσῃ) — and
+     the great refusal-crescendo: ten times, twenty times the gifts;
+     the wealth of Orchomenus; "Egyptian Thebes, the city of a hundred
+     gates" (the Iliad's only mention of Egypt); gifts like sand and
+     dust. Not until "he has paid me back all the outrage" — a price
+     no catalogue can denominate.
+
+[28] (9.388-400) The marriage refused: "Peleus himself will find me a
+     wife." Against Agamemnon's dynastic offer Achilles sets an
+     ordinary happiness — a local bride, his father's goods — spoken
+     by the one man in the poem who knows (410-416) he will never
+     have it.
+
+[29] (9.401-409) "Not worth my life (ψυχῆς ἀντάξιον)": cattle can be
+     raided, tripods won, "but a man's life cannot be lifted back...
+     once it has crossed the fence of his teeth." The formula for
+     guarded speech (4.350) turned into the body's last gate — words
+     return, breath does not. This is the poem's deepest sentence
+     against its own heroic premise, and the Odyssey's Achilles in
+     the underworld will say it again in other words.
+
+[30] (9.410-416) The two fates: stay and win "imperishable fame"
+     (κλέος ἄφθιτον — the oldest phrase of Indo-European praise-poetry,
+     cognate formulas in the Vedas), or go home to long, fameless
+     life. Only Achilles receives destiny as a menu; and the poem that
+     preserves his fame is itself the content of the first option —
+     the choice is between existing in epic and existing. Zenodotus
+     omitted and Aristarchus athetized 416.
+
+[31] (9.432-445) Phoenix: guardian of Achilles' boyhood, teacher of
+     the heroic double curriculum — "a speaker of words, and a doer
+     of deeds" (443) — the poem's one-line definition of the complete
+     man, spoken by the man who taught it to its greatest exemplar.
+
+[32] (9.447-461) Phoenix's own story: his father's concubine, his
+     mother's plea, the old man's curse of childlessness sworn to the
+     Erinyes and ratified by "Zeus of the world below" (Hades) "and
+     dread Persephone." At this point the vulgate — and this project's
+     Greek text — omits four lines (458-461), and the numbering jumps:
+     preserved only by Plutarch (How to Study Poetry 26f), they read,
+     in translation: "Then I planned in my heart to cut him down with
+     the sharp bronze; but some immortal checked my anger, putting in
+     my heart the people's talk and the many reproaches of men, that I
+     might not be called a father-killer among the Achaeans."
+     Aristarchus athetized them for their shocking content
+     (disputed_lines.md #7), and the printed tradition dropped them so
+     thoroughly that editors since Wolf (1785) have had to reinsert
+     them from Plutarch (apparatus, Line 457). The translation
+     reproduces the transmitted gap; the suppressed confession —
+     Phoenix nearly a parricide, saved by fear of what men would say —
+     is the darkest mirror the poem holds up to anger mastered.
+
+[33] (9.485-495) Phoenix nursing the baby Achilles — cutting his meat,
+     holding the wine, the tunic soaked "in your troublesome
+     babyhood": the war's most terrifying fighter recalled as a
+     spitting infant, by the childless man who made him his child.
+     The plea's authority is this memory, and its failure is measured
+     by it.
+
+[34] (9.502-514) The Litai — the Prayers: daughters of Zeus, "lame,
+     and wrinkled, and eyes turned aside," limping forever after
+     swift, strong Blindness (Ἄτη) to heal what she wrecks; scorn
+     them, and they ask Zeus to send Atē against the scorner. The
+     poem's only sustained allegory, and its moral crux: within the
+     fiction, Achilles' refusal of these suppliants files the request
+     that his own ruin follow — as it does, through Patroclus. The
+     ἄτη-thread (1.412, 2.111, 9.115, 19.91-136 where Agamemnon tells
+     Atē's own myth) runs straight through this passage.
+
+[35] (9.524-599) The Meleager paradigm — the poem in miniature, told
+     to its own hero: Artemis slighted (the same forgotten-sacrifice
+     motif, with the ἄτη-verb at 537), the boar, the wrath, the hero
+     idle beside his wife while his city burns; the ladder of
+     suppliants — priests and elders with a gift of land, father at
+     the threshold, sisters, mother, dearest companions — all
+     refused; then the wife, Cleopatra, with her catalogue of a
+     sacked city's griefs; he yields, fights, saves them — "and they
+     no longer made good the gifts." Every rung maps onto Achilles'
+     own night (elders-with-gifts = Odysseus; father-figure =
+     Phoenix; companions = Ajax), and the poem's audience can finish
+     the map: the beloved whose plea will finally move Achilles is
+     the one sitting silent in this very hut — and Meleager's wife
+     bears the name Cleopatra, "famed of her fathers," Patroclus's
+     name with its elements reversed. The onomastic mirror was
+     noticed in antiquity and remains the most elegant argument in
+     Homer. (The Marpessa-Idas digression, 557-564 — a mortal who
+     drew his bow on Apollo for love, and a wife nicknamed Halcyon
+     for her mother's mourning — folds yet another tale of defiance
+     and grief inside the paradigm.) Phoenix's warning lands askew:
+     Meleager's lesson as told is "yield before it is too late for
+     gifts," but its buried lesson is "the wife's plea — the
+     Cleopatra — comes last, and works." Book 16 is that plea.
+
+[36] (9.606-619) To Phoenix, the first softening: "I am honored by
+     the portion of Zeus" (the replacement for the army's failed
+     timē); "be king equally with me; take half my honor"; and the
+     schedule slips — from "tomorrow I sail" (357-363) to "at dawn we
+     will decide whether to go or stay." ἄττα, "old father" — the
+     nursery word — enters the register in the same breath as the
+     threat to hate whomever Phoenix loves.
+
+[37] (9.624-642) Ajax, to Odysseus, about Achilles, in front of him —
+     the bluntest speech in the poem: a man takes blood-price
+     (ποινή) even for a murdered brother or son, and the killer walks
+     his own country; Achilles is implacable "over a girl — one
+     girl! — while we offer seven." The argument from composition
+     for homicide is the strongest yet — it names the going rate for
+     the unpayable — and its miss is the most revealing: the wrong
+     is no longer priced in girls at all. Then the master-stroke of
+     the plain man: "respect your own roof: we are under it" — the
+     xenia-claim, which is the one Achilles grants.
+
+[38] (9.643-655) The third answer, to Ajax: "everything you have said
+     is very nearly after my own heart" — and the line that started
+     it all restated raw: he treated me "as if I were some vagrant
+     without honor (ἀτίμητον μετανάστην)." Then the third position:
+     not sailing, not deciding at dawn, but — I fight when Hector
+     reaches the ships of the Myrmidons. Refusal has become a
+     timetable; the plot of Books 11-16 is Achilles' own sentence
+     coming true at his hut, where Hector is indeed stopped — by
+     Patroclus's death.
+
+[39] (9.658-668) The beds: Phoenix's made by the slave-women; Achilles
+     with Diomede of Lesbos, Patroclus with Iphis, taken at Scyros —
+     the sack-list of 328-329 embodied in the hut's sleeping
+     arrangements; each concubine a city. The embassy departs one man
+     lighter: Phoenix stays, the first crack in Achilles' isolation.
+
+[40] (9.673-692) The report: to "Odysseus of the many tales"
+     (πολύαινος — new epithet, register), Odysseus repeats Achilles'
+     first answer verbatim (682-687 = 417-420, English likewise) —
+     and reports nothing of the second or third: not "at dawn we
+     decide," not "when Hector reaches my ships." The editor of the
+     offer (note [20]) now edits the refusal, presenting the council
+     with the starkest version — whether as rigor, or despair, or
+     policy is the reader's to judge. Aristarchus athetized 688-692,
+     Zenodotus 692.
+
+[41] (9.693-709) Diomedes closes the book he opened: "would you had
+     never begged him... he will fight again whenever the heart in
+     his chest commands him, and the god rouses him" — the truest
+     prophecy in the book, and the completion of the arc from the
+     silent young man of 4.401 to the voice the kings applaud into
+     the night. Eat, sleep, fight at dawn: the war goes on without
+     its best man, which is exactly what Books 10-15 now show.
