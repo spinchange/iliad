@@ -1,0 +1,30 @@
+{
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "cedar",
+  "response_format": "wav",
+  "speed": 0.95,
+  "target_chars": 1800,
+  "max_chars": 1900,
+  "instructions": "Read the supplied text verbatim as a literary audiobook. Speak every word exactly once, in its written order. Do not omit, paraphrase, repeat, or add words. Use a mature, resonant baritone with a natural educated British accent: modern received pronunciation, understated and contemporary, never exaggerated or theatrical. Keep the voice low, warm, authoritative, and steady. Read at an unhurried literary-audiobook pace, approximately 172 to 176 words per minute. Maintain one narrator identity throughout; quoted speech may change in emphasis but not in voice, accent, age, or register.",
+  "pilot_ranges": [
+    [1, 32]
+  ],
+  "use_pronunciation_instructions": false,
+  "tts_replacements": {
+    "Achaeans": "uh-Kee-unz",
+    "Achilles": "uh-Kill-eez",
+    "Agamemnon": "ag-uh-Mem-non",
+    "Apollo": "uh-Pol-oh",
+    "Chryseis": "Cry-see-iss",
+    "Chryses": "Cry-seez",
+    "Peleus": "Pee-lee-us",
+    "Zeus": "Zoos"
+  },
+  "qa": {
+    "max_deletion_ratio": 0.02,
+    "max_deletion_run": 3,
+    "max_substitution_ratio": 0.1,
+    "min_length_ratio": 0.92,
+    "max_length_ratio": 1.08
+  }
+}

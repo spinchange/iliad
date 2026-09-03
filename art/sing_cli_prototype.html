@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sing.sh — Command Line Iliad UX Prototype</title>
+  <style>
+    :root {
+      --bg-color: #1e0b15;
+      --bg-terminal: #15060d;
+      --text-bone: #ead9b4;
+      --text-dim: #a58e72;
+      --gold: #c99b3f;
+      --wine: #46192b;
+      --green: #83a598;
+      --cyan: #458588;
+      --red: #fb4934;
+      --font-mono: 'Fira Code', 'Courier New', Courier, monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-bone);
+      font-family: var(--font-mono);
+      font-size: 15px;
+      line-height: 1.6;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      padding: 20px;
+    }
+
+    /* Screen Frame */
+    #terminal-container {
+      flex: 1;
+      background-color: var(--bg-terminal);
+      border: 2px solid var(--text-dim);
+      border-radius: 6px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Header Bar */
+    #terminal-header {
+      background-color: var(--wine);
+      padding: 8px 16px;
+      border-bottom: 2px solid var(--text-dim);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13px;
+      font-weight: bold;
+      color: var(--text-bone);
+      user-select: none;
+    }
+
+    .window-dots {
+      display: flex;
+      gap: 6px;
+    }
+    .window-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      border: 1px solid var(--text-dim);
+    }
+    .window-dot.red { background-color: var(--red); }
+    .window-dot.yellow { background-color: var(--gold); }
+    .window-dot.green { background-color: var(--green); }
+
+    /* Terminal Output / Content */
+    #terminal-body {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    #terminal-history {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .output-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .input-line-historical {
+      color: var(--gold);
+      font-weight: bold;
+    }
+
+    .command-output {
+      padding-left: 12px;
+      white-space: pre-wrap;
+    }
+
+    /* Interactive Input Bar */
+    #input-line-active {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 12px;
+      color: var(--gold);
+      font-weight: bold;
+    }
+
+    #active-prompt {
+      white-space: nowrap;
+    }
+
+    #command-input {
+      flex: 1;
+      background: transparent;
+      border: none;
+      outline: none;
+      color: var(--text-bone);
+      font-family: var(--font-mono);
+      font-size: 15px;
+      caret-color: var(--gold);
+    }
+
+    /* The Interlinear Pager UX */
+    #pager-view {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: var(--bg-terminal);
+      display: none;
+      flex-direction: column;
+      z-index: 10;
+    }
+
+    #pager-header {
+      background-color: var(--wine);
+      padding: 8px 16px;
+      border-bottom: 1.5px solid var(--text-dim);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13px;
+      user-select: none;
+    }
+
+    #pager-controls {
+      display: flex;
+      gap: 16px;
+    }
+
+    .pager-btn {
+      background: var(--wine);
+      border: 1px solid var(--text-dim);
+      color: var(--text-bone);
+      padding: 2px 10px;
+      border-radius: 3px;
+      cursor: pointer;
+      font-family: var(--font-mono);
+      font-size: 12px;
+      transition: all 0.2s;
+    }
+
+    .pager-btn:hover {
+      background-color: var(--gold);
+      color: var(--bg-terminal);
+    }
+
+    #pager-content {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+      outline: none;
+    }
+
+    .verse-line {
+      margin-bottom: 12px;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    .line-number {
+      position: absolute;
+      left: -50px;
+      width: 40px;
+      text-align: right;
+      color: var(--text-dim);
+      font-size: 12px;
+      user-select: none;
+    }
+
+    .line-container {
+      padding-left: 55px;
+    }
+
+    .greek-text {
+      color: var(--text-dim);
+      font-style: italic;
+      font-size: 14px;
+      display: none;
+    }
+
+    .english-text {
+      color: var(--text-bone);
+    }
+
+    .footnote-ref {
+      color: var(--gold);
+      font-weight: bold;
+      font-size: 11px;
+      vertical-align: super;
+      cursor: pointer;
+      margin-left: 2px;
+      text-decoration: none;
+    }
+
+    .footnote-ref:hover {
+      text-decoration: underline;
+    }
+
+    .inline-note {
+      background-color: rgba(70, 25, 43, 0.35);
+      border-left: 3px solid var(--gold);
+      padding: 8px 12px;
+      margin: 6px 0 6px 55px;
+      font-size: 13px;
+      color: var(--text-dim);
+      display: none;
+    }
+
+    #pager-footer {
+      background-color: var(--wine);
+      padding: 6px 16px;
+      border-top: 1.5px solid var(--text-dim);
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      color: var(--text-bone);
+      user-select: none;
+    }
+
+    /* Text highlight colors */
+    .gold-highlight { color: var(--gold); }
+    .dim-highlight { color: var(--text-dim); }
+    .green-highlight { color: var(--green); }
+
+    /* ASCII meander bands */
+    .meander-divider {
+      color: var(--gold);
+      font-weight: bold;
+      margin: 10px 0;
+      user-select: none;
+      letter-spacing: -2px;
+      white-space: pre;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="terminal-container">
+    <div id="terminal-header">
+      <div class="window-dots">
+        <div class="window-dot red"></div>
+        <div class="window-dot yellow"></div>
+        <div class="window-dot green"></div>
+      </div>
+      <div>sing.sh — Interactive Reader</div>
+      <div style="opacity:0.6;">v1.0.0</div>
+    </div>
+
+    <!-- MAIN TERMINAL PROMPT -->
+    <div id="terminal-body" onclick="focusInput()">
+      <div id="terminal-history">
+        <div class="output-group">
+          <div style="color: var(--gold); font-weight: bold; font-size: 16px;">
+            Sing, Muse, of the Command-Line Iliad.
+          </div>
+          <div style="color: var(--text-dim); font-size: 13px; margin-bottom: 12px;">
+            Type <span class="gold-highlight">help</span> to view available terminal commands, or <span class="gold-highlight">./sing.sh --goddess</span> to invoke the Muse.
+          </div>
+        </div>
+      </div>
+
+      <div id="input-line-active">
+        <span id="active-prompt">[iliad.sh]$</span>
+        <input type="text" id="command-input" autofocus autocomplete="off" onkeydown="handleInput(event)">
+      </div>
+    </div>
+
+    <!-- INTERACTIVE PAGER VIEW -->
+    <div id="pager-view">
+      <div id="pager-header">
+        <div id="pager-title" style="font-weight: bold;">READING: book01.txt</div>
+        <div id="pager-controls">
+          <button class="pager-btn" onclick="toggleGreekGlobal()">Toggle Greek (g)</button>
+          <button class="pager-btn" onclick="exitPager()">Exit (q)</button>
+        </div>
+      </div>
+
+      <div id="pager-content" tabindex="0" onkeydown="handlePagerNav(event)">
+        <!-- Loaded dynamically -->
+      </div>
+
+      <div id="pager-footer">
+        <div>[j/k] Scroll · [g] Greek Toggle · [Click Note] Expand Note · [q] Exit</div>
+        <div id="pager-progress">Line 1 / 35</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Filesystem simulation
+    const FILES = {
+      'README.md': 
+`# Sing.sh: A Command-Line Iliad
+A line-for-line English translation of Homer's Iliad matching the Monro-Allen Greek text.
+
+Acronym-based CLI jokes aside, this terminal UX lets classicists, readers, and students check the line-for-line English version against the Greek, review the critical apparatus inline, and query epithets.
+
+Commands:
+  ./sing.sh --goddess      Invoke the Muse (Book 1 launch)
+  less book01.txt          Read Book 1 interactively with Greek-toggle (g)
+  less book18.txt          Read Book 18 (Shield of Achilles)
+  whois [character]        Look up character profile and appearances
+  simile                   Show a random epic simile
+  grep [term]              Search translation text
+  ls                       List files in virtual directory`,
+
+      'CONVENTIONS.md':
+`# Translation Conventions & Epithet Registry
+
+Swift-footed Achilles       ->  πόδας ὠκὺς Ἀχιλλεύς
+Lord of men Agamemnon        ->  ἄναξ ἀνδρῶν Ἀγαμέμνων
+White-armed Hera             ->  λευκώλενος Ἥρη
+Cloud-gathering Zeus         ->  νεφεληγερέτα Ζεύς
+Gleaming-helmet Hector       ->  κορυθαίολος Ἕκτωρ`,
+
+      'catalog_of_similes.txt':
+`------------------------------------------------------------
+SIMILE 1 (18.318-323 · Achilles' Lament)
+------------------------------------------------------------
+    like a bearded lion
+    whose cubs a deer-hunter has snatched away
+    out of the thick wood; and he comes back too late, and grieves,
+    and goes down glen after glen tracking the man's footprints,
+    hunting him out — for bitter anger takes hold of him:
+    so, groaning heavily, Achilles spoke among the Myrmidons
+
+------------------------------------------------------------
+SIMILE 2 (11.548-557 · Ajax Forced Back)
+------------------------------------------------------------
+    As a fiery lion from a yard of cattle
+    is driven off by dogs and countrymen,
+    who will not let him take the fat of the herd,
+    watching all night long; and he, craving the meat,
+    charges in but gets nowhere, for javelins thick and fast
+    fly out to meet him from daring hands...`
+    };
+
+    // Database of Characters
+    const INDEX = {
+      'achilles': {
+        name: 'Achilles (Ἀχιλλεύς)',
+        title: 'Swift-footed Champion of the Achaeans',
+        epithets: ['swift-footed', 'brilliant', 'breaking through men', 'godlike'],
+        desc: 'Son of the mortal king Peleus and the immortal sea-goddess Thetis. He is the principal character of the epic; his wrath (mēnis) at Agamemnon\'s insult drives the narrative.',
+        lines: ['1.1', '1.7', '1.54', '1.188', '18.318', '22.306']
+      },
+      'hector': {
+        name: 'Hector (Ἕκτωρ)',
+        title: 'Champion & Defender of Troy',
+        epithets: ['gleaming-helmet', 'breaker of horses', 'tamer of horses', 'brilliant'],
+        desc: 'Son of Priam and Hecuba, husband of Andromache. He is the leader of the Trojan and allied armies, holding the gates defensively against the Achaean onslaught.',
+        lines: ['1.242', '6.370', '18.479', '22.250', '22.360']
+      },
+      'agamemnon': {
+        name: 'Agamemnon (Ἀγαμέμνων)',
+        title: 'King of Mycenae & Leader of the Host',
+        epithets: ['lord of men', 'wide-ruling', 'son of Atreus'],
+        desc: 'Brother of Menelaus. He commands the united Achaean expedition. His hubristic capture of Briseis triggers Achilles\' withdrawal from battle.',
+        lines: ['1.7', '1.90', '1.172', '9.115', '19.76']
+      },
+      'apollo': {
+        name: 'Apollo (Ἀπόλλων)',
+        title: 'Deadly Archer God of the Silver Bow',
+        epithets: ['shooter from afar', 'bright', 'mouse-god (Smintheus)'],
+        desc: 'Son of Zeus and Leto, sibling of Artemis. He supports the Trojans and sends a devastating plague upon the Greek ships in Book 1 after Agamemnon insults his priest Chryses.',
+        lines: ['1.9', '1.43', '1.370', '22.215']
+      }
+    };
+
+    // Text files content for Books
+    const BOOK_DATA = {
+      'book01.txt': {
+        title: 'Book 1: The Wrath',
+        lines: [
+          { num: 1, gr: "μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος", en: "Sing, goddess, the wrath of Peleus' son Achilles,", note: "1.1: mēnis (wrath) is the thematic load-bearing word of the epic, a cosmic grudge." },
+          { num: 2, gr: "οὐλομένην, ἣ μυρίʼ Ἀχαιοῖς ἄλγεʼ ἔθηκε,", en: "ruinous wrath, that laid griefs beyond counting on the Achaeans" },
+          { num: 3, gr: "πολλὰς δʼ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν", en: "and hurled down to Hades many strong souls of heroes,", note: "1.3: 'strong souls' (iphthimous psychas) — the soul is a shadowy double in Hades, the body is the self." },
+          { num: 4, gr: "ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν", en: "and made the men themselves prey for dogs" },
+          { num: 5, gr: "οἰωνοῖσί τε πᾶσι, Διὸς δʼ ἐτελείετο βουλή,", en: "and every bird — and the will of Zeus moved toward fulfillment —", note: "1.5: Zenodotus athetized this line; the vulgate reading is kept." },
+          { num: 6, gr: "ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε", en: "from the moment those two first stood apart in strife," },
+          { num: 7, gr: "Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς.", en: "Atreus' son, lord of men, and brilliant Achilles." },
+          { num: 8, gr: "τίς τʼ ἄρ σφωε θεῶν ἔriδι ξυνέηκε μάχεσθαι;", en: "Which of the gods, then, set the two of them fighting?" },
+          { num: 9, gr: "Λητοῦς καὶ Διὸς υἱός· ὃ γὰρ βασιλῆϊ χολωθεὶς", en: "The son of Leto and Zeus; for he, angered at the king,", note: "1.9: Apollo, the shooter from afar." },
+          { num: 10, gr: "νοῦσον ἀνὰ στρατὸν ὄρσε κακήν, ὀλέκοντο δὲ λαοί,", en: "sent a evil plague through the host, and the people died," }
+        ]
+      },
+      'book18.txt': {
+        title: 'Book 18: The Shield of Achilles',
+        lines: [
+          { num: 478, gr: "ποιέει δὲ πρώτιστα σάκος μέγα τε στιβαρόν τε", en: "And he made first of all a shield, great and heavy,", note: "18.478: Hephaestus begins his craft." },
+          { num: 479, gr: "πάντοσε δαιδάλλων, περὶ δʼ ἄντυγα βάλλε φαεινὴν", en: "working the whole of it with cunning; and around it he threw a rim," },
+          { num: 480, gr: "τρὶπλακα μαρμαρέην, ἐκ δʼ ἀργύρεον τελαμῶνα.", en: "bright, triple, glittering; and from it a silver strap." },
+          { num: 481, gr: "πέντε δʼ ἄρʼ αὐτοῦ ἔσαν πτύχες· αὐτὰρ ἐν αὐτῷ", en: "Five were the layers of the shield itself; and on its face" },
+          { num: 482, gr: "ποίησε δαίδαλα πολλὰ ἰδυίῃσι πραπίδεσσιν.", en: "he wrought many intricate things with his knowing craft." },
+          { num: 483, gr: "ἐν μὲν γαῖαν ἔτευξʼ, ἐν δʼ οὐρανόν, ἐν δὲ θάλασσαν,", en: "On it he made the earth, and the heaven, and the sea,", note: "18.483: The macrocosm surrounding human activity." },
+          { num: 484, gr: "ἠέλιόν τʼ ἀκάμαντα σελήνην τε πλήθουσαν,", en: "the unwearied sun and the moon at her full," },
+          { num: 485, gr: "ἐν δὲ τὰ τείρεα πάντα τά τʼ οὐρανὸς ἐστεφάνωται,", en: "and on it all the constellations with which heaven is crowned —" },
+          { num: 486, gr: "Πληϊάδας θʼ Ὑάδας τε τό τε σθένος Ὠρίωνος", en: "the Pleiades and the Hyades, and the strength of Orion," }
+        ]
+      }
+    };
+
+    // ASCII Greek Meander border
+    const MEANDER = "🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳🔲🔳";
+
+    // Command History
+    const historyList = [];
+    let historyIndex = -1;
+
+    function focusInput() {
+      document.getElementById('command-input').focus();
+    }
+
+    function handleInput(e) {
+      const input = e.target;
+      if (e.key === 'Enter') {
+        const command = input.value.trim();
+        if (command) {
+          historyList.push(command);
+          historyIndex = historyList.length;
+          executeCommand(command);
+        }
+        input.value = '';
+      } else if (e.key === 'ArrowUp') {
+        if (historyIndex > 0) {
+          historyIndex--;
+          input.value = historyList[historyIndex];
+        }
+        e.preventDefault();
+      } else if (e.key === 'ArrowDown') {
+        if (historyIndex < historyList.length - 1) {
+          historyIndex++;
+          input.value = historyList[historyIndex];
+        } else {
+          historyIndex = historyList.length;
+          input.value = '';
+        }
+        e.preventDefault();
+      }
+    }
+
+    function printLine(text, className = '') {
+      const historyDiv = document.getElementById('terminal-history');
+      const out = document.createElement('div');
+      out.className = `command-output ${className}`;
+      out.innerHTML = text;
+      historyDiv.appendChild(out);
+      document.getElementById('terminal-body').scrollTop = document.getElementById('terminal-body').scrollHeight;
+    }
+
+    function executeCommand(cmdStr) {
+      // Echo input
+      const historyDiv = document.getElementById('terminal-history');
+      const echo = document.createElement('div');
+      echo.className = 'input-line-historical';
+      echo.innerText = `[iliad.sh]$ ${cmdStr}`;
+      historyDiv.appendChild(echo);
+
+      const parts = cmdStr.split(' ');
+      const mainCmd = parts[0];
+      const args = parts.slice(1);
+
+      switch (mainCmd) {
+        case 'help':
+          printLine(
+`Available commands:
+  <span class="gold-highlight">ls</span>                    List virtual files
+  <span class="gold-highlight">cat [file]</span>            Print a file's contents
+  <span class="gold-highlight">less [file]</span>           Read a text file in the interactive pager
+  <span class="gold-highlight">./sing.sh --goddess</span>   Invoke the Muse and read Book 1
+  <span class="gold-highlight">whois [character]</span>     Lookup a character's stats & details (try: whois achilles)
+  <span class="gold-highlight">simile</span>                Print a random epic simile
+  <span class="gold-highlight">grep [term]</span>           Search text files for matches
+  <span class="gold-highlight">clear</span>                 Clear the terminal screen`);
+          break;
+
+        case 'ls':
+          printLine(`book01.txt   book18.txt   CONVENTIONS.md   README.md   catalog_of_similes.txt   sing.sh`);
+          break;
+
+        case 'clear':
+          historyDiv.innerHTML = '';
+          break;
+
+        case 'cat':
+          if (!args[0]) {
+            printLine('Usage: cat [filename]', 'red-highlight');
+          } else if (FILES[args[0]]) {
+            printLine(FILES[args[0]]);
+          } else if (BOOK_DATA[args[0]]) {
+            // Render plain lines
+            let out = '';
+            BOOK_DATA[args[0]].lines.forEach(l => {
+              out += `${String(l.num).padStart(4, ' ')}  ${l.en}\n`;
+            });
+            printLine(out);
+          } else {
+            printLine(`cat: ${args[0]}: File not found`, 'red-highlight');
+          }
+          break;
+
+        case 'less':
+          if (!args[0]) {
+            printLine('Usage: less [filename]', 'red-highlight');
+          } else if (BOOK_DATA[args[0]]) {
+            openPager(args[0]);
+          } else if (FILES[args[0]]) {
+            printLine(FILES[args[0]]);
+          } else {
+            printLine(`less: ${args[0]}: File not found`, 'red-highlight');
+          }
+          break;
+
+        case './sing.sh':
+          if (args[0] === '--goddess') {
+            printLine(`<span class="gold-highlight">${MEANDER}</span>`);
+            printLine("INVOCATING THE MUSES...", "green-highlight");
+            setTimeout(() => {
+              openPager('book01.txt');
+            }, 800);
+          } else {
+            printLine('Usage: ./sing.sh --goddess');
+          }
+          break;
+
+        case 'whois':
+          if (!args[0]) {
+            printLine('Usage: whois [character_name]');
+          } else {
+            const char = args[0].toLowerCase();
+            if (INDEX[char]) {
+              const c = INDEX[char];
+              let out = `<span class="gold-highlight">NAME:</span> ${c.name}\n`;
+              out += `<span class="gold-highlight">TITLE:</span> ${c.title}\n`;
+              out += `<span class="gold-highlight">EPITHETS:</span> ${c.epithets.join(', ')}\n`;
+              out += `<span class="gold-highlight">DESCRIPTION:</span> ${c.desc}\n`;
+              out += `<span class="gold-highlight">FIRST / KEY APPEARANCES:</span> ${c.lines.join(', ')}`;
+              printLine(out);
+            } else {
+              printLine(`whois: character "${args[0]}" not found in proper-name registry. Try: achilles, hector, agamemnon, apollo`);
+            }
+          }
+          break;
+
+        case 'simile':
+          const similes = [
+            `<strong>18.318-323 · Achilles begins his grief:</strong>\n    like a bearded lion\n    whose cubs a deer-hunter has snatched away\n    out of the thick wood; and he comes back too late, and grieves,\n    and goes down glen after glen tracking the man's footprints,\n    hunting him out — for bitter anger takes hold of him:\n    so, groaning heavily, Achilles spoke among the Myrmidons.`,
+            `<strong>11.548-557 · Ajax retreats sullenly:</strong>\n    As a fiery lion from a yard of cattle\n    is driven off by dogs and countrymen,\n    who will not let him take the fat of the herd,\n    watching all night long; and he, craving the meat,\n    charges in but gets nowhere, for javelins thick and fast\n    fly out to meet him from daring hands,\n    and burning brands besides, and he flinches at those for all his fury,\n    and at dawn he goes off apart, sullen at heart;\n    so Ajax then, sullen at heart, fell back from the Trojans...`,
+            `<strong>16.156-163 · The Myrmidons arming for battle:</strong>\n    And they, like wolves\n    that eat flesh raw, hearts full of unspeakable courage,\n    who have brought down a great antlered stag in the mountains\n    and tear it, and every muzzle among them is red with blood;\n    and in a pack they go to a spring of dark water\n    to lap with their thin tongues the black surface-water,\n    belching up clotted gore...`
+          ];
+          const rand = similes[Math.floor(Math.random() * similes.length)];
+          printLine(rand);
+          break;
+
+        case 'grep':
+          if (!args[0]) {
+            printLine('Usage: grep [search_term]');
+          } else {
+            const query = args[0].toLowerCase();
+            let matches = [];
+            
+            // Search book files
+            Object.keys(BOOK_DATA).forEach(filename => {
+              BOOK_DATA[filename].lines.forEach(l => {
+                if (l.en.toLowerCase().includes(query) || l.gr.toLowerCase().includes(query)) {
+                  matches.push(`<span class="green-highlight">${filename}:${l.num}:</span> ${l.en}`);
+                }
+              });
+            });
+
+            if (matches.length > 0) {
+              printLine(matches.slice(0, 10).join('\n'));
+              if (matches.length > 10) {
+                printLine(`... and ${matches.length - 10} more matches. Use paging to read.`);
+              }
+            } else {
+              printLine(`No matches found for "${query}"`);
+            }
+          }
+          break;
+
+        default:
+          printLine(`sh: command not found: ${mainCmd}. Type "help" for a list of commands.`, 'red-highlight');
+      }
+
+      document.getElementById('terminal-body').scrollTop = document.getElementById('terminal-body').scrollHeight;
+    }
+
+    // Pager System variables
+    let currentBook = null;
+    let greekVisible = false;
+
+    function openPager(filename) {
+      currentBook = filename;
+      document.getElementById('pager-title').innerText = `READING: ${filename} — ${BOOK_DATA[filename].title}`;
+      
+      const contentDiv = document.getElementById('pager-content');
+      contentDiv.innerHTML = '';
+      
+      BOOK_DATA[filename].lines.forEach((l, idx) => {
+        const lineDiv = document.createElement('div');
+        lineDiv.className = 'verse-line';
+        lineDiv.id = `line-${l.num}`;
+        
+        let noteLink = '';
+        if (l.note) {
+          noteLink = ` <a href="javascript:void(0)" class="footnote-ref" onclick="toggleNote(${l.num})">[note]</a>`;
+        }
+
+        lineDiv.innerHTML = `
+          <span class="line-number">${l.num}</span>
+          <div class="line-container">
+            <div class="greek-text" id="gr-${l.num}">${l.gr}</div>
+            <div class="english-text">${l.en}${noteLink}</div>
+          </div>
+          ${l.note ? `<div class="inline-note" id="note-${l.num}">${l.note}</div>` : ''}
+        `;
+        contentDiv.appendChild(lineDiv);
+      });
+
+      document.getElementById('pager-progress').innerText = `Line ${BOOK_DATA[filename].lines[0].num} - ${BOOK_DATA[filename].lines[BOOK_DATA[filename].lines.length-1].num}`;
+      document.getElementById('pager-view').style.display = 'flex';
+      
+      // Update styling based on current state
+      setGreekDisplayState();
+      
+      contentDiv.focus();
+    }
+
+    function toggleNote(lineNum) {
+      const note = document.getElementById(`note-${lineNum}`);
+      if (note.style.display === 'block') {
+        note.style.display = 'none';
+      } else {
+        note.style.display = 'block';
+      }
+    }
+
+    function toggleGreekGlobal() {
+      greekVisible = !greekVisible;
+      setGreekDisplayState();
+    }
+
+    function setGreekDisplayState() {
+      const gTexts = document.querySelectorAll('.greek-text');
+      gTexts.forEach(el => {
+        el.style.display = greekVisible ? 'block' : 'none';
+      });
+    }
+
+    function exitPager() {
+      document.getElementById('pager-view').style.display = 'none';
+      focusInput();
+    }
+
+    function handlePagerNav(e) {
+      if (e.key === 'q' || e.key === 'Escape') {
+        exitPager();
+      } else if (e.key === 'g') {
+        toggleGreekGlobal();
+      }
+    }
+
+    window.onload = function() {
+      focusInput();
+    };
+  </script>
+</body>
+</html>

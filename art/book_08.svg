@@ -1,0 +1,61 @@
+<svg viewBox="0 0 600 800" width="600" height="800" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Plate for Iliad Book 8: The Golden Scales — a Geometric emblem in pale bone on a wine-dark ground.">
+  <defs>
+    <linearGradient id="wine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#46192b"/>
+      <stop offset="0.55" stop-color="#331323"/>
+      <stop offset="1" stop-color="#1e0b15"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.44" r="0.85">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0c0408" stop-opacity="0.5"/>
+    </radialGradient>
+    <pattern id="meander" width="40" height="40" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#ead9b4" stroke-width="3.6">
+        <path d="M0 5 H40"/><path d="M0 34 H40"/><path d="M28 34 V11 H11 V26 H19"/>
+      </g>
+    </pattern>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <rect width="600" height="800" fill="url(#wine)"/>
+  <rect width="600" height="800" fill="#ead9b4" filter="url(#grain)"/>
+  <rect width="600" height="800" fill="url(#vig)"/>
+
+  <rect x="28" y="28" width="544" height="744" fill="none" stroke="#ead9b4" stroke-width="2.2" opacity="0.9"/>
+  <rect x="38" y="38" width="524" height="724" fill="none" stroke="#ead9b4" stroke-width="1" opacity="0.38"/>
+  <rect x="70" y="58" width="460" height="34" fill="url(#meander)"/>
+
+  <g stroke="#ead9b4" fill="none" stroke-linecap="round">
+  <line x1="300" y1="326" x2="300" y2="368" stroke-width="3"/>
+  <circle cx="300" cy="320" r="7" stroke-width="3"/>
+  <!-- the beam, tipped -->
+  <line x1="204" y1="390" x2="396" y2="354" stroke-width="4"/>
+  <line x1="300" y1="368" x2="300" y2="372" stroke-width="3"/>
+  <!-- the sinking pan -->
+  <line x1="204" y1="390" x2="204" y2="456" stroke-width="2.2"/>
+  <path d="M166 456 q38 40 76 0 Z" fill="#ead9b4" stroke="#ead9b4" stroke-width="2.4"/>
+  <!-- the rising pan -->
+  <line x1="396" y1="354" x2="396" y2="408" stroke-width="2.2"/>
+  <path d="M362 408 q34 34 68 0 Z" fill="none" stroke="#ead9b4" stroke-width="2.4"/>
+</g>
+
+  <!-- the tondo that holds the emblem -->
+  <circle cx="300" cy="430" r="150" fill="none" stroke="#ead9b4" stroke-width="2.4" opacity="0.85"/>
+  <circle cx="300" cy="430" r="142" fill="none" stroke="#ead9b4" stroke-width="1" opacity="0.35"/>
+
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle" fill="#ead9b4">
+    <text x="300" y="176" font-size="17" letter-spacing="7" opacity="0.62">BOOK</text>
+    <text x="300" y="238" font-size="62" fill="#c99b3f">VIII</text>
+    <line x1="230" y1="640" x2="370" y2="640" stroke="#c99b3f" stroke-width="1.2" opacity="0.85"/>
+    <text x="300" y="686" font-size="25" letter-spacing="2">THE GOLDEN SCALES</text>
+    <text x="300" y="726" font-size="13" font-style="italic" opacity="0.5">HOMER&#8217;S ILIAD</text>
+  </g>
+
+  <rect x="70" y="708" width="460" height="34" fill="url(#meander)"/>
+</svg>

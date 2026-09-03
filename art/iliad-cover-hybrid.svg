@@ -1,0 +1,91 @@
+<svg viewBox="0 0 800 1200" width="800" height="1200" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Book cover for Homer's Iliad — a hybrid cover combining the wine-dark vector ground with a detailed rendering of the Shield of Achilles at the center.">
+  <defs>
+    <linearGradient id="wine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#46192b"/>
+      <stop offset="0.55" stop-color="#331323"/>
+      <stop offset="1" stop-color="#1e0b15"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.42" r="0.85">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0c0408" stop-opacity="0.5"/>
+    </radialGradient>
+    <pattern id="meander" width="40" height="40" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#ead9b4" stroke-width="3.6">
+        <path d="M0 5 H40"/>
+        <path d="M0 34 H40"/>
+        <path d="M28 34 V11 H11 V26 H19"/>
+      </g>
+    </pattern>
+    <pattern id="dots" width="15" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2.6" fill="#ead9b4"/>
+    </pattern>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="shield-clip">
+      <circle cx="400" cy="808" r="162"/>
+    </clipPath>
+  </defs>
+
+  <!-- ground -->
+  <rect width="800" height="1200" fill="url(#wine)"/>
+  <rect width="800" height="1200" fill="#ead9b4" filter="url(#grain)"/>
+  <rect width="800" height="1200" fill="url(#vig)"/>
+
+  <!-- frame -->
+  <rect x="36" y="36" width="728" height="1128" fill="none" stroke="#ead9b4" stroke-width="2.5" opacity="0.9"/>
+  <rect x="48" y="48" width="704" height="1104" fill="none" stroke="#ead9b4" stroke-width="1" opacity="0.4"/>
+
+  <!-- top meander band -->
+  <rect x="80" y="72" width="640" height="40" fill="url(#meander)"/>
+
+  <!-- epigraph -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle">
+    <text x="400" y="208" font-size="27" font-style="italic" fill="#ead9b4" opacity="0.8">&#956;&#8134;&#957;&#953;&#957; &#7940;&#949;&#953;&#948;&#949;, &#952;&#949;&#940;, &#928;&#951;&#955;&#951;&#970;&#940;&#948;&#949;&#969; &#7944;&#967;&#953;&#955;&#8134;&#959;&#962;</text>
+    <text x="400" y="246" font-size="19" fill="#ead9b4" opacity="0.55">Sing, goddess, the wrath of Peleus&#8217; son Achilles</text>
+  </g>
+
+  <!-- title -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle" fill="#ead9b4">
+    <text x="400" y="356" font-size="44" textLength="320" lengthAdjust="spacingAndGlyphs">HOMER&#8217;S</text>
+    <text x="400" y="454" font-size="86" textLength="440" lengthAdjust="spacingAndGlyphs">ILIAD</text>
+    <line x1="280" y1="486" x2="520" y2="486" stroke="#c99b3f" stroke-width="1.3" opacity="0.9"/>
+    <text x="400" y="526" font-size="30" fill="#c99b3f" textLength="220" lengthAdjust="spacingAndGlyphs">&#921;&#923;&#921;&#913;&#931;</text>
+    <text x="400" y="568" font-size="18" letter-spacing="2" fill-opacity="0.78">LINE FOR LINE TRANSLATION BY FABLE 5</text>
+  </g>
+
+  <!-- shield register: top border -->
+  <line x1="90" y1="600" x2="710" y2="600" stroke="#ead9b4" stroke-width="2"/>
+  <rect x="100" y="606" width="600" height="12" fill="url(#dots)"/>
+  <line x1="90" y1="626" x2="710" y2="626" stroke="#ead9b4" stroke-width="2"/>
+
+  <!-- ================= THE SHIELD OF ACHILLES ================= -->
+  <!-- centered at (400,808), outer radius 164; image size 328x328 centered at (400,808) -->
+  <g>
+    <!-- Render the photorealistic Shield image, clipped to a circle of radius 162 -->
+    <image href="shield_of_achilles.jpg" x="236" y="644" width="328" height="328" clip-path="url(#shield-clip)"/>
+    
+    <!-- The triple rim overlay, bright and glittering (18.479) -->
+    <circle cx="400" cy="808" r="164" fill="none" stroke="#ead9b4" stroke-width="3.4"/>
+    <circle cx="400" cy="808" r="158" fill="none" stroke="#ead9b4" stroke-width="1.4" opacity="0.75"/>
+  </g>
+
+  <!-- shield register: bottom border -->
+  <line x1="90" y1="990" x2="710" y2="990" stroke="#ead9b4" stroke-width="2"/>
+  <rect x="100" y="996" width="600" height="12" fill="url(#dots)"/>
+  <line x1="90" y1="1016" x2="710" y2="1016" stroke="#ead9b4" stroke-width="2"/>
+
+  <!-- byline -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle" fill="#ead9b4">
+    <text x="400" y="1050" font-size="15" opacity="0.7" letter-spacing="6">TRANSLATED BY</text>
+    <text x="400" y="1082" font-size="36" textLength="220" lengthAdjust="spacingAndGlyphs">CLAUDE</text>
+    <text x="400" y="1110" font-size="15" font-style="italic" opacity="0.6">24 books &#183; 15,687 lines rendered from the Greek</text>
+  </g>
+
+  <!-- bottom meander band -->
+  <rect x="80" y="1128" width="640" height="34" fill="url(#meander)"/>
+</svg>

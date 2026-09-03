@@ -1,0 +1,21 @@
+{
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "onyx",
+  "response_format": "wav",
+  "speed": 0.95,
+  "target_chars": 1800,
+  "max_chars": 1900,
+  "instructions": "Read this verbatim as a literary audiobook. Use a mature, resonant lower register. Keep the delivery natural, steady, and unhurried.",
+  "pilot_ranges": [
+    [33, 67]
+  ],
+  "use_pronunciation_instructions": false,
+  "tts_replacements": {},
+  "qa": {
+    "max_deletion_ratio": 0.02,
+    "max_deletion_run": 3,
+    "max_substitution_ratio": 0.1,
+    "min_length_ratio": 0.92,
+    "max_length_ratio": 1.08
+  }
+}

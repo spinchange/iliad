@@ -13,7 +13,7 @@ not, so this version adds a real parser. An Odyssey book is markdown with
     ------------------------------  <- first rule
     <verse: "  NNN  text[7]">       <- bracketed-integer footnote markers
     ------------------------------  <- second rule
-    [Notes]                         <- header present in Books 1-9 only
+    [Notes|NOTES]                   <- optional header ("Notes" 1-9, "NOTES" 10-24)
     [7] (1.123) <note text>
          <indented continuations>
 
@@ -86,7 +86,7 @@ def parse_book(text: str):
     # Notes: drop leading blanks and the optional bare "Notes" header (Books 1-9).
     while tail and not tail[0].strip():
         tail.pop(0)
-    if tail and tail[0].strip() == "Notes":
+    if tail and tail[0].strip().lower() == "notes":   # "Notes" (1-9) / "NOTES" (10-24)
         tail.pop(0)
     notes = "\n".join(tail).strip("\n")
     return book_no, epigraph, commentary, verse, notes

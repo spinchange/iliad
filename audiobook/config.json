@@ -1,0 +1,24 @@
+{
+  "model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "fable",
+  "response_format": "wav",
+  "speed": 1.0,
+  "target_chars": 1400,
+  "max_chars": 1800,
+  "instructions": "Read the supplied text verbatim as a literary audiobook. Speak every word exactly once, in its written order. Do not omit, paraphrase, repeat, or add words. Maintain one stable narrator identity throughout: warm, measured, intimate, restrained, and non-theatrical. Keep quoted speech within that same narrator identity; distinguish speakers only through mild changes in cadence and emphasis. Do not change accent, age, pitch range, or vocal character.",
+  "pilot_ranges": [
+    [1, 32],
+    [101, 147],
+    [188, 244],
+    [348, 363],
+    [493, 530],
+    [536, 611]
+  ],
+  "qa": {
+    "max_deletion_ratio": 0.02,
+    "max_deletion_run": 3,
+    "max_substitution_ratio": 0.06,
+    "min_length_ratio": 0.94,
+    "max_length_ratio": 1.06
+  }
+}
