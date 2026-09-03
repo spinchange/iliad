@@ -47,6 +47,20 @@ SPEECH_URL = "https://api.openai.com/v1/audio/speech"
 TRANSCRIPTION_URL = "https://api.openai.com/v1/audio/transcriptions"
 SSL_CONTEXT = ssl.create_default_context()
 
+# ElevenLabs provider (ported from the Odyssey builder's production run).
+# Audio is requested as raw 16-bit PCM and wrapped as WAV here, so the WAV
+# analysis, ASR QA, acceptance, and concat stages run unchanged.
+ELEVEN_API_BASE = "https://api.elevenlabs.io/v1"
+DEFAULT_ELEVEN_MODEL = "eleven_multilingual_v2"
+DEFAULT_ELEVEN_OUTPUT_FORMAT = "pcm_24000"
+ELEVEN_PCM_RATES = {
+    "pcm_8000": 8000, "pcm_16000": 16000, "pcm_22050": 22050,
+    "pcm_24000": 24000, "pcm_44100": 44100, "pcm_48000": 48000,
+}
+# Text handed to ElevenLabs from the neighbouring chunks so prosody stays
+# continuous across chunk boundaries.
+ELEVEN_STITCH_CHARS = 600
+
 VERSE_RE = re.compile(r"^\s*(\d+)\s{2,}(.+?)\s*$")
 NOTE_MARK_RE = re.compile(r"\[(\d+)\]")
 WORD_RE = re.compile(r"[^\W\d_]+(?:[’'][^\W\d_]+)?|\d+", re.UNICODE)
@@ -588,44 +602,207 @@ def retry_call(operation, retries: int):
     raise AssertionError("retry loop exhausted")
 
 
+def require_eleven_api_key() -> str:
+    key = os.environ.get("ELEVENLABS_API_KEY")
+    if not key:
+        raise SystemExit("ELEVENLABS_API_KEY is not set.")
+    return key
+
+
+def eleven_speech_request(
+    *,
+    api_key: str,
+    text: str,
+    model: str,
+    voice_id: str,
+    output_format: str,
+    voice_settings: dict,
+    previous_text: str | None,
+    next_text: str | None,
+    timeout: int,
+) -> tuple[bytes, dict]:
+    """POST one chunk to ElevenLabs; return (audio bytes, response headers).
+
+    previous_text/next_text are the request-stitching context: ElevenLabs
+    reads them for prosody but does not speak them."""
+    payload: dict = {
+        "text": text,
+        "model_id": model,
+        "voice_settings": voice_settings,
+    }
+    if previous_text:
+        payload["previous_text"] = previous_text
+    if next_text:
+        payload["next_text"] = next_text
+    request = urllib.request.Request(
+        f"{ELEVEN_API_BASE}/text-to-speech/{voice_id}?output_format={output_format}",
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"xi-api-key": api_key, "Content-Type": "application/json"},
+        method="POST",
+    )
+    with urllib.request.urlopen(
+        request, timeout=timeout, context=SSL_CONTEXT
+    ) as response:
+        headers = {
+            k.lower(): v for k, v in response.headers.items()
+            if k.lower().startswith(("x-", "character", "request-id"))
+        }
+        return response.read(), headers
+
+
+def eleven_voice_settings(args: argparse.Namespace) -> dict:
+    settings = {
+        "stability": args.stability,
+        "similarity_boost": args.similarity_boost,
+        "style": args.style,
+        "use_speaker_boost": True,
+    }
+    if args.speed != 1.0:
+        settings["speed"] = args.speed
+    return settings
+
+
+def pcm_to_wav(pcm: bytes, rate: int) -> bytes:
+    """Wrap ElevenLabs' raw 16-bit little-endian mono PCM as a WAV file."""
+    import io
+    buffer = io.BytesIO()
+    with contextlib.closing(wave.open(buffer, "wb")) as handle:
+        handle.setnchannels(1)
+        handle.setsampwidth(2)
+        handle.setframerate(rate)
+        handle.writeframes(pcm)
+    return buffer.getvalue()
+
+
+def load_pronunciation_fixes(path: str | None) -> dict[str, str]:
+    """headword<TAB>spoken rows: targeted respellings applied to the text
+    sent to ElevenLabs (which has no instruction channel). The canonical
+    text is never changed; the replacement is recorded on the candidate."""
+    if not path:
+        return {}
+    fixes: dict[str, str] = {}
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        if not line.strip() or line.lstrip().startswith("#"):
+            continue
+        columns = line.split("\t")
+        if len(columns) < 2:
+            raise SystemExit(f"Malformed pronunciation fix row: {line!r}")
+        fixes[columns[0].strip()] = columns[1].strip()
+    return fixes
+
+
 def synthesize(args: argparse.Namespace) -> None:
-    api_key = require_api_key()
+    provider = args.provider
     build_dir = Path(args.build_dir)
     manifest = load_manifest(build_dir)
     candidates_dir = build_dir / "candidates"
     generated = 0
 
+    if provider == "elevenlabs":
+        api_key = require_eleven_api_key()
+        if not args.voice_id:
+            raise SystemExit("--provider elevenlabs needs --voice-id.")
+        if args.output_format not in ELEVEN_PCM_RATES:
+            raise SystemExit(
+                "ElevenLabs output must be a pcm_* format so the WAV pipeline "
+                f"applies; got {args.output_format!r}."
+            )
+        voice_settings = eleven_voice_settings(args)
+        fixes = load_pronunciation_fixes(args.pronunciation_fixes)
+        manifest.setdefault("providers", {})["elevenlabs"] = {
+            "voice_id": args.voice_id,
+            "model": args.model,
+            "output_format": args.output_format,
+            "voice_settings": voice_settings,
+            "pronunciation_fixes": (
+                relative_to_root(Path(args.pronunciation_fixes))
+                if args.pronunciation_fixes else None
+            ),
+            "stitch_chars": 0 if args.no_stitch else ELEVEN_STITCH_CHARS,
+        }
+    else:
+        api_key = require_api_key()
+
+    all_chunks = manifest["chunks"]
     for chunk in selected_chunks(manifest, args.chunks):
+        position = all_chunks.index(chunk)
         for _ in range(args.attempts):
             candidate_id = next_candidate_id(chunk)
             out_dir = candidates_dir / f"chunk-{chunk['id']}"
             out_dir.mkdir(parents=True, exist_ok=True)
             out_path = out_dir / f"candidate-{candidate_id}.wav"
-            instructions = full_instructions(
-                manifest["instructions"],
-                chunk["pronunciations"],
-                args.extra_instructions,
-            )
             candidate_tts_text, text_replacement = apply_candidate_text_replacement(
                 chunk["tts_text"],
                 args.tts_text_replace,
             )
-            payload = {
-                "model": manifest["model"],
-                "voice": manifest["voice"],
-                "input": candidate_tts_text,
-                "instructions": instructions,
-                "response_format": manifest["response_format"],
-                "speed": manifest["speed"],
-            }
             print(
                 f"Synthesizing chunk {chunk['id']} lines "
-                f"{chunk['line_start']}-{chunk['line_end']}, candidate {candidate_id}..."
+                f"{chunk['line_start']}-{chunk['line_end']}, candidate {candidate_id}"
+                f" ({provider})..."
             )
-            audio = retry_call(
-                lambda: post_json(SPEECH_URL, payload, api_key, args.timeout),
-                args.retries,
-            )
+            if provider == "elevenlabs":
+                eleven_text = apply_tts_replacements(candidate_tts_text, fixes)
+                previous_text = next_text = None
+                if not args.no_stitch:
+                    if position > 0:
+                        previous_text = all_chunks[position - 1]["tts_text"][-ELEVEN_STITCH_CHARS:]
+                    if position + 1 < len(all_chunks):
+                        next_text = all_chunks[position + 1]["tts_text"][:ELEVEN_STITCH_CHARS]
+                pcm, headers = retry_call(
+                    lambda: eleven_speech_request(
+                        api_key=api_key,
+                        text=eleven_text,
+                        model=args.model,
+                        voice_id=args.voice_id,
+                        output_format=args.output_format,
+                        voice_settings=voice_settings,
+                        previous_text=previous_text,
+                        next_text=next_text,
+                        timeout=args.timeout,
+                    ),
+                    args.retries,
+                )
+                audio = pcm_to_wav(pcm, ELEVEN_PCM_RATES[args.output_format])
+                instructions = None
+                extra = {
+                    "provider": "elevenlabs",
+                    "model": args.model,
+                    "voice": args.voice_id,
+                    "voice_settings": voice_settings,
+                    "output_format": args.output_format,
+                    "eleven_text_sha256": sha256_text(eleven_text),
+                    "pronunciation_fixes_applied": sorted(
+                        k for k in fixes if re.search(
+                            rf"\b{re.escape(k)}\b", candidate_tts_text, re.IGNORECASE)),
+                    "stitch": {
+                        "previous_chars": len(previous_text or ""),
+                        "next_chars": len(next_text or ""),
+                    },
+                    "response_headers": headers,
+                }
+            else:
+                instructions = full_instructions(
+                    manifest["instructions"],
+                    chunk["pronunciations"],
+                    args.extra_instructions,
+                )
+                payload = {
+                    "model": manifest["model"],
+                    "voice": manifest["voice"],
+                    "input": candidate_tts_text,
+                    "instructions": instructions,
+                    "response_format": manifest["response_format"],
+                    "speed": manifest["speed"],
+                }
+                audio = retry_call(
+                    lambda: post_json(SPEECH_URL, payload, api_key, args.timeout),
+                    args.retries,
+                )
+                extra = {
+                    "provider": "openai",
+                    "model": manifest["model"],
+                    "voice": manifest["voice"],
+                }
             out_path.write_bytes(audio)
             features = analyze_wav(out_path, expected_words=chunk["words"])
             candidate = {
@@ -633,9 +810,10 @@ def synthesize(args: argparse.Namespace) -> None:
                 "path": relative_to_root(out_path),
                 "created_at": utc_now(),
                 "audio_sha256": sha256_bytes(audio),
-                "model": manifest["model"],
-                "voice": manifest["voice"],
-                "instructions_sha256": sha256_text(instructions),
+                **extra,
+                "instructions_sha256": (
+                    sha256_text(instructions) if instructions else None
+                ),
                 "extra_instructions": args.extra_instructions,
                 "tts_text_sha256": sha256_text(candidate_tts_text),
                 "tts_text_replacement": text_replacement,
@@ -1729,6 +1907,32 @@ def parse_args(argv: Sequence[str]) -> argparse.Namespace:
     )
     synth_parser.add_argument("--timeout", type=int, default=180)
     synth_parser.add_argument("--retries", type=int, default=3)
+    synth_parser.add_argument(
+        "--provider", choices=["openai", "elevenlabs"], default="openai"
+    )
+    synth_parser.add_argument(
+        "--voice-id", help="ElevenLabs voice ID (the immutable id, not the name)."
+    )
+    synth_parser.add_argument("--model", default=DEFAULT_ELEVEN_MODEL,
+                              help="ElevenLabs model id")
+    synth_parser.add_argument("--output-format", default=DEFAULT_ELEVEN_OUTPUT_FORMAT,
+                              help="ElevenLabs pcm_* output format (wrapped as WAV)")
+    # Defaults are the Odyssey's ElevenLabs production settings.
+    synth_parser.add_argument("--stability", type=float, default=0.42)
+    synth_parser.add_argument("--similarity-boost", type=float, default=0.80)
+    synth_parser.add_argument("--style", type=float, default=0.18)
+    synth_parser.add_argument("--speed", type=float, default=0.96)
+    synth_parser.add_argument(
+        "--pronunciation-fixes",
+        help=(
+            "TSV of headword<TAB>spoken respellings applied only to the text "
+            "sent to ElevenLabs (natural spellings are sent otherwise)."
+        ),
+    )
+    synth_parser.add_argument(
+        "--no-stitch", action="store_true",
+        help="Do not pass neighbouring-chunk text as prosody context.",
+    )
 
     rebalance_parser = subparsers.add_parser("rebalance-boundary")
     add_common(rebalance_parser)

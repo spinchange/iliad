@@ -3,5 +3,6 @@ __pycache__/
 .claude/settings.local.json
 # Generated audiobook candidates, QA transcripts, timings, captions, and mixes.
 audiobook-build/
+audiobook-build-*/
 # epub build scratch
 epub-build/work/
