@@ -6,3 +6,8 @@ audiobook-build/
 audiobook-build-*/
 # epub build scratch
 epub-build/work/
+
+# print build scratch and single-book proofs
+print-build/work/
+print-build/wrap-work/
+print-build/*-book01.pdf

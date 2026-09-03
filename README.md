@@ -88,6 +88,49 @@ The built files are attached to each
 [release](https://github.com/spinchange/iliad/releases), which is where the
 site's download buttons point.
 
+## Print edition
+
+`tools/build_print.py` builds a press-ready PDF interior for print-on-demand
+(Lulu, KDP, IngramSpark), ported from the Odyssey edition's builder. It is a
+separate build from the EPUB, not a conversion of it: a fixed 6×9 in trim
+with a measure that holds the verse on one line (about 1.8% of verses turn
+over, indented as continuations), line numbers every fifth line, printed
+note numerals with endnotes per book, a centered running head and folios
+mirrored to the outside edge, book openers forced onto a recto, the
+introduction as front matter, the translator's notes and *For Further
+Reading* as back matter, and the index with dictionary-style guide words
+in its running head. The contents page is filled in after pagination and
+re-verified, so its page numbers are true.
+
+```powershell
+python tools\build_print.py                  # print-build/iliad-print-6x9.pdf, all 24 books
+python tools\build_print.py --books 1        # Book 1 only (proof)
+python tools\check_print.py print-build\iliad-print-6x9.pdf
+python tools\build_wrap.py                   # art/iliad-wrap.pdf, spine from the built interior
+python tools\check_wrap.py art\iliad-wrap.pdf
+```
+
+The interior comes to 734 pages. `tools/build_wrap.py` builds the one-piece
+case wrap (back cover, spine, front cover) to Lulu's spec: two fixed
+6.125 in panels either side of a spine set by their paperback formula,
+pages ÷ 444 + 0.06 in, so 734 pages is a 1.713 in spine and 13.963 in
+overall; the page count is read from the built interior, or given with
+`--pages`. The front panel is the vector Shield of Achilles from
+`art/iliad-cover.svg`; the pattern bands are expanded into explicit tiles so
+the file stays fully vector. `tools/check_print.py` and `tools/check_wrap.py`
+validate both files against the supplier's requirements: trim, type size,
+margins, embedded fonts, no fallback glyphs, bleed, safe area, flattening,
+and every contents entry pointing at the page its section opens on.
+
+Three behaviours of calibre's converter had to be pinned for this build,
+beyond those the Odyssey builder documents: its default page break before
+every h2 (at both conversion stages) and its default chapter detection,
+which treats any heading beginning "Book" as a chapter and starts it on a
+new page — which had been emptying the openers of the prose chapters.
+
+Requires calibre (`ebook-convert`), plus `pdfplumber`, `pypdf`, and
+`pypdfium2` for the checkers.
+
 ## Web edition
 
 `tools/build_web.py` regenerates the reading edition in `docs/` (served by
