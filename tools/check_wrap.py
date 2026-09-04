@@ -172,13 +172,32 @@ def check(pdf: Path, width_in: float, height_in: float, spine_in: float) -> int:
                 scan_images(deref(sm["/G"]).get("/Resources"))
 
     scan_images(res)
-    for iw, ih, ppi in imgs:
-        if ppi < 300:
-            problems.append(f"embedded image {iw}x{ih} is only {ppi:.0f} ppi across "
-                            "the page — print needs 300 ppi or better")
-        else:
-            notes.append(f"embedded image {iw}x{ih} ({ppi:.0f} ppi)")
-    if not imgs:
+    # Effective resolution: the image's pixels over the width it is actually
+    # printed at, which pdfplumber reports per placement. The pypdf scan
+    # above only says the image exists; a 1024 px shield printed 2.46 in
+    # wide is 416 ppi, not 1024 over the whole page.
+    placed: list[tuple[int, int, float]] = []
+    try:
+        import pdfplumber
+        with pdfplumber.open(str(pdf)) as pl:
+            for im in pl.pages[0].images:
+                sw, sh = im.get("srcsize", (0, 0))
+                wid_in = (im["x1"] - im["x0"]) / 72
+                if sw and wid_in:
+                    placed.append((sw, sh, sw / wid_in))
+    except ImportError:
+        pass
+    if placed:
+        for sw, sh, ppi in placed:
+            if ppi < 300:
+                problems.append(f"embedded image {sw}x{sh} prints at {ppi:.0f} ppi — "
+                                "print needs 300 ppi or better")
+            else:
+                notes.append(f"embedded image {sw}x{sh} prints at {ppi:.0f} ppi")
+    elif imgs:
+        notes.append(f"{len(imgs)} raster image(s) present (install pdfplumber to "
+                     "measure their printed resolution)")
+    else:
         notes.append("no raster images — fully vector")
 
     try:

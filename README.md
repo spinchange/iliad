@@ -115,12 +115,16 @@ case wrap (back cover, spine, front cover) to Lulu's spec: two fixed
 6.125 in panels either side of a spine set by their paperback formula,
 pages ÷ 444 + 0.06 in, so 734 pages is a 1.713 in spine and 13.963 in
 overall; the page count is read from the built interior, or given with
-`--pages`. The front panel is the vector Shield of Achilles from
-`art/iliad-cover.svg`; the pattern bands are expanded into explicit tiles so
-the file stays fully vector. `tools/check_print.py` and `tools/check_wrap.py`
-validate both files against the supplier's requirements: trim, type size,
-margins, embedded fonts, no fallback glyphs, bleed, safe area, flattening,
-and every contents entry pointing at the page its section opens on.
+`--pages`. The front panel is the EPUB's cover (`art/iliad-cover-hybrid.svg`):
+the photoreal bronze shield, embedded as a data URI so the wrap is
+self-contained, under the vector rim, frame, and type; it prints at about
+416 ppi. `--front vector` substitutes the Geometric line-work shield of
+`art/iliad-cover.svg` for a fully vector wrap. The pattern bands are
+expanded into explicit tiles either way. `tools/check_print.py` and
+`tools/check_wrap.py` validate both files against the supplier's
+requirements: trim, type size, margins, embedded fonts, no fallback glyphs,
+raster resolution as printed, bleed, safe area, flattening, and every
+contents entry pointing at the page its section opens on.
 
 Three behaviours of calibre's converter had to be pinned for this build,
 beyond those the Odyssey builder documents: its default page break before

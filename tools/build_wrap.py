@@ -160,7 +160,37 @@ def wrap_text(text: str, width_units: float, size: float) -> list[str]:
     return lines
 
 
-def build_svg(spine_in: float, with_url: bool) -> str:
+SHIELD_JPG = ART / "shield_of_achilles.jpg"
+
+
+def shield_image_uri() -> str:
+    """art/shield_of_achilles.jpg as a data URI, so the wrap SVG is
+    self-contained (the hybrid cover references the file by relative path
+    and only renders with it alongside). The image is 1024 px across and
+    is placed 2.46 in wide on the panel: about 416 ppi on paper, above the
+    300 ppi that tools/check_wrap.py requires and well above the 200 ppi
+    at which Lulu's preflight complains."""
+    import base64
+    return "data:image/jpeg;base64," + base64.b64encode(SHIELD_JPG.read_bytes()).decode("ascii")
+
+
+def shield_register(front: str) -> str:
+    """The shield itself, at the cover's coordinates (centre 400,808, outer
+    radius 164). 'hybrid' is the EPUB's cover: the photoreal bronze relief
+    clipped to a disc under the vector rim. 'vector' is the Geometric
+    line-work shield of art/iliad-cover.svg."""
+    if front == "hybrid":
+        return f'''
+  <g>
+    <image href="{shield_image_uri()}" x="236" y="644" width="328" height="328" clip-path="url(#shield-clip)"/>
+    <circle cx="400" cy="808" r="164" fill="none" stroke="{BONE}" stroke-width="3.4"/>
+    <circle cx="400" cy="808" r="158" fill="none" stroke="{BONE}" stroke-width="1.4" opacity="0.75"/>
+  </g>
+'''
+    return VECTOR_SHIELD
+
+
+def build_svg(spine_in: float, with_url: bool, front: str = "hybrid") -> str:
     W = wrap_width(spine_in) * UPI
     H = WRAP_H_IN * UPI
     P = PANEL_IN * UPI
@@ -196,6 +226,10 @@ def build_svg(spine_in: float, with_url: bool) -> str:
         f'<path d="M35 42.5 V13.75 H13.75 V32.5 H23.75"/></g></pattern>')
     add(f'<pattern id="dots" width="18.75" height="15" patternUnits="userSpaceOnUse">'
         f'<circle cx="7.5" cy="7.5" r="3.25" fill="{BONE}"/></pattern>')
+    # the hybrid front's disc, in the front panel's own coordinates (the
+    # clip is applied inside the panel's transform, so the numbers are the
+    # cover's)
+    add('<clipPath id="shield-clip"><circle cx="400" cy="808" r="162"/></clipPath>')
     add('</defs>')
 
     # ground across the whole wrap, so the fold has no seam
@@ -208,7 +242,7 @@ def build_svg(spine_in: float, with_url: bool) -> str:
     fx = front_x + B
     fy = B
     add(f'<g transform="translate({fx:.3f},{fy:.3f}) scale({fs:.6f})">')
-    add(front_panel_svg())
+    add(front_panel_svg(front))
     add('</g>')
 
     # ---- SPINE
@@ -308,10 +342,12 @@ def build_svg(spine_in: float, with_url: bool) -> str:
     return "\n".join(o)
 
 
-def front_panel_svg() -> str:
-    """The front cover artwork in its own 800x1200 space: art/iliad-cover.svg
-    minus its background rects and grain filter (the wrap paints one ground
-    across all three panels, and feTurbulence has no vector form)."""
+def front_panel_svg(front: str = "hybrid") -> str:
+    """The front cover artwork in its own 800x1200 space: the cover minus
+    its background rects and grain filter (the wrap paints one ground
+    across all three panels, and feTurbulence has no vector form). The
+    frame, bands, and type are shared by both covers; only the shield
+    register differs (see shield_register)."""
     return f'''
   <rect x="36" y="36" width="728" height="1128" fill="none" stroke="{BONE}" stroke-width="2.5" opacity="0.9"/>
   <rect x="48" y="48" width="704" height="1104" fill="none" stroke="{BONE}" stroke-width="1" opacity="0.4"/>
@@ -330,6 +366,20 @@ def front_panel_svg() -> str:
   <line x1="90" y1="600" x2="710" y2="600" stroke="{BONE}" stroke-width="2"/>
   <rect x="100" y="606" width="600" height="12" fill="url(#dotsF)"/>
   <line x1="90" y1="626" x2="710" y2="626" stroke="{BONE}" stroke-width="2"/>
+  {shield_register(front)}
+  <line x1="90" y1="990" x2="710" y2="990" stroke="{BONE}" stroke-width="2"/>
+  <rect x="100" y="996" width="600" height="12" fill="url(#dotsF)"/>
+  <line x1="90" y1="1016" x2="710" y2="1016" stroke="{BONE}" stroke-width="2"/>
+  <g font-family="{SERIF}" text-anchor="middle" fill="{BONE}">
+    <text x="400" y="1050" font-size="15" opacity="0.7" letter-spacing="6">TRANSLATED BY</text>
+    <text x="400" y="1082" font-size="36" textLength="220" lengthAdjust="spacingAndGlyphs">CLAUDE</text>
+    <text x="400" y="1110" font-size="15" font-style="italic" opacity="0.6">24 books · 15,687 lines rendered from the Greek</text>
+  </g>
+  <rect x="80" y="1128" width="640" height="34" fill="url(#meanderF)"/>
+'''
+
+
+VECTOR_SHIELD = f'''
   <g>
     <circle cx="400" cy="808" r="164" fill="none" stroke="{BONE}" stroke-width="3.4"/>
     <circle cx="400" cy="808" r="158" fill="none" stroke="{BONE}" stroke-width="1.4" opacity="0.55"/>
@@ -385,15 +435,6 @@ def front_panel_svg() -> str:
       <circle cx="0" cy="0" r="19" fill="none" stroke="{BONE}" stroke-width="2.2"/>
     </g>
   </g>
-  <line x1="90" y1="990" x2="710" y2="990" stroke="{BONE}" stroke-width="2"/>
-  <rect x="100" y="996" width="600" height="12" fill="url(#dotsF)"/>
-  <line x1="90" y1="1016" x2="710" y2="1016" stroke="{BONE}" stroke-width="2"/>
-  <g font-family="{SERIF}" text-anchor="middle" fill="{BONE}">
-    <text x="400" y="1050" font-size="15" opacity="0.7" letter-spacing="6">TRANSLATED BY</text>
-    <text x="400" y="1082" font-size="36" textLength="220" lengthAdjust="spacingAndGlyphs">CLAUDE</text>
-    <text x="400" y="1110" font-size="15" font-style="italic" opacity="0.6">24 books \u00b7 15,687 lines rendered from the Greek</text>
-  </g>
-  <rect x="80" y="1128" width="640" height="34" fill="url(#meanderF)"/>
 '''
 
 
@@ -492,12 +533,13 @@ def expand_patterns(svg: str) -> str:
     return svg
 
 
-def build(spine_in: float, with_url: bool, out: Path) -> Path:
-    svg = build_svg(spine_in, with_url)
+def build(spine_in: float, with_url: bool, out: Path, front: str = "hybrid") -> Path:
+    svg = build_svg(spine_in, with_url, front)
     svg = svg.replace('</defs>', front_defs() + '</defs>', 1)
     svg = expand_patterns(svg)
 
-    svg_path = ART / "iliad-wrap.svg"
+    out = out.resolve()          # calibre runs in WORK; a relative -o would land there
+    svg_path = out.with_suffix(".svg")   # beside the PDF, so variants never clobber each other
     svg_path.write_text(svg, encoding="utf-8")
     print(f"wrote {svg_path}  ({len(svg):,} bytes)")
 
@@ -579,6 +621,9 @@ if __name__ == "__main__":
                     help="spine width in inches, overriding --pages")
     ap.add_argument("--no-url", action="store_true",
                     help="omit the site URL from the back cover")
+    ap.add_argument("--front", choices=["hybrid", "vector"], default="hybrid",
+                    help="front panel: the EPUB's photoreal shield (default) "
+                         "or the Geometric line-work shield")
     ap.add_argument("-o", "--out", type=Path, default=ART / "iliad-wrap.pdf")
     args = ap.parse_args()
     if args.spine is not None and args.pages is not None:
@@ -591,4 +636,4 @@ if __name__ == "__main__":
             sys.exit(f"no built interior at {INTERIOR}; give --pages or --spine")
         spine = spine_for(pages)
         print(f"{pages} pages -> spine {spine:.3f} in")
-    build(spine, not args.no_url, args.out)
+    build(spine, not args.no_url, args.out, args.front)
