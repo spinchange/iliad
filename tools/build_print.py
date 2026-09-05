@@ -283,11 +283,11 @@ def front_matter() -> list[str]:
         f'<h1 class="fm">A Note on the Text</h1>'
         '<p class="fm">The Greek is the Oxford Classical Text of Monro and '
         "Allen (3rd edition, 1920). The English translation is original to "
-        "this project; each of its 15,687 lines is keyed one-to-one to its "
-        "Greek line, so a citation to the Greek finds the same line here. "
-        "The printed text is followed throughout, including the passages "
-        "ancient critics athetized, which are kept and noted rather than "
-        "acted on.</p>"
+        "this edition, and it is numbered to the Greek, line for line: a "
+        "citation to the Greek finds the same line here. The printed text "
+        "is followed throughout, including the passages that ancient "
+        "critics marked as doubtful, which are kept and noted rather than "
+        "cut.</p>"
         '<p class="fm">Three passages the printed Greek lacks '
         "(9.458\u2013461, 11.543, 14.269) are marked in place rather than "
         "supplied, and the numbering skips them.</p>"
@@ -295,8 +295,8 @@ def front_matter() -> list[str]:
         "line. Where a verse runs past the measure of the page, the "
         "continuation is indented, so an indented line is always the tail of "
         "the verse above it and never a new verse.</p>"
-        '<p class="fm">The scholarly apparatus \u2014 829 notes across the '
-        "poem \u2014 is printed as endnotes at the close of each book. A "
+        '<p class="fm">The notes are printed at the close of each book. A '
+        ""
         "raised numeral in the verse marks a note; the notes are numbered "
         "through each book, and each note also gives the line it belongs to "
         "(<em>l.&#160;337</em>), which is how it should be cited. The "
@@ -332,13 +332,15 @@ def introduction_html() -> str:
 
 def tnotes_html(books: dict[int, dict]) -> str:
     out = [f'<h1 class="fm">{esc(TNOTES_TITLE)}</h1>',
-           '<p class="fm lede">The note on each book, collected here so the '
-           "poem itself reads clean.</p>"]
+           '<p class="fm lede">The translator\u2019s note on each book, gathered '
+           "here so that the poem itself is not interrupted.</p>"]
     for n in sorted(books):
         if not books[n]["commentary"]:
             continue
         out.append(f'<h2 class="bm">Book {n}</h2>')
         for para in books[n]["commentary"]:
+            # "see note [3]" in the source reads "see note 3" on paper.
+            para = re.sub(r"\[(\d+)\]", r"\1", para)
             out.append(f'<p class="fm">{esc(para)}</p>')
     return "\n".join(out)
 
@@ -402,8 +404,8 @@ def index_html(guides: dict[str, str] | None = None) -> str:
         "places \u2014 every figure of consequence \u2014 with a pronunciation "
         "(<em>Say:</em>), epithets, aliases, kin, and line citations. "
         "Pronunciations give the traditional anglicized reading; stress falls "
-        "on the capitalized syllable. The several hundred men named once and "
-        "killed in the same breath are catalogued for a later edition.</p>",
+        "on the capitalized syllable. The several hundred men who are named once "
+        "and killed in the same breath are not indexed.</p>",
         '<div class="name-index">',
     ]
     guides = guides or {}

@@ -1,8 +1,7 @@
 BOOK 11
 
-The long day begins: Agamemnon's morning of glory, the captains carried
-off wounded one by one, and Nestor plants the plan that will kill
-Patroclus.
+Agamemnon's day of glory; Diomedes, Odysseus, and other Greek chiefs
+are wounded one by one; Nestor sends Patroclus to plead with Achilles.
 
 TRANSLATOR'S COMMENTARY
 
@@ -38,7 +37,7 @@ in the poem healing one wound while his own death is being prepared,
 and its last clause repeats, word for word, the drying of Agamemnon's
 wound at 267 — the day's first casualty and its last, rhymed.
 
-Our printed Greek genuinely lacks line 543 — the line Aristotle read,
+The printed Greek genuinely lacks line 543 — the line Aristotle read,
 "for Zeus would be indignant with him, whenever he fought a better
 man" — and the translation reproduces the gap (numbering jumps 542 to
 544), with the line translated in note [35]. Register notes: the
@@ -1152,16 +1151,16 @@ NOTES
     craft passes to laymen taught by laymen (830-832: Patroclus,
     taught by Achilles, taught by Chiron).
 
-[35] (11.543) Our printed Greek text genuinely lacks line 543 (the
+[35] (11.543) The printed Greek text genuinely lacks line 543 (the
     numbering jumps 542 to 544): the line was absent from the
     medieval manuscripts and is known because Aristotle quotes it,
     discussing righteous indignation (Rhetoric 1387a; cf. Plutarch's
     citations of the passage): "for Zeus would be indignant with
     him, whenever he fought a better man" — Ajax retreating not
     from Hector but from theology. Editors since Wolf print it in
-    brackets; our source omits it as the OCT records, and the
+    brackets; the Oxford text omits it, and the
     translation reproduces the gap. With 9.458-461, this is the
-    second transmission-wound this project keeps visible.
+    second transmission-wound this translation keeps visible.
 
 [36] (11.544-565) The double simile of Ajax's retreat: first the
     lion driven all night from the cattle-yard by dogs, javelins,

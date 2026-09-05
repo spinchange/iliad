@@ -164,7 +164,7 @@ never appears: in all its occurrences the name is a patronymic, and the
 translation keeps the generations apart by a fixed rule — "Aeacus' son" is
 **Peleus**, "Aeacus' grandson" is **Achilles**, except inside the fixed epithet
 formulas, where "the swift-footed son of Aeacus" and "Aeacus' blameless son" mean
-Achilles. See `translation/CONVENTIONS.md`.
+Achilles.
 *Kin:* son of Zeus; father of Peleus; grandfather of Achilles.
 **Refs:** 2.860, 2.874, 9.184, 16.15, 16.140, 16.854, 21.178, 21.189 …and
 throughout. Books 2, 9–11, 16–18, 21, 23.
@@ -1308,8 +1308,7 @@ for, sitting all night by their fires.
 *Epithets:* "rosy-fingered Dawn" (ῥοδοδάκτυλος Ἠώς, 1.477); "early-born"
 (ἠριγένεια, 1.477); "Dawn in her saffron robe" (κροκόπεπλος Ἠώς, 8.1);
 "fair-throned Dawn" (ἐΰθρονος Ἠώς, 8.565). Note χρυσόθρονος "of the golden
-throne" is **Hera's**, not Dawn's — all four occurrences are hers or Zeus's;
-CONVENTIONS.md was corrected accordingly on 2026-07-27.
+throne" is **Hera's**, not Dawn's; all four occurrences are hers or Zeus's.
 *Kin:* consort of Tithonus, Laomedon's son.
 **Refs:** 1.477, 2.48, 8.1, 8.565, 9.240, 11.1, 19.1, 23.109, 24.695, 24.788.
 Books 1–2, 6, 8–9, 11, 19, 23–24.

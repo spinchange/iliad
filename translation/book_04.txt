@@ -1,7 +1,7 @@
 BOOK 4
 
-The truce broken: Pandarus's arrow, the review of the troops, and the
-first battle of the poem.
+The gods break the truce with an arrow from Pandarus; Agamemnon
+reviews his troops; the first day of battle begins.
 
 TRANSLATOR'S COMMENTARY
 
@@ -19,8 +19,8 @@ Pandarus scene that follows — Athena talking a fool into perjury his whole
 people will pay for — is its direct execution.
 
 This is also the book where the poem's combat idiom begins, and the
-conventions set here bind the remaining twenty books (all logged in
-translation/CONVENTIONS.md): death formulas rendered fixed and unvarying
+conventions set here bind the remaining twenty books (all entered in
+the register): death formulas rendered fixed and unvarying
 ("darkness covered his eyes"; "he fell with a thud, and his armor clattered
 upon him"; "unstrung his limbs"), wound anatomy kept clinically precise as
 the Greek keeps it, and the armor vocabulary settled (ζωστήρ "war-belt,"
@@ -648,7 +648,7 @@ Notes
     a deliberate shock after the fly-brushing tenderness of 130-131.
 
 [10] (4.155) "it was your death I was cutting in those oaths" — the
-     oath-cutting idiom (see Book 3 commentary) turned bitter:
+     oath-cutting idiom (see the translator's note on Book 3) turned bitter:
      Agamemnon hears the ritual he performed as a throat-cutting of
      his own brother.
 

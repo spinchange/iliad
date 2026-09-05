@@ -1,7 +1,7 @@
 BOOK 2
 
-The lying Dream, the testing of the army, Thersites beaten — and the
-Catalogue of Ships.
+Zeus sends Agamemnon a false dream; Agamemnon tests the army and
+nearly loses it; the catalogue of the ships and their captains.
 
 TRANSLATOR'S COMMENTARY
 
@@ -45,7 +45,7 @@ quarrel with Achilles on Zeus-sent atē ("blindness," 111, and openly "it
 was I who began the anger," 378) — the same vocabulary Achilles used of him
 at 1.412; and the Catalogue's Achilles-paragraph (686-694) holds the plot's
 tension in place mid-list. New recurring epithets are footnoted at first
-occurrence and logged in translation/CONVENTIONS.md; the famous crux at
+occurrence and entered in the register; the famous crux at
 318 (did the god make the serpent-portent "conspicuous" or "invisible"?)
 is note [14], and the Salamis couplet with its ancient forgery accusation
 is note [23].
@@ -995,7 +995,7 @@ Notes
 [11] (2.193-197) Aristarchus athetized these five lines, and they are
      independently absent from Xenophon's quotation of the passage
      (Memorabilia 1.2.56) — two converging hints they may not be
-     original (apparatus, Line 193-197; disputed_lines.md #3). Without
+     original (apparatus at lines 193-197). Without
      them, Odysseus' speech to the kings loses its "he is only testing"
      explanation. Translated as printed; the two-tier treatment of kings
      and commoners on either side of this line is in any case secure.
@@ -1061,9 +1061,8 @@ Notes
      composition (its geography fits mainland Greece of an earlier era
      better than the poem's own dramatic situation — Boeotia leads,
      plausibly from the muster at Aulis), and several manuscripts omit
-     the whole span (apparatus, Line 494-877: om.; disputed_lines.md
-     #2). Translated as fully integral, in the same line-for-line verse
-     as the narrative; see commentary.
+     the whole span (apparatus at lines 494-877). Translated as fully integral, in the same line-for-line verse
+     as the narrative; see the translator's note on this book.
 
 [21] (2.528-530) The disambiguation of the two Ajaxes. Zenodotus
      athetized 528 and Aristarchus 529-530 (apparatus) — the "linen
@@ -1085,8 +1084,7 @@ Notes
      towns instead (quoted in the apparatus at Line 557-558). Whether
      or not the accusation is true, Ajax — the war's second-best
      fighter — receives a strikingly minimal two-line entry. Translated
-     as printed, with the controversy recorded here (disputed_lines.md
-     #2a).
+     as printed, with the controversy recorded here.
 
 [24] (2.594-600) Thamyris the Thracian bard boasted he could outsing
      the Muses; they "maimed" him (πηρόν — later tradition specifies

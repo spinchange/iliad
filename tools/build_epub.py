@@ -176,10 +176,12 @@ def tnotes_page(commentaries: list[tuple[int, str]]) -> str:
     """
     out = ['# The Translator’s Notes on the Books {.unnumbered .tnotes #tnotes}',
            "",
-           "The note on each book, collected here so the poem itself reads "
-           "clean. Each heading links back to its book; in the text, the line "
-           "under every book’s argument links here.", ""]
+           "The translator’s note on each book, gathered here so that the poem "
+           "itself is not interrupted. Each heading links back to its book, "
+           "and the line under each book’s argument links here.", ""]
     for b, commentary in commentaries:
+        # "see note [3]" in the source reads "see note 3" in the book.
+        commentary = re.sub(r"\[(\d+)\]", r"\1", commentary)
         out += [f"## [Book {b}](#book-{b}) {{#tnote-{b}}}", "", commentary, ""]
     return "\n".join(out) + "\n"
 
@@ -218,16 +220,17 @@ def source_page() -> str:
     return (
         "# A Note on the Text {.unnumbered}\n\n"
         "The Greek is the Oxford Classical Text of Monro and Allen (3rd "
-        "edition, 1920). The English translation is original to this project; "
-        "each of its 15,687 lines is keyed one-to-one to its Greek line, and "
-        "the printed text is followed throughout — including three passages "
-        "the printed Greek lacks (9.458–461, 11.543, 14.269), which are "
-        "marked in place rather than supplied.\n\n"
-        "Each book closes with its endnotes: a raised numeral in the text "
-        "marks a note; tap it to jump there, and tap the return arrow (↩) to "
-        "come back to your place in the verse. The translator's notes on the "
-        "several books are collected at the back, one tap from each book's "
-        "opening.\n\n"
+        "edition, 1920). The English translation is original to this edition, "
+        "and it is numbered to the Greek, line for line: a citation to the "
+        "Greek finds the same line here. The printed text is followed "
+        "throughout, including three passages the printed Greek lacks "
+        "(9.458–461, 11.543, 14.269), which are marked in place rather than "
+        "supplied.\n\n"
+        "Each book closes with its notes. A raised numeral in the text marks "
+        "a note and is a link to it; the return arrow (↩) at the end of a "
+        "note leads back to your place in the verse. The translator's notes "
+        "on the several books are collected at the back, and each book's "
+        "opening carries a link to its own.\n\n"
         "Monro and Allen's 1920 text is in the public domain. Polytonic Greek "
         "is set in Gentium Plus (SIL Open Font License).\n\n"
     )
@@ -268,11 +271,11 @@ def index_page(present_books: set[int]) -> str:
         '# Index of Principal Names {.unnumbered #name-index}\n\n'
         "The poem's principal persons, gods, peoples, and places — every "
         "figure of consequence — with a pronunciation (*Say:*), epithets, "
-        "aliases, kin, and line citations. Each citation is a link: tap a "
-        "**book.line** number to jump to that verse. Pronunciations give the "
+        "aliases, kin, and line citations. Each **book.line** citation is a "
+        "link to its verse. Pronunciations give the "
         "traditional anglicized reading; **stress falls on the capitalized "
-        "syllable**. The several hundred men named once and killed in the "
-        "same breath are catalogued for a later edition.\n\n"
+        "syllable**. The several hundred men who are named once and killed "
+        "in the same breath are not indexed.\n\n"
         '<div class="name-index">\n\n')
     return header + body + "\n\n</div>\n\n"
 
@@ -379,7 +382,7 @@ def build(book_nums: list[int]) -> Path:
         "  - role: edt\n    text: Chris Duffy\n"
         "language: en\n"
         "rights: >-\n"
-        "  English translation original to this project. Greek source text "
+        "  English translation original to this edition. Greek source text "
         "(Monro-Allen 1920) public domain.\n"
         "...\n",
         encoding="utf-8",

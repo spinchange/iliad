@@ -1,8 +1,7 @@
 BOOK 14
 
-The Deception of Zeus: Hera borrows the girdle of Aphrodite, buys
-Sleep with a Grace, and Zeus sleeps on Gargaron while the sea-god
-turns the battle.
+Hera seduces Zeus and lulls him to sleep; Poseidon turns the tide;
+Ajax fells Hector with a stone.
 
 TRANSLATOR'S COMMENTARY
 
@@ -40,10 +39,10 @@ and a chain of vaunts — grief answering grief — that ends with
 Ilioneus's head raised on a spear "like a poppy-head," the poem's
 own earlier poppy (8.306) grown monstrous (note [29]).
 
-Our printed Greek lacks line 269 — the naming of Pasithea in Hera's
+The printed Greek lacks line 269 — the naming of Pasithea in Hera's
 offer, an addition in only part of the tradition; the numbering
 jumps 268 to 270, the line is translated in note [13], and Sleep
-names her anyway at 276: the third transmission-gap this project
+names her anyway at 276: the third transmission-gap this translation
 reproduces (with 9.458-461 and 11.543). Register notes: 14.82-83
 reuse 4.349-350 verbatim ("the fence of your teeth"); 14.508 reuses
 the fixed Muse-invocation; the ford-of-Xanthus formula (433-434) is
@@ -701,7 +700,7 @@ NOTES
     refused; a Grace accepted — Sleep bargains like a craftsman
     who knows his labor's worth.
 
-[13] (14.267-276) Our printed Greek lacks line 269 — "Pasithea, for
+[13] (14.267-276) The printed Greek lacks line 269 — "Pasithea, for
     whom you long always, all your days" — the naming of the
     offered Grace inside Hera's speech; the line stands in only
     part of the manuscript tradition (an addition in several

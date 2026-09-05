@@ -1,7 +1,7 @@
 BOOK 6
 
-Hector in Troy: Glaucus and Diomedes trade armor on the field; Hector and
-Andromache at the Scaean Gates.
+Glaucus and Diomedes exchange armor instead of blows; Hector in Troy
+with his mother Hecuba, with Helen, and with his wife Andromache.
 
 TRANSLATOR'S COMMENTARY
 
@@ -689,7 +689,7 @@ Notes
      sequence loses its point.
 
 [21] (6.323-324, 375-376) First occurrences of δμῳαί, rendered
-     "slave-women" per the project's adopted policy (never "servants"
+     "slave-women" as a matter of policy in this translation (never "servants"
      or "maids"); ἀμφίπολος remains "handmaid," ταμίη "housekeeper,"
      τιθήνη "nurse." The household vocabulary matters in this book
      above all: its climax turns on Andromache's foreseen "day of

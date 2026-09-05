@@ -1,7 +1,7 @@
 BOOK 8
 
-Zeus bans the gods from the battle; the golden scales tip against the
-Achaeans; the Trojans camp on the plain under a thousand watchfires.
+Zeus forbids the gods to take part; the Trojans win the day and camp
+on the plain, their watchfires burning until dawn.
 
 TRANSLATOR'S COMMENTARY
 
@@ -25,7 +25,7 @@ rest of the poem: Hector will not stop "until the swift-footed son of
 Peleus rises beside the ships... over Patroclus fallen" — the first
 explicit statement of Patroclus's death, delivered as decree eight books
 before the event (note [26]). And at 161-166 stands the one passage
-flagged for this book in disputed_lines.md: Hector's taunt to Diomedes
+of this book on the list of disputed lines: Hector's taunt to Diomedes
 ("you were a woman after all... painted doll"), athetized by
 Aristophanes and Aristarchus, with Zenodotus's variant close (note
 [10]). The book ends on the poem's most famous nocturne — the
@@ -667,7 +667,7 @@ Notes
      doll). Aristophanes and Aristarchus athetized 164-166, and
      Zenodotus's text read "I will deal you your death" (πότμον
      ἐφήσω) for "deal you your doom" (δαίμονα δώσω) at 166 —
-     the entry for this book in disputed_lines.md (#4). Kept: the
+     this book's one entry among the disputed lines. Kept: the
      gendered insult answers 163's "you were a woman," and Diomedes'
      three-fold hesitation at 167-169 shows it landed.
 

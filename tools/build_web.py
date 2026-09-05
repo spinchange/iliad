@@ -740,7 +740,7 @@ def build_names() -> tuple[str, int]:
     out.append(
         '<p class="apparatus" data-pagefind-ignore>The index covers every '
         'figure of consequence: the several hundred men named once and '
-        'killed in the same breath are catalogued for a later edition. '
+        'killed in the same breath are not indexed. '
         'Pronunciations give the traditional anglicized reading; stress '
         'falls on the capitalized syllable.</p>')
     out.append(NAMES_JS)

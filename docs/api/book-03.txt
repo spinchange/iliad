@@ -1,7 +1,7 @@
 BOOK 3
 
-The duel for Helen: Paris against Menelaus, the view from the wall,
-and Aphrodite's rescue.
+Paris and Menelaus fight a duel for Helen; Helen names the Greek
+chiefs from the wall; Aphrodite carries Paris off to safety.
 
 TRANSLATOR'S COMMENTARY
 
@@ -15,7 +15,7 @@ cast in the most economical way possible, and it is built almost entirely
 out of formal, ceremonial speech — challenge, herald's summons, oath,
 prayer, curse. Those registers are rendered with deliberate stiffness (the
 oath-language especially), because Book 9's embassy and later truce scenes
-will reuse them; the conventions are logged in translation/CONVENTIONS.md.
+will reuse them; the conventions are entered in the register.
 
 One idiom is kept literal as a matter of policy: ὅρκια τάμνειν, "to cut
 oaths" — from cutting the victims' throats — is translated "cut the sworn
@@ -614,8 +614,8 @@ Notes
 
 [19] (3.302) A Ptolemaic papyrus preserves four extra lines here — Zeus
      thundering in answer and planning woes for both sides — absent from
-     the medieval manuscripts (apparatus, Line 302; cf. disputed_lines.md
-     #14 on Ptolemaic "plus verses"). A live specimen of how fluid the
+     the medieval manuscripts (apparatus at line 302; one of the Ptolemaic
+     "plus verses"). A live specimen of how fluid the
      text still was before the Alexandrian standardization. The vulgate's
      laconic "the son of Cronos would not yet bring it to pass" is
      translated; the papyrus expansion is recorded here.

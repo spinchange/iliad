@@ -10,7 +10,7 @@
  "books": [
   {
    "book": 1,
-   "argument": "The wrath: the quarrel over Briseis, the plague, and Thetis's bargain with Zeus.",
+   "argument": "The plague; Agamemnon takes Achilles' prize, the girl Briseis, and Achilles quits the war; Thetis asks Zeus to avenge her son.",
    "lines": 611,
    "last_line": 611,
    "notes": 42,
@@ -20,7 +20,7 @@
   },
   {
    "book": 2,
-   "argument": "The lying Dream, the testing of the army, Thersites beaten — and the Catalogue of Ships.",
+   "argument": "Zeus sends Agamemnon a false dream; Agamemnon tests the army and nearly loses it; the catalogue of the ships and their captains.",
    "lines": 877,
    "last_line": 877,
    "notes": 35,
@@ -30,7 +30,7 @@
   },
   {
    "book": 3,
-   "argument": "The duel for Helen: Paris against Menelaus, the view from the wall, and Aphrodite's rescue.",
+   "argument": "Paris and Menelaus fight a duel for Helen; Helen names the Greek chiefs from the wall; Aphrodite carries Paris off to safety.",
    "lines": 461,
    "last_line": 461,
    "notes": 26,
@@ -40,7 +40,7 @@
   },
   {
    "book": 4,
-   "argument": "The truce broken: Pandarus's arrow, the review of the troops, and the first battle of the poem.",
+   "argument": "The gods break the truce with an arrow from Pandarus; Agamemnon reviews his troops; the first day of battle begins.",
    "lines": 544,
    "last_line": 544,
    "notes": 25,
@@ -50,7 +50,7 @@
   },
   {
    "book": 5,
-   "argument": "The aristeia of Diomedes: gods bleed — Aphrodite, then Ares himself, wounded by a mortal's spear.",
+   "argument": "The great day of Diomedes, who wounds two gods, Aphrodite and Ares, and drives them from the field.",
    "lines": 909,
    "last_line": 909,
    "notes": 43,
@@ -60,7 +60,7 @@
   },
   {
    "book": 6,
-   "argument": "Hector in Troy: Glaucus and Diomedes trade armor on the field; Hector and Andromache at the Scaean Gates.",
+   "argument": "Glaucus and Diomedes exchange armor instead of blows; Hector in Troy with his mother Hecuba, with Helen, and with his wife Andromache.",
    "lines": 529,
    "last_line": 529,
    "notes": 36,
@@ -70,7 +70,7 @@
   },
   {
    "book": 7,
-   "argument": "The duel of Hector and Ajax, the burial truce, and the building of the Achaean wall.",
+   "argument": "Hector and Ajax fight a duel to a draw; a truce to bury the dead; the Greeks build a wall around their ships.",
    "lines": 482,
    "last_line": 482,
    "notes": 29,
@@ -80,7 +80,7 @@
   },
   {
    "book": 8,
-   "argument": "Zeus bans the gods from the battle; the golden scales tip against the Achaeans; the Trojans camp on the plain under a thousand watchfires.",
+   "argument": "Zeus forbids the gods to take part; the Trojans win the day and camp on the plain, their watchfires burning until dawn.",
    "lines": 565,
    "last_line": 565,
    "notes": 32,
@@ -90,7 +90,7 @@
   },
   {
    "book": 9,
-   "argument": "The Embassy to Achilles: Agamemnon's gifts, three speeches, and three refusals — each smaller than the last.",
+   "argument": "The embassy to Achilles: Agamemnon offers gifts and Briseis back; Odysseus, Phoenix, and Ajax plead with him, and he refuses.",
    "lines": 709,
    "last_line": 713,
    "notes": 40,
@@ -100,7 +100,7 @@
   },
   {
    "book": 10,
-   "argument": "The Doloneia: both armies send spies into the same night — Dolon dies talking, and Odysseus and Diomedes come home laughing, with the horses of Rhesus.",
+   "argument": "A night raid: Odysseus and Diomedes catch the Trojan spy Dolon, kill King Rhesus in his sleep, and steal his horses.",
    "lines": 579,
    "last_line": 579,
    "notes": 43,
@@ -110,7 +110,7 @@
   },
   {
    "book": 11,
-   "argument": "The long day begins: Agamemnon's morning of glory, the captains carried off wounded one by one, and Nestor plants the plan that will kill Patroclus.",
+   "argument": "Agamemnon's day of glory; Diomedes, Odysseus, and other Greek chiefs are wounded one by one; Nestor sends Patroclus to plead with Achilles.",
    "lines": 847,
    "last_line": 848,
    "notes": 44,
@@ -120,7 +120,7 @@
   },
   {
    "book": 12,
-   "argument": "The battle at the wall: the Trojans storm it on foot, Sarpedon states the heroic contract, Hector overrules the omen, and the gate goes down.",
+   "argument": "The Trojans storm the Greek wall; Sarpedon tears down the rampart, and Hector smashes the gate with a boulder.",
    "lines": 471,
    "last_line": 471,
    "notes": 30,
@@ -130,7 +130,7 @@
   },
   {
    "book": 13,
-   "argument": "Poseidon's defiance: Zeus looks away, the sea-god slips into the battle in disguise, and the line holds — shield on shield, man on man.",
+   "argument": "While Zeus looks away, Poseidon rallies the Greeks in disguise, and the battle for the ships hangs in the balance.",
    "lines": 837,
    "last_line": 837,
    "notes": 39,
@@ -140,7 +140,7 @@
   },
   {
    "book": 14,
-   "argument": "The Deception of Zeus: Hera borrows the girdle of Aphrodite, buys Sleep with a Grace, and Zeus sleeps on Gargaron while the sea-god turns the battle.",
+   "argument": "Hera seduces Zeus and lulls him to sleep; Poseidon turns the tide; Ajax fells Hector with a stone.",
    "lines": 521,
    "last_line": 522,
    "notes": 32,
@@ -150,7 +150,7 @@
   },
   {
    "book": 15,
-   "argument": "Zeus wakes: the plan of the whole poem is spoken aloud, Apollo kicks down the wall like a child's sand, and Hector's hand closes on the stern of Protesilaus's ship.",
+   "argument": "Zeus wakes and foretells the end of the war; Apollo levels the wall; Hector reaches the ships and calls for fire.",
    "lines": 746,
    "last_line": 746,
    "notes": 36,
@@ -160,7 +160,7 @@
   },
   {
    "book": 16,
-   "argument": "The Patrocleia: Patroclus goes out in Achilles' armor, quenches the fire, kills Sarpedon — and dies at the wall, struck by a god, a boy, and Hector, in that order.",
+   "argument": "Patroclus fights in Achilles' armor, drives the Trojans from the ships, kills Sarpedon, and dies at Hector's hands.",
    "lines": 867,
    "last_line": 867,
    "notes": 45,
@@ -170,7 +170,7 @@
   },
   {
    "book": 17,
-   "argument": "The fight over the body of Patroclus: Hector puts on the armor of Achilles, the immortal horses weep, and Ajax prays not for rescue but for light.",
+   "argument": "The fight over the body of Patroclus; Hector puts on Achilles' armor; Achilles' immortal horses weep for the dead.",
    "lines": 761,
    "last_line": 761,
    "notes": 38,
@@ -180,7 +180,7 @@
   },
   {
    "book": 18,
-   "argument": "The news reaches Achilles: the scream, the choice of death — and on the anvil of Hephaestus a whole world of peace, hammered onto the shield he will carry to kill Hector.",
+   "argument": "Achilles learns that Patroclus is dead and chooses vengeance over long life; Hephaestus forges him new armor and the great shield.",
    "lines": 617,
    "last_line": 617,
    "notes": 35,
@@ -190,7 +190,7 @@
   },
   {
    "book": 19,
-   "argument": "The wrath is renounced from a seat; the blame is laid on a goddess; and the gifts nobody looks at are carried past a fasting man — who arms, mounts, and hears his own horse foretell his death.",
+   "argument": "Achilles gives up his wrath against Agamemnon, who blames a goddess; Achilles arms for battle, and his horse foretells his death.",
    "lines": 424,
    "last_line": 424,
    "notes": 27,
@@ -200,7 +200,7 @@
   },
   {
    "book": 20,
-   "argument": "Zeus opens the gates and the gods go down to war — then sit and watch, while Achilles begins the killing that will not stop until Hector: Aeneas saved for empire, Hector saved for Book 22, and twelve men in a row not saved at all.",
+   "argument": "Zeus lets the gods into the fighting; Achilles returns to battle and meets Aeneas and Hector, whom the gods snatch to safety.",
    "lines": 503,
    "last_line": 503,
    "notes": 31,
@@ -210,7 +210,7 @@
   },
   {
    "book": 21,
-   "argument": "Half the rout is driven into the river, and the river fights back: Lycaon's bared throat, Asteropaeus's two spears, Scamander rising against the man who has choked him with corpses — water against fire, gods against gods — until Troy's gates gape for the routed, and Apollo, wearing a man's face, runs Achilles out of the way.",
+   "argument": "Achilles fills the river Scamander with the dead, and the river rises against him; the gods brawl; the Trojans flee inside the walls.",
    "lines": 611,
    "last_line": 611,
    "notes": 31,
@@ -220,7 +220,7 @@
   },
   {
    "book": 22,
-   "argument": "One man is left outside the wall. His father begs from the tower, his mother bares her breast; he debates, runs, is run down past the washing-places of the old peace; the scales dip, Athena lies, the ash spear finds the throat above the stolen armor's collar — and a woman heating bath-water learns why the tower is wailing.",
+   "argument": "Hector waits alone outside the gates; Achilles chases him three times around the city and kills him; Priam, Hecuba, and Andromache mourn.",
    "lines": 515,
    "last_line": 515,
    "notes": 31,
@@ -230,7 +230,7 @@
   },
   {
    "book": 23,
-   "argument": "The ghost asks for burial and one last embrace; the pyre takes horses, dogs, and twelve men; and then — games: the army that has been killing for nine years spends a day competing for tripods and mares, quarreling justly, yielding handsomely, and laughing — while the man who arranged it all watches, having no future of his own.",
+   "argument": "The ghost of Patroclus asks for burial; his funeral; the games held in his honor, from the chariot race to the spear-throw.",
    "lines": 897,
    "last_line": 897,
    "notes": 29,
@@ -240,7 +240,7 @@
   },
   {
    "book": 24,
-   "argument": "The gods vote against the rage; a mother tells her son to eat, to sleep, to love; an old man kisses the hands that killed his sons — and the two of them weep, eat, and look at each other. The poem that began with the wrath ends with a burial done properly.",
+   "argument": "The gods order Hector's body returned; Priam crosses the plain at night to ransom his son from Achilles; the burial of Hector.",
    "lines": 804,
    "last_line": 804,
    "notes": 30,

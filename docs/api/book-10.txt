@@ -1,8 +1,7 @@
 BOOK 10
 
-The Doloneia: both armies send spies into the same night — Dolon dies
-talking, and Odysseus and Diomedes come home laughing, with the horses
-of Rhesus.
+A night raid: Odysseus and Diomedes catch the Trojan spy Dolon, kill
+King Rhesus in his sleep, and steal his horses.
 
 TRANSLATOR'S COMMENTARY
 
@@ -642,7 +641,7 @@ NOTES
     critics have gone both ways, Analysts excising it, defenders
     reading it as an old ambush-theme (the lochos) integral to the
     tradition. The internal evidence is genuinely double-edged — see
-    the commentary above and notes [39] and [43]. The apparatus for
+    the translator's note on this book, and notes [39] and [43]. The apparatus for
     this book records only line-level variants; the whole-book
     question lives in the testimonia.
 
@@ -920,7 +919,7 @@ NOTES
 [39] (10.509-513) "Think of your return" — νόστου δὴ μνῆσαι: the
     Odyssey's theme-word sounded by Athena in the Iliad, to the other
     poem's kind of hero on the other poem's kind of errand; a
-    centerpiece of the book's Odyssean coloring (see commentary). And
+    centerpiece of the book's Odyssean coloring (see the translator's note on this book). And
     they escape riding bareback — nearly the only riding of horses in
     the Iliad (elsewhere a simile, 15.679-684) — because the chariot
     stayed with the dead.

@@ -1,12 +1,12 @@
 BOOK 1
 
-The wrath: the quarrel over Briseis, the plague, and Thetis's bargain
-with Zeus.
+The plague; Agamemnon takes Achilles' prize, the girl Briseis, and
+Achilles quits the war; Thetis asks Zeus to avenge her son.
 
 TRANSLATOR'S COMMENTARY
 
 This translation aims at plain, dignified modern English free verse, kept
-line-for-line with the Greek of the Monro-Allen text (books/book_01.txt) so
+line-for-line with the Greek of the Monro-Allen text, so
 that any English line can be checked against its original. It follows the
 printed text throughout, including passages that ancient critics athetized
 (marked as spurious but retained); atheteses are recorded in the notes, not
@@ -28,13 +28,13 @@ arithmetic of honor; the vocabulary is kept rigid for that reason.
 
 Recurring epithets are translated by fixed English equivalents ("swift-footed
 Achilles," "white-armed Hera," "the lord of men Agamemnon"), footnoted at
-first occurrence only, and logged in translation/CONVENTIONS.md as binding
+first occurrence only, and entered in the translator's register as binding
 for later books. Fixity is deliberate: the epithets are load-bearing oral
 formulas, and varying them for elegance would erase exactly the texture that
 makes them Homeric. Proper names use familiar Latinized spellings (Achilles,
 Ajax, Clytemnestra), also logged there.
 
-On the one Book 1 entry in disputed_lines.md (1.4-5): Zenodotus athetized
+On the one disputed passage of Book 1 (1.4-5): Zenodotus athetized
 both lines, and his text is reported to have read daita, making the corpses a
 "feast" for the birds. The translation follows the vulgate ("prey for dogs /
 and every bird"), keeping the grim literal image rather than the sardonic
@@ -42,9 +42,9 @@ and every bird"), keeping the grim literal image rather than the sardonic
 make it, and the "feast" reading, though grotesquely apt, rests on a single
 reported reading of doubtful standing. See note [3].
 
-One grammatical crux was settled by the project's morphology files: at 1.291
-the treebank parses protheousin as a form of protithēmi ("set forth, grant"),
-and the translation follows it ("do they therefore give him leave to hurl
+One grammatical crux, at 1.291: protheousin is taken here as a form of
+protithēmi ("set forth, grant"), and the translation follows that parse
+("do they therefore give him leave to hurl
 insults?"); the rival parse is recorded in note [25].
 
 ------------------------------------------------------------
@@ -668,24 +668,24 @@ Notes
 [1] (1.1) "wrath" (μῆνιν) — the poem's first word and announced theme.
     Rendered "wrath" rather than "rage" or "anger": mēnis is a sustained,
     quasi-divine grudge (elsewhere used almost solely of gods), not a flash
-    of temper, and "wrath" carries that weight. See the commentary above.
+    of temper, and "wrath" carries that weight. See the translator's note on this book.
 
 [2] (1.3) "souls" (ψυχάς) — Apollonius Rhodius is reported to have read
-    κεφαλάς, "heads" (apparatus/book_01.txt, Line 3). The vulgate "souls"
+    κεφαλάς, "heads" (apparatus at line 3). The vulgate "souls"
     is kept; "hurled heads to Hades" would make the bodies-for-dogs of the
     next lines redundant.
 
 [3] (1.4-5) Zenodotus athetized both lines (apparatus, Line 4-5: ath. Zen);
     separately his text is reported (via Athenaeus) to have read δαῖτα,
-    making the corpses "a feast" for the birds (disputed_lines.md #1).
+    making the corpses "a feast" for the birds.
     Translated from the vulgate (πᾶσι, "every bird"), keeping the grim
-    literal image over the sardonic "banquet"; see commentary.
+    literal image over the sardonic "banquet"; see the translator's note on this book.
 
 [4] (1.7) "lord of men" (ἄναξ ἀνδρῶν) — Agamemnon's fixed title epithet,
     always so rendered. Likewise δῖος ("heavenly, radiant") is always
     "brilliant" — of Achilles and Odysseus here, of many heroes later.
     Epithet conventions are noted at first occurrence only; the full list
-    lives in translation/CONVENTIONS.md.
+    is kept in the translator's register.
 
 [5] (1.14-15) The wreaths (στέμματα) are the god's woolen fillets, carried
     on the priest's golden staff: portable proof of sacred office. Chryses
@@ -788,7 +788,7 @@ Notes
      φῆρες) are the centaurs: Nestor is recalling the Lapith-centaur war.
 
 [25] (1.291) "give him leave to hurl insults" — the verb προθέουσιν is an
-     old crux: taken here (with the project treebank) as from προτίθημι,
+     old crux: taken here as from προτίθημι,
      "do they set it before him / license him?"; others derive it from
      προθέω, "do his insults run out ahead?" The sarcastic sense —
      prowess is god-given, abuse is not — is the same either way.

@@ -1,7 +1,7 @@
 BOOK 9
 
-The Embassy to Achilles: Agamemnon's gifts, three speeches, and three
-refusals — each smaller than the last.
+The embassy to Achilles: Agamemnon offers gifts and Briseis back;
+Odysseus, Phoenix, and Ajax plead with him, and he refuses.
 
 TRANSLATOR'S COMMENTARY
 
@@ -24,8 +24,8 @@ verbs of 182-198 (disputed #5) are translated as duals — "the two of
 them went" — with the crux laid out in note [15]. The "gates of Hades"
 lines (312-313, disputed #6) and their contested referent are note
 [21]. And the famous four lines in which Phoenix contemplated killing
-his father (458-461, disputed #7) are physically absent from this
-project's Greek text, as from the printed Monro-Allen vulgate — the
+his father (458-461) are physically absent from the
+printed Monro-Allen text — the
 numbering jumps 457 to 462 — athetized by Aristarchus for their content
 and preserved only through Plutarch; the translation reproduces the
 gap, and note [32] supplies the missing lines so the reader loses
@@ -841,7 +841,7 @@ Notes
      sends Achilles' three loves — his teacher, his bluntest peer, and
      the army's best voice.
 
-[15] (9.182-198) The famous duals (disputed_lines.md #5): "the two of
+[15] (9.182-198) The famous duals: "the two of
      them went... the two came... greeting the two of them" — the Greek
      uses strict dual verbs for a party of three envoys plus two
      heralds. Ancient solutions (Aristarchus: the duals cover only the
@@ -886,8 +886,7 @@ Notes
      of Hades" answer suggests he smells the redaction anyway.
 
 [21] (9.308-314) "Hateful to me as the gates of Hades is the man who
-     hides one thing in his mind and says another" (disputed_lines.md
-     #6): the referent is contested — a warning aimed at Odysseus the
+     hides one thing in his mind and says another": the referent is contested — a warning aimed at Odysseus the
      professional speaker standing before him, or at the absent
      Agamemnon, the actual hider-and-sayer of the quarrel? The
      translation keeps the generalizing third person that lets both
@@ -964,15 +963,15 @@ Notes
 [32] (9.447-461) Phoenix's own story: his father's concubine, his
      mother's plea, the old man's curse of childlessness sworn to the
      Erinyes and ratified by "Zeus of the world below" (Hades) "and
-     dread Persephone." At this point the vulgate — and this project's
-     Greek text — omits four lines (458-461), and the numbering jumps:
+     dread Persephone." At this point the vulgate — and the Oxford
+     text — omits four lines (458-461), and the numbering jumps:
      preserved only by Plutarch (How to Study Poetry 26f), they read,
      in translation: "Then I planned in my heart to cut him down with
      the sharp bronze; but some immortal checked my anger, putting in
      my heart the people's talk and the many reproaches of men, that I
      might not be called a father-killer among the Achaeans."
-     Aristarchus athetized them for their shocking content
-     (disputed_lines.md #7), and the printed tradition dropped them so
+     Aristarchus athetized them for their shocking content,
+     and the printed tradition dropped them so
      thoroughly that editors since Wolf (1785) have had to reinsert
      them from Plutarch (apparatus, Line 457). The translation
      reproduces the transmitted gap; the suppressed confession —
