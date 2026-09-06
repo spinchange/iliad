@@ -48,6 +48,7 @@ from __future__ import annotations
 import hashlib
 import html
 import json
+import os
 import re
 from pathlib import Path
 
@@ -59,6 +60,7 @@ FURTHER = ROOT / "further_reading.txt"
 IDX = ROOT / "index" / "index.md"
 REGISTRY = ROOT / "index" / "registry.json"
 DOCS = ROOT / "docs"
+AUDIO_PUBLISHED = ROOT / "audiobook" / "published.json"
 OUT = DOCS / "read"
 OUT_API = DOCS / "api"
 SITE = "https://wrath-sing-goddess.com"
@@ -105,6 +107,33 @@ GAPS = "9.458–461, 11.543, 14.269"
 
 # ---------------------------------------------------------------------------
 # Parsing
+
+
+def published_audio() -> dict[int, dict]:
+    """Books whose narration is live on the audio host (see
+    tools/build_audio_web.py). Set AUDIO_PREVIEW=1 to include books that
+    are encoded but not yet uploaded, for a local look at the player."""
+    if not AUDIO_PUBLISHED.exists():
+        return {}
+    data = json.loads(AUDIO_PUBLISHED.read_text(encoding="utf-8"))
+    preview = os.environ.get("AUDIO_PREVIEW") == "1"
+    return {int(k): e for k, e in data["books"].items()
+            if preview or e.get("uploaded_sha256") == e.get("sha256")}
+
+
+def minutes(seconds: float) -> str:
+    return f"{int(round(seconds / 60))} min"
+
+
+def listen_block(n: int, audio: dict[int, dict]) -> str:
+    e = audio.get(n)
+    if not e:
+        return ""
+    return (f'<figure class="listen" data-pagefind-ignore>'
+            f'<audio controls preload="none" src="{esc(e["url"])}"></audio>'
+            f'<figcaption>Listen &middot; {minutes(e["duration_seconds"])} &middot; '
+            f'<a href="{esc(e["url"])}" download="iliad-book-{n:02d}.m4a">download</a> &middot; '
+            f'<a href="../podcast.xml">podcast feed</a></figcaption></figure>')
 
 
 def esc(text: str) -> str:
@@ -304,7 +333,7 @@ def prose(text: str, here: int | None = None) -> str:
 # Book pages
 
 
-def build_book(bk: dict) -> str:
+def build_book(bk: dict, audio: dict[int, dict] | None = None) -> str:
     n = bk["n"]
     out = [booknav(n)]
     out.append('<header class="bookhead">')
@@ -312,6 +341,7 @@ def build_book(bk: dict) -> str:
     if bk["argument"]:
         out.append(f'<p class="argument">{esc(bk["argument"])}</p>')
     out.append("</header>")
+    out.append(listen_block(n, audio or {}))
 
     if bk["commentary"]:
         out.append('<details class="tnote">')
@@ -427,7 +457,9 @@ window.addEventListener('DOMContentLoaded', function () {
 </script>"""
 
 
-def build_contents(books: dict[int, dict]) -> str:
+def build_contents(books: dict[int, dict],
+                   audio: dict[int, dict] | None = None) -> str:
+    audio = audio or {}
     out = ['<header class="bookhead"><h1>The Iliad</h1>',
            '<p class="argument">a line-for-line translation '
            '&middot; twenty-four books</p></header>',
@@ -435,10 +467,21 @@ def build_contents(books: dict[int, dict]) -> str:
            '<ol class="toc">']
     for n in range(1, 25):
         arg = esc(books[n]["argument"])
+        mins = (f' <em class="mins">&#9654; {minutes(audio[n]["duration_seconds"])}</em>'
+                if n in audio else "")
         out.append(
             f'<li><a href="book-{n:02d}.html"><b>Book {ROMAN[n-1]}</b>'
-            f'<span>{arg}</span></a></li>')
+            f'<span>{arg}{mins}</span></a></li>')
     out.append("</ol>")
+    if audio:
+        hours = sum(e["duration_seconds"] for e in audio.values()) / 3600
+        scope = ("every book" if len(audio) == 24
+                 else f"{len(audio)} of the twenty-four books so far")
+        out.append(
+            '<p class="apparatus"><a href="../podcast.xml">Listen</a>'
+            f' — the poem read aloud, {scope}, about {hours:.0f} hours: a player'
+            ' at the head of each book, or subscribe to the podcast feed in any'
+            ' podcast app.</p>')
     out.append(
         '<p class="apparatus"><a href="introduction.html">General introduction</a>'
         ' — the poem, the art of repetition, the Greek text, the English '
@@ -1112,6 +1155,20 @@ a{color:var(--gold)}
   margin:0 0 .15em}
 .argument{font-style:italic; opacity:.85; margin:0}
 
+/* the narration player under the argument */
+.listen{margin:-14px 0 24px; padding:10px 14px 8px; text-align:center;
+  background:rgba(0,0,0,.18); border:1px solid rgba(234,217,180,.12);
+  border-radius:6px}
+.listen audio{width:100%; max-width:520px; display:block; margin:0 auto;
+  color-scheme:dark}
+.listen figcaption{font-size:.8rem; opacity:.75; margin-top:6px;
+  letter-spacing:.04em}
+.listen figcaption a{text-decoration:none}
+.listen figcaption a:hover{text-decoration:underline}
+.listen + .tnote{margin-top:0}
+.toc .mins{font-style:normal; font-size:.78em; color:var(--gold);
+  opacity:.8; white-space:nowrap; margin-left:.4em}
+
 /* the translator's note on the book, collapsed under the argument */
 .tnote{margin:-10px 0 28px; padding:0 14px; font-size:.92rem;
   background:rgba(201,155,63,.06); border:1px solid rgba(201,155,63,.25);
@@ -1265,14 +1322,18 @@ def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "read.css").write_text(CSS, encoding="utf-8")
     books: dict[int, dict] = {}
+    audio = published_audio()
+    print(f"audio: {len(audio)} book(s) live")
     for n in range(1, 25):
         bk = parse_book(SRC / f"book_{n:02d}.txt")
         if bk["n"] != n:
             raise SystemExit(f"book_{n:02d}.txt says BOOK {bk['n']}")
         books[n] = bk
-        (OUT / f"book-{n:02d}.html").write_text(build_book(bk), encoding="utf-8")
+        (OUT / f"book-{n:02d}.html").write_text(build_book(bk, audio),
+                                                encoding="utf-8")
         print(f"book-{n:02d}.html")
-    (OUT / "index.html").write_text(build_contents(books), encoding="utf-8")
+    (OUT / "index.html").write_text(build_contents(books, audio),
+                                    encoding="utf-8")
     (OUT / "introduction.html").write_text(build_introduction(), encoding="utf-8")
     (OUT / "further-reading.html").write_text(build_further_reading(),
                                               encoding="utf-8")

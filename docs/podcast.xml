@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Iliad — Wrath, Sing, Goddess</title>
+    <link>https://wrath-sing-goddess.com/</link>
+    <atom:link href="https://wrath-sing-goddess.com/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>Homer's Iliad, complete, in a line-for-line English translation from the Greek, read aloud one book at a time.</description>
+    <itunes:author>Chris Duffy</itunes:author>
+    <itunes:summary>Homer's Iliad, complete, in a line-for-line English translation from the Greek, read aloud one book at a time.</itunes:summary>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://wrath-sing-goddess.com/cover.jpg"/>
+    <image><url>https://wrath-sing-goddess.com/cover.jpg</url><title>The Iliad — Wrath, Sing, Goddess</title><link>https://wrath-sing-goddess.com/</link></image>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:owner><itunes:name>Chris Duffy</itunes:name></itunes:owner>
+    <item>
+      <title>The Iliad, Book VI</title>
+      <itunes:title>Book VI</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Glaucus and Diomedes exchange armor instead of blows; Hector in Troy with his mother Hecuba, with Helen, and with his wife Andromache.</description>
+      <link>https://wrath-sing-goddess.com/read/book-06.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-06</guid>
+      <pubDate>Sat, 05 Sep 2026 12:06:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-06.m4a" length="20252421" type="audio/mp4"/>
+      <itunes:duration>0:29:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book V</title>
+      <itunes:title>Book V</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The great day of Diomedes, who wounds two gods, Aphrodite and Ares, and drives them from the field.</description>
+      <link>https://wrath-sing-goddess.com/read/book-05.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-05</guid>
+      <pubDate>Sat, 05 Sep 2026 12:05:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-05.m4a" length="35398426" type="audio/mp4"/>
+      <itunes:duration>0:51:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book IV</title>
+      <itunes:title>Book IV</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The gods break the truce with an arrow from Pandarus; Agamemnon reviews his troops; the first day of battle begins.</description>
+      <link>https://wrath-sing-goddess.com/read/book-04.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-04</guid>
+      <pubDate>Sat, 05 Sep 2026 12:04:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-04.m4a" length="21234631" type="audio/mp4"/>
+      <itunes:duration>0:30:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book III</title>
+      <itunes:title>Book III</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Paris and Menelaus fight a duel for Helen; Helen names the Greek chiefs from the wall; Aphrodite carries Paris off to safety.</description>
+      <link>https://wrath-sing-goddess.com/read/book-03.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-03</guid>
+      <pubDate>Sat, 05 Sep 2026 12:03:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-03.m4a" length="17906685" type="audio/mp4"/>
+      <itunes:duration>0:25:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book II</title>
+      <itunes:title>Book II</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Zeus sends Agamemnon a false dream; Agamemnon tests the army and nearly loses it; the catalogue of the ships and their captains.</description>
+      <link>https://wrath-sing-goddess.com/read/book-02.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-02</guid>
+      <pubDate>Sat, 05 Sep 2026 12:02:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-02.m4a" length="33686171" type="audio/mp4"/>
+      <itunes:duration>0:48:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book I</title>
+      <itunes:title>Book I</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The plague; Agamemnon takes Achilles' prize, the girl Briseis, and Achilles quits the war; Thetis asks Zeus to avenge her son.</description>
+      <link>https://wrath-sing-goddess.com/read/book-01.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-01</guid>
+      <pubDate>Sat, 05 Sep 2026 12:01:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-01.m4a" length="23846407" type="audio/mp4"/>
+      <itunes:duration>0:34:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

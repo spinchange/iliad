@@ -38,6 +38,20 @@ a{color:var(--gold)}
   margin:0 0 .15em}
 .argument{font-style:italic; opacity:.85; margin:0}
 
+/* the narration player under the argument */
+.listen{margin:-14px 0 24px; padding:10px 14px 8px; text-align:center;
+  background:rgba(0,0,0,.18); border:1px solid rgba(234,217,180,.12);
+  border-radius:6px}
+.listen audio{width:100%; max-width:520px; display:block; margin:0 auto;
+  color-scheme:dark}
+.listen figcaption{font-size:.8rem; opacity:.75; margin-top:6px;
+  letter-spacing:.04em}
+.listen figcaption a{text-decoration:none}
+.listen figcaption a:hover{text-decoration:underline}
+.listen + .tnote{margin-top:0}
+.toc .mins{font-style:normal; font-size:.78em; color:var(--gold);
+  opacity:.8; white-space:nowrap; margin-left:.4em}
+
 /* the translator's note on the book, collapsed under the argument */
 .tnote{margin:-10px 0 28px; padding:0 14px; font-size:.92rem;
   background:rgba(201,155,63,.06); border:1px solid rgba(201,155,63,.25);
