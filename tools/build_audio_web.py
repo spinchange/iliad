@@ -279,6 +279,10 @@ def upload(args: argparse.Namespace) -> None:
                 if response.ok and reply.get("success"):
                     break
                 print(f"  attempt {attempt}: HTTP {response.status_code} {response.text[:200]}", flush=True)
+                if response.status_code == 401:
+                    # the OAuth token lasts an hour; wrangler refreshes it
+                    token = oauth_token()
+                    headers["Authorization"] = f"Bearer {token}"
             except (requests.RequestException, ValueError) as exc:
                 print(f"  attempt {attempt}: {exc}", flush=True)
             time.sleep(5 * attempt)

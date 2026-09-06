@@ -16,6 +16,240 @@
     <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
     <itunes:owner><itunes:name>Chris Duffy</itunes:name></itunes:owner>
     <item>
+      <title>The Iliad, Book XXIV</title>
+      <itunes:title>Book XXIV</itunes:title>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The gods order Hector's body returned; Priam crosses the plain at night to ransom his son from Achilles; the burial of Hector.</description>
+      <link>https://wrath-sing-goddess.com/read/book-24.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-24</guid>
+      <pubDate>Sat, 05 Sep 2026 12:24:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-24.m4a" length="31610830" type="audio/mp4"/>
+      <itunes:duration>0:45:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XXIII</title>
+      <itunes:title>Book XXIII</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The ghost of Patroclus asks for burial; his funeral; the games held in his honor, from the chariot race to the spear-throw.</description>
+      <link>https://wrath-sing-goddess.com/read/book-23.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-23</guid>
+      <pubDate>Sat, 05 Sep 2026 12:23:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-23.m4a" length="35978043" type="audio/mp4"/>
+      <itunes:duration>0:52:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XXII</title>
+      <itunes:title>Book XXII</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Hector waits alone outside the gates; Achilles chases him three times around the city and kills him; Priam, Hecuba, and Andromache mourn.</description>
+      <link>https://wrath-sing-goddess.com/read/book-22.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-22</guid>
+      <pubDate>Sat, 05 Sep 2026 12:22:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-22.m4a" length="20495521" type="audio/mp4"/>
+      <itunes:duration>0:29:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XXI</title>
+      <itunes:title>Book XXI</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Achilles fills the river Scamander with the dead, and the river rises against him; the gods brawl; the Trojans flee inside the walls.</description>
+      <link>https://wrath-sing-goddess.com/read/book-21.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-21</guid>
+      <pubDate>Sat, 05 Sep 2026 12:21:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-21.m4a" length="24037721" type="audio/mp4"/>
+      <itunes:duration>0:34:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XX</title>
+      <itunes:title>Book XX</itunes:title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Zeus lets the gods into the fighting; Achilles returns to battle and meets Aeneas and Hector, whom the gods snatch to safety.</description>
+      <link>https://wrath-sing-goddess.com/read/book-20.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-20</guid>
+      <pubDate>Sat, 05 Sep 2026 12:20:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-20.m4a" length="19962315" type="audio/mp4"/>
+      <itunes:duration>0:28:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XIX</title>
+      <itunes:title>Book XIX</itunes:title>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Achilles gives up his wrath against Agamemnon, who blames a goddess; Achilles arms for battle, and his horse foretells his death.</description>
+      <link>https://wrath-sing-goddess.com/read/book-19.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-19</guid>
+      <pubDate>Sat, 05 Sep 2026 12:19:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-19.m4a" length="16620811" type="audio/mp4"/>
+      <itunes:duration>0:23:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XVIII</title>
+      <itunes:title>Book XVIII</itunes:title>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Achilles learns that Patroclus is dead and chooses vengeance over long life; Hephaestus forges him new armor and the great shield.</description>
+      <link>https://wrath-sing-goddess.com/read/book-18.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-18</guid>
+      <pubDate>Sat, 05 Sep 2026 12:18:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-18.m4a" length="24318099" type="audio/mp4"/>
+      <itunes:duration>0:35:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XVII</title>
+      <itunes:title>Book XVII</itunes:title>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The fight over the body of Patroclus; Hector puts on Achilles' armor; Achilles' immortal horses weep for the dead.</description>
+      <link>https://wrath-sing-goddess.com/read/book-17.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-17</guid>
+      <pubDate>Sat, 05 Sep 2026 12:17:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-17.m4a" length="30072702" type="audio/mp4"/>
+      <itunes:duration>0:43:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XVI</title>
+      <itunes:title>Book XVI</itunes:title>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Patroclus fights in Achilles' armor, drives the Trojans from the ships, kills Sarpedon, and dies at Hector's hands.</description>
+      <link>https://wrath-sing-goddess.com/read/book-16.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-16</guid>
+      <pubDate>Sat, 05 Sep 2026 12:16:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-16.m4a" length="35232242" type="audio/mp4"/>
+      <itunes:duration>0:50:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XV</title>
+      <itunes:title>Book XV</itunes:title>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Zeus wakes and foretells the end of the war; Apollo levels the wall; Hector reaches the ships and calls for fire.</description>
+      <link>https://wrath-sing-goddess.com/read/book-15.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-15</guid>
+      <pubDate>Sat, 05 Sep 2026 12:15:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-15.m4a" length="29885022" type="audio/mp4"/>
+      <itunes:duration>0:42:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XIV</title>
+      <itunes:title>Book XIV</itunes:title>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Hera seduces Zeus and lulls him to sleep; Poseidon turns the tide; Ajax fells Hector with a stone.</description>
+      <link>https://wrath-sing-goddess.com/read/book-14.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-14</guid>
+      <pubDate>Sat, 05 Sep 2026 12:14:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-14.m4a" length="20753844" type="audio/mp4"/>
+      <itunes:duration>0:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XIII</title>
+      <itunes:title>Book XIII</itunes:title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>While Zeus looks away, Poseidon rallies the Greeks in disguise, and the battle for the ships hangs in the balance.</description>
+      <link>https://wrath-sing-goddess.com/read/book-13.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-13</guid>
+      <pubDate>Sat, 05 Sep 2026 12:13:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-13.m4a" length="33979289" type="audio/mp4"/>
+      <itunes:duration>0:49:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XII</title>
+      <itunes:title>Book XII</itunes:title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The Trojans storm the Greek wall; Sarpedon tears down the rampart, and Hector smashes the gate with a boulder.</description>
+      <link>https://wrath-sing-goddess.com/read/book-12.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-12</guid>
+      <pubDate>Sat, 05 Sep 2026 12:12:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-12.m4a" length="18584005" type="audio/mp4"/>
+      <itunes:duration>0:26:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book XI</title>
+      <itunes:title>Book XI</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Agamemnon's day of glory; Diomedes, Odysseus, and other Greek chiefs are wounded one by one; Nestor sends Patroclus to plead with Achilles.</description>
+      <link>https://wrath-sing-goddess.com/read/book-11.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-11</guid>
+      <pubDate>Sat, 05 Sep 2026 12:11:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-11.m4a" length="34381178" type="audio/mp4"/>
+      <itunes:duration>0:49:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book X</title>
+      <itunes:title>Book X</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A night raid: Odysseus and Diomedes catch the Trojan spy Dolon, kill King Rhesus in his sleep, and steal his horses.</description>
+      <link>https://wrath-sing-goddess.com/read/book-10.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-10</guid>
+      <pubDate>Sat, 05 Sep 2026 12:10:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-10.m4a" length="22488981" type="audio/mp4"/>
+      <itunes:duration>0:32:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book IX</title>
+      <itunes:title>Book IX</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The embassy to Achilles: Agamemnon offers gifts and Briseis back; Odysseus, Phoenix, and Ajax plead with him, and he refuses.</description>
+      <link>https://wrath-sing-goddess.com/read/book-09.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-09</guid>
+      <pubDate>Sat, 05 Sep 2026 12:09:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-09.m4a" length="27569939" type="audio/mp4"/>
+      <itunes:duration>0:40:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book VIII</title>
+      <itunes:title>Book VIII</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Zeus forbids the gods to take part; the Trojans win the day and camp on the plain, their watchfires burning until dawn.</description>
+      <link>https://wrath-sing-goddess.com/read/book-08.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-08</guid>
+      <pubDate>Sat, 05 Sep 2026 12:08:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-08.m4a" length="22286908" type="audio/mp4"/>
+      <itunes:duration>0:32:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Iliad, Book VII</title>
+      <itunes:title>Book VII</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Hector and Ajax fight a duel to a draw; a truce to bury the dead; the Greeks build a wall around their ships.</description>
+      <link>https://wrath-sing-goddess.com/read/book-07.html</link>
+      <guid isPermaLink="false">wrath-sing-goddess-book-07</guid>
+      <pubDate>Sat, 05 Sep 2026 12:07:00 +0000</pubDate>
+      <enclosure url="https://audio.wrath-sing-goddess.com/book-07.m4a" length="19142494" type="audio/mp4"/>
+      <itunes:duration>0:27:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Iliad, Book VI</title>
       <itunes:title>Book VI</itunes:title>
       <itunes:episode>6</itunes:episode>
