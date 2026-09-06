@@ -264,9 +264,10 @@ def upload(args: argparse.Namespace) -> None:
             "Authorization": f"Bearer {token}",
             "Content-Type": "audio/mp4",
             "Content-Length": str(e["bytes"]),
-            "cf-r2-metadata": json.dumps({
+            "Cache-Control": "public, max-age=31536000, immutable",
+            "cf-r2-metadata": json.dumps({"httpMetadata": {
                 "contentType": "audio/mp4",
-                "cacheControl": "public, max-age=31536000, immutable"}),
+                "cacheControl": "public, max-age=31536000, immutable"}}),
         }
         reply: dict = {}
         for attempt in range(1, 5):
